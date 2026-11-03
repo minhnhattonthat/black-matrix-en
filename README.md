@@ -1,7 +1,7 @@
-# <Game title> English translation
+# Black/Matrix + English translation
 
-Unofficial English fan translation of **<Game title>** (<platform>, <publisher>, <year>): the source text and tools
-that build the patch.
+Unofficial English fan translation of **Black/Matrix +** (PlayStation, Flight-Plan / NEC Interchannel): the source text
+and tools that build the patch. Work in progress: see `docs/status.md`.
 
 **Just want to play?** Download the patch from [Releases](../../releases) and follow its README. This repository holds
 no game data you can play; you need your own dump of the Japanese game.
@@ -40,11 +40,13 @@ Known issues: <none known / see [Issues](../../issues)>.
 Needs Python 3.12+ and your own dump of the Japanese game.
 
 ```sh
-git clone https://github.com/minhnhattonthat/<repo>
-cd <repo>
-# copy your dump to: rom/<file>
-#   (<size> bytes, SHA-1 <sha1>; the build refuses any other dump, see rom.sha1)
-python -X utf8 tools/build.py                          # -> build/<game>_en.<ext>
+git clone https://github.com/minhnhattonthat/black-matrix-en
+cd black-matrix-en
+git config core.hooksPath tools/hooks
+# copy your dump to: rom/Black-Matrix + (Japan) (Disc 1).bin  (511863408 bytes)
+#                    rom/Black-Matrix + (Japan) (Disc 2).bin  (686497056 bytes)
+#   (SHA-1s in rom.sha1; the build refuses any other dump)
+python -X utf8 tools/build.py                          # -> build/disc1/, build/disc2/
 python -X utf8 tools/check.py                          # tests + text lint
 ```
 
@@ -56,8 +58,9 @@ If you enjoy this translation, you can support my work on Ko-fi:
 
 ## Licence
 
-Tools and English translation: MIT. The original Japanese text in `script/` is <publisher>'s and is included only so
-the translation can be checked against it. <Game title> is (c) <publisher>; this project is not affiliated with them.
+Tools and English translation: MIT. The original Japanese text in `script/` is Flight-Plan / NEC Interchannel's and is
+included only so the translation can be checked against it. Black/Matrix + is (c) Flight-Plan / NEC Interchannel; this
+project is not affiliated with them.
 Do not share patched ROMs.
 
 The translation was made with extensive AI assistance (Claude by Anthropic). Corrections are very welcome.

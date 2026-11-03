@@ -1,0 +1,6 @@
+# Cold boot to the title, then Start: the screen must change.
+2300 -
+4 start
+60 -
+4 circle
+500 -
