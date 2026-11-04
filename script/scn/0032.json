@@ -163,7 +163,7 @@
    "id": "s32:0047e",
    "op": "14",
    "jp": "お前の病状も、\nようやく落ち着きを取り戻し、\n安定した日々が続いている。",
-   "en": "Your condition has finally calmed down too, and the days go on, stable.",
+   "en": "Your condition has finally settled too, and you've stayed stable day after day.",
    "box": "19x3"
   },
   {
@@ -184,7 +184,7 @@
    "id": "s32:0054a",
    "op": "14",
    "jp": "この日常が、\nどんな意味を持っているかなんて・・・",
-   "en": "What these everyday days mean...",
+   "en": "What this daily routine means...",
    "box": "19x3"
   },
   {

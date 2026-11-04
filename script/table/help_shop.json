@@ -197,7 +197,7 @@
   {
    "id": "help_shop:27.text",
    "jp": "剣のマークが付いてるユニットは、必ず\n戦闘に参加しなければならないユニット\nで、強制参加ユニットと呼びます",
-   "en": "Units with a sword mark must take part in the battle. These are called forced units.",
+   "en": "Mandatory units have sword marks and must fight.",
    "max": 57,
    "cell": 19
   },
@@ -337,7 +337,7 @@
   {
    "id": "help_shop:47.text",
    "jp": "「潜在発動」\nＢＰを消費して武器の潜在能力による\n特殊攻撃等を行います",
-   "en": "\"Latent Burst\"\nSpends BP on a special attack or the like, using the weapon's Latent Power.",
+   "en": "\"Latent Burst\"\nUses BP for special attacks and other effects of the weapon's Latent Power.",
    "max": 57,
    "cell": 19
   },
@@ -617,7 +617,7 @@
   {
    "id": "help_shop:87.text",
    "jp": "発動ユニットから周辺４マスが、\n緑マスで表示されます",
-   "en": "The squares within 4 of the summoner are shown in green.",
+   "en": "Squares within 4 squares of the summoner appear in green.",
    "max": 57,
    "cell": 19
   },

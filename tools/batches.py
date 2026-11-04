@@ -216,7 +216,7 @@ def merge(names):
     for rel, doc in docs.items():
         for s in doc['strings']:
             k = shared_key(rel, s)
-            if k in keys and not s['en']:
+            if k in keys and s['en'] != keys[k]:  # a fix reaches every copy, not only empty ones
                 s['en'] = keys[k]
                 dirty.add(rel)
     for rel in dirty:

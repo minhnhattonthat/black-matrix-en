@@ -36,7 +36,7 @@
   {
    "id": "sweapon:1.desc",
    "jp": "カージの小さな助力を得る事ができる",
-   "en": "Can draw a small aid from Kaji.",
+   "en": "Can gain a little help from Kaji.",
    "max": 19,
    "cell": 19
   },
@@ -56,7 +56,7 @@
   {
    "id": "sweapon:2.desc",
    "jp": "フィキスの小さな助力を得る事ができる",
-   "en": "Can draw a small aid from Fikis.",
+   "en": "Can gain a little help from Fikis.",
    "max": 19,
    "cell": 19
   },
@@ -76,7 +76,7 @@
   {
    "id": "sweapon:3.desc",
    "jp": "ミュタの小さな助力を得る事ができる",
-   "en": "Can draw a small aid from Myuta.",
+   "en": "Can gain a little help from Myuta.",
    "max": 19,
    "cell": 19
   },
@@ -636,7 +636,7 @@
   {
    "id": "sweapon:31.desc",
    "jp": "蛮勇な守護を得る事ができる",
-   "en": "Can gain a reckless protection.",
+   "en": "Can gain reckless protection.",
    "max": 19,
    "cell": 19
   },

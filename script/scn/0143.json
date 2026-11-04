@@ -485,7 +485,7 @@
    "id": "s143:023ce",
    "op": "15",
    "jp": "どうかしてるのは、みんなの方だよ！",
-   "en": "Everybody else is the messed-up ones!",
+   "en": "Everybody else is messed up!",
    "box": "17x3",
    "face": 8
   },
@@ -795,7 +795,7 @@
    "id": "s143:036aa",
    "op": "15",
    "jp": "弱虫だったボクが、\nあんな風に立ち向かうことが\n出来たなんて！",
-   "en": "I was such a coward, and I could stand up to them like that!",
+   "en": "I was such a coward... I can't believe I stood up to them like that!",
    "box": "17x3",
    "face": 3
   },
@@ -883,7 +883,7 @@
    "id": "s143:03946",
    "op": "15",
    "jp": "お主の見せた勇気こそが、\nその姿を変えさせた\n真の正体なのかもしれんな！",
-   "en": "Perhaps the courage you showed is the true thing that changed your form, my boy!",
+   "en": "Perhaps it was truly your courage that changed your form, my boy!",
    "box": "17x3",
    "face": 5
   },

@@ -73,7 +73,7 @@
    "id": "s237:00dea",
    "op": "15",
    "jp": "ココをこの村の村長の館としって\n騒いでおるのか・・・！？",
-   "en": "Do you know this is the village chief's manor, making this racket...!?",
+   "en": "Such a racket! Don't you know this is the village chief's manor...!?",
    "box": "17x3",
    "face": 115
   },
@@ -145,7 +145,7 @@
    "id": "s237:0103a",
    "op": "15",
    "jp": "この家の主人に・・・",
-   "en": "To the master of this house...",
+   "en": "The master of this house...",
    "box": "17x3",
    "face": 5
   },
@@ -153,7 +153,7 @@
    "id": "s237:01062",
    "op": "15",
    "jp": "内密に、ちと話したい事が\nあってな・・・",
-   "en": "...I've a little private matter to discuss, eh...",
+   "en": "...I'd like a private word with him, eh...",
    "box": "17x3",
    "face": 5
   },

@@ -1,7 +1,7 @@
 # Black/Matrix + English translation
 
 Unofficial English fan translation of **Black/Matrix +** (PlayStation, Flight-Plan / NEC Interchannel): the source text
-and tools that build the patch. Work in progress: see `docs/status.md`.
+and tools that build the patch. Current state: `docs/status.md`.
 
 **Just want to play?** Download the patch from [Releases](../../releases) and follow its README. This repository holds
 no game data you can play; you need your own dump of the Japanese game.
@@ -13,13 +13,23 @@ helps most.
 
 | Part | Status |
 |---|---|
-| <Dialogue / story> | <Translated> |
-| <Menus, items, skills, system messages> | <Translated> |
-| <Title screen, logos, graphics with text> | <Translated / Left in Japanese> |
-| <Name entry> | <Translated / Japanese kana only> |
-| <Songs, voiced lines, credits roll> | <Left in Japanese> |
+| Dialogue and narration, every route | Translated |
+| Menus, items, skills, help, system messages | Translated |
+| Chapter and battle cards, manuals, master select, opening movie subtitles | Translated |
+| Name entry | Translated: Latin page first, kana pages kept |
+| Staff roll | Translated; some readings are guesses, listed in `docs/decisions.md` D17 |
+| Voices and songs | Left in Japanese |
+| Kanji beside the English words in the bonus movie `DEMO02` | Left in Japanese (D16) |
 
-Known issues: <none known / see [Issues](../../issues)>.
+Tested headless in PCSX-Redux with the SCPH-5500 BIOS: every scene reached by the debug warps, not a full playthrough.
+Known limits: see `docs/status.md`, Not verified. Bugs: [Issues](../../issues).
+
+## Base discs (Redump)
+
+| Disc | Size | CRC32 / MD5 / SHA-1 |
+|---|---|---|
+| [Black-Matrix + (Japan) (Disc 1)](http://redump.org/discs/quicksearch/aae3c19ff5c68a686d1f76c2360e43d4f20ffd88/) | 511863408 | 32A0EBEC / BAFD29A79E950B66C56D9FB2FEB36C1A / AAE3C19FF5C68A686D1F76C2360E43D4F20FFD88 |
+| [Black-Matrix + (Japan) (Disc 2)](http://redump.org/discs/quicksearch/d6a6b3f7eb39f7e36ab5361fae3e3402351c636e/) | 686497056 | CC7D430A / 1C10AFD30766BC799EEE5795F4C83606 / D6A6B3F7EB39F7E36AB5361FAE3E3402351C636E |
 
 ## What's here
 

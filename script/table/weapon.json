@@ -406,7 +406,7 @@
   {
    "id": "weapon:30.desc",
    "jp": "名前らしきものが刻まれている\n不思議な色の刃を持つ片刃の剣",
-   "en": "Engraved with what seems to be a name.\nOne-edged, the blade a strange color.",
+   "en": "Engraved with what seems to be a name.\nSingle-edged; oddly colored blade.",
    "max": 38,
    "cell": 19
   },
@@ -1784,7 +1784,7 @@
   {
    "id": "weapon:136.desc",
    "jp": "機械式の弓で矢を射ると音が出る\n　　　　　　　　　　　　　　　　射程５",
-   "en": "A mechanical bow; it sounds on firing.\nRange 5",
+   "en": "A mechanical bow; noisy when fired.\nRange 5",
    "max": 38,
    "cell": 19
   },

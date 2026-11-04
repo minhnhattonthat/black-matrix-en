@@ -33,7 +33,7 @@
    "id": "s387:01002",
    "op": "15",
    "jp": "サボってるアイツ等が悪いだけで、\nこの街はいい街だよ！",
-   "en": "It's only those slackers who are bad, um. This is a good town!",
+   "en": "But... only those slackers are to blame. This is a good town!",
    "box": "17x3",
    "face": 3
   },
@@ -249,7 +249,7 @@
    "id": "s387:02862",
    "op": "15",
    "jp": "とりあえず、この街の\n領主公邸にお越しください。",
-   "en": "For now, please come to this town's official lord's residence.",
+   "en": "For now, please come to my official residence.",
    "box": "17x3",
    "face": 48
   },

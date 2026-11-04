@@ -313,7 +313,7 @@
    "id": "s355:0308e",
    "op": "15",
    "jp": "そうじゃ、ルピルピ・・・\nお主、体の方は？",
-   "en": "Oh yes, Rupirupi... how is your body, eh?",
+   "en": "Oh yes, Rupirupi... how are you feeling, my dear?",
    "box": "17x3",
    "face": 5
   },
@@ -377,7 +377,7 @@
    "id": "s355:033ca",
    "op": "15",
    "jp": "僕もその旅に付いて行っては\nいけませんか！？",
-   "en": "May I not go with you on this journey too!?",
+   "en": "May I come along on your journey too!?",
    "box": "17x3",
    "face": 4
   },

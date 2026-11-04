@@ -41,7 +41,7 @@
    "id": "s240:0079e",
    "op": "15",
    "jp": "父さんの嫌っていた僕の体が\n健康になったから・・・",
-   "en": "The body you hated, Dad... it got healthy, so...",
+   "en": "You hated how sickly I was, Dad... But I'm well now...",
    "box": "17x3",
    "face": 3
   },
@@ -81,7 +81,7 @@
    "id": "s240:008c6",
    "op": "15",
    "jp": "臆病にも逃げ回っているという噂は\nわしの耳にも届いておるぞ・・・！！",
-   "en": "...and word has reached even my ears that you're running around in cowardice...!!",
+   "en": "...and even I've heard you're fleeing like a coward...!!",
    "box": "17x3",
    "face": 113
   },
@@ -377,7 +377,7 @@
    "id": "s240:014ee",
    "op": "15",
    "jp": "しかるにこの村では、\nこれから先の世の中を\n創っていくべき子供達を・・・",
-   "en": "And yet in this village, the children who must shape the world to come...",
+   "en": "Yet this village relies on its children to shape the world to come...",
    "box": "17x3",
    "face": 5
   },
@@ -385,7 +385,7 @@
    "id": "s240:0154a",
    "op": "15",
    "jp": "増やす事を、ないがしろに\nしすぎているとは思わんか・・！？",
-   "en": "...don't you think you've neglected increasing them far too much...!?",
+   "en": "...so have you not done far too little to help their numbers grow, eh!?",
    "box": "17x3",
    "face": 5
   },
@@ -401,7 +401,7 @@
    "id": "s240:015c6",
    "op": "15",
    "jp": "まあ、これからの村づくりはせいぜい子供達を産みやすいような政策に\n変えていくにしても・・・",
-   "en": "Well, even if from here on you change your village-building to policies that make children easier to have...",
+   "en": "Well, even if you adopt village policies that make it easier to have children...",
    "box": "17x3",
    "face": 5
   },

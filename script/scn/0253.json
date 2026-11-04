@@ -217,7 +217,7 @@
    "id": "s253:00d9e",
    "op": "14",
    "jp": "この街に住む住民達は、毎週末に\n闘技場で開かれている賭博に",
-   "en": "The people of this town, every weekend, at the gambling held in the Arena...",
+   "en": "Every weekend, the people of this town...",
    "box": "17x3",
    "face": 104
   },
@@ -225,7 +225,7 @@
    "id": "s253:00de0",
    "op": "14",
    "jp": "必ず参加しなければならず・・・",
-   "en": "...are required to take part...",
+   "en": "...have to gamble at the Arena...",
    "box": "17x3",
    "face": 104
   },
@@ -273,7 +273,7 @@
    "id": "s253:00f80",
    "op": "14",
    "jp": "マモン様はその金の力で、\n大勢の戦士を雇っているようだ！",
-   "en": "With the power of his money, Mammon-sama seems to be hiring warriors by the crowd!",
+   "en": "Looks like Mammon-sama uses all that money to hire loads of warriors!",
    "box": "17x3",
    "face": 104
   },

@@ -213,7 +213,7 @@
    "id": "s526:0093c",
    "op": "14",
    "jp": "うん！別に毒とかは、\n入ってないみたいだよ！？",
-   "en": "Yup! Doesn't seem to have any poison in it or anything, geez!?",
+   "en": "Yup! Doesn't seem to be poisoned or anything!?",
    "box": "17x3",
    "face": 9
   },
@@ -309,7 +309,7 @@
    "id": "s526:00c2e",
    "op": "14",
    "jp": "もっとも、オレ自身の腹は、\nとうに決まっているんだが・・・",
-   "en": "Not that I haven't made up my own mind long ago...",
+   "en": "Though I made up my own mind long ago...",
    "box": "17x3",
    "face": 12
   },

@@ -1,0 +1,4 @@
+06E527 kana order table in the EXE of both discs: every fifth kana, not text
+06E53B kana order table
+06EB37 kana order table
+06EB4B kana order table

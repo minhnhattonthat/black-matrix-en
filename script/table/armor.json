@@ -1290,7 +1290,7 @@
   {
    "id": "armor:98.desc",
    "jp": "レベルが１５になる",
-   "en": "Makes the level 15.",
+   "en": "Sets level to 15.",
    "max": 38,
    "cell": 19
   },
@@ -1303,7 +1303,7 @@
   {
    "id": "armor:99.desc",
    "jp": "レベルが３０になる",
-   "en": "Makes the level 30.",
+   "en": "Sets level to 30.",
    "max": 38,
    "cell": 19
   },
@@ -1316,7 +1316,7 @@
   {
    "id": "armor:100.desc",
    "jp": "レベルが９９になる",
-   "en": "Makes the level 99.",
+   "en": "Sets level to 99.",
    "max": 38,
    "cell": 19
   },

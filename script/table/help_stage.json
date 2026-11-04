@@ -197,7 +197,7 @@
   {
    "id": "help_stage:27.text",
    "jp": "剣のマークが付いてるユニットは、必ず\n戦闘に参加しなければならないユニット\nで、強制参加ユニットと呼びます",
-   "en": "Units with a sword mark must take part in the battle. These are called forced units.",
+   "en": "Mandatory units have sword marks and must fight.",
    "max": 57,
    "cell": 19
   },

@@ -89,7 +89,7 @@
    "id": "s418:012b2",
    "op": "15",
    "jp": "誰かを殺せば、\n必ず誰かの怨みを買う。",
-   "en": "and kill someone, and you always earn someone's hatred.",
+   "en": "and killing someone always earns someone's hatred.",
    "box": "17x3",
    "face": 121
   },
@@ -222,7 +222,7 @@
    "id": "s418:01752",
    "op": "15",
    "jp": "とにかく全員で、\nここを突破するんじゃ！",
-   "en": "In any case, we break through here, all of us together!",
+   "en": "At any rate, all of us together, we break through here!",
    "box": "17x3",
    "face": 5
   },
@@ -230,7 +230,7 @@
    "id": "s418:0178e",
    "op": "15",
    "jp": "だが最悪、\n戦うこともあり得ると、\n覚悟しておくのじゃぞ！？",
-   "en": "But at worst, it may come to a fight. Be ready for that, eh!?",
+   "en": "But at worst, we may have to fight, so be prepared, my boy!?",
    "box": "17x3",
    "face": 5
   },
@@ -238,7 +238,7 @@
    "id": "s418:0180e",
    "op": "15",
    "jp": "それもやむを得ないか。",
-   "en": "Can't be helped, I suppose.",
+   "en": "Guess that can't be helped.",
    "box": "17x3",
    "face": 1
   },
@@ -246,7 +246,7 @@
    "id": "s418:01846",
    "op": "15",
    "jp": "確かに、それも\n一つの真理ですからね・・・",
-   "en": "True, that is one truth as well, after all...",
+   "en": "True, that too is one truth...",
    "box": "17x3",
    "face": 4
   }

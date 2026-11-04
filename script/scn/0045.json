@@ -9,7 +9,7 @@
    "id": "s45:0007a",
    "op": "15",
    "jp": "どうしたの？！\nひょっとして・・・・\n体の調子がどこか悪いの！？",
-   "en": "What's the matter?! Don't tell me... are you feeling unwell somewhere!?",
+   "en": "What's the matter?! Don't tell me... are you feeling ill!?",
    "box": "17x3",
    "face": 7
   },
@@ -49,7 +49,7 @@
    "id": "s45:0029e",
    "op": "15",
    "jp": "さあ！午後の日差しが\n強くならない内に、\n今日も朝から頑張らなきゃ！！",
-   "en": "Come on! Before the afternoon sun gets strong, let's work hard from the morning again today!!",
+   "en": "Come on! Let's get to work this morning, before the afternoon sun gets too strong!!",
    "box": "17x3",
    "face": 7
   },

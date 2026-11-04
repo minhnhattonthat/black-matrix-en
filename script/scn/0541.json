@@ -113,7 +113,7 @@
    "id": "s541:00ada",
    "op": "15",
    "jp": "だいたいお前は、\nこの問いに自分自身の力で、\n答えられるのか！？",
-   "en": "Can you even answer that question by your own strength!?",
+   "en": "Can you even answer that question for yourself!?",
    "box": "17x3",
    "face": 59
   },
@@ -953,7 +953,7 @@
    "id": "s541:02c36",
    "op": "15",
    "jp": "リリスはそれほどまでに・・・",
-   "en": "Lilith, so much...",
+   "en": "Lilith...",
    "box": "17x3",
    "face": 60
   },
@@ -961,7 +961,7 @@
    "id": "s541:02c66",
    "op": "15",
    "jp": "かつての自分の夫であった\nメフィスト様の事を・・・",
-   "en": "Mephisto-sama, who was once your husband...",
+   "en": "Mephisto-sama was once your husband...",
    "box": "17x3",
    "face": 60
   },
@@ -969,7 +969,7 @@
    "id": "s541:02caa",
    "op": "15",
    "jp": "愛していたんですね・・・",
-   "en": "you loved him, didn't you...",
+   "en": "You loved him that much, didn't you...",
    "box": "17x3",
    "face": 60
   },
