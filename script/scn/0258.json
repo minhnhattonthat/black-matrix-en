@@ -9,7 +9,7 @@
    "id": "s258:005b6",
    "op": "14",
    "jp": "私っていったい、\nこの街ではいくらなのかなぁ・・・？",
-   "en": "",
+   "en": "I wonder... how much am I worth in this town...?",
    "box": "17x3",
    "face": 20
   },
@@ -17,7 +17,7 @@
    "id": "s258:006d2",
    "op": "14",
    "jp": "強えぇ、これじゃ約束が違う！！",
-   "en": "",
+   "en": "They're strong! This ain't what I was promised!!",
    "box": "17x3",
    "face": 55
   },
@@ -25,7 +25,7 @@
    "id": "s258:0094a",
    "op": "14",
    "jp": "け・・結構やるじゃねえか！",
-   "en": "",
+   "en": "Y-you're pretty good!",
    "box": "17x3",
    "face": 56
   },
@@ -33,7 +33,7 @@
    "id": "s258:0096c",
    "op": "14",
    "jp": "もらった金だけじゃあ\nちょいと割にあわねえな！",
-   "en": "",
+   "en": "The money I got ain't quite worth this!",
    "box": "17x3",
    "face": 56
   },
@@ -41,7 +41,7 @@
    "id": "s258:009a2",
    "op": "14",
    "jp": "おっと、\n命までは売った覚えはないぜ。",
-   "en": "",
+   "en": "Whoa, I don't recall sellin' my life too.",
    "box": "17x3",
    "face": 56
   },
@@ -49,7 +49,7 @@
    "id": "s258:00a8a",
    "op": "14",
    "jp": "倒したぶんだけ、\nもらえる金が増えるんだ・・・",
-   "en": "",
+   "en": "The more I take down, the more money I get...",
    "box": "17x3",
    "face": 56
   },
@@ -57,7 +57,7 @@
    "id": "s258:00ac0",
    "op": "14",
    "jp": "お前等逃げるんじゃねえぞ！",
-   "en": "",
+   "en": "Don't you guys run away now!",
    "box": "17x3",
    "face": 56
   },
@@ -65,7 +65,7 @@
    "id": "s258:00b9a",
    "op": "14",
    "jp": "奴隷を殺して金になるたぁ、\nこの世はバラ色だぜ～っ！",
-   "en": "",
+   "en": "Killin' slaves for cash? Life's a bed of roses!",
    "box": "17x3",
    "face": 56
   },
@@ -73,7 +73,7 @@
    "id": "s258:00c9a",
    "op": "14",
    "jp": "なめるなよぉ～っ！",
-   "en": "",
+   "en": "Don't you underestimate me!",
    "box": "17x3",
    "face": 55
   },
@@ -81,7 +81,7 @@
    "id": "s258:00cb4",
    "op": "14",
    "jp": "そこらのザコ共より、\n俺は高い銭をもらってんだ～っ！",
-   "en": "",
+   "en": "I get paid more than those small fry around here!",
    "box": "17x3",
    "face": 55
   },
@@ -89,7 +89,7 @@
    "id": "s258:00daa",
    "op": "14",
    "jp": "へへっ、\nこいつら殺せば、俺も大金持ちだあ。",
-   "en": "",
+   "en": "Heh heh, kill these guys, and I'm rich too.",
    "box": "17x3",
    "face": 55
   },
@@ -97,7 +97,7 @@
    "id": "s258:00eca",
    "op": "14",
    "jp": "なんだこいつら、\n結構やるじゃないか。",
-   "en": "",
+   "en": "What's with these guys? They're pretty good.",
    "box": "17x3",
    "face": 2
   },
@@ -105,7 +105,7 @@
    "id": "s258:0119e",
    "op": "14",
    "jp": "おっとっと、危ない危ない",
-   "en": "",
+   "en": "Whoops, careful, careful.",
    "box": "17x3",
    "face": 1
   },
@@ -113,7 +113,7 @@
    "id": "s258:011be",
    "op": "14",
    "jp": "結構やるねぇ、雇われ兵士さんよぉ！",
-   "en": "",
+   "en": "Not bad at all, Mister Hired Soldier!",
    "box": "17x3",
    "face": 1
   },
@@ -121,7 +121,7 @@
    "id": "s258:0127e",
    "op": "14",
    "jp": "では、\n一発ド派手な呪文を・・・",
-   "en": "",
+   "en": "Now then, one good flashy spell...",
    "box": "17x3",
    "face": 5
   },
@@ -129,7 +129,7 @@
    "id": "s258:012b6",
    "op": "14",
    "jp": "と言いたいところじゃが・・・\n死体がなくては・・・",
-   "en": "",
+   "en": "...is what I'd like to say, but... without a corpse...",
    "box": "17x3",
    "face": 5
   },
@@ -137,7 +137,7 @@
    "id": "s258:012f0",
    "op": "14",
    "jp": "さすがに呪文は唱えられん・・・",
-   "en": "",
+   "en": "...even I can't cast my spells, eh...",
    "box": "17x3",
    "face": 5
   },
@@ -145,7 +145,7 @@
    "id": "s258:0136a",
    "op": "14",
    "jp": "貴様等とて簡単に命までは・・・\n売れんと言う事じゃな！？",
-   "en": "",
+   "en": "So even you can't sell your lives so easily, eh!?",
    "box": "17x3",
    "face": 5
   },
@@ -153,7 +153,7 @@
    "id": "s258:017ee",
    "op": "14",
    "jp": "私達の命は・・・\n売り物なんかじゃありませんわ！！",
-   "en": "",
+   "en": "Our lives... are not for sale!!",
    "box": "17x3",
    "face": 6
   },
@@ -161,7 +161,7 @@
    "id": "s258:01828",
    "op": "14",
    "jp": "（大邪神の力って、\n　本当にお金より・・・）",
-   "en": "",
+   "en": "(The power of the Great Evil God, is it really stronger...)",
    "box": "17x3",
    "face": 6
   },
@@ -169,7 +169,7 @@
    "id": "s258:0185c",
    "op": "14",
    "jp": "（強いのかしら？）",
-   "en": "",
+   "en": "(...than money, I wonder?)",
    "box": "17x3",
    "face": 6
   },
@@ -177,7 +177,7 @@
    "id": "s258:01956",
    "op": "14",
    "jp": "騎士様ファイトォ。",
-   "en": "",
+   "en": "Fight on, Sir Knight.",
    "box": "17x3",
    "face": 20
   },
@@ -185,7 +185,7 @@
    "id": "s258:01e06",
    "op": "14",
    "jp": "汚い手で、\nこのアタシに触るとは・・・\nいい度胸してるじゃない！",
-   "en": "",
+   "en": "Touching me, with those filthy hands... You've got some nerve!",
    "box": "17x3",
    "face": 11
   },
@@ -193,7 +193,7 @@
    "id": "s258:01f36",
    "op": "14",
    "jp": "バキバババギャーーーン！！\nずばばばびびーーーん！！",
-   "en": "",
+   "en": "BAKIBABABAGYAAAAN!! ZUBABABIBIIIIN!!",
    "box": "17x3",
    "face": 8
   },
@@ -201,7 +201,7 @@
    "id": "s258:01fa2",
    "op": "14",
    "jp": "めきゃまきゃばかーーーん！！",
-   "en": "",
+   "en": "MEKYAMAKYABAKAAAAN!!",
    "box": "17x3",
    "face": 8
   },
@@ -209,7 +209,7 @@
    "id": "s258:020a2",
    "op": "14",
    "jp": "ボクを本気にさせると・・・\nきっと後悔することになるよ！？",
-   "en": "",
+   "en": "If you make me get serious... you're gonna regret it, you know!?",
    "box": "17x3",
    "face": 9
   },
@@ -217,7 +217,7 @@
    "id": "s258:02586",
    "op": "14",
    "jp": "やぁーん、こっちこないでぇー！！",
-   "en": "",
+   "en": "Eeek, don't come over heeere!!",
    "box": "17x3",
    "face": 20
   }

@@ -9,7 +9,7 @@
    "id": "s316:0129e",
    "op": "15",
    "jp": "私のお昼休みの間に、\nこの屋敷の中で充分に遊んで\n頂けたようですねぇ～！",
-   "en": "",
+   "en": "You've had a good long play in my mansion during my lunch break, I see!",
    "box": "17x3",
    "face": 33
   },
@@ -17,7 +17,7 @@
    "id": "s316:012fa",
    "op": "15",
    "jp": "気に入って頂けましたかな！？",
-   "en": "",
+   "en": "Have you enjoyed yourselves!?",
    "box": "17x3",
    "face": 33
   },
@@ -25,7 +25,7 @@
    "id": "s316:01366",
    "op": "15",
    "jp": "バカ言ってるんじゃねぇ！",
-   "en": "",
+   "en": "Don't talk crap!",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s316:01392",
    "op": "15",
    "jp": "っていうか、\nだいたいお前は誰なん・・だって、",
-   "en": "",
+   "en": "More like, who the hell are y-- wait,",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s316:013d2",
    "op": "15",
    "jp": "おい！\nお前まさか・・・",
-   "en": "",
+   "en": "Hey! Don't tell me you're...",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s316:014ba",
    "op": "15",
    "jp": "バアルの野郎かっ！！",
-   "en": "",
+   "en": "That bastard Baal!!",
    "box": "17x3",
    "face": 2
   },
@@ -65,7 +65,7 @@
    "id": "s316:015be",
    "op": "15",
    "jp": "さては・・貴様っ！！",
-   "en": "",
+   "en": "So it's you... you bastard!!",
    "box": "17x3",
    "face": 1
   },
@@ -81,7 +81,7 @@
    "id": "s316:016ea",
    "op": "15",
    "jp": "もう逃げられんぞ！！",
-   "en": "",
+   "en": "There's no escape now, my boy!!",
    "box": "17x3",
    "face": 5
   },
@@ -89,7 +89,7 @@
    "id": "s316:01726",
    "op": "15",
    "jp": "おとなしく大邪神の鎧を渡し\n連れ去られた、娘の居場所を\n教えるんじゃ！",
-   "en": "",
+   "en": "Hand over the Great Evil God's armor quietly, and tell us where the girl was taken, eh!",
    "box": "17x3",
    "face": 5
   },
@@ -97,7 +97,7 @@
    "id": "s316:01786",
    "op": "15",
    "jp": "おとなしく大邪神の鎧を渡し\n連れ去られた、居場所を\n教えるんじゃ！",
-   "en": "",
+   "en": "Hand over the Great Evil God's armor quietly, and tell us where you took them, eh!",
    "box": "17x3",
    "face": 5
   },
@@ -105,7 +105,7 @@
    "id": "s316:017ea",
    "op": "15",
    "jp": "いいでしょう！",
-   "en": "",
+   "en": "Very well!",
    "box": "17x3",
    "face": 33
   },
@@ -113,7 +113,7 @@
    "id": "s316:0180a",
    "op": "15",
    "jp": "お腹がいっぱいになった\nいまの私を倒すことが\nできるのならばねぇ・・・！",
-   "en": "",
+   "en": "If you can beat me now, with my belly full...!",
    "box": "17x3",
    "face": 33
   },
@@ -129,7 +129,7 @@
    "id": "s316:0188a",
    "op": "15",
    "jp": "ただし、彼女らが先に\n自らの意志であなた達と\n戦いたいんだそうです！！",
-   "en": "",
+   "en": "However, these ladies wish, of their own free will, to fight you first!!",
    "box": "17x3",
    "face": 33
   },
@@ -137,7 +137,7 @@
    "id": "s316:018f2",
    "op": "15",
    "jp": "さあ、やってしまうのです！",
-   "en": "",
+   "en": "Now, finish them!",
    "box": "17x3",
    "face": 33
   },
@@ -145,7 +145,7 @@
    "id": "s316:0192e",
    "op": "15",
    "jp": "許してください、\n貴方達を殺さないと、\n私たちの家族が・・・",
-   "en": "",
+   "en": "Forgive us. Unless we kill you, our families...",
    "box": "17x3",
    "face": 41
   },
@@ -153,7 +153,7 @@
    "id": "s316:0197e",
    "op": "15",
    "jp": "バアルは私たちの大事な家族を\n人質にとっているんです！！",
-   "en": "",
+   "en": "Baal is holding our dear families hostage!!",
    "box": "17x3",
    "face": 41
   },
@@ -161,7 +161,7 @@
    "id": "s316:019d6",
    "op": "15",
    "jp": "私はまだ死にたくないの・・・",
-   "en": "",
+   "en": "I don't want to die yet...",
    "box": "17x3",
    "face": 41
   },
@@ -169,7 +169,7 @@
    "id": "s316:01a12",
    "op": "15",
    "jp": "バアル様に逆らったら\nこの街では生きていけないの！",
-   "en": "",
+   "en": "Defy Baal-sama and there's no living in this town!",
    "box": "17x3",
    "face": 41
   },
@@ -177,7 +177,7 @@
    "id": "s316:01c96",
    "op": "15",
    "jp": "私の、私の息子がぁ！",
-   "en": "",
+   "en": "My... my son!",
    "box": "17x3",
    "face": 41
   },
@@ -185,7 +185,7 @@
    "id": "s316:01e3a",
    "op": "15",
    "jp": "何故、何故抵抗しないの！？",
-   "en": "",
+   "en": "Why... why don't you fight back!?",
    "box": "17x3",
    "face": 41
   },
@@ -193,7 +193,7 @@
    "id": "s316:01e76",
    "op": "15",
    "jp": "自分の大切な者のために、",
-   "en": "",
+   "en": "For the sake of the ones you hold dear,",
    "box": "17x3",
    "face": 1
   },
@@ -201,7 +201,7 @@
    "id": "s316:01ea2",
    "op": "15",
    "jp": "命を投げ出そうとする\nお前達の気持ちが\n俺には痛いほど分かるからさ！",
-   "en": "",
+   "en": "you'd throw away your lives... I know that feeling so well it hurts!",
    "box": "17x3",
    "face": 1
   },
@@ -217,7 +217,7 @@
    "id": "s316:01f22",
    "op": "15",
    "jp": "だからこそ、俺はお前達を！！",
-   "en": "",
+   "en": "That's exactly why I... you...!!",
    "box": "17x3",
    "face": 1
   },
@@ -225,7 +225,7 @@
    "id": "s316:01f5e",
    "op": "15",
    "jp": "でも、\nそれじゃアナタが！！",
-   "en": "",
+   "en": "But then you'll be...!!",
    "box": "17x3",
    "face": 6
   },
@@ -233,7 +233,7 @@
    "id": "s316:01f9a",
    "op": "15",
    "jp": "そうだぜ、こんなところで\n無駄死にする必要なんか無い！！",
-   "en": "",
+   "en": "That's right, no need to throw your life away in a place like this, dammit!!",
    "box": "17x3",
    "face": 2
   },
@@ -241,7 +241,7 @@
    "id": "s316:0216a",
    "op": "15",
    "jp": "みんな、やめろぉーっ！！",
-   "en": "",
+   "en": "Everyone, stop iiit!!",
    "box": "17x3",
    "face": 1
   },
@@ -257,7 +257,7 @@
    "id": "s316:021e2",
    "op": "15",
    "jp": "お願いだ\n彼女達を殺さないでやってくれ！",
-   "en": "",
+   "en": "Please, don't kill them!",
    "box": "17x3",
    "face": 1
   },
@@ -273,7 +273,7 @@
    "id": "s316:02246",
    "op": "15",
    "jp": "こいつは確かに俺自身の\n偽善って奴かもしれないが、",
-   "en": "",
+   "en": "Maybe this is just my own hypocrisy,",
    "box": "17x3",
    "face": 1
   },
@@ -281,7 +281,7 @@
    "id": "s316:0228a",
    "op": "15",
    "jp": "俺はこいつらを\nどうしても助けてやりたいんだ！",
-   "en": "",
+   "en": "but I have to save them, no matter what!",
    "box": "17x3",
    "face": 1
   },
@@ -289,7 +289,7 @@
    "id": "s316:0237a",
    "op": "15",
    "jp": "くっくっくっくっ・・・",
-   "en": "",
+   "en": "Heh heh heh heh...",
    "box": "17x3",
    "face": 33
   },
@@ -297,7 +297,7 @@
    "id": "s316:023ca",
    "op": "15",
    "jp": "これだから邪神の力などを\n信じる邪教徒どもは・・・\n馬鹿だと言うんです！！",
-   "en": "",
+   "en": "This is why you evil-god worshippers, with your faith in their power... are fools!!",
    "box": "17x3",
    "face": 33
   },
@@ -305,7 +305,7 @@
    "id": "s316:02426",
    "op": "15",
    "jp": "正義がどうとか、\n平等がどうしたとか。",
-   "en": "",
+   "en": "Justice this, equality that.",
    "box": "17x3",
    "face": 33
   },
@@ -313,7 +313,7 @@
    "id": "s316:0245e",
    "op": "15",
    "jp": "初めから、この世の何処にも\nありはしないものを信じ込み、",
-   "en": "",
+   "en": "Believing in things that never existed anywhere in this world,",
    "box": "17x3",
    "face": 33
   },
@@ -321,7 +321,7 @@
    "id": "s316:024aa",
    "op": "15",
    "jp": "自分の命を投げ出してまで\nくだらん奴隷を助けようとする！",
-   "en": "",
+   "en": "throwing away your own life to save worthless slaves!",
    "box": "17x3",
    "face": 33
   },
@@ -329,7 +329,7 @@
    "id": "s316:024f6",
    "op": "15",
    "jp": "すでに、その相手が\n自らの意志など\n持ち合わせてはおらんと言うのに。",
-   "en": "",
+   "en": "And when those you'd save have no wills of their own left.",
    "box": "17x3",
    "face": 33
   },
@@ -337,7 +337,7 @@
    "id": "s316:0255a",
    "op": "15",
    "jp": "なにっ！！",
-   "en": "",
+   "en": "What!!",
    "box": "17x3",
    "face": 1
   },
@@ -345,7 +345,7 @@
    "id": "s316:02622",
    "op": "15",
    "jp": "美しき恐怖をともない、",
-   "en": "",
+   "en": "Bearing beautiful terror,",
    "box": "17x3",
    "face": 33
   },
@@ -353,7 +353,7 @@
    "id": "s316:0264a",
    "op": "15",
    "jp": "冥界の血河を渡りて、",
-   "en": "",
+   "en": "crossing the blood river of the Underworld,",
    "box": "17x3",
    "face": 33
   },
@@ -361,7 +361,7 @@
    "id": "s316:02672",
    "op": "15",
    "jp": "大神サタンに捧げし\n暗黒のその命、",
-   "en": "",
+   "en": "the dark life offered up to the great god Satan,",
    "box": "17x3",
    "face": 33
   },
@@ -369,7 +369,7 @@
    "id": "s316:026a6",
    "op": "15",
    "jp": "真紅の死者となりて今こそ、\nその黄泉の力を示せ！！",
-   "en": "",
+   "en": "Become the crimson dead, and now, show forth the power of the underworld!!",
    "box": "17x3",
    "face": 33
   },
@@ -377,7 +377,7 @@
    "id": "s316:028f2",
    "op": "15",
    "jp": "ぎゃあぁぁあぁぁぁぁぁぁっ！",
-   "en": "",
+   "en": "Gyaaaaaaaaaah!",
    "box": "17x3",
    "face": 41
   },
@@ -385,7 +385,7 @@
    "id": "s316:0292e",
    "op": "15",
    "jp": "我に\n逆らう者達に死を！！",
-   "en": "",
+   "en": "Death to those who defy me!!",
    "box": "17x3",
    "face": 33
   },
@@ -393,7 +393,7 @@
    "id": "s316:0295a",
    "op": "15",
    "jp": "ハアッハッハッハッハッ！！",
-   "en": "",
+   "en": "Haaahahahahaha!!",
    "box": "17x3",
    "face": 33
   },
@@ -401,7 +401,7 @@
    "id": "s316:02996",
    "op": "15",
    "jp": "やはりアヤツ等も\nすでに吸血鬼化しておったか！",
-   "en": "",
+   "en": "So they too have already turned into bloodsuckers, eh!",
    "box": "17x3",
    "face": 5
   },
@@ -409,7 +409,7 @@
    "id": "s316:029e6",
    "op": "15",
    "jp": "どうすりゃいいんだ！？\nあいつら、無差別に\n攻撃しようとしてくるぜ！？",
-   "en": "",
+   "en": "What're we supposed to do!? They're comin' at anybody and everybody, dammit!?",
    "box": "17x3",
    "face": 2
   },
@@ -417,7 +417,7 @@
    "id": "s316:02a4e",
    "op": "15",
    "jp": "彼女らはもう元には戻れん！\n殺してやる事だけが、\n唯一の救いの道なのじゃ！！",
-   "en": "",
+   "en": "They can never go back to what they were! Killing them is the only salvation left, my boy!!",
    "box": "17x3",
    "face": 5
   },
@@ -425,7 +425,7 @@
    "id": "s316:02b02",
    "op": "15",
    "jp": "ダメだ。",
-   "en": "",
+   "en": "No.",
    "box": "17x3",
    "face": 1
   },
@@ -433,7 +433,7 @@
    "id": "s316:02b2a",
    "op": "15",
    "jp": "本当はバアルを倒してしまうのが\n一番手っ取り早いんじゃが・・・",
-   "en": "",
+   "en": "The quickest way, truth be told, would be to defeat Baal, but...",
    "box": "17x3",
    "face": 5
   },
@@ -441,7 +441,7 @@
    "id": "s316:02b8a",
    "op": "15",
    "jp": "彼女らを倒さない限り\nあいつに攻撃できそうもないわ。",
-   "en": "",
+   "en": "Unless we beat them, it doesn't look like we can lay a hand on him.",
    "box": "17x3",
    "face": 6
   },
@@ -449,7 +449,7 @@
    "id": "s316:02c4a",
    "op": "15",
    "jp": "ダメだ",
-   "en": "",
+   "en": "No",
    "box": "17x3",
    "face": 1
   },
@@ -457,7 +457,7 @@
    "id": "s316:02c72",
    "op": "15",
    "jp": "しかたねぇ、やるぜ！",
-   "en": "",
+   "en": "No choice. Let's do this!",
    "box": "17x3",
    "face": 2
   },
@@ -465,7 +465,7 @@
    "id": "s316:02ca6",
    "op": "15",
    "jp": "ダメだぁぁぁぁぁっ！！",
-   "en": "",
+   "en": "Nooooooooo!!",
    "box": "17x3",
    "face": 1
   },
@@ -473,7 +473,7 @@
    "id": "s316:02f0a",
    "op": "15",
    "jp": "なっ！？",
-   "en": "",
+   "en": "Wha!?",
    "box": "17x3",
    "face": 6
   },
@@ -481,7 +481,7 @@
    "id": "s316:02f32",
    "op": "15",
    "jp": "バカ野郎！\n何をする気だ！！",
-   "en": "",
+   "en": "You idiot! What the hell're you doin'!!",
    "box": "17x3",
    "face": 2
   },
@@ -489,7 +489,7 @@
    "id": "s316:02f6e",
    "op": "15",
    "jp": "おおっ！！",
-   "en": "",
+   "en": "Ohh!!",
    "box": "17x3",
    "face": 5
   },
@@ -497,7 +497,7 @@
    "id": "s316:02f9a",
    "op": "15",
    "jp": "あやつにも・・・\n邪神の光が・・・！？",
-   "en": "",
+   "en": "Even on him... the light of an evil god...!?",
    "box": "17x3",
    "face": 5
   },
@@ -505,7 +505,7 @@
    "id": "s316:02fe2",
    "op": "15",
    "jp": "俺にも、この鎧を・・・\n着る資格がある、というのか！？",
-   "en": "",
+   "en": "Am I, too... fit to wear this armor!?",
    "box": "17x3",
    "face": 1
   },
@@ -513,7 +513,7 @@
    "id": "s316:0302a",
    "op": "15",
    "jp": "彼女達を救う・・力・・・",
-   "en": "",
+   "en": "The... power... to save them...",
    "box": "17x3",
    "face": 1
   },
@@ -521,7 +521,7 @@
    "id": "s316:03056",
    "op": "15",
    "jp": "それを与えてくれると\nいうのならば・・・",
-   "en": "",
+   "en": "If that is what you would give me...",
    "box": "17x3",
    "face": 1
   },
@@ -529,7 +529,7 @@
    "id": "s316:030b6",
    "op": "15",
    "jp": "ならば・・・着よう・・・",
-   "en": "",
+   "en": "Then... I'll wear it...",
    "box": "17x3",
    "face": 1
   },
@@ -537,7 +537,7 @@
    "id": "s316:030e2",
    "op": "15",
    "jp": "たとえこの身が・・・\n朽ち果てようとも！",
-   "en": "",
+   "en": "Even if this body... rots away!",
    "box": "17x3",
    "face": 1
   },
@@ -545,7 +545,7 @@
    "id": "s316:032c6",
    "op": "15",
    "jp": "奇跡じゃ・・・",
-   "en": "",
+   "en": "A miracle, I daresay...",
    "box": "17x3",
    "face": 5
   },
@@ -553,7 +553,7 @@
    "id": "s316:032f6",
    "op": "15",
    "jp": "バッ、バカなっ！！\n認めん、断じて認めるものかっ！",
-   "en": "",
+   "en": "N-nonsense!! I deny it! I will never, ever accept it!",
    "box": "17x3",
    "face": 33
   },
@@ -561,7 +561,7 @@
    "id": "s316:03382",
    "op": "15",
    "jp": "正義などというおためごかしを、\nその心の内に秘めておる人間など、\n絶対にいてはならんのだ！！",
-   "en": "",
+   "en": "A human who hides in his heart the humbug they call justice... must absolutely never exist!!",
    "box": "17x3",
    "face": 33
   },
@@ -577,7 +577,7 @@
    "id": "s316:0341a",
    "op": "15",
    "jp": "出て来いっ！！",
-   "en": "",
+   "en": "Come out!!",
    "box": "17x3",
    "face": 33
   },
@@ -585,7 +585,7 @@
    "id": "s316:0343a",
    "op": "15",
    "jp": "あ奴等を、一人残らず\nブチ殺すのだぁーっ！！",
-   "en": "",
+   "en": "Slaughter them, down to the very last one!!",
    "box": "17x3",
    "face": 33
   }

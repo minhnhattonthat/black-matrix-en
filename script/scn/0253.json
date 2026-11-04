@@ -9,7 +9,7 @@
    "id": "s253:0067e",
    "op": "14",
    "jp": "なんだお前らは・・・？\nなにか聞きたいんなら\n金をよこしな。",
-   "en": "",
+   "en": "What do you people want...? You wanna ask somethin', hand over the cash.",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s253:006fe",
    "op": "14",
    "jp": "この街では、何をするにも\n山ほどお金が必要で・・・",
-   "en": "",
+   "en": "In this town you need mountains of money for everything...",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s253:00738",
    "op": "14",
    "jp": "もう私達は暮らしていけません。",
-   "en": "",
+   "en": "We just can't make a living anymore.",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s253:0079a",
    "op": "14",
    "jp": "ここはパンデモニウムの街だ！\n教えてやったんだから金をおくれよ。",
-   "en": "",
+   "en": "This is the town of Pandemonium! I told you, so gimme some money.",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s253:0081e",
    "op": "14",
    "jp": "忙しいんだから話しかけるなよ。\nそれとも・・・頼み事か！？",
-   "en": "",
+   "en": "I'm busy, so don't talk to me. Or... got a job for me!?",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s253:00860",
    "op": "14",
    "jp": "なら安くしとくぜ！！",
-   "en": "",
+   "en": "Then I'll do it cheap!!",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s253:008b6",
    "op": "14",
    "jp": "うちの品物はなんでも高いよぉ！！\nさあ、買った買った！",
-   "en": "",
+   "en": "Everything in my shop's expensive!! Come on, buy, buy!",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s253:008f4",
    "op": "14",
    "jp": "安く買って、高く売るのが\n上手い商売ってモンだ！",
-   "en": "",
+   "en": "Buy low, sell high, that's good business!",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s253:0092c",
    "op": "14",
    "jp": "商売って奴は、太鼓といっしょさ！",
-   "en": "",
+   "en": "Business is just like a drum!",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s253:00954",
    "op": "14",
    "jp": "でっかく叩けば、でっかく鳴るし、\n小さく叩けば、しょぼい音しか出や\nしねえ・・・！！",
-   "en": "",
+   "en": "Hit it big and it booms big. Hit it small, and all you'll get's a sorry little tap...!!",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s253:009b0",
    "op": "14",
    "jp": "多少ヤバイ山だったとしても、\nそこでたじろいでちゃあ、いつまで\nたっても、儲かりはしねえのさ・・・",
-   "en": "",
+   "en": "So a job's a little risky. Flinch from it, and you'll never turn a profit, not ever...",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s253:00a1a",
    "op": "14",
    "jp": "金さえ払えば、たとえ白い羽にでも\n俺は売ってやるぜ・・・！！",
-   "en": "",
+   "en": "Long as you pay, I'll sell even to a white wing...!!",
    "box": "17x3",
    "face": 104
   },
@@ -105,7 +105,7 @@
    "id": "s253:00a5e",
    "op": "14",
    "jp": "二割、三割り増しは当たり前、\n全品十割、二十割増しの\nお客様感謝セール中だぁ～！！",
-   "en": "",
+   "en": "Twenty, thirty percent markup's a given! It's our Customer Thanks Sale, everything 100 to 200 percent extra!!",
    "box": "17x3",
    "face": 104
   },
@@ -113,7 +113,7 @@
    "id": "s253:00ab8",
    "op": "14",
    "jp": "どうだいアンタ達も・・・\n買っていかねえか！？",
-   "en": "",
+   "en": "How about it, folks... won't ya buy somethin'!?",
    "box": "17x3",
    "face": 104
   },
@@ -129,7 +129,7 @@
    "id": "s253:00b4a",
    "op": "14",
    "jp": "うちの品物は安いよ！！",
-   "en": "",
+   "en": "Our goods are cheap!!",
    "box": "17x3",
    "face": 104
   },
@@ -137,7 +137,7 @@
    "id": "s253:00b68",
    "op": "14",
    "jp": "売り切れたけどね・・・",
-   "en": "",
+   "en": "We're sold out, though...",
    "box": "17x3",
    "face": 104
   },
@@ -145,7 +145,7 @@
    "id": "s253:00bc2",
    "op": "14",
    "jp": "なんだなんだお前達は・・・！？\nあっ！",
-   "en": "",
+   "en": "What's this, what are you people...!? Oh!",
    "box": "17x3",
    "face": 104
   },
@@ -169,7 +169,7 @@
    "id": "s253:00c18",
    "op": "14",
    "jp": "うちに泊まっていく気なのか？\n宿泊費は・・・",
-   "en": "",
+   "en": "You lookin' to stay here? The lodging fee is...",
    "box": "17x3",
    "face": 104
   },
@@ -177,7 +177,7 @@
    "id": "s253:00c4c",
    "op": "14",
    "jp": "有り金全部だ・・・・！！",
-   "en": "",
+   "en": "...all the money you've got....!!",
    "box": "17x3",
    "face": 104
   },
@@ -185,7 +185,7 @@
    "id": "s253:00ca6",
    "op": "14",
    "jp": "この街じゃ金が全てなのさ・・・",
-   "en": "",
+   "en": "In this town, money's everything...",
    "box": "17x3",
    "face": 104
   },
@@ -193,7 +193,7 @@
    "id": "s253:00ccc",
    "op": "14",
    "jp": "どんなに腕っ節が強い奴でも\nお金がなけりゃあこの街では\nやっていけないよ・・・！",
-   "en": "",
+   "en": "However strong your arm is, without money you won't get by in this town...!",
    "box": "17x3",
    "face": 104
   },
@@ -201,7 +201,7 @@
    "id": "s253:00d24",
    "op": "14",
    "jp": "昔は俺達も、少しは暮らし\nやすかったんだけど・・・",
-   "en": "",
+   "en": "We had it a bit easier in the old days, but...",
    "box": "17x3",
    "face": 104
   },
@@ -209,7 +209,7 @@
    "id": "s253:00d5e",
    "op": "14",
    "jp": "新しい領主になってからは、\nそりゃあひどいもんさ・・・！",
-   "en": "",
+   "en": "Since the new lord came, it's been awful, I tell you...!",
    "box": "17x3",
    "face": 104
   },
@@ -217,7 +217,7 @@
    "id": "s253:00d9e",
    "op": "14",
    "jp": "この街に住む住民達は、毎週末に\n闘技場で開かれている賭博に",
-   "en": "",
+   "en": "The people of this town, every weekend, at the gambling held in the Arena...",
    "box": "17x3",
    "face": 104
   },
@@ -225,7 +225,7 @@
    "id": "s253:00de0",
    "op": "14",
    "jp": "必ず参加しなければならず・・・",
-   "en": "",
+   "en": "...are required to take part...",
    "box": "17x3",
    "face": 104
   },
@@ -233,7 +233,7 @@
    "id": "s253:00e06",
    "op": "14",
    "jp": "そこで大半の人達は、その週に\n稼いだ金のほとんどをマモン様に\n巻き上げられているのさ・・・",
-   "en": "",
+   "en": "...and most of them get nearly all they earned that week taken by Mammon-sama...",
    "box": "17x3",
    "face": 104
   },
@@ -249,7 +249,7 @@
    "id": "s253:00ec2",
    "op": "14",
    "jp": "あぁ～忙しい・・・",
-   "en": "",
+   "en": "Aaah, so busy...",
    "box": "17x3",
    "face": 104
   },
@@ -257,7 +257,7 @@
    "id": "s253:00f16",
    "op": "14",
    "jp": "街の真ん中に、宮殿みたいな\n豪邸があるだろう・・・！？",
-   "en": "",
+   "en": "See that palace of a mansion in the middle of town...!?",
    "box": "17x3",
    "face": 104
   },
@@ -265,7 +265,7 @@
    "id": "s253:00f54",
    "op": "14",
    "jp": "あれが新領主マモン様の\nお屋敷さ！！",
-   "en": "",
+   "en": "That's the residence of the new lord, Mammon-sama!!",
    "box": "17x3",
    "face": 104
   },
@@ -273,7 +273,7 @@
    "id": "s253:00f80",
    "op": "14",
    "jp": "マモン様はその金の力で、\n大勢の戦士を雇っているようだ！",
-   "en": "",
+   "en": "With the power of his money, Mammon-sama seems to be hiring warriors by the crowd!",
    "box": "17x3",
    "face": 104
   },
@@ -281,7 +281,7 @@
    "id": "s253:00fc0",
    "op": "14",
    "jp": "お前さん達ならもしかすると\n高給で雇って貰える\nかもしれないぜ！！",
-   "en": "",
+   "en": "You folks might get hired at high pay, y'know!!",
    "box": "17x3",
    "face": 104
   },
@@ -289,21 +289,21 @@
    "id": "s253:010b2",
    "op": "1d",
    "jp": "は　い",
-   "en": "",
+   "en": "Yes",
    "max": 15
   },
   {
    "id": "s253:010c0",
    "op": "1d",
    "jp": "いいえ",
-   "en": "",
+   "en": "No",
    "max": 15
   },
   {
    "id": "s253:010d0",
    "op": "20",
    "jp": "街を出ますか？",
-   "en": ""
+   "en": "Leave town?"
   }
  ]
 }

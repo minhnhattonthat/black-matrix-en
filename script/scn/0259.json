@@ -9,7 +9,7 @@
    "id": "s259:007d6",
    "op": "15",
    "jp": "おやおや、逃げちまったよ！",
-   "en": "",
+   "en": "Well, well, they ran away!",
    "box": "17x3",
    "face": 1
   },
@@ -17,7 +17,7 @@
    "id": "s259:008b2",
    "op": "15",
    "jp": "金だけが目的で戦ってる奴らは、\n所詮本当の勇気なんて\n持ち合わせちゃあいねぇって事か！",
-   "en": "",
+   "en": "Guys who fight only for money don't have any real courage in the end, huh!",
    "box": "17x3",
    "face": 1
   },
@@ -25,7 +25,7 @@
    "id": "s259:0093a",
    "op": "15",
    "jp": "あいつら、結構強かったのに。",
-   "en": "",
+   "en": "Those guys were pretty strong, too.",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s259:0098e",
    "op": "15",
    "jp": "それでも金のある奴らに\nヘコヘコ従うしか、\n生きる術を知らないなんて、",
-   "en": "",
+   "en": "And still, they don't know any way to live but crawlin' after guys with money.",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s259:009e6",
    "op": "15",
    "jp": "強いだけでは・・・\n必ずしも自由には\nなれないって事なのか？",
-   "en": "",
+   "en": "So just bein' strong... don't always make you free?",
    "box": "17x3",
    "face": 2
   },
@@ -57,7 +57,7 @@
    "id": "s259:00a62",
    "op": "15",
    "jp": "おそらく、",
-   "en": "",
+   "en": "Most likely,",
    "box": "17x3",
    "face": 5
   },
@@ -65,7 +65,7 @@
    "id": "s259:00a7e",
    "op": "15",
    "jp": "それが、本当の強さでは\nないという事なんじゃろう・・・",
-   "en": "",
+   "en": "it means that isn't true strength, my boy...",
    "box": "17x3",
    "face": 5
   },
@@ -73,7 +73,7 @@
    "id": "s259:00ad6",
    "op": "15",
    "jp": "自分の強さに自信がない奴等は、\n必ず腕力や金や権力\nといったなにかに頼ろうとし、",
-   "en": "",
+   "en": "Guys unsure of their own strength always lean on something, muscle or money or power,",
    "box": "17x3",
    "face": 1
   },
@@ -81,7 +81,7 @@
    "id": "s259:00b3a",
    "op": "15",
    "jp": "それが自分自身の自由を・・・\n結果的に奪ってゆく事に\nなるんだろうな",
-   "en": "",
+   "en": "and in the end, that robs them of their own freedom, I suppose.",
    "box": "17x3",
    "face": 1
   },
@@ -89,7 +89,7 @@
    "id": "s259:00bc2",
    "op": "15",
    "jp": "ボクも自分に自信が無いけど・・・\nそれじゃあ、自由っていったい\nどんな事なのかなぁ？",
-   "en": "",
+   "en": "I'm not sure of myself either, but... then, um, what is freedom, anyway?",
    "box": "17x3",
    "face": 3
   },
@@ -97,7 +97,7 @@
    "id": "s259:00c36",
    "op": "15",
    "jp": "そりゃ、つまりよぉ、",
-   "en": "",
+   "en": "Well, it's like, y'know,",
    "box": "17x3",
    "face": 2
   },
@@ -105,7 +105,7 @@
    "id": "s259:00c5e",
    "op": "15",
    "jp": "自分がしたい事ができ、\n「好きなように生きられる」\nって事だと思うんだが！？",
-   "en": "",
+   "en": "doin' what you wanna do, \"livin' how you please,\" that's what I'd say it is!?",
    "box": "17x3",
    "face": 2
   },
@@ -113,7 +113,7 @@
    "id": "s259:00cda",
    "op": "15",
    "jp": "自由なんてモノが、\n本当にこの世の中に\n有ると思っとること自体が・・・",
-   "en": "",
+   "en": "To think such a thing as freedom really exists in this world...",
    "box": "17x3",
    "face": 104
   },
@@ -121,7 +121,7 @@
    "id": "s259:00d32",
    "op": "15",
    "jp": "そもそも大間違いなんだよ！！",
-   "en": "",
+   "en": "...is a grave mistake to begin with!!",
    "box": "17x3",
    "face": 104
   },
@@ -129,7 +129,7 @@
    "id": "s259:00dce",
    "op": "15",
    "jp": "なっ、なんだぁ？",
-   "en": "",
+   "en": "Wh-what the...?",
    "box": "17x3",
    "face": 1
   },
@@ -137,7 +137,7 @@
    "id": "s259:00f16",
    "op": "15",
    "jp": "偽善にあふれ、\n邪教の教えを信じる罰当たりな、\nどぶネズミ共が！！",
-   "en": "",
+   "en": "You blasphemous gutter rats, overflowing with hypocrisy, believing the teachings of the wicked faith!!",
    "box": "17x3",
    "face": 14
   },
@@ -145,7 +145,7 @@
    "id": "s259:00f6a",
    "op": "15",
    "jp": "この世の何処に、\n自分がやりたい事だけをやって、",
-   "en": "",
+   "en": "Where in this world...",
    "box": "17x3",
    "face": 14
   },
@@ -153,7 +153,7 @@
    "id": "s259:00fae",
    "op": "15",
    "jp": "好きな事だけをやれている人物が\nおるというのだ！？",
-   "en": "",
+   "en": "...is anyone who does only what he wants, and only what he likes!?",
    "box": "17x3",
    "face": 14
   },
@@ -161,7 +161,7 @@
    "id": "s259:01002",
    "op": "15",
    "jp": "テメェ達黒い羽の奴らは、\n俺達白い羽のように生まれた時から\n奴隷なんてことはねぇ！",
-   "en": "",
+   "en": "You black-winged bastards, you ain't slaves from birth like us white wings!",
    "box": "17x3",
    "face": 2
   },
@@ -169,7 +169,7 @@
    "id": "s259:01066",
    "op": "15",
    "jp": "それは\n自由ってやつなんじゃねぇのか？",
-   "en": "",
+   "en": "Ain't that what you call freedom?",
    "box": "17x3",
    "face": 2
   },
@@ -177,7 +177,7 @@
    "id": "s259:010ae",
    "op": "15",
    "jp": "ハアッハッハッハッ・・・そうか、\n貴様はそれを妬んでおったか。",
-   "en": "",
+   "en": "Hahhahaha... I see, so you envied that.",
    "box": "17x3",
    "face": 14
   },
@@ -185,7 +185,7 @@
    "id": "s259:0110e",
    "op": "15",
    "jp": "なにぃ！？",
-   "en": "",
+   "en": "What!?",
    "box": "17x3",
    "face": 2
   },
@@ -193,7 +193,7 @@
    "id": "s259:0113a",
    "op": "15",
    "jp": "ならばなおさらのこと、\n貴様の求めるものなど、\n未来永劫手には入らん！",
-   "en": "",
+   "en": "Then all the more, what you seek will never be yours, for all eternity!",
    "box": "17x3",
    "face": 14
   },
@@ -201,7 +201,7 @@
    "id": "s259:01192",
    "op": "15",
    "jp": "所詮白い羽のお前達は、\n一生奴隷として、\nもがき苦しむしかないんだよ！！",
-   "en": "",
+   "en": "You white-winged lot, in the end, can only writhe in agony as slaves all your lives!!",
    "box": "17x3",
    "face": 14
   },
@@ -217,7 +217,7 @@
    "id": "s259:01212",
    "op": "15",
    "jp": "お主がこの街の領主\n強欲のマモンか・・・！？",
-   "en": "",
+   "en": "So you're the lord of this town, Mammon the Greedy, eh...!?",
    "box": "17x3",
    "face": 5
   },
@@ -225,7 +225,7 @@
    "id": "s259:0125e",
    "op": "15",
    "jp": "お前達を殺せば教皇庁より\nさらに莫大な大金が手に入る。",
-   "en": "",
+   "en": "Kill you, and I get an even more colossal fortune from the Papal Court.",
    "box": "17x3",
    "face": 14
   },
@@ -233,7 +233,7 @@
    "id": "s259:012a6",
    "op": "15",
    "jp": "さあ、兵士達よ！\n払った金に見合う働きをしなっ！！",
-   "en": "",
+   "en": "Now, soldiers! Earn what I paid you!!",
    "box": "17x3",
    "face": 14
   },
@@ -241,7 +241,7 @@
    "id": "s259:012fa",
    "op": "15",
    "jp": "金こそ魔性、常に人の心を惑わす\n魔物って事か・・・！？",
-   "en": "",
+   "en": "Money's the devil itself, a monster forever leading men astray, is that it...!?",
    "box": "17x3",
    "face": 1
   }

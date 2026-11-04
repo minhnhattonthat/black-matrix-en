@@ -9,7 +9,7 @@
    "id": "s116:0004a",
    "op": "15",
    "jp": "あら、きれいになったわね！！\nそれじゃ今度はお風呂のほうも\nお願いするわ！",
-   "en": "",
+   "en": "Well, it's clean now!! Then next, I'll have you do the bath as well!",
    "box": "17x3",
    "face": 11
   },
@@ -17,7 +17,7 @@
    "id": "s116:000d6",
    "op": "15",
    "jp": "よくできたわね！！",
-   "en": "",
+   "en": "Well done!!",
    "box": "17x3",
    "face": 11
   },
@@ -25,7 +25,7 @@
    "id": "s116:000fa",
    "op": "15",
    "jp": "こんなことでしか役に立たないのね\n・・・明日もお願いするわ。",
-   "en": "",
+   "en": "So this is all you're good for... You'll do it again tomorrow.",
    "box": "17x3",
    "face": 11
   },
@@ -33,7 +33,7 @@
    "id": "s116:00176",
    "op": "15",
    "jp": "あきれたわ！\nそんなこともまともにできないの！",
-   "en": "",
+   "en": "Unbelievable! Can't you even do this properly!",
    "box": "17x3",
    "face": 11
   },
@@ -41,7 +41,7 @@
    "id": "s116:001b6",
    "op": "15",
    "jp": "もういいわ！めざわりよ！\nアタシの前から消えなさい！",
-   "en": "",
+   "en": "Enough! You're an eyesore! Get out of my sight!",
    "box": "17x3",
    "face": 11
   },
@@ -49,7 +49,7 @@
    "id": "s116:001fe",
    "op": "15",
    "jp": "それとも・・・\n自分の舌を使って、部屋中を\n掃除でもする・・・！？",
-   "en": "",
+   "en": "Or... would you rather clean the whole room with your tongue...!?",
    "box": "17x3",
    "face": 11
   },
@@ -57,7 +57,7 @@
    "id": "s116:0026a",
    "op": "15",
    "jp": "ふん！まぁこんなもんかしら・・・\n明日もお願いするわ！",
-   "en": "",
+   "en": "Hmph! I suppose this will do... You'll do it again tomorrow!",
    "box": "17x3",
    "face": 11
   }

@@ -9,7 +9,7 @@
    "id": "s175:00772",
    "op": "15",
    "jp": "神官達の動きが気になる。",
-   "en": "",
+   "en": "I don't like how the priests are moving.",
    "box": "17x3",
    "face": 1
   },
@@ -17,7 +17,7 @@
    "id": "s175:0079e",
    "op": "15",
    "jp": "悪いが、\n俺は別行動をとらせてもらうぜ。",
-   "en": "",
+   "en": "Sorry, but I'll be going my own way.",
    "box": "17x3",
    "face": 1
   },
@@ -25,7 +25,7 @@
    "id": "s175:0086a",
    "op": "15",
    "jp": "うむ、\n神殿の中は入り組んでおる。",
-   "en": "",
+   "en": "Mm. The inside of the temple is a maze, my boy.",
    "box": "17x3",
    "face": 5
   },
@@ -33,7 +33,7 @@
    "id": "s175:0089e",
    "op": "15",
    "jp": "ルピルピ、\n一緒についていってやりなさい。",
-   "en": "",
+   "en": "Rupirupi, go along with him, there's a good girl.",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s175:00952",
    "op": "15",
    "jp": "え～っ、\nこの嫌みなキザ男とですかぁ～。",
-   "en": "",
+   "en": "Whaaat? With this snide pretty boy!?",
    "box": "17x3",
    "face": 6
   },
@@ -49,7 +49,7 @@
    "id": "s175:009ca",
    "op": "15",
    "jp": "なんだとこいつ！！",
-   "en": "",
+   "en": "What'd you say, you!!",
    "box": "17x3",
    "face": 1
   },
@@ -57,7 +57,7 @@
    "id": "s175:00a5e",
    "op": "15",
    "jp": "爺さん、俺は一人でも大丈夫だ。\nこんな女はかえって\n足手まといだぜ！",
-   "en": "",
+   "en": "Old man, I'm fine on my own. A woman like this would only slow me down!",
    "box": "17x3",
    "face": 1
   },
@@ -65,7 +65,7 @@
    "id": "s175:00aea",
    "op": "15",
    "jp": "そう言うな。",
-   "en": "",
+   "en": "Now, now, don't say that.",
    "box": "17x3",
    "face": 5
   },
@@ -73,7 +73,7 @@
    "id": "s175:00b46",
    "op": "15",
    "jp": "ルピルピも、コラ！\n日記に書くんじゃない！",
-   "en": "",
+   "en": "And you, Rupirupi, hey! Don't write that in your diary!",
    "box": "17x3",
    "face": 5
   },
@@ -81,7 +81,7 @@
    "id": "s175:00b92",
    "op": "15",
    "jp": "喧嘩するほど仲が悪い\nって言うことかな？",
-   "en": "",
+   "en": "Um, so... \"The more you fight, the worse you get along,\" like they say?",
    "box": "17x3",
    "face": 3
   }

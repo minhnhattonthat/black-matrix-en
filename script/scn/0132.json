@@ -9,7 +9,7 @@
    "id": "s132:0050e",
    "op": "14",
    "jp": "おい、ピリポ！\n俺様に、その武器をよこせ！",
-   "en": "",
+   "en": "Hey, Phillipo! Hand that weapon over to me!",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s132:0056e",
    "op": "14",
    "jp": "これだから筋肉バカは困る。",
-   "en": "",
+   "en": "This is the trouble with muscle-heads.",
    "box": "17x3",
    "face": 1
   },
@@ -33,7 +33,7 @@
    "id": "s132:0059e",
    "op": "14",
    "jp": "なにぃ！",
-   "en": "",
+   "en": "Whaddya say!",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s132:005ba",
    "op": "14",
    "jp": "何事も力で片付けようと\nするから、困るんだよな。",
-   "en": "",
+   "en": "You try to settle everything with force. That's the trouble.",
    "box": "17x3",
    "face": 1
   },
@@ -49,7 +49,7 @@
    "id": "s132:005f2",
    "op": "14",
    "jp": "ようするにあたまさ！\nお前に付いているのはかざりか？",
-   "en": "",
+   "en": "It's all about the head! Or is yours just for decoration?",
    "box": "17x3",
    "face": 1
   },
@@ -57,7 +57,7 @@
    "id": "s132:0063a",
    "op": "14",
    "jp": "ふっ、甘めぇな。\n最後に生き残ればいいのさ！",
-   "en": "",
+   "en": "Heh, you're soft. All that matters is who's left standin' at the end!",
    "box": "17x3",
    "face": 2
   },
@@ -65,7 +65,7 @@
    "id": "s132:0066e",
    "op": "14",
    "jp": "オレ様の邪魔を\nするんじゃねぇぞ！",
-   "en": "",
+   "en": "Don't you get in my way!",
    "box": "17x3",
    "face": 2
   },
@@ -73,7 +73,7 @@
    "id": "s132:006a6",
    "op": "14",
    "jp": "何でもいいから、早く装備しろ！",
-   "en": "",
+   "en": "Whatever. Just equip it, quick!",
    "box": "17x3",
    "face": 1
   },
@@ -81,7 +81,7 @@
    "id": "s132:006da",
    "op": "14",
    "jp": "武器を手に入れた！",
-   "en": "",
+   "en": "Obtained a weapon!",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s132:007a2",
    "op": "14",
    "jp": "ちぃ、やりやがったな！！\nだいぶ血を流しちまった。\nここは一旦下がらせてもらうぜ。",
-   "en": "",
+   "en": "Tch, you got me!! I've lost a lot of blood. I'll be pulling back for now.",
    "box": "17x3",
    "face": 1
   },
@@ -97,7 +97,7 @@
    "id": "s132:00892",
    "op": "14",
    "jp": "くそおっ！！\n貴様のようなへなちょこ野郎に",
-   "en": "",
+   "en": "Dammit!! A wimp like you...",
    "box": "17x3",
    "face": 2
   },
@@ -105,7 +105,7 @@
    "id": "s132:008c4",
    "op": "14",
    "jp": "俺様が殺られるかよぉ！！",
-   "en": "",
+   "en": "...ain't gonna kill me!!",
    "box": "17x3",
    "face": 2
   },
@@ -113,7 +113,7 @@
    "id": "s132:0097a",
    "op": "14",
    "jp": "ごめんね・・・",
-   "en": "",
+   "en": "I'm sorry...",
    "box": "17x3",
    "face": 3
   },
@@ -121,7 +121,7 @@
    "id": "s132:00990",
    "op": "14",
    "jp": "ボクはもう、戦えそうにないよ・・・",
-   "en": "",
+   "en": "I-I don't think I can fight anymore...",
    "box": "17x3",
    "face": 3
   },
@@ -129,7 +129,7 @@
    "id": "s132:00bfe",
    "op": "14",
    "jp": "俺を誰だと思ってる！！",
-   "en": "",
+   "en": "Who do you think I am!!",
    "box": "17x3",
    "face": 1
   },
@@ -137,7 +137,7 @@
    "id": "s132:00c2a",
    "op": "14",
    "jp": "二百人殺しの\n疾風のガイ様だぜ！！",
-   "en": "",
+   "en": "I'm the great Gai the Gale, killer of two hundred men!!",
    "box": "17x3",
    "face": 1
   },
@@ -145,7 +145,7 @@
    "id": "s132:0108e",
    "op": "14",
    "jp": "良く見てろよ！\n相手に十分近づいてから殴る！\nこれが俺の殺り方だ！！",
-   "en": "",
+   "en": "Watch close! Get right up on 'em, then punch! That's how I kill!!",
    "box": "17x3",
    "face": 2
   },
@@ -153,7 +153,7 @@
    "id": "s132:01122",
    "op": "14",
    "jp": "俺は強い奴に憧れた・・・\nなぜなら強さこそが\nこの世界唯一の真理だからだ！",
-   "en": "",
+   "en": "I always looked up to strong guys... 'Cause strength's the only truth in this world!",
    "box": "17x3",
    "face": 2
   },
@@ -161,7 +161,7 @@
    "id": "s132:01182",
    "op": "14",
    "jp": "俺の強さが・・・\n貴様にも分かったかぁ！！",
-   "en": "",
+   "en": "My strength... You get it now, huh!!",
    "box": "17x3",
    "face": 2
   },
@@ -169,7 +169,7 @@
    "id": "s132:0142e",
    "op": "14",
    "jp": "効かねえなぁ！\nこの最強の肉体にはよ！！",
-   "en": "",
+   "en": "Didn't feel a thing! Not on this unbeatable body!!",
    "box": "17x3",
    "face": 2
   },
@@ -177,7 +177,7 @@
    "id": "s132:016d6",
    "op": "14",
    "jp": "無理無理！\nそんな攻撃、頭の上に、\nハエが止まってるぜ！",
-   "en": "",
+   "en": "No way, no way! Attacks like that? You can't even swat the fly on your own head!",
    "box": "17x3",
    "face": 1
   },
@@ -185,7 +185,7 @@
    "id": "s132:0198e",
    "op": "14",
    "jp": "ボクが、壁になるよ！",
-   "en": "",
+   "en": "I-I'll be your wall!",
    "box": "17x3",
    "face": 3
   },
@@ -193,7 +193,7 @@
    "id": "s132:019aa",
    "op": "14",
    "jp": "これぐらいの攻撃、\nボクは殴られ慣れてるんだ！",
-   "en": "",
+   "en": "Hits like these... I'm used to getting beaten!",
    "box": "17x3",
    "face": 3
   },
@@ -201,7 +201,7 @@
    "id": "s132:01bf6",
    "op": "14",
    "jp": "あれっ？\n動きが鈍いと\n攻撃も当たりにくいのかな！？",
-   "en": "",
+   "en": "Huh? Um, does moving slow make me harder to hit!?",
    "box": "17x3",
    "face": 3
   }

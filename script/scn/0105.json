@@ -9,1064 +9,1064 @@
    "id": "s105:001ca",
    "op": "1d",
    "jp": "人類の終末",
-   "en": "",
+   "en": "The End of Mankind",
    "max": 15
   },
   {
    "id": "s105:001dc",
    "op": "1d",
    "jp": "最新７つの大罪大辞典",
-   "en": "",
+   "en": "New Seven Deadly Sins Lexicon",
    "max": 15
   },
   {
    "id": "s105:001f8",
    "op": "1d",
    "jp": "神々達の歴史上巻",
-   "en": "",
+   "en": "History of the Gods, Volume 1",
    "max": 15
   },
   {
    "id": "s105:00210",
    "op": "1d",
    "jp": "神々達の歴史下巻",
-   "en": "",
+   "en": "History of the Gods, Volume 2",
    "max": 15
   },
   {
    "id": "s105:00240",
    "op": "1d",
    "jp": "別冊おまじない・・・",
-   "en": "",
+   "en": "Charm Supplement...",
    "max": 15
   },
   {
    "id": "s105:0029e",
    "op": "1d",
    "jp": "『七つの大罪：自由』",
-   "en": "",
+   "en": "Seven Deadly Sins: Freedom",
    "max": 15
   },
   {
    "id": "s105:002bc",
    "op": "1d",
    "jp": "『七つの大罪：正義』",
-   "en": "",
+   "en": "Seven Deadly Sins: Justice",
    "max": 15
   },
   {
    "id": "s105:002d8",
    "op": "1d",
    "jp": "『七つの大罪：人権』",
-   "en": "",
+   "en": "Seven Deadly Sins: Rights",
    "max": 15
   },
   {
    "id": "s105:002f4",
    "op": "1d",
    "jp": "『七つの大罪：弱者』",
-   "en": "",
+   "en": "Seven Deadly Sins: The Weak",
    "max": 15
   },
   {
    "id": "s105:00310",
    "op": "1d",
    "jp": "『七つの大罪：友情』",
-   "en": "",
+   "en": "Seven Deadly Sins: Friendship",
    "max": 15
   },
   {
    "id": "s105:0032c",
    "op": "1d",
    "jp": "『七つの大罪：平等』",
-   "en": "",
+   "en": "Seven Deadly Sins: Equality",
    "max": 15
   },
   {
    "id": "s105:00348",
    "op": "1d",
    "jp": "『七つの大罪：愛』",
-   "en": "",
+   "en": "Seven Deadly Sins: Love",
    "max": 15
   },
   {
    "id": "s105:0038e",
    "op": "1d",
    "jp": "『七つの美徳：憤怒』",
-   "en": "",
+   "en": "Seven Virtues: Wrath",
    "max": 15
   },
   {
    "id": "s105:003ac",
    "op": "1d",
    "jp": "『七つの美徳：Ηり』",
-   "en": "",
+   "en": "Seven Virtues: Pride",
    "max": 15
   },
   {
    "id": "s105:003c8",
    "op": "1d",
    "jp": "『七つの美徳：嫉妬』",
-   "en": "",
+   "en": "Seven Virtues: Envy",
    "max": 15
   },
   {
    "id": "s105:003e4",
    "op": "1d",
    "jp": "『七つの美徳：怠惰』",
-   "en": "",
+   "en": "Seven Virtues: Sloth",
    "max": 15
   },
   {
    "id": "s105:00400",
    "op": "1d",
    "jp": "『七つの美徳：暴食』",
-   "en": "",
+   "en": "Seven Virtues: Gluttony",
    "max": 15
   },
   {
    "id": "s105:0041c",
    "op": "1d",
    "jp": "『七つの美徳：強欲』",
-   "en": "",
+   "en": "Seven Virtues: Greed",
    "max": 15
   },
   {
    "id": "s105:00438",
    "op": "1d",
    "jp": "『七つの美徳：欲情』",
-   "en": "",
+   "en": "Seven Virtues: Lust",
    "max": 15
   },
   {
    "id": "s105:00466",
    "op": "14",
    "jp": "\n　　『人類の終末（ハルマゲドン）』",
-   "en": "",
+   "en": "\"The End of Mankind (Armageddon)\"",
    "box": "19x3"
   },
   {
    "id": "s105:00492",
    "op": "14",
    "jp": "天界の玉座にある七つの封印が\n解かれない限り、\n世界は悪しき状態のままに継続するが、",
-   "en": "",
+   "en": "So long as the seven seals on the heavenly throne remain unbroken, the world goes on in its evil state, but",
    "box": "19x3"
   },
   {
    "id": "s105:004ee",
    "op": "14",
    "jp": "神の子羊が順次その封印を解いたとき、\nさまざまな災いや死、闘争などが、\n世界中へと広がり・・・",
-   "en": "",
+   "en": "when the Lamb of God breaks those seals one by one, calamity, death, strife and more spread worldwide...",
    "box": "19x3"
   },
   {
    "id": "s105:00554",
    "op": "14",
    "jp": "最後に神が七人の天使に\n七つのラッパを与えると、",
-   "en": "",
+   "en": "And when at last God gives seven angels seven trumpets,",
    "box": "19x3"
   },
   {
    "id": "s105:0058c",
    "op": "14",
    "jp": "世界の崩壊をくい止めていたタガが外れ\n終末の災いが加速度的に\n世界を襲い始める・・・",
-   "en": "",
+   "en": "the bonds that held back the world's collapse give way, and the calamities of the end strike it ever faster...",
    "box": "19x3"
   },
   {
    "id": "s105:005e8",
    "op": "14",
    "jp": "そして七つのラッパが天使達によって\n順次吹き鳴らされたとき・・・",
-   "en": "",
+   "en": "And when the angels sound the seven trumpets in turn...",
    "box": "19x3"
   },
   {
    "id": "s105:00630",
    "op": "14",
    "jp": "地上が未曾有の混乱と災厄に見舞われ、",
-   "en": "",
+   "en": "the earth is struck by chaos and disaster without precedent,",
    "box": "19x3"
   },
   {
    "id": "s105:0065c",
    "op": "14",
    "jp": "ついには７頭１０角の\n火のように赤い大きな竜と、",
-   "en": "",
+   "en": "and at last a great dragon, red as fire, with seven heads and ten horns,",
    "box": "19x3"
   },
   {
    "id": "s105:00694",
    "op": "14",
    "jp": "全人類を惑わす悪魔とか、\nサタンとか呼ばれる者が現れ、",
-   "en": "",
+   "en": "and one called the Devil, or Satan, who deceives all mankind, appear.",
    "box": "19x3"
   },
   {
    "id": "s105:006d2",
    "op": "14",
    "jp": "天界を代表する戦闘天使ミカエルと戦い、サタンである竜は地上へと逃れる・・・",
-   "en": "",
+   "en": "They battle Michael, warrior angel of the heavens, and the dragon that is Satan flees to the earth...",
    "box": "19x3"
   },
   {
    "id": "s105:00724",
    "op": "14",
    "jp": "そして地上に逃れたサタンは、\n２匹の獣を用いて人類を支配する。",
-   "en": "",
+   "en": "And Satan, fled to the earth, rules mankind by means of two beasts.",
    "box": "19x3"
   },
   {
    "id": "s105:0077e",
    "op": "14",
    "jp": "\n　　　『最新７つの大罪大辞典』",
-   "en": "",
+   "en": "\"New Grand Lexicon of the Seven Deadly Sins\"",
    "box": "19x3"
   },
   {
    "id": "s105:007a6",
    "op": "14",
    "jp": "この世には、\n人として決して犯してはならない、\n７つの大罪があります。",
-   "en": "",
+   "en": "In this world there are Seven Deadly Sins that no person must ever commit.",
    "box": "19x3"
   },
   {
    "id": "s105:007f4",
    "op": "14",
    "jp": "このいまでは誰もが触れようとさえ\nしなくなった、",
-   "en": "",
+   "en": "Now that no one will so much as touch them,",
    "box": "19x3"
   },
   {
    "id": "s105:0082c",
    "op": "14",
    "jp": "禁断の言葉の意味をもう一度、\n一緒に考え直してみましょう。",
-   "en": "",
+   "en": "let us consider once more, together, what these forbidden words mean.",
    "box": "19x3"
   },
   {
    "id": "s105:00882",
    "op": "14",
    "jp": "\n　　『アンゲルス教典：聖なる行い』",
-   "en": "",
+   "en": "\"Angelus Scripture: Holy Deeds\"",
    "box": "19x3"
   },
   {
    "id": "s105:008ae",
    "op": "14",
    "jp": "この世界で賞賛されている\n七つの聖なる行い。",
-   "en": "",
+   "en": "The seven holy deeds praised in this world.",
    "box": "19x3"
   },
   {
    "id": "s105:008e2",
    "op": "14",
    "jp": "『憤怒』\n怒りこそ、\nもっとも優れた行動の原動力。",
-   "en": "",
+   "en": "\"Wrath\"\nAnger, above all, is the finest driving force of action.",
    "box": "19x3"
   },
   {
    "id": "s105:0091c",
    "op": "14",
    "jp": "『Ηり』\n強い者が、強いことを\n知らしめるのは当然である。",
-   "en": "",
+   "en": "\"Pride\"\nIt is only natural that the strong make their strength known.",
    "box": "19x3"
   },
   {
    "id": "s105:0095e",
    "op": "14",
    "jp": "『嫉妬』\n有能な人物ほど、\n誰かに妬まれるものだ。",
-   "en": "",
+   "en": "\"Envy\"\nThe more able the person, the more they are envied.",
    "box": "19x3"
   },
   {
    "id": "s105:00998",
    "op": "14",
    "jp": "『怠惰』\n休みたいときは、死ぬまで休め。",
-   "en": "",
+   "en": "\"Sloth\"\nWhen you want to rest, rest until you die.",
    "box": "19x3"
   },
   {
    "id": "s105:009c8",
    "op": "14",
    "jp": "『暴食』\n喰えるときには、\n食べられるだけ食べろ。",
-   "en": "",
+   "en": "\"Gluttony\"\nWhen you can eat, eat all you can.",
    "box": "19x3"
   },
   {
    "id": "s105:00a02",
    "op": "14",
    "jp": "『強欲』\n弱肉強食、\n強い者が全てを手に入れる。",
-   "en": "",
+   "en": "\"Greed\"\nThe strong eat the weak; the strong take everything.",
    "box": "19x3"
   },
   {
    "id": "s105:00a3a",
    "op": "14",
    "jp": "『欲情』\n種族保存の基本的な原動力。",
-   "en": "",
+   "en": "\"Lust\"\nThe basic driving force of preserving the species.",
    "box": "19x3"
   },
   {
    "id": "s105:00a7a",
    "op": "14",
    "jp": "　　『神々達の歴史上巻\n　　　地上の邪神を追い払った日々』",
-   "en": "",
+   "en": "\"History of the Gods, Volume 1\nThe Days We Drove Out the Surface's Evil Gods\"",
    "box": "19x3"
   },
   {
    "id": "s105:00abc",
    "op": "14",
    "jp": "元々、私達選ばれた民の祖先\nである黒い羽の天使達は、",
-   "en": "",
+   "en": "Originally, the black-winged angels, ancestors of us the chosen people,",
    "box": "19x3"
   },
   {
    "id": "s105:00af8",
    "op": "14",
    "jp": "この大地の地底に\n住んでいたと言われます。",
-   "en": "",
+   "en": "are said to have lived deep beneath this earth.",
    "box": "19x3"
   },
   {
    "id": "s105:00b2a",
    "op": "14",
    "jp": "吹き上がるマグマ、\n血も凍るような極寒の地、\n乾燥しきった砂漠地帯、",
-   "en": "",
+   "en": "Spouting magma, lands so cold the blood froze, deserts dried to the bone:",
    "box": "19x3"
   },
   {
    "id": "s105:00b76",
    "op": "14",
    "jp": "必然的に弱い生命は駆逐される、\n単純明快な弱肉強食の世界！！",
-   "en": "",
+   "en": "a plain and simple world where the strong ate the weak, and frail life was inevitably wiped out!!",
    "box": "19x3"
   },
   {
    "id": "s105:00bba",
    "op": "14",
    "jp": "そこで人々が生きていくためには、\nいつでも最大限の努力を\nしなければ生き残れないという・・・",
-   "en": "",
+   "en": "To live there, people had to strive to their utmost at all times, or they would not survive...",
    "box": "19x3"
   },
   {
    "id": "s105:00c1e",
    "op": "14",
    "jp": "そこは強い力や不屈の闘志を\n手に入れる為には、\n打って付けという。",
-   "en": "",
+   "en": "For gaining great strength and indomitable fighting spirit, the place was ideal, they say.",
    "box": "19x3"
   },
   {
    "id": "s105:00c68",
    "op": "14",
    "jp": "まさに恵まれた自然環境の\n完成された楽園だったのです！！",
-   "en": "",
+   "en": "Truly, it was a perfect paradise, blessed by its natural environment!!",
    "box": "19x3"
   },
   {
    "id": "s105:00cba",
    "op": "14",
    "jp": "　　『神々達の歴史下巻\n　　　地上の邪神を追い払った日々』",
-   "en": "",
+   "en": "\"History of the Gods, Volume 2\nThe Days We Drove Out the Surface's Evil Gods\"",
    "box": "19x3"
   },
   {
    "id": "s105:00cfc",
    "op": "14",
    "jp": "しかし、そんな楽園で\n生きる私たちの祖先に、\nある日神は試練を与えたのです！！",
-   "en": "",
+   "en": "But one day, god set a trial before our ancestors, who lived in that paradise!!",
    "box": "19x3"
   },
   {
    "id": "s105:00d52",
    "op": "14",
    "jp": "そう、邪神や悪魔達がΛΜする、\n薄汚れた地上へと侵攻し・・・",
-   "en": "",
+   "en": "Yes: to invade the filthy surface, where evil gods and devils ran rampant...",
    "box": "19x3"
   },
   {
    "id": "s105:00d96",
    "op": "14",
    "jp": "この世の全ての悪魔の源である\n大悪神ゴッドの邪神軍団と戦って、",
-   "en": "",
+   "en": "to fight the evil god legions of God, the Great Evil God, source of every devil in this world,",
    "box": "19x3"
   },
   {
    "id": "s105:00ddc",
    "op": "14",
    "jp": "温暖な風土や自然状況で、\n精神的に堕落しきっていた邪神どもに、\n制裁を加えようというのです！！",
-   "en": "",
+   "en": "and to punish those evil gods, utterly corrupted in spirit by a mild climate and gentle nature!!",
    "box": "19x3"
   },
   {
    "id": "s105:00e42",
    "op": "14",
    "jp": "そして彼らを、\n恵まれた自然環境の地下へと封じ込め、",
-   "en": "",
+   "en": "And so we sealed them underground, in that blessed natural environment,",
    "box": "19x3"
   },
   {
    "id": "s105:00e7e",
    "op": "14",
    "jp": "我々は、この堕落しやすい\n太陽が照りつける地上へと\n住居を変えていった結果として、",
-   "en": "",
+   "en": "and moved our homes to this easily corrupting, sun-beaten surface. As a result,",
    "box": "19x3"
   },
   {
    "id": "s105:00ed8",
    "op": "14",
    "jp": "我々の中の多くの者が、\nいままさに堕落しようとしています。",
-   "en": "",
+   "en": "many among us are now on the very verge of corruption.",
    "box": "19x3"
   },
   {
    "id": "s105:00f2e",
    "op": "14",
    "jp": "\n　　　　『七つの大罪：自由』",
-   "en": "",
+   "en": "\"The Seven Deadly Sins: Freedom\"",
    "box": "19x3"
   },
   {
    "id": "s105:00f54",
    "op": "14",
    "jp": "この自由の名の元に、\n人類は今までどれだけ多くの戦争を\n繰り返してきた事だろうか？",
-   "en": "",
+   "en": "How many wars has mankind waged, over and over, in the name of this freedom?",
    "box": "19x3"
   },
   {
    "id": "s105:00fae",
    "op": "14",
    "jp": "所詮、人は生まれ落ちたその時点で\nすでに規則と義務という、",
-   "en": "",
+   "en": "After all, from the moment of birth, people are already fixed inside",
    "box": "19x3"
   },
   {
    "id": "s105:00ff0",
    "op": "14",
    "jp": "逃れようのない枠に\nはめられているというのに・・・",
-   "en": "",
+   "en": "the inescapable frame of rules and duties...",
    "box": "19x3"
   },
   {
    "id": "s105:0102a",
    "op": "14",
    "jp": "自由をもう信することは\n自らの責任を放棄し、",
-   "en": "",
+   "en": "To blindly believe in freedom is to abandon one's own responsibility:",
    "box": "19x3"
   },
   {
    "id": "s105:0105e",
    "op": "14",
    "jp": "世界に混乱を招こうとする\n大罪である。",
-   "en": "",
+   "en": "a deadly sin that would bring chaos upon the world.",
    "box": "19x3"
   },
   {
    "id": "s105:0109e",
    "op": "14",
    "jp": "\n　　　　『七つの大罪：正義』",
-   "en": "",
+   "en": "\"The Seven Deadly Sins: Justice\"",
    "box": "19x3"
   },
   {
    "id": "s105:010c4",
    "op": "14",
    "jp": "人が正しいと信じている事など、\nこの世の中にはその人々と同じ\n数だけあるというのに・・・。",
-   "en": "",
+   "en": "There are as many things held to be right in this world as there are people...",
    "box": "19x3"
   },
   {
    "id": "s105:01126",
    "op": "14",
    "jp": "自分が正しいと信じる事を\n他人に強制しようとするなど、",
-   "en": "",
+   "en": "To try to force on others what one believes is right",
    "box": "19x3"
   },
   {
    "id": "s105:01164",
    "op": "14",
    "jp": "もはや完全に常軌を逸した\n行動であるとしか思えない！！",
-   "en": "",
+   "en": "can only be seen as conduct gone utterly mad!!",
    "box": "19x3"
   },
   {
    "id": "s105:011a2",
    "op": "14",
    "jp": "世界に狂気をまき散らす、\n大罪である！",
-   "en": "",
+   "en": "It is a deadly sin that scatters madness across the world!",
    "box": "19x3"
   },
   {
    "id": "s105:011e2",
    "op": "14",
    "jp": "\n　　　　『七つの大罪：人権』",
-   "en": "",
+   "en": "\"The Seven Deadly Sins: Human Rights\"",
    "box": "19x3"
   },
   {
    "id": "s105:01208",
    "op": "14",
    "jp": "そもそも人の権利や権限は、\nその個々の持ちうる力によって、\n大きくも小さくもなりうる。",
-   "en": "",
+   "en": "To begin with, a person's rights and powers grow or shrink with the strength each individual can hold.",
    "box": "19x3"
   },
   {
    "id": "s105:01266",
    "op": "14",
    "jp": "このように不安定なものに対し\n生まれながらにして同じように\n持つと説く者もいるが、",
-   "en": "",
+   "en": "Some preach that all are born holding an equal share of this unstable thing,",
    "box": "19x3"
   },
   {
    "id": "s105:012c0",
    "op": "14",
    "jp": "何の努力も果たさないまま、\n持ち得る権利などありはしない！！",
-   "en": "",
+   "en": "but there is no right one may hold without making any effort at all!!",
    "box": "19x3"
   },
   {
    "id": "s105:01304",
    "op": "14",
    "jp": "これはまさしく、世界を弱体化\nさせようとする大罪である",
-   "en": "",
+   "en": "This is truly a deadly sin that would enfeeble the world.",
    "box": "19x3"
   },
   {
    "id": "s105:01356",
    "op": "14",
    "jp": "\n　　　　『七つの大罪：弱者』",
-   "en": "",
+   "en": "\"The Seven Deadly Sins: The Weak\"",
    "box": "19x3"
   },
   {
    "id": "s105:0137c",
    "op": "14",
    "jp": "物理的な力によるものでなくとも、\nこの世界には様々な力が\nあふれいている。",
-   "en": "",
+   "en": "Even apart from physical might, this world overflows with every kind of power.",
    "box": "19x3"
   },
   {
    "id": "s105:013ce",
    "op": "14",
    "jp": "弱者であることを自ら認め、\n力を得ることをあきらめた\n者の存在は、世界を弱体化させ、",
-   "en": "",
+   "en": "Those who admit they are weak and give up on gaining power enfeeble the world by existing,",
    "box": "19x3"
   },
   {
    "id": "s105:0142a",
    "op": "14",
    "jp": "滅びへと向かわせる。",
-   "en": "",
+   "en": "and steer it toward ruin.",
    "box": "19x3"
   },
   {
    "id": "s105:01446",
    "op": "14",
    "jp": "弱肉強食の自然の摂理にも\n反する大罪である。",
-   "en": "",
+   "en": "It is a deadly sin that defies nature's law: the strong eat the weak.",
    "box": "19x3"
   },
   {
    "id": "s105:0148e",
    "op": "14",
    "jp": "\n　　　　『七つの大罪：友情』",
-   "en": "",
+   "en": "\"The Seven Deadly Sins: Friendship\"",
    "box": "19x3"
   },
   {
    "id": "s105:014b4",
    "op": "14",
    "jp": "元来人類は、自分を危機から\n助け出してくれる可能性の高い\n相手との相互補助を目的とし",
-   "en": "",
+   "en": "Mankind is by nature an animal that seeks mutual aid with those most likely to rescue it from danger,",
    "box": "19x3"
   },
   {
    "id": "s105:01510",
    "op": "14",
    "jp": "集団で行動をする動物ではあるが\nそれらはあくまでお互いの利害に\n関わる取引にすぎない。",
-   "en": "",
+   "en": "and so acts in groups, but these are no more than deals in mutual interest.",
    "box": "19x3"
   },
   {
    "id": "s105:0156e",
    "op": "14",
    "jp": "相手に対してなんの打算的な\n計算もなしに、助け、支え合うなど、\nなんと偽善的な行為であろうか！？",
-   "en": "",
+   "en": "To help and support another without any calculation of gain: what an act of hypocrisy!?",
    "box": "19x3"
   },
   {
    "id": "s105:015d6",
    "op": "14",
    "jp": "この世界を迷走させようとする\n大罪である！！",
-   "en": "",
+   "en": "It is a deadly sin that would send this world astray!!",
    "box": "19x3"
   },
   {
    "id": "s105:0161e",
    "op": "14",
    "jp": "\n　　　　『七つの大罪：平等』",
-   "en": "",
+   "en": "\"The Seven Deadly Sins: Equality\"",
    "box": "19x3"
   },
   {
    "id": "s105:01644",
    "op": "14",
    "jp": "人が産まれ落ちたその時から\n等しく立場が同じ状態である",
-   "en": "",
+   "en": "A moment when people stood on equal footing from the time they were born...",
    "box": "19x3"
   },
   {
    "id": "s105:01682",
    "op": "14",
    "jp": "瞬間など、果たして歴史上一度\nたりともあったであろうか！？",
-   "en": "",
+   "en": "has there been even one, in all of history!?",
    "box": "19x3"
   },
   {
    "id": "s105:016c4",
    "op": "14",
    "jp": "貧富の差、力の差こそが、その差を\n埋めようとする人々の糧となり、\n原動力となりえ・・・",
-   "en": "",
+   "en": "It is the gaps of wealth and strength that feed those striving to close them, and drive them on...",
    "box": "19x3"
   },
   {
    "id": "s105:01722",
    "op": "14",
    "jp": "有形無形に存在している階級\nこそが、世界の秩序を生み出して\nいるのだ！",
-   "en": "",
+   "en": "It is class, in all its seen and unseen forms, that gives birth to the order of the world!",
    "box": "19x3"
   },
   {
    "id": "s105:01770",
    "op": "14",
    "jp": "これこそ世界の秩序を壊そうとする\n大罪である！",
-   "en": "",
+   "en": "This, surely, is a deadly sin that would destroy that order!",
    "box": "19x3"
   },
   {
    "id": "s105:017ba",
    "op": "14",
    "jp": "\n　　　　『七つの大罪：愛』",
-   "en": "",
+   "en": "\"The Seven Deadly Sins: Love\"",
    "box": "19x3"
   },
   {
    "id": "s105:017de",
    "op": "14",
    "jp": "この世には初めからありもしない\n妄想を語る事こそが、",
-   "en": "",
+   "en": "To speak of a delusion that never existed in this world to begin with",
    "box": "19x3"
   },
   {
    "id": "s105:0181a",
    "op": "14",
    "jp": "七つの大罪の中で最も重い\n罪とされている！！",
-   "en": "",
+   "en": "is held to be the gravest of the Seven Deadly Sins!!",
    "box": "19x3"
   },
   {
    "id": "s105:0184e",
    "op": "14",
    "jp": "実際には動物として訪れた\n発情期をあえて曲解したために、",
-   "en": "",
+   "en": "By willfully misreading what is really just an animal's mating season,",
    "box": "19x3"
   },
   {
    "id": "s105:0188e",
    "op": "14",
    "jp": "人はその精神に歪みをきたし、\n思考が鈍り、情緒不安定に陥る。",
-   "en": "",
+   "en": "people warp their minds, dull their thoughts and fall into emotional instability.",
    "box": "19x3"
   },
   {
    "id": "s105:018d2",
    "op": "14",
    "jp": "これまでにも何億という人々の\n人生を狂わせてきただろうか！？",
-   "en": "",
+   "en": "How many hundreds of millions of lives has it ruined until now!?",
    "box": "19x3"
   },
   {
    "id": "s105:01916",
    "op": "14",
    "jp": "この世界の繁栄を破壊する\n大罪である！",
-   "en": "",
+   "en": "It is a deadly sin that destroys this world's prosperity!",
    "box": "19x3"
   },
   {
    "id": "s105:01956",
    "op": "14",
    "jp": "『別冊おまじないハンドぶっく』\n　（効き目バツグン、リリス様の黒魔術）",
-   "en": "",
+   "en": "\"Charm Handy Book Supplement\"\n(Super effective! Lilith-sama's Black Magic)",
    "box": "19x3"
   },
   {
    "id": "s105:019a4",
    "op": "14",
    "jp": "内気でどうしても彼を押し倒せない\nアナタ・・・",
-   "en": "",
+   "en": "You, too shy to ever push him down...",
    "box": "19x3"
   },
   {
    "id": "s105:019da",
    "op": "14",
    "jp": "そんなアナタに、今回はお勧めの\n黒魔法を伝授しちゃうわ！！",
-   "en": "",
+   "en": "This time, we're passing on a black magic spell we recommend just for you!!",
    "box": "19x3"
   },
   {
    "id": "s105:01a1c",
    "op": "14",
    "jp": "究極の男獲得法！！",
-   "en": "",
+   "en": "The ultimate way to land a man!!",
    "box": "19x3"
   },
   {
    "id": "s105:01a36",
    "op": "14",
    "jp": "それは怠惰を司る大天使\nリリス様の誕生日である\n２月１４日に・・・",
-   "en": "",
+   "en": "On February 14, birthday of Lilith-sama, the great angel who rules sloth...",
    "box": "19x3"
   },
   {
    "id": "s105:01a80",
    "op": "14",
    "jp": "自分の獲物に、チョコを\n食べさせる事だと言われているの！",
-   "en": "",
+   "en": "they say you must feed your prey chocolate!",
    "box": "19x3"
   },
   {
    "id": "s105:01ac0",
    "op": "14",
    "jp": "大天使リリス様といえば・・・\n元々は大悪神ゴッドに創られた\n罪深きサルの最初のメスで・・・",
-   "en": "",
+   "en": "As for the great angel Lilith-sama... she was originally the first female of the sinful apes made by God, the Great Evil God...",
    "box": "19x3"
   },
   {
    "id": "s105:01b22",
    "op": "14",
    "jp": "アダムと呼ばれるオスザルの\n最初の妻だった！？",
-   "en": "",
+   "en": "and first wife of the male ape called Adam!?",
    "box": "19x3"
   },
   {
    "id": "s105:01b58",
    "op": "14",
    "jp": "なんて学説を唱える、罰当たりな\n神官達もいるんだけど・・・",
-   "en": "",
+   "en": "Or so claim some blasphemous priests, anyway...",
    "box": "19x3"
   },
   {
    "id": "s105:01b9a",
    "op": "14",
    "jp": "その類い希なる魅力は、\nメフィストフェレス様の\n花嫁の一人に選ばれるほどで、",
-   "en": "",
+   "en": "But her rare charms were such that she was chosen as one of Mephistopheles-sama's brides,",
    "box": "19x3"
   },
   {
    "id": "s105:01bee",
    "op": "14",
    "jp": "出産を司る大天使となられてからは\n１日に百人の子供を産み続けたと\n言われているのよ！",
-   "en": "",
+   "en": "and once she became the great angel who rules childbirth, they say she bore a hundred children a day!",
    "box": "19x3"
   },
   {
    "id": "s105:01c4a",
    "op": "14",
    "jp": "おまじないのやり方は至って簡単！\nまずは手作りチョコを作ります！！",
-   "en": "",
+   "en": "The charm is dead simple! First, make handmade chocolate!!",
    "box": "19x3"
   },
   {
    "id": "s105:01c94",
    "op": "14",
    "jp": "材料はカカオの実をνって牛乳や\nバター、砂糖などを加え・・・",
-   "en": "",
+   "en": "Roast cacao beans, add milk, butter, sugar and so on...",
    "box": "19x3"
   },
   {
    "id": "s105:01cd8",
    "op": "14",
    "jp": "仕上げに麻の葉っぱとトリカブトを\nすった物を入れれば、ハイ完成！！",
-   "en": "",
+   "en": "To finish, add ground hemp leaf and wolfsbane, and ta-da, all done!!",
    "box": "19x3"
   },
   {
    "id": "s105:01d22",
    "op": "14",
    "jp": "あとはアナタの狙った獲物に\n渡すだけ・・・！",
-   "en": "",
+   "en": "Then just hand it to the prey you've got your eye on...!",
    "box": "19x3"
   },
   {
    "id": "s105:01d56",
    "op": "14",
    "jp": "まんまと口にさえ入れてしまえば、\n彼はもうメロメロのフラフラよ！！",
-   "en": "",
+   "en": "Once it's safely in his mouth, he's head over heels and reeling!!",
    "box": "19x3"
   },
   {
    "id": "s105:01da0",
    "op": "14",
    "jp": "さあ怖がらないでアナタも・・・\nレッツ・クッキング！",
-   "en": "",
+   "en": "So don't be scared, you too... Let's Cooking!",
    "box": "19x3"
   },
   {
    "id": "s105:01dfe",
    "op": "14",
    "jp": "\n　　　　『七つの美徳：憤怒』",
-   "en": "",
+   "en": "\"The Seven Virtues: Wrath\"",
    "box": "19x3"
   },
   {
    "id": "s105:01e24",
    "op": "14",
    "jp": "怒りという感情こそ、全ての\n感情の中でも、最も人を奮い立たせ\n行動的にさせる力の原動力であり、",
-   "en": "",
+   "en": "The feeling of anger is, of all feelings, the force that most rouses people and spurs them to action,",
    "box": "19x3"
   },
   {
    "id": "s105:01e8a",
    "op": "14",
    "jp": "絶えず世の中を、より良き方向へと\n変革させる・・・",
-   "en": "",
+   "en": "constantly changing the world for the better...",
    "box": "19x3"
   },
   {
    "id": "s105:01ec4",
    "op": "14",
    "jp": "重要な感情であるといえよう。",
-   "en": "",
+   "en": "It may well be called a vital emotion.",
    "box": "19x3"
   },
   {
    "id": "s105:01ee8",
    "op": "14",
    "jp": "人々がより活動的に生き抜く為に\n必要不可欠な力の源である！！",
-   "en": "",
+   "en": "It is the indispensable source of power for living life more actively!!",
    "box": "19x3"
   },
   {
    "id": "s105:01f3e",
    "op": "14",
    "jp": "\n　　　　『七つの美徳：Ηり』",
-   "en": "",
+   "en": "\"The Seven Virtues: Pride\"",
    "box": "19x3"
   },
   {
    "id": "s105:01f64",
    "op": "14",
    "jp": "強者があらかじめ、自分が強い事を\n周りに対して知らしめておく事は、\n強者の当然の義務であり、",
-   "en": "",
+   "en": "For the strong to make their strength known in advance is their natural duty,",
    "box": "19x3"
   },
   {
    "id": "s105:01fc8",
    "op": "14",
    "jp": "それを怠れば、\n自らの立場を狙う新たなる挑戦者と、",
-   "en": "",
+   "en": "and if they neglect it, then against new challengers after their position",
    "box": "19x3"
   },
   {
    "id": "s105:02002",
    "op": "14",
    "jp": "永久に戦い続けなければならない\n羽目となるであろう。",
-   "en": "",
+   "en": "they will find themselves forced to fight on forever.",
    "box": "19x3"
   },
   {
    "id": "s105:0203e",
    "op": "14",
    "jp": "言うなれば、\n自分より弱い愚か者達に対する、",
-   "en": "",
+   "en": "It is, so to speak, toward fools weaker than oneself,",
    "box": "19x3"
   },
   {
    "id": "s105:02072",
    "op": "14",
    "jp": "最低限のマナーであるといえよう！",
-   "en": "",
+   "en": "the bare minimum of good manners!",
    "box": "19x3"
   },
   {
    "id": "s105:020ae",
    "op": "14",
    "jp": "\n　　　　『七つの美徳：嫉妬』",
-   "en": "",
+   "en": "\"The Seven Virtues: Envy\"",
    "box": "19x3"
   },
   {
    "id": "s105:020d4",
    "op": "14",
    "jp": "有能な人物ほど周りの人間から、\n妬かれたり、嫉まれたりする物であり\n言いかえればその人物の優秀さを示す",
-   "en": "",
+   "en": "The more able a person, the more those around them burn with jealousy and envy. In other words, of that person's excellence, it is",
    "box": "19x3"
   },
   {
    "id": "s105:02142",
    "op": "14",
    "jp": "最も解りやすいバロメーターのような\n物である！！",
-   "en": "",
+   "en": "the easiest barometer to read!!",
    "box": "19x3"
   },
   {
    "id": "s105:0217a",
    "op": "14",
    "jp": "また男女間においては、自分の子孫を\n後世に正しく伝え続けていくための\n牽制として・・・",
-   "en": "",
+   "en": "Between men and women, too, as a deterrent to ensure one's own line is rightly passed down...",
    "box": "19x3"
   },
   {
    "id": "s105:021d8",
    "op": "14",
    "jp": "有効な手段の一つであるといえよう！",
-   "en": "",
+   "en": "it may be called one effective measure!",
    "box": "19x3"
   },
   {
    "id": "s105:02216",
    "op": "14",
    "jp": "\n　　　　『七つの美徳：怠惰』",
-   "en": "",
+   "en": "\"The Seven Virtues: Sloth\"",
    "box": "19x3"
   },
   {
    "id": "s105:0223c",
    "op": "14",
    "jp": "自分の体を休ませたいという欲求は、",
-   "en": "",
+   "en": "The desire to rest one's body",
    "box": "19x3"
   },
   {
    "id": "s105:02266",
    "op": "14",
    "jp": "動物が、自分の体調をベストの状態に\n保ち続けようとする危険信号のような\n物であり・・・",
-   "en": "",
+   "en": "is a kind of warning signal by which an animal keeps itself in the best condition...",
    "box": "19x3"
   },
   {
    "id": "s105:022c4",
    "op": "14",
    "jp": "休みたいときには死ぬまで休む！",
-   "en": "",
+   "en": "When you want to rest, rest until you die!",
    "box": "19x3"
   },
   {
    "id": "s105:022ea",
    "op": "14",
    "jp": "これこそが自然界における\n健康管理の大原則である！！",
-   "en": "",
+   "en": "This is the great principle of health care in the natural world!!",
    "box": "19x3"
   },
   {
    "id": "s105:0233a",
    "op": "14",
    "jp": "\n　　　　『七つの美徳：暴食』",
-   "en": "",
+   "en": "\"The Seven Virtues: Gluttony\"",
    "box": "19x3"
   },
   {
    "id": "s105:02360",
    "op": "14",
    "jp": "人間いつ自分が職を失い飢餓的状態に\nなるかなど、一切解らないのだから",
-   "en": "",
+   "en": "Since no one can ever know when they might lose their job and face starvation,",
    "box": "19x3"
   },
   {
    "id": "s105:023ac",
    "op": "14",
    "jp": "食べられる時には、食べられるだけ\n食べる！！",
-   "en": "",
+   "en": "when you can eat, eat all you can!!",
    "box": "19x3"
   },
   {
    "id": "s105:023e0",
    "op": "14",
    "jp": "これこそが弱肉強食の自然界における",
-   "en": "",
+   "en": "This, in a natural world where the strong eat the weak,",
    "box": "19x3"
   },
   {
    "id": "s105:0240a",
    "op": "14",
    "jp": "重要な摂理である。",
-   "en": "",
+   "en": "is a vital law.",
    "box": "19x3"
   },
   {
    "id": "s105:02436",
    "op": "14",
    "jp": "\n　　　　『七つの美徳：強欲』",
-   "en": "",
+   "en": "\"The Seven Virtues: Greed\"",
    "box": "19x3"
   },
   {
    "id": "s105:0245c",
    "op": "14",
    "jp": "食欲・性欲・睡眠欲といった\n基本的欲求は、どれも本来動物が\n自然界で生き抜いていくために、",
-   "en": "",
+   "en": "Basic desires such as hunger, lust and sleep are, at root, what animals need to survive in the natural world:",
    "box": "19x3"
   },
   {
    "id": "s105:024be",
    "op": "14",
    "jp": "必要不可欠な感情であり、それらの\n欲求を追い求める事は、動物として\n至極当然の行動である！！",
-   "en": "",
+   "en": "indispensable feelings, and to pursue them is perfectly natural behavior for an animal!!",
    "box": "19x3"
   },
   {
    "id": "s105:02522",
    "op": "14",
    "jp": "また弱肉強食が万物不変の定理で\nある以上、強い者が全てを手に入れる\nのもまた、自然の摂理であり・・・",
-   "en": "",
+   "en": "And since \"the strong eat the weak\" is the unchanging rule of all things, that the strong take everything is also nature's law...",
    "box": "19x3"
   },
   {
    "id": "s105:0258e",
    "op": "14",
    "jp": "それらを求めることを放棄した動物は\nただ、消え去るのみなのだ！！",
-   "en": "",
+   "en": "An animal that gives up seeking these things can only fade away!!",
    "box": "19x3"
   },
   {
    "id": "s105:025ea",
    "op": "14",
    "jp": "\n　　　　『七つの美徳：欲情』",
-   "en": "",
+   "en": "\"The Seven Virtues: Lust\"",
    "box": "19x3"
   },
   {
    "id": "s105:02610",
    "op": "14",
    "jp": "全ての動物にとって、自分の種族を\nより多く繁栄させていく事こそが\n最も重要な役割の一つであり・・・",
-   "en": "",
+   "en": "For every animal, making its own species thrive in greater numbers is one of its most important roles...",
    "box": "19x3"
   },
   {
    "id": "s105:0267a",
    "op": "14",
    "jp": "誰かに欲情し、子造りに励んで、",
-   "en": "",
+   "en": "To lust after someone, to work hard at making children,",
    "box": "19x3"
   },
   {
    "id": "s105:026a0",
    "op": "14",
    "jp": "自分の親族を増殖させて\nいく事こそが・・・",
-   "en": "",
+   "en": "and so to multiply one's own kin...",
    "box": "19x3"
   },
   {
    "id": "s105:026d2",
    "op": "14",
    "jp": "種族保存本能に裏打ちされた、\n基本的な欲求であるといえよう。",
-   "en": "",
+   "en": "is a basic desire, backed by the instinct to preserve the species.",
    "box": "19x3"
   },
   {
    "id": "s105:02716",
    "op": "14",
    "jp": "七つの美徳の中でも、最も遵守\nされるべき感情である・・・",
-   "en": "",
+   "en": "Among the Seven Virtues, it is the feeling most to be observed...",
    "box": "19x3"
   }
  ]

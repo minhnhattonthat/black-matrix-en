@@ -9,7 +9,7 @@
    "id": "s108:00032",
    "op": "15",
    "jp": "大ケガをしたキミを見た時・・・\nボクは胸が潰れそうになったよ。",
-   "en": "",
+   "en": "When I saw you hurt so bad... it about crushed my heart.",
    "box": "17x3",
    "face": 9
   },
@@ -17,7 +17,7 @@
    "id": "s108:00082",
    "op": "15",
    "jp": "キミが、もしも死んだりしたら・・・",
-   "en": "",
+   "en": "If you ever went and died...",
    "box": "17x3",
    "face": 9
   },
@@ -25,7 +25,7 @@
    "id": "s108:000b6",
    "op": "15",
    "jp": "またボクは自分の本当の素顔を・・・隠したまま生き続けなきゃ\nならなくなる・・・・",
-   "en": "",
+   "en": "I'd have to go on living with my true face... hidden, all over again....",
    "box": "17x3",
    "face": 9
   },
@@ -33,7 +33,7 @@
    "id": "s108:0011a",
    "op": "15",
    "jp": "キミが側にいてくれさえすれば、",
-   "en": "",
+   "en": "As long as you're by my side,",
    "box": "17x3",
    "face": 9
   },
@@ -41,7 +41,7 @@
    "id": "s108:0014a",
    "op": "15",
    "jp": "ボクは・・・\nボクは他には何んにもいらないのに！",
-   "en": "",
+   "en": "I... I don't need anything else at all!",
    "box": "17x3",
    "face": 9
   },
@@ -49,7 +49,7 @@
    "id": "s108:0018e",
    "op": "15",
    "jp": "キミのためなら・・・\nどんなことでも出来る。",
-   "en": "",
+   "en": "For you... I can do anything.",
    "box": "17x3",
    "face": 9
   },
@@ -57,7 +57,7 @@
    "id": "s108:001ce",
    "op": "15",
    "jp": "例えそれが、\nどんな大罪に問われようとも・・",
-   "en": "",
+   "en": "Even if they charge me with the deadliest sin there is..",
    "box": "17x3",
    "face": 9
   }

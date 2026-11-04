@@ -9,7 +9,7 @@
    "id": "s99:0004a",
    "op": "15",
    "jp": "えっ！",
-   "en": "",
+   "en": "Huh!",
    "box": "17x3",
    "face": 9
   },
@@ -17,7 +17,7 @@
    "id": "s99:00062",
    "op": "15",
    "jp": "ね、ねえ・・・\nど・どうしたの・・・！？",
-   "en": "",
+   "en": "H-hey... wh-what's wrong...!?",
    "box": "17x3",
    "face": 9
   },
@@ -25,7 +25,7 @@
    "id": "s99:0009e",
    "op": "15",
    "jp": "た、たいへん！！",
-   "en": "",
+   "en": "Oh man, this is bad!!",
    "box": "17x3",
    "face": 9
   },
@@ -33,7 +33,7 @@
    "id": "s99:000c2",
    "op": "15",
    "jp": "ねえ、しっかりしてよ・・・！！",
-   "en": "",
+   "en": "Hey, snap out of it...!!",
    "box": "17x3",
    "face": 9
   },
@@ -41,7 +41,7 @@
    "id": "s99:0012e",
    "op": "15",
    "jp": "その本は、この世界ではオカルトって呼ばれているもので・・・",
-   "en": "",
+   "en": "That book's what they call occult in this world...",
    "box": "17x3",
    "face": 9
   },
@@ -49,7 +49,7 @@
    "id": "s99:0017a",
    "op": "15",
    "jp": "読む人はみんなおかしな人だって\n他人から言われちゃうんだ・・・",
-   "en": "",
+   "en": "Anybody who reads it gets called a weirdo by everybody else...",
    "box": "17x3",
    "face": 9
   },
@@ -57,7 +57,7 @@
    "id": "s99:001ca",
    "op": "15",
    "jp": "やっぱり、変なのかなボク！？",
-   "en": "",
+   "en": "Guess I really am weird, huh!?",
    "box": "17x3",
    "face": 9
   },
@@ -65,7 +65,7 @@
    "id": "s99:0020e",
    "op": "15",
    "jp": "その本を見ちゃったんだね・・・",
-   "en": "",
+   "en": "So you saw that book, huh...",
    "box": "17x3",
    "face": 9
   },
@@ -73,7 +73,7 @@
    "id": "s99:0023e",
    "op": "15",
    "jp": "その中身をどう思うかは・・・",
-   "en": "",
+   "en": "What you make of what's in it...",
    "box": "17x3",
    "face": 9
   },
@@ -81,7 +81,7 @@
    "id": "s99:0026e",
    "op": "15",
    "jp": "キミ自身が考えて・・・\nボクからは、なんとも・・・",
-   "en": "",
+   "en": "that's for you to figure out... I can't really say...",
    "box": "17x3",
    "face": 9
   }

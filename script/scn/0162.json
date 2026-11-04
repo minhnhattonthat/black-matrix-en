@@ -9,7 +9,7 @@
    "id": "s162:00836",
    "op": "15",
    "jp": "くっ！\nここに来てさらに新手かっ！",
-   "en": "",
+   "en": "Tch! More of them, at a time like this!",
    "box": "17x3",
    "face": 1
   },
@@ -17,7 +17,7 @@
    "id": "s162:0087a",
    "op": "15",
    "jp": "おい爺さん、\nまさかあの鉄の固まりが・・・",
-   "en": "",
+   "en": "Hey, old man, don't tell me that hunk of iron...",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s162:008b6",
    "op": "15",
    "jp": "伝説の大邪神の鎧って奴なのか！？",
-   "en": "",
+   "en": "is that legendary Great Evil God's armor!?",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s162:008f6",
    "op": "15",
    "jp": "ち・・ちがう、あれは多分・・・",
-   "en": "",
+   "en": "N... no, that is most likely...",
    "box": "17x3",
    "face": 30
   },
@@ -41,7 +41,7 @@
    "id": "s162:00926",
    "op": "15",
    "jp": "大邪神達よりは、力が数段劣る\n悪魔の鎧を身に着けた・・・",
-   "en": "",
+   "en": "one clad in a devil's armor, several grades weaker than the Great Evil Gods'...",
    "box": "17x3",
    "face": 30
   },
@@ -49,7 +49,7 @@
    "id": "s162:00972",
    "op": "15",
    "jp": "邪道騎士というやつじゃ！",
-   "en": "",
+   "en": "what they call a Heretic Knight, my boy!",
    "box": "17x3",
    "face": 30
   }

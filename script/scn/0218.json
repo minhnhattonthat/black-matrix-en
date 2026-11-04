@@ -17,7 +17,7 @@
    "id": "s218:009aa",
    "op": "15",
    "jp": "結局は奴隷一人を助けた所で、\nここが無くならない限りはまた、\n新しい奴隷が連れてこられる・・・",
-   "en": "",
+   "en": "Save one slave, and as long as this place still stands, they just haul in a new one...",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s218:00a1a",
    "op": "15",
    "jp": "俺自身、何度この場所を\n燃やしちまおうと\n思ったか解らねえ！！",
-   "en": "",
+   "en": "I can't tell ya how many times I've wanted to burn this place down myself!!",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s218:00a6a",
    "op": "15",
    "jp": "だがここを燃やしたところで・・・",
-   "en": "",
+   "en": "But burn it down...",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s218:00a9e",
    "op": "15",
    "jp": "奴隷市の場所が変わるだけで\n実際には、何も変わりはしねえ！",
-   "en": "",
+   "en": "and the slave market just moves. Nothin' actually changes!",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s218:00aea",
    "op": "15",
    "jp": "結局はこの世の中を\n変えちまうしか・・・",
-   "en": "",
+   "en": "So in the end, changin' this whole damn world's...",
    "box": "17x3",
    "face": 2
   },
@@ -57,7 +57,7 @@
    "id": "s218:00b26",
    "op": "15",
    "jp": "オレ達が自由になる方法は、\nねえっていうのか・・・！！",
-   "en": "",
+   "en": "the only way we go free, is that it...!!",
    "box": "17x3",
    "face": 2
   },
@@ -73,7 +73,7 @@
    "id": "s218:00c02",
    "op": "15",
    "jp": "オマエは相変わらずだな・・・",
-   "en": "",
+   "en": "You haven't changed...",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s218:0106e",
    "op": "15",
    "jp": "きっ・・・\nキサマは・・・",
-   "en": "",
+   "en": "Y... You...",
    "box": "17x3",
    "face": 2
   },
@@ -89,7 +89,7 @@
    "id": "s218:0109a",
    "op": "15",
    "jp": "史上最強の黒き皇帝と\n呼ばれた剣闘士・・・",
-   "en": "",
+   "en": "The gladiator they called the Black Emperor, strongest in history...",
    "box": "17x3",
    "face": 2
   },
@@ -97,7 +97,7 @@
    "id": "s218:010d6",
    "op": "15",
    "jp": "閃光のゼロ！！",
-   "en": "",
+   "en": "Flash Zero!!",
    "box": "17x3",
    "face": 2
   },
@@ -113,7 +113,7 @@
    "id": "s218:01116",
    "op": "15",
    "jp": "一つ尋ねるが、そこにいる\nお嬢さんも・・・",
-   "en": "",
+   "en": "One question. That young lady there...",
    "box": "17x3",
    "face": 12
   },
@@ -121,7 +121,7 @@
    "id": "s218:01152",
    "op": "15",
    "jp": "まさかオマエの戦闘チームの\nメンバーだと言うんじゃ\nないだろうな・・・？",
-   "en": "",
+   "en": "Surely you won't tell me she's on your fighting team too...?",
    "box": "17x3",
    "face": 12
   },
@@ -129,7 +129,7 @@
    "id": "s218:011ba",
    "op": "15",
    "jp": "だったら何だって言うのよ！？",
-   "en": "",
+   "en": "And what if that's so!?",
    "box": "17x3",
    "face": 6
   },
@@ -153,7 +153,7 @@
    "id": "s218:01266",
    "op": "15",
    "jp": "相変わらず・・か・・・",
-   "en": "",
+   "en": "Haven't changed... you say...",
    "box": "17x3",
    "face": 12
   },
@@ -169,7 +169,7 @@
    "id": "s218:012be",
    "op": "15",
    "jp": "オレの斬撃をかわして\n逃げおおせたのは・・・",
-   "en": "",
+   "en": "Dodging my blade and getting away...",
    "box": "17x3",
    "face": 12
   },
@@ -177,7 +177,7 @@
    "id": "s218:012fe",
    "op": "15",
    "jp": "後にも先にもオマエだけだ・・・",
-   "en": "",
+   "en": "you're the only one who ever has, before or since...",
    "box": "17x3",
    "face": 12
   },
@@ -185,7 +185,7 @@
    "id": "s218:0132e",
    "op": "15",
    "jp": "もしもオレとの決着をつける\n気があるんなら・・・",
-   "en": "",
+   "en": "If you've got a mind to settle this with me...",
    "box": "17x3",
    "face": 12
   },
@@ -193,7 +193,7 @@
    "id": "s218:01372",
    "op": "15",
    "jp": "例の闘技場で待っている・・・",
-   "en": "",
+   "en": "I'll be waiting at that Arena...",
    "box": "17x3",
    "face": 12
   },
@@ -201,7 +201,7 @@
    "id": "s218:01412",
    "op": "15",
    "jp": "もっともオレの元にたどり着くまで、勝ち続けられればの話だが・・・",
-   "en": "",
+   "en": "Provided you can keep winning all the way to me, that is...",
    "box": "17x3",
    "face": 12
   },
@@ -217,7 +217,7 @@
    "id": "s218:0186a",
    "op": "15",
    "jp": "いったい奴は・・・・・",
-   "en": "",
+   "en": "Just who is he.....",
    "box": "17x3",
    "face": 1
   },
@@ -225,7 +225,7 @@
    "id": "s218:018a2",
    "op": "15",
    "jp": "奴は剣闘史上で唯一人、",
-   "en": "",
+   "en": "He's the one man in gladiator history,",
    "box": "17x3",
    "face": 2
   },
@@ -233,7 +233,7 @@
    "id": "s218:018ca",
    "op": "15",
    "jp": "黒き羽を持った身分で\n戦い続ける男・・・",
-   "en": "",
+   "en": "who keeps fightin' with the status of a Black Wing...",
    "box": "17x3",
    "face": 2
   },
@@ -241,7 +241,7 @@
    "id": "s218:01906",
    "op": "15",
    "jp": "そして・・・",
-   "en": "",
+   "en": "And...",
    "box": "17x3",
    "face": 2
   },
@@ -249,7 +249,7 @@
    "id": "s218:01926",
    "op": "15",
    "jp": "この俺の右目から光を奪い・・・",
-   "en": "",
+   "en": "the man who took the light from this right eye of mine...",
    "box": "17x3",
    "face": 2
   },
@@ -257,7 +257,7 @@
    "id": "s218:01956",
    "op": "15",
    "jp": "俺のかつての女房を\n殺した男だ・・・",
-   "en": "",
+   "en": "and killed the woman who used to be my wife...",
    "box": "17x3",
    "face": 2
   },
@@ -281,7 +281,7 @@
    "id": "s218:01bb2",
    "op": "15",
    "jp": "行こう・・・",
-   "en": "",
+   "en": "Let's go...",
    "box": "17x3",
    "face": 2
   },
@@ -289,7 +289,7 @@
    "id": "s218:01bd2",
    "op": "15",
    "jp": "奴とはどのみち・・・\n決着をつけなきゃならねえ・・・",
-   "en": "",
+   "en": "Me and him have gotta settle this... one way or another...",
    "box": "17x3",
    "face": 2
   },
@@ -305,7 +305,7 @@
    "id": "s218:01c62",
    "op": "15",
    "jp": "馬鹿かお前達は・・・",
-   "en": "",
+   "en": "Are you people stupid...?",
    "box": "17x3",
    "face": 104
   },
@@ -313,7 +313,7 @@
    "id": "s218:020c6",
    "op": "15",
    "jp": "何をグダグダほざいているのだ！！",
-   "en": "",
+   "en": "What the hell are you yappin' about!!",
    "box": "17x3",
    "face": 107
   },
@@ -321,7 +321,7 @@
    "id": "s218:02106",
    "op": "15",
    "jp": "きっ・・・\nキサマは・・・",
-   "en": "",
+   "en": "Y... You...",
    "box": "17x3",
    "face": 2
   },
@@ -329,7 +329,7 @@
    "id": "s218:02132",
    "op": "15",
    "jp": "退廃の剣闘士とうたわれた、\n奴隷ハンター・・・",
-   "en": "",
+   "en": "The slave hunter they hailed as the Gladiator of Decadence...",
    "box": "17x3",
    "face": 2
   },
@@ -337,7 +337,7 @@
    "id": "s218:02172",
    "op": "15",
    "jp": "不発弾のゼファル！！",
-   "en": "",
+   "en": "Zephar the Dud!!",
    "box": "17x3",
    "face": 2
   },
@@ -361,7 +361,7 @@
    "id": "s218:021d6",
    "op": "15",
    "jp": "一つ尋ねるが、そこにいる\n筋肉質の奴隷は・・・",
-   "en": "",
+   "en": "One question. That muscle-bound slave there...",
    "box": "17x3",
    "face": 107
   },
@@ -369,7 +369,7 @@
    "id": "s218:02216",
    "op": "15",
    "jp": "まさかオマエ達の\n仲間ではあるまいな・・・？",
-   "en": "",
+   "en": "Surely he ain't one of yours...?",
    "box": "17x3",
    "face": 107
   },
@@ -377,7 +377,7 @@
    "id": "s218:02262",
    "op": "15",
    "jp": "だったら何だって言うのよ！？",
-   "en": "",
+   "en": "And what if that's so!?",
    "box": "17x3",
    "face": 6
   },
@@ -393,7 +393,7 @@
    "id": "s218:022d6",
    "op": "15",
    "jp": "いや、なあにね・・・\nその昔、俺がワナにはめて・・・",
-   "en": "",
+   "en": "Nah, nothin' much... Way back, I set a trap...",
    "box": "17x3",
    "face": 107
   },
@@ -401,7 +401,7 @@
    "id": "s218:0231e",
    "op": "15",
    "jp": "監獄送りにしてやった筋肉バカの\nスットコドッコイに・・・",
-   "en": "",
+   "en": "and got a muscle-headed numbskull shipped off to prison...",
    "box": "17x3",
    "face": 107
   },
@@ -409,7 +409,7 @@
    "id": "s218:0236a",
    "op": "15",
    "jp": "そっくりだったモンでね・・・",
-   "en": "",
+   "en": "and he's the spittin' image, that's all...",
    "box": "17x3",
    "face": 107
   },
@@ -417,7 +417,7 @@
    "id": "s218:0242e",
    "op": "15",
    "jp": "やぁ～いスットコドッコイ～！！",
-   "en": "",
+   "en": "Nyah nyah, numbskull~!!",
    "box": "17x3",
    "face": 8
   },
@@ -433,7 +433,7 @@
    "id": "s218:0248e",
    "op": "15",
    "jp": "あぁ・・いや、こやつらは\nそこにいる邪道騎士と・・・",
-   "en": "",
+   "en": "Ah... no. These fellows belong to that Heretic Knight there...",
    "box": "17x3",
    "face": 5
   },
@@ -441,7 +441,7 @@
    "id": "s218:024d6",
    "op": "15",
    "jp": "神官であるわしが飼っておる\n奴隷達じゃ・・・",
-   "en": "",
+   "en": "and to me, a priest. They're our slaves, my boy...",
    "box": "17x3",
    "face": 5
   },
@@ -449,7 +449,7 @@
    "id": "s218:02516",
    "op": "15",
    "jp": "誰かの人違いであろう！！",
-   "en": "",
+   "en": "You must have them mistaken for someone else!!",
    "box": "17x3",
    "face": 5
   },
@@ -465,7 +465,7 @@
    "id": "s218:0255e",
    "op": "15",
    "jp": "まあ、今はそういう事に\nしときますか・・・",
-   "en": "",
+   "en": "Well, we'll leave it at that for now...",
    "box": "17x3",
    "face": 107
   },
@@ -481,7 +481,7 @@
    "id": "s218:025ca",
    "op": "15",
    "jp": "おい、レブロブス・・・",
-   "en": "",
+   "en": "Hey, Leburobus...",
    "box": "17x3",
    "face": 107
   },
@@ -489,7 +489,7 @@
    "id": "s218:025f2",
    "op": "15",
    "jp": "もしもオレとの決着をつける\n気があんなら・・・",
-   "en": "",
+   "en": "If ya got a mind to settle this with me...",
    "box": "17x3",
    "face": 107
   },
@@ -497,7 +497,7 @@
    "id": "s218:02632",
    "op": "15",
    "jp": "例の闘技場で待ってるぜ・・・",
-   "en": "",
+   "en": "I'll be waitin' at that Arena...",
    "box": "17x3",
    "face": 107
   },
@@ -505,7 +505,7 @@
    "id": "s218:026d2",
    "op": "15",
    "jp": "もっともオレの元にたどり着くまで、勝ち続けられればの話だが・・・",
-   "en": "",
+   "en": "Provided you can keep winning all the way to me, that is...",
    "box": "17x3",
    "face": 107
   },
@@ -521,7 +521,7 @@
    "id": "s218:02c2e",
    "op": "15",
    "jp": "いったい奴は・・・・・",
-   "en": "",
+   "en": "Just who is he.....",
    "box": "17x3",
    "face": 1
   },
@@ -529,7 +529,7 @@
    "id": "s218:02c66",
    "op": "15",
    "jp": "やつはかつてオレの両親を\n殺した男さ・・・・",
-   "en": "",
+   "en": "He's the man who killed my parents, way back....",
    "box": "17x3",
    "face": 2
   },
@@ -537,7 +537,7 @@
    "id": "s218:02ca6",
    "op": "15",
    "jp": "奴は自分自身も剣闘奴隷の身で\nありながら・・・",
-   "en": "",
+   "en": "A gladiator slave himself, and yet...",
    "box": "17x3",
    "face": 2
   },
@@ -545,7 +545,7 @@
    "id": "s218:02ce6",
    "op": "15",
    "jp": "他の白き羽の逃亡奴隷達を\n捕まえては奴隷商人に売りつける\n腐りきった男・・・",
-   "en": "",
+   "en": "he catches other White Wing runaways and sells 'em to slave traders. Rotten to the core...",
    "box": "17x3",
    "face": 2
   },
@@ -553,7 +553,7 @@
    "id": "s218:02d46",
    "op": "15",
    "jp": "そして・・・",
-   "en": "",
+   "en": "And...",
    "box": "17x3",
    "face": 2
   },
@@ -561,7 +561,7 @@
    "id": "s218:02d66",
    "op": "15",
    "jp": "この俺を汚いワナにはめて、\nあのゴルゴダの牢獄へと\nぶち込んだ男だ・・・・！！",
-   "en": "",
+   "en": "he's the man who set a dirty trap for me and threw me into that Golgotha Prison....!!",
    "box": "17x3",
    "face": 2
   },
@@ -585,7 +585,7 @@
    "id": "s218:02fee",
    "op": "15",
    "jp": "行こう・・・",
-   "en": "",
+   "en": "Let's go...",
    "box": "17x3",
    "face": 2
   },
@@ -593,7 +593,7 @@
    "id": "s218:0300e",
    "op": "15",
    "jp": "奴とはどのみち・・・\n決着をつけなきゃならねえ・・・",
-   "en": "",
+   "en": "Me and him have gotta settle this... one way or another...",
    "box": "17x3",
    "face": 2
   },

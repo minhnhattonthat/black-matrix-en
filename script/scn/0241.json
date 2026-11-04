@@ -9,7 +9,7 @@
    "id": "s241:007de",
    "op": "15",
    "jp": "オイ、どうやら後ろから・・・",
-   "en": "",
+   "en": "Hey, looks like somebody...",
    "box": "17x3",
    "face": 1
   },
@@ -17,7 +17,7 @@
    "id": "s241:0080e",
    "op": "15",
    "jp": "つけてくる奴が居るぜ！！",
-   "en": "",
+   "en": "...is tailing us from behind!!",
    "box": "17x3",
    "face": 1
   },
@@ -33,7 +33,7 @@
    "id": "s241:00866",
    "op": "15",
    "jp": "だれだ、キサマ！！\nとっとと姿を現しやがれ・・・！",
-   "en": "",
+   "en": "Who the hell are you!! Show yourself, and make it quick...!",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s241:00efa",
    "op": "15",
    "jp": "きっキサマ・・・\nたしかあの村で見かけた・・・？！",
-   "en": "",
+   "en": "Y... you... Didn't I see you back in that village...!?",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s241:00f4e",
    "op": "15",
    "jp": "突然で驚かせちまったようだが、\nさっきの医者との一戦を見かけたんで気になってついてきちまったんだ！",
-   "en": "",
+   "en": "Sorry to startle ya, comin' outta nowhere, but I saw your scrap with that doctor back there, got curious, and tagged along!",
    "box": "17x3",
    "face": 108
   },
@@ -57,7 +57,7 @@
    "id": "s241:00fc2",
    "op": "15",
    "jp": "どうやら、アンタ達の旅は・・・",
-   "en": "",
+   "en": "Looks to me like this journey of yours...",
    "box": "17x3",
    "face": 108
   },
@@ -65,7 +65,7 @@
    "id": "s241:00ff2",
    "op": "15",
    "jp": "かなりの訳有りであるらしいな！！",
-   "en": "",
+   "en": "...comes with some serious baggage!!",
    "box": "17x3",
    "face": 108
   },
@@ -73,7 +73,7 @@
    "id": "s241:01026",
    "op": "15",
    "jp": "いいよ！皆まで言わなくていい！\n見たところの雰囲気はともかく、",
-   "en": "",
+   "en": "It's cool! No need to say more! Whatever you look like at first glance,",
    "box": "17x3",
    "face": 108
   },
@@ -81,7 +81,7 @@
    "id": "s241:01076",
    "op": "15",
    "jp": "その正体は、お尋ね者の・・・",
-   "en": "",
+   "en": "what you really are is wanted men...",
    "box": "17x3",
    "face": 108
   },
@@ -89,7 +89,7 @@
    "id": "s241:010a6",
    "op": "15",
    "jp": "しかもかなり凶悪な強盗団一味って\n感じだ・・・！",
-   "en": "",
+   "en": "...and a pretty vicious gang of robbers, by the feel of it...!",
    "box": "17x3",
    "face": 108
   },
@@ -97,7 +97,7 @@
    "id": "s241:010ea",
    "op": "15",
    "jp": "いいねぇ～！！",
-   "en": "",
+   "en": "I love it!!",
    "box": "17x3",
    "face": 108
   },
@@ -105,7 +105,7 @@
    "id": "s241:0110a",
    "op": "15",
    "jp": "隠したってわかるぜ！",
-   "en": "",
+   "en": "Hide it all ya want, I can tell!",
    "box": "17x3",
    "face": 108
   },
@@ -113,7 +113,7 @@
    "id": "s241:01132",
    "op": "15",
    "jp": "そこの筋肉の旦那なんか、どうみても剣を振るってついたとしか思えねぇ\n立派な筋肉をしてやがる！！",
-   "en": "",
+   "en": "That muscly gent there, he's got fine muscles ya could only get from swingin' a sword, no two ways about it!!",
    "box": "17x3",
    "face": 108
   },
@@ -121,7 +121,7 @@
    "id": "s241:011a2",
    "op": "15",
    "jp": "まさに山賊以外の何モンでもない\nって面構えだ・・・！",
-   "en": "",
+   "en": "That's a mug that says bandit and nothin' else...!",
    "box": "17x3",
    "face": 108
   },
@@ -129,7 +129,7 @@
    "id": "s241:0120e",
    "op": "15",
    "jp": "ヤァーイ！\n山賊さんぞく～っつ！！",
-   "en": "",
+   "en": "Nyah nyah! Bandit, bandit, baaandit!!",
    "box": "17x3",
    "face": 8
   },
@@ -137,7 +137,7 @@
    "id": "s241:01246",
    "op": "14",
    "jp": "●☆□◆〇♂▽■",
-   "en": "",
+   "en": "#@$%&*!?",
    "box": "17x3",
    "face": 2
   },
@@ -145,7 +145,7 @@
    "id": "s241:01276",
    "op": "15",
    "jp": "くっくっくっ・・・",
-   "en": "",
+   "en": "Heh heh heh...",
    "box": "17x3",
    "face": 1
   },
@@ -153,7 +153,7 @@
    "id": "s241:012aa",
    "op": "15",
    "jp": "男の人生は太く短く！！",
-   "en": "",
+   "en": "A man's life: big and short!!",
    "box": "17x3",
    "face": 108
   },
@@ -161,7 +161,7 @@
    "id": "s241:012d2",
    "op": "15",
    "jp": "黒き羽の男なら、誰でも一度は\nお尋ね者に憧れて・・・",
-   "en": "",
+   "en": "Any black-winged man's dreamed once of bein' a wanted outlaw...",
    "box": "17x3",
    "face": 108
   },
@@ -169,7 +169,7 @@
    "id": "s241:0131a",
    "op": "15",
    "jp": "それこそ好きに暴れ回りたいモンさ！",
-   "en": "",
+   "en": "...and runnin' wild just as he pleases!",
    "box": "17x3",
    "face": 108
   },
@@ -177,7 +177,7 @@
    "id": "s241:0134e",
    "op": "15",
    "jp": "どうだい！\nいっそ俺をアンタ達の仲間に\n加えてくれないか・・・！？",
-   "en": "",
+   "en": "How about it! Why not take me into your gang...!?",
    "box": "17x3",
    "face": 108
   },
@@ -185,21 +185,21 @@
    "id": "s241:013b2",
    "op": "1d",
    "jp": "仲間にする",
-   "en": "",
+   "en": "Recruit",
    "max": 15
   },
   {
    "id": "s241:013c4",
    "op": "1d",
    "jp": "仲間にしない",
-   "en": "",
+   "en": "Don't recruit",
    "max": 15
   },
   {
    "id": "s241:013f6",
    "op": "15",
    "jp": "そうこなくっちゃあ・・・\n俺の名は烈火のパウア！",
-   "en": "",
+   "en": "That's more like it... They call me Paua the Blazing!",
    "box": "17x3",
    "face": 108
   },
@@ -207,7 +207,7 @@
    "id": "s241:0143a",
    "op": "15",
    "jp": "おっと、一旦アンタ達の組織に\n入った以上は、白き羽だろうと\n先輩は先輩だ・・・・",
-   "en": "",
+   "en": "Oh, and now I'm in your outfit, white wings or no, a senior's a senior....",
    "box": "17x3",
    "face": 108
   },
@@ -215,7 +215,7 @@
    "id": "s241:0149e",
    "op": "15",
    "jp": "これからは筋肉の兄貴って・・・\n呼ばせて貰いますぜ！！",
-   "en": "",
+   "en": "From now on I'll be callin' you Big Bro Muscles, sir!!",
    "box": "17x3",
    "face": 108
   },
@@ -223,7 +223,7 @@
    "id": "s241:0150e",
    "op": "15",
    "jp": "くっくっくっ・・・！",
-   "en": "",
+   "en": "Heh heh heh...!",
    "box": "17x3",
    "face": 11
   },
@@ -239,7 +239,7 @@
    "id": "s241:01560",
    "op": "14",
    "jp": "パウアが仲間になった！",
-   "en": "",
+   "en": "Paua joined the party!",
    "box": "17x3",
    "face": 104
   },
@@ -247,7 +247,7 @@
    "id": "s241:015c6",
    "op": "15",
    "jp": "ちっ！\nまあどの道、あの村からは\n出ていく予定だったんだ・・・",
-   "en": "",
+   "en": "Tch! Well, I was leavin' that village one way or another...",
    "box": "17x3",
    "face": 108
   },
@@ -255,7 +255,7 @@
    "id": "s241:01616",
    "op": "15",
    "jp": "また別の道を探す事にするさ・・・！",
-   "en": "",
+   "en": "I'll just find some other road...!",
    "box": "17x3",
    "face": 108
   },
@@ -263,7 +263,7 @@
    "id": "s241:02192",
    "op": "15",
    "jp": "みんな・・・\n僕のために道草を食わせてしまって",
-   "en": "",
+   "en": "Everyone... you had to take this detour because of me...",
    "box": "17x3",
    "face": 3
   },
@@ -271,7 +271,7 @@
    "id": "s241:021d2",
    "op": "15",
    "jp": "ほんとうにごめんね・・・！",
-   "en": "",
+   "en": "I'm really sorry...!",
    "box": "17x3",
    "face": 3
   },
@@ -279,7 +279,7 @@
    "id": "s241:0220e",
    "op": "15",
    "jp": "いいって事よ！\nそれにお前の親父もお前に似て",
-   "en": "",
+   "en": "Don't sweat it! 'Sides, your old man takes after you...",
    "box": "17x3",
    "face": 2
   },
@@ -287,7 +287,7 @@
    "id": "s241:0224e",
    "op": "15",
    "jp": "案外邪悪な人物だったみてぇ\nじゃねえか！！",
-   "en": "",
+   "en": "...turned out to be a pretty wicked guy, didn't he!!",
    "box": "17x3",
    "face": 2
   },
@@ -295,7 +295,7 @@
    "id": "s241:0228a",
    "op": "15",
    "jp": "それに、なんだか昨日までより・・・",
-   "en": "",
+   "en": "And somehow, compared to yesterday...",
    "box": "17x3",
    "face": 2
   },
@@ -303,7 +303,7 @@
    "id": "s241:022be",
    "op": "15",
    "jp": "さらにお前の男前が上がったような\n気がするぜ・・・！！",
-   "en": "",
+   "en": "...I'd say you got even better-lookin', dammit...!!",
    "box": "17x3",
    "face": 2
   },
@@ -311,7 +311,7 @@
    "id": "s241:02316",
    "op": "15",
    "jp": "まあお前と比べれば・・・\nヘビでも百倍は男前なんだが・・・",
-   "en": "",
+   "en": "Well, next to you... even a snake is a hundred times better-looking...",
    "box": "17x3",
    "face": 1
   },
@@ -319,7 +319,7 @@
    "id": "s241:02396",
    "op": "15",
    "jp": "なんだとキサマ～！",
-   "en": "",
+   "en": "What'd you say, you bastard!",
    "box": "17x3",
    "face": 2
   },
@@ -327,7 +327,7 @@
    "id": "s241:023e2",
    "op": "15",
    "jp": "ヘビっていうより、\nウマでしょウマ！！",
-   "en": "",
+   "en": "Not a snake, more like a horse. A horse!!",
    "box": "17x3",
    "face": 10
   },
@@ -335,7 +335,7 @@
    "id": "s241:0241e",
    "op": "14",
    "jp": "●☆□◆〇♂▽■",
-   "en": "",
+   "en": "#@$%&*!?",
    "box": "17x3",
    "face": 2
   },
@@ -343,7 +343,7 @@
    "id": "s241:0244e",
    "op": "15",
    "jp": "まあまあ、とにかくこの丘を越えればいよいよ大邪神の鎧があると\nユダがいっておった・・・",
-   "en": "",
+   "en": "Now, now. In any case, past this hill lies, as Judas told us, the Great Evil God's armor...",
    "box": "17x3",
    "face": 5
   },
@@ -351,7 +351,7 @@
    "id": "s241:024b6",
    "op": "15",
    "jp": "パンデモニウムの街じゃ！",
-   "en": "",
+   "en": "...in the town of Pandemonium!",
    "box": "17x3",
    "face": 5
   },
@@ -359,7 +359,7 @@
    "id": "s241:024e2",
    "op": "15",
    "jp": "ここからは、いっそう気を引き締めてかからねばなるまいて・・・",
-   "en": "",
+   "en": "From here on we must steel ourselves all the more, eh...",
    "box": "17x3",
    "face": 5
   },
@@ -383,7 +383,7 @@
    "id": "s241:0257e",
    "op": "15",
    "jp": "ねぇ・・・",
-   "en": "",
+   "en": "Hey...",
    "box": "17x3",
    "face": 3
   },
@@ -391,7 +391,7 @@
    "id": "s241:0259a",
    "op": "15",
    "jp": "なんだかボクにもキミが言っていた、愛とかって言葉の意味が・・・",
-   "en": "",
+   "en": "Somehow I feel like even I, um, that word you spoke of, love... what it means...",
    "box": "17x3",
    "face": 3
   },
@@ -399,7 +399,7 @@
    "id": "s241:025ea",
    "op": "15",
    "jp": "少しだけ・・・\nわかったような気がするんだ・・・",
-   "en": "",
+   "en": "...just a little... I feel like I understand it...",
    "box": "17x3",
    "face": 3
   },
@@ -439,7 +439,7 @@
    "id": "s241:02702",
    "op": "15",
    "jp": "父さん・・・",
-   "en": "",
+   "en": "Dad...",
    "box": "17x3",
    "face": 3
   }

@@ -41,7 +41,7 @@
    "id": "s297:00b92",
    "op": "15",
    "jp": "ちょっとぉ・・・\n待ちなさいよぉ～！！",
-   "en": "",
+   "en": "Heeey... wait up~!!",
    "box": "17x3",
    "face": 10
   },
@@ -57,7 +57,7 @@
    "id": "s297:013ca",
    "op": "15",
    "jp": "きいゃあああぁぁああぁあ！！",
-   "en": "",
+   "en": "Kyaaaaaaaaaaah!!",
    "box": "17x3",
    "face": 10
   },
@@ -65,7 +65,7 @@
    "id": "s297:01406",
    "op": "15",
    "jp": "きっ、キサマ等一体何を！？",
-   "en": "",
+   "en": "Wh-what the hell are you people doing!?",
    "box": "17x3",
    "face": 1
   },
@@ -73,7 +73,7 @@
    "id": "s297:01442",
    "op": "15",
    "jp": "そこのアナタ！",
-   "en": "",
+   "en": "You there!",
    "box": "17x3",
    "face": 42
   },
@@ -81,7 +81,7 @@
    "id": "s297:01462",
    "op": "15",
    "jp": "私達の料理の秘伝を\n見てしまいましたね！！",
-   "en": "",
+   "en": "You've seen our culinary secret!!",
    "box": "17x3",
    "face": 42
   },
@@ -89,7 +89,7 @@
    "id": "s297:014ae",
    "op": "15",
    "jp": "料理？・・料理だと！？\nあれが料理だってのか！！",
-   "en": "",
+   "en": "Cooking?... Cooking, you say!? You call that cooking!!",
    "box": "17x3",
    "face": 1
   },
@@ -97,7 +97,7 @@
    "id": "s297:01522",
    "op": "15",
    "jp": "じつはバアル様からアナタに\n特別な料理を御馳走するように\n言われているんですよ・・・",
-   "en": "",
+   "en": "As it happens, Baal-sama told us to treat you to a very special dish...",
    "box": "17x3",
    "face": 42
   },
@@ -105,7 +105,7 @@
    "id": "s297:015ba",
    "op": "15",
    "jp": "ちなみに材料は・・・",
-   "en": "",
+   "en": "And the main ingredient is...",
    "box": "17x3",
    "face": 42
   },
@@ -113,7 +113,7 @@
    "id": "s297:01612",
    "op": "15",
    "jp": "アナタ自身です！！",
-   "en": "",
+   "en": "You!!",
    "box": "17x3",
    "face": 42
   },

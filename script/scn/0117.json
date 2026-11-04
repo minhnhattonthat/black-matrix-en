@@ -9,7 +9,7 @@
    "id": "s117:0004a",
    "op": "15",
    "jp": "ほぉ～っ！きれいになったな！！\nオレよりじょうずじゃねえか！",
-   "en": "",
+   "en": "Hooo! Looks clean!! You're better at this than I am!",
    "box": "17x3",
    "face": 12
   },
@@ -17,7 +17,7 @@
    "id": "s117:000c6",
    "op": "15",
    "jp": "ごめんな・・・\n掃除なんかをさせちゃってさ・・・",
-   "en": "",
+   "en": "Sorry... making you clean up and all...",
    "box": "17x3",
    "face": 12
   },
@@ -25,7 +25,7 @@
    "id": "s117:00116",
    "op": "15",
    "jp": "でもリハビリのためだからさ！\nがんばれよ！",
-   "en": "",
+   "en": "But it's for your rehab! Keep at it!",
    "box": "17x3",
    "face": 12
   },
@@ -33,7 +33,7 @@
    "id": "s117:00182",
    "op": "15",
    "jp": "おっと・・・！",
-   "en": "",
+   "en": "Whoa...!",
    "box": "17x3",
    "face": 12
   },
@@ -41,7 +41,7 @@
    "id": "s117:001a2",
    "op": "15",
    "jp": "・・・・ううぅ～～ん！！",
-   "en": "",
+   "en": "....Uhhhmmm!!",
    "box": "17x3",
    "face": 12
   },
@@ -49,7 +49,7 @@
    "id": "s117:001ce",
    "op": "15",
    "jp": "いいっていいって・・・\n後でオレがやっとくからさ！！",
-   "en": "",
+   "en": "Forget it, forget it... I'll handle it later!!",
    "box": "17x3",
    "face": 12
   },
@@ -57,7 +57,7 @@
    "id": "s117:00216",
    "op": "15",
    "jp": "それよりケガしなかったか？",
-   "en": "",
+   "en": "More important, you get hurt?",
    "box": "17x3",
    "face": 12
   },
@@ -65,7 +65,7 @@
    "id": "s117:0025a",
    "op": "15",
    "jp": "オマエって・・・\nほんとになんでもこなすよなぁ・・！",
-   "en": "",
+   "en": "You... really can handle anything, huh..!",
    "box": "17x3",
    "face": 12
   },
@@ -73,7 +73,7 @@
    "id": "s117:002ae",
    "op": "15",
    "jp": "尊敬に値するぜ！",
-   "en": "",
+   "en": "I respect that!",
    "box": "17x3",
    "face": 12
   }

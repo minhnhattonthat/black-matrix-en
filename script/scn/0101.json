@@ -9,7 +9,7 @@
    "id": "s101:0004a",
    "op": "15",
    "jp": "なっ！",
-   "en": "",
+   "en": "What!",
    "box": "17x3",
    "face": 11
   },
@@ -17,7 +17,7 @@
    "id": "s101:00062",
    "op": "15",
    "jp": "ね、ねえ・・・\nど・どうしちゃったの・・・！？",
-   "en": "",
+   "en": "H-hey... wh-what's the matter with you...!?",
    "box": "17x3",
    "face": 11
   },
@@ -25,7 +25,7 @@
    "id": "s101:000a2",
    "op": "15",
    "jp": "た、たいへん！！",
-   "en": "",
+   "en": "Th-this is bad!!",
    "box": "17x3",
    "face": 11
   },
@@ -33,7 +33,7 @@
    "id": "s101:000c6",
    "op": "15",
    "jp": "ねえ、しっかりして・・・！！",
-   "en": "",
+   "en": "Hey, get ahold of yourself...!!",
    "box": "17x3",
    "face": 11
   },
@@ -41,7 +41,7 @@
    "id": "s101:00132",
    "op": "15",
    "jp": "その本は、\nオカルトと呼ばれる物で、",
-   "en": "",
+   "en": "That book is what's known as occult,",
    "box": "17x3",
    "face": 11
   },
@@ -49,7 +49,7 @@
    "id": "s101:0016a",
    "op": "15",
    "jp": "読む人はみんなおかしな人って\n言われてるわ・・・",
-   "en": "",
+   "en": "and everyone who reads it is called a crank...",
    "box": "17x3",
    "face": 11
   },
@@ -57,7 +57,7 @@
    "id": "s101:001ae",
    "op": "15",
    "jp": "まぁ、他人に何を言われようと\nアタシは知ったことじゃないけど。",
-   "en": "",
+   "en": "Well, whatever others say, it's no concern of mine.",
    "box": "17x3",
    "face": 11
   },
@@ -65,7 +65,7 @@
    "id": "s101:00216",
    "op": "15",
    "jp": "それを読んだのね・・・？",
-   "en": "",
+   "en": "So you read it...?",
    "box": "17x3",
    "face": 11
   },
@@ -73,7 +73,7 @@
    "id": "s101:0024e",
    "op": "15",
    "jp": "アンタの感想が聞きたいわ・・・",
-   "en": "",
+   "en": "I want to hear what you thought of it...",
    "box": "17x3",
    "face": 11
   },
@@ -81,7 +81,7 @@
    "id": "s101:0027e",
    "op": "15",
    "jp": "アンタに理解できる内容とも\n思えないけど・・・",
-   "en": "",
+   "en": "Not that I imagine you could understand any of it...",
    "box": "17x3",
    "face": 11
   }

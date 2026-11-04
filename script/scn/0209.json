@@ -9,7 +9,7 @@
    "id": "s209:00642",
    "op": "14",
    "jp": "くそっ！今日もおけらだ！\nあんな奴にかけるんじゃ\nなかったぜ！！！",
-   "en": "",
+   "en": "Damn! Flat broke again today! Shoulda never bet on that guy!!!",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s209:0068c",
    "op": "14",
    "jp": "！\nお前ら強そうだな！",
-   "en": "",
+   "en": "! Say, you folks look tough!",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s209:006e6",
    "op": "14",
    "jp": "そこの栗毛のアンタ！",
-   "en": "",
+   "en": "You there, the chestnut one!",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s209:00702",
    "op": "14",
    "jp": "アンタはなかなかスタミナが\nありそうな、いい筋肉を\nしているぜ・・！",
-   "en": "",
+   "en": "Good muscle on ya, there! Looks like you've got plenty of stamina...!",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s209:0074e",
    "op": "14",
    "jp": "へへっ・・・どうだい！\n俺と一緒に剣闘を\nやってみる気はねえか！？",
-   "en": "",
+   "en": "Heh heh... how about it! Ain't ya up for tryin' some gladiating with me!?",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s209:00798",
    "op": "14",
    "jp": "なんならいい奴を紹介するぜ！",
-   "en": "",
+   "en": "I could even introduce ya to a good one!",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s209:00816",
    "op": "14",
    "jp": "強そうな剣闘士を見分けるコツは、\nまずは筋肉の張りを見分けること！",
-   "en": "",
+   "en": "The trick to spotting a strong gladiator? First, check how firm the muscle is!",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s209:00860",
    "op": "14",
    "jp": "そして、コズミと呼ばれる筋肉痛や\n震え、発汗やふらつきが無いか\nどうかを調べるのが筋ってもんだ！",
-   "en": "",
+   "en": "Then you check for muscle ache -- \"tying up,\" they call it -- and for shakes, sweats or wobbles. That's the proper way!",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s209:00902",
    "op": "14",
    "jp": "おい・・・\nアンタまさか・・・！？",
-   "en": "",
+   "en": "Hey... wait, you can't be...!?",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s209:0092c",
    "op": "14",
    "jp": "数年前に引退した\n伝説の七冠人・・・",
-   "en": "",
+   "en": "the legendary Seven-Crown Man, who retired a few years back...",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s209:00966",
    "op": "14",
    "jp": "うるせえ！\n関係ねえからあっちいってろ！",
-   "en": "",
+   "en": "Shut up! None of your damn business, so beat it!",
    "box": "17x3",
    "face": 2
   },
@@ -113,7 +113,7 @@
    "id": "s209:009ee",
    "op": "14",
    "jp": "なんだって！？\nこの街の領主はどこかだって・・・",
-   "en": "",
+   "en": "What's that!? Where's the lord of this town, ya say...",
    "box": "17x3",
    "face": 104
   },
@@ -121,7 +121,7 @@
    "id": "s209:00a26",
    "op": "14",
    "jp": "そんなの剣闘士のオーナー達が集まるＶＩＰルームに決まってるだろ！？",
-   "en": "",
+   "en": "Where else but the VIP room, where the gladiators' owners gather!?",
    "box": "17x3",
    "face": 104
   },
@@ -129,7 +129,7 @@
    "id": "s209:00aaa",
    "op": "14",
    "jp": "アンタ随分ボロボロの身なりをして\nいるなぁ・・・",
-   "en": "",
+   "en": "You're lookin' awful ragged there, friend...",
    "box": "17x3",
    "face": 104
   },
@@ -137,7 +137,7 @@
    "id": "s209:00ae2",
    "op": "14",
    "jp": "だからってボロをボロボロ\nこぼしたりはしないでくれよ・・・",
-   "en": "",
+   "en": "Just don't go shedding your shreds all over the place...",
    "box": "17x3",
    "face": 104
   },
@@ -153,7 +153,7 @@
    "id": "s209:00b7e",
    "op": "14",
    "jp": "なんだ・・・！？\n次の試合の予想が聞きたいんなら\nこの、週刊剣闘士新聞を買え！！",
-   "en": "",
+   "en": "What's that...!? Want a tip on the next match? Then buy this here Weekly Gladiator News!!",
    "box": "17x3",
    "face": 104
   },
@@ -161,7 +161,7 @@
    "id": "s209:00bd6",
    "op": "14",
    "jp": "直接コーチを受けたいんだったら、\nそうだなぁ・・・",
-   "en": "",
+   "en": "And if you want coaching from me direct, lemme see...",
    "box": "17x3",
    "face": 104
   },
@@ -169,7 +169,7 @@
    "id": "s209:00c10",
    "op": "14",
    "jp": "当たった賞金の１０割増しでなら\n教えてやるよ・・・！",
-   "en": "",
+   "en": "for double whatever you win, I'll teach ya...!",
    "box": "17x3",
    "face": 104
   },
@@ -185,7 +185,7 @@
    "id": "s209:00cb6",
    "op": "14",
    "jp": "あら、いらっしゃい！",
-   "en": "",
+   "en": "Oh, welcome!",
    "box": "17x3",
    "face": 104
   },
@@ -193,7 +193,7 @@
    "id": "s209:00cd2",
    "op": "14",
    "jp": "なあに！？どの剣闘士の券を\n買うつもりなの・・・！？",
-   "en": "",
+   "en": "Yes, dear!? Which gladiator's ticket are you buying, I wonder...!?",
    "box": "17x3",
    "face": 104
   },
@@ -201,7 +201,7 @@
    "id": "s209:00d1a",
    "op": "14",
    "jp": "やめておけ！！",
-   "en": "",
+   "en": "Don't do it!!",
    "box": "17x3",
    "face": 2
   },
@@ -217,7 +217,7 @@
    "id": "s209:00d42",
    "op": "14",
    "jp": "この博打にイカサマはねえが、\nその変わり、物凄い額のテラ銭が\n加えられているんだ・・・",
-   "en": "",
+   "en": "There's no cheatin' in this game, but in its place they tack on one monster of a house cut...",
    "box": "17x3",
    "face": 2
   },
@@ -225,7 +225,7 @@
    "id": "s209:00dae",
    "op": "14",
    "jp": "テラ銭！？",
-   "en": "",
+   "en": "A-A house cut!?",
    "box": "17x3",
    "face": 3
   },
@@ -233,7 +233,7 @@
    "id": "s209:00dce",
    "op": "14",
    "jp": "ああ、博打の配当から差し引かれる\n場所代のようなもんさ・・・！",
-   "en": "",
+   "en": "Yeah, it's kinda like rent for the place, docked right from your payout...!",
    "box": "17x3",
    "face": 2
   },
@@ -241,7 +241,7 @@
    "id": "s209:00e14",
    "op": "14",
    "jp": "つまりは勝っても負けても・・・",
-   "en": "",
+   "en": "Point is, win or lose...",
    "box": "17x3",
    "face": 2
   },
@@ -249,7 +249,7 @@
    "id": "s209:00e3a",
    "op": "14",
    "jp": "最終的には客が儲からないように\n出来ていやがるのさ・・・",
-   "en": "",
+   "en": "it's rigged so in the end the customer never comes out ahead, dammit...",
    "box": "17x3",
    "face": 2
   },
@@ -265,7 +265,7 @@
    "id": "s209:00e98",
    "op": "14",
    "jp": "（やって、みたかったな・・・）",
-   "en": "",
+   "en": "(I kinda wanted to try it, though...)",
    "box": "17x3",
    "face": 3
   },
@@ -273,7 +273,7 @@
    "id": "s209:00f12",
    "op": "14",
    "jp": "へへへっ・・・",
-   "en": "",
+   "en": "Heh heh heh...",
    "box": "17x3",
    "face": 104
   },
@@ -281,7 +281,7 @@
    "id": "s209:00f56",
    "op": "14",
    "jp": "いらっしゃい！",
-   "en": "",
+   "en": "Welcome!",
    "box": "17x3",
    "face": 104
   },
@@ -297,7 +297,7 @@
    "id": "s209:0104a",
    "op": "14",
    "jp": "なんだなんだキサマ達は・・・\nこれより先はＶＩＰルームや、\n選手の控室に繋がっている為、",
-   "en": "",
+   "en": "What's this, who are you lot... Beyond here lie the VIP room and the fighters' waiting rooms, so",
    "box": "17x3",
    "face": 104
   },
@@ -305,7 +305,7 @@
    "id": "s209:010aa",
    "op": "14",
    "jp": "武装した者達は通せない事に\nなっている・・・",
-   "en": "",
+   "en": "armed persons are not to pass...",
    "box": "17x3",
    "face": 104
   },
@@ -313,7 +313,7 @@
    "id": "s209:010de",
    "op": "14",
    "jp": "それとも次の試合の・・・\n出場選手団かなにかなのか！？",
-   "en": "",
+   "en": "Or are you... part of a team fighting in the next match!?",
    "box": "17x3",
    "face": 104
   },
@@ -321,14 +321,14 @@
    "id": "s209:01136",
    "op": "1d",
    "jp": "そうだ、出場選手だ！！",
-   "en": "",
+   "en": "Yes, we're fighting in it!!",
    "max": 15
   },
   {
    "id": "s209:01154",
    "op": "1d",
    "jp": "そんなんじゃない！",
-   "en": "",
+   "en": "Nothing like that!",
    "max": 15
   },
   {
@@ -343,7 +343,7 @@
    "id": "s209:01198",
    "op": "14",
    "jp": "くっくっくっ馬鹿な奴らめ・・・\nそれなら通ってもいいぞ！！",
-   "en": "",
+   "en": "Heh heh heh, you fools... In that case, you may pass!!",
    "box": "17x3",
    "face": 104
   },

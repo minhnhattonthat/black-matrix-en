@@ -9,7 +9,7 @@
    "id": "s127:00406",
    "op": "14",
    "jp": "正面切っての攻撃で、\nはたしてこの俺が倒せるかな！？",
-   "en": "",
+   "en": "Think you can take me down with a head-on attack!?",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s127:004a2",
    "op": "14",
    "jp": "ほう！\n側面に回り込んでからの攻撃とは\n少しはやるな！",
-   "en": "",
+   "en": "Ho! Circlin' to my side before you hit? Not bad at all!",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s127:004e0",
    "op": "14",
    "jp": "今のは俺でも・・・\n少しは、かゆいぜ！",
-   "en": "",
+   "en": "Even I... felt a little itch from that one!",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s127:0055e",
    "op": "14",
    "jp": "案外素早い動きだ・・・！！",
-   "en": "",
+   "en": "You move quicker than you look...!!",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s127:00580",
    "op": "14",
    "jp": "だがこういった事も\n覚えておく事だ！！",
-   "en": "",
+   "en": "But you remember this too!!",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s127:005ae",
    "op": "14",
    "jp": "高低差のある戦場では\n行動力（ＭＯＶ）が、\nその勝敗の鍵を握る！",
-   "en": "",
+   "en": "On a battlefield with high and low ground, movement (MOV) decides who wins!",
    "box": "17x3",
    "face": 2
   },
@@ -57,7 +57,7 @@
    "id": "s127:005f6",
    "op": "14",
    "jp": "つまり行動力が高い奴ならいきなり\n高い所へ上ったり、崖から下に飛び\n降りる事だって出来るんだぜ！！",
-   "en": "",
+   "en": "See, a guy with high MOV can climb right up to high ground, or jump straight off a cliff!!",
    "box": "17x3",
    "face": 2
   },
@@ -65,7 +65,7 @@
    "id": "s127:006c2",
    "op": "14",
    "jp": "くそっ突然後ろに回り込むとはな！",
-   "en": "",
+   "en": "Damn, gettin' behind me outta nowhere!",
    "box": "17x3",
    "face": 2
   },
@@ -73,7 +73,7 @@
    "id": "s127:006ea",
    "op": "14",
    "jp": "今のは、背中にズバッときたぜ！！\nだがな・・・",
-   "en": "",
+   "en": "That one went SLASH right across my back!! But listen...",
    "box": "17x3",
    "face": 2
   },
@@ -81,7 +81,7 @@
    "id": "s127:00720",
    "op": "14",
    "jp": "周りに邪魔になる敵や味方がいる\n実際の戦場では・・・",
-   "en": "",
+   "en": "On a real battlefield, with enemies and allies in the way...",
    "box": "17x3",
    "face": 2
   },
@@ -89,7 +89,7 @@
    "id": "s127:0075c",
    "op": "14",
    "jp": "そう簡単には、\n相手の後ろに回り込めないもんさ！",
-   "en": "",
+   "en": "gettin' behind a guy ain't that easy!",
    "box": "17x3",
    "face": 2
   },
@@ -97,7 +97,7 @@
    "id": "s127:00794",
    "op": "14",
    "jp": "今は、お互いこんな棒っきれを\n使って戦っているが・・・",
-   "en": "",
+   "en": "Right now we're fightin' with these sticks, but...",
    "box": "17x3",
    "face": 2
   },
@@ -105,7 +105,7 @@
    "id": "s127:007d2",
    "op": "14",
    "jp": "武器にはそれぞれ\n特性ってもんがある・・・",
-   "en": "",
+   "en": "every weapon's got its own traits...",
    "box": "17x3",
    "face": 2
   },
@@ -113,7 +113,7 @@
    "id": "s127:00804",
    "op": "14",
    "jp": "弓や槍やムチが使えれば、\n敵の反撃を喰らわずに離れた\n場所からも攻撃する事が出来るし",
-   "en": "",
+   "en": "With a bow, spear or whip, you can hit from a distance without eatin' a counterattack,",
    "box": "17x3",
    "face": 2
   },
@@ -121,7 +121,7 @@
    "id": "s127:00860",
    "op": "14",
    "jp": "うまく使えば、敵をこちらに引き\n寄せたり、遠くにいるやっかいな\n敵から先に倒す事もできるんだ！",
-   "en": "",
+   "en": "and if you use 'em right, you can draw enemies in, or take out the nasty ones far away first!",
    "box": "17x3",
    "face": 2
   },
@@ -129,7 +129,7 @@
    "id": "s127:008c6",
    "op": "14",
    "jp": "もっとも俺は・・・",
-   "en": "",
+   "en": "Not that I...",
    "box": "17x3",
    "face": 2
   },
@@ -137,7 +137,7 @@
    "id": "s127:008e0",
    "op": "14",
    "jp": "普段から斧や剣しか\n使わん性分だから、そんな戦法には\nあんまり興味がないがな！！",
-   "en": "",
+   "en": "I'm the type who only uses axes and swords, so that kinda tactic don't interest me much!!",
    "box": "17x3",
    "face": 2
   },
@@ -145,7 +145,7 @@
    "id": "s127:00938",
    "op": "14",
    "jp": "本来、人にはそれぞれ得意な武器や\n攻撃方法ってもんがある物さ！",
-   "en": "",
+   "en": "Everybody's got their own best weapons and ways of attackin'!",
    "box": "17x3",
    "face": 2
   },
@@ -153,7 +153,7 @@
    "id": "s127:0097e",
    "op": "14",
    "jp": "つまり人によって装備できる武器\n出来ない武器がある事を・・・、\nしっかり肝に銘じておく事だ！！",
-   "en": "",
+   "en": "Meanin' there's weapons a guy can equip and weapons he can't... Burn that into your brain!!",
    "box": "17x3",
    "face": 2
   },
@@ -161,7 +161,7 @@
    "id": "s127:00a36",
    "op": "14",
    "jp": "オイオイ！味方もそうだが・・・",
-   "en": "",
+   "en": "Hey, hey! Goes for allies too, but...",
    "box": "17x3",
    "face": 2
   },
@@ -169,7 +169,7 @@
    "id": "s127:00a5c",
    "op": "14",
    "jp": "敵をまたいで移動する事なんて\n誰にも出来やしないんだぜ！？",
-   "en": "",
+   "en": "nobody can walk straight across an enemy, ya know!?",
    "box": "17x3",
    "face": 2
   },
@@ -177,7 +177,7 @@
    "id": "s127:00a9e",
    "op": "14",
    "jp": "俺の背後を取りたいんなら\n多少遠回りでも、動ける範囲内で\n回り込むしか方法はあるまい！？",
-   "en": "",
+   "en": "You want my back, you gotta circle around within your range, even if it's the long way!?",
    "box": "17x3",
    "face": 2
   },
@@ -185,7 +185,7 @@
    "id": "s127:00afe",
    "op": "14",
    "jp": "それに移動した後には、必ず\n有利な方向に自分の向きを変えて\n置くことが重要なのさ・・・",
-   "en": "",
+   "en": "And after you move, always turn to face whichever way helps you. That's important...",
    "box": "17x3",
    "face": 2
   },
@@ -193,7 +193,7 @@
    "id": "s127:00b5c",
    "op": "14",
    "jp": "むやみに敵に後ろを見せると、\n戦場では命取りになるからな！",
-   "en": "",
+   "en": "Show your back to an enemy carelessly and it'll kill ya out there!",
    "box": "17x3",
    "face": 2
   },
@@ -201,7 +201,7 @@
    "id": "s127:00bee",
    "op": "14",
    "jp": "なんだなんだその戦い方は？！\n敵の攻撃対抗する方法にも\n色々あるってのに・・・？！",
-   "en": "",
+   "en": "What the hell kinda fightin' is that!? There's lots of ways to answer an enemy attack...!?",
    "box": "17x3",
    "face": 2
   },
@@ -209,7 +209,7 @@
    "id": "s127:00c48",
    "op": "14",
    "jp": "反撃、防御、回避の３つを\nいかに戦況に合わせて使い分けるかがプロとアマの違いなのさ！",
-   "en": "",
+   "en": "Counter, defend, evade: how you switch between those three to suit the fight, that's what splits pros from amateurs!",
    "box": "17x3",
    "face": 2
   },
@@ -217,7 +217,7 @@
    "id": "s127:00ca4",
    "op": "14",
    "jp": "ちなみに敵の攻撃中でも、\nやりようによっては色々と戦法を\n変える事だって出来るんだぜ！？",
-   "en": "",
+   "en": "By the way, even during an enemy attack, you can change up your tactics if you know how!?",
    "box": "17x3",
    "face": 2
   },
@@ -225,7 +225,7 @@
    "id": "s127:00d04",
    "op": "14",
    "jp": "実際の戦闘では、敵がぶっ倒れた\nからと言って油断せず・・・",
-   "en": "",
+   "en": "In a real fight, don't let your guard down just 'cause an enemy dropped...",
    "box": "17x3",
    "face": 2
   },
@@ -233,7 +233,7 @@
    "id": "s127:00d46",
    "op": "14",
    "jp": "トドメを刺すのを忘れない事だ！！",
-   "en": "",
+   "en": "Don't forget to finish him off!!",
    "box": "17x3",
    "face": 2
   },
@@ -241,7 +241,7 @@
    "id": "s127:00d6e",
    "op": "14",
    "jp": "へたに敵を瀕死の状態で放置\nしておくと仲間が回復薬なんかを\n使って・・・",
-   "en": "",
+   "en": "Leave one half-dead like a fool, and his pals'll use healin' potions and such...",
    "box": "17x3",
    "face": 2
   },
@@ -249,7 +249,7 @@
    "id": "s127:00dbe",
    "op": "14",
    "jp": "よみがえらせやがるからな！",
-   "en": "",
+   "en": "and bring the bastard back!",
    "box": "17x3",
    "face": 2
   },
@@ -257,7 +257,7 @@
    "id": "s127:00de0",
    "op": "14",
    "jp": "だが逆にわざと敵を\n死滅させないでおいて防壁がわりに\n使うという手もある・・・",
-   "en": "",
+   "en": "Then again, you can leave one alive on purpose and use him as a wall...",
    "box": "17x3",
    "face": 2
   },
@@ -265,7 +265,7 @@
    "id": "s127:00e36",
    "op": "14",
    "jp": "狭い場所ではこれも有効な戦闘\n手段の一つなのさ・・・",
-   "en": "",
+   "en": "In tight spots, that's a solid way to fight too...",
    "box": "17x3",
    "face": 2
   },
@@ -273,7 +273,7 @@
    "id": "s127:00e72",
    "op": "14",
    "jp": "それとココだけの話だが、人間の\n返り血（ＢＰ）を使って剣血という\n儀式を行うと・・・",
-   "en": "",
+   "en": "And just between us: use the blood spatter off people (BP) in a rite called Sword-Blood...",
    "box": "17x3",
    "face": 2
   },
@@ -281,7 +281,7 @@
    "id": "s127:00ece",
    "op": "14",
    "jp": "武器に隠された潜在能力が発揮され、より強力な武器になる事があるって\nもっぱらの噂だ・・・",
-   "en": "",
+   "en": "and word is a weapon's hidden potential can come out and make it stronger...",
    "box": "17x3",
    "face": 2
   },
@@ -289,7 +289,7 @@
    "id": "s127:00f2e",
    "op": "14",
    "jp": "ただし場合によってはその武器が\n呪われる可能性もあるらしいから",
-   "en": "",
+   "en": "But sometimes the weapon might get cursed, they say,",
    "box": "17x3",
    "face": 2
   },
@@ -297,7 +297,7 @@
    "id": "s127:00f74",
    "op": "14",
    "jp": "せいぜい気をつけることだな！",
-   "en": "",
+   "en": "so watch yourself!",
    "box": "17x3",
    "face": 2
   },
@@ -305,7 +305,7 @@
    "id": "s127:0100e",
    "op": "14",
    "jp": "お前、案外やるじゃねぇか！",
-   "en": "",
+   "en": "Hey, you're better'n you look!",
    "box": "17x3",
    "face": 2
   },
@@ -313,7 +313,7 @@
    "id": "s127:01050",
    "op": "14",
    "jp": "まあまあだな・・・！",
-   "en": "",
+   "en": "Not bad, not great...!",
    "box": "17x3",
    "face": 2
   },
@@ -321,7 +321,7 @@
    "id": "s127:01074",
    "op": "14",
    "jp": "お前、弱ぇなぁ・・・・！",
-   "en": "",
+   "en": "Man, you're weak....!",
    "box": "17x3",
    "face": 2
   }

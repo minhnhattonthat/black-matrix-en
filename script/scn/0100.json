@@ -9,7 +9,7 @@
    "id": "s100:0004a",
    "op": "15",
    "jp": "あっ！",
-   "en": "",
+   "en": "Ah!",
    "box": "17x3",
    "face": 10
   },
@@ -17,7 +17,7 @@
    "id": "s100:00062",
    "op": "15",
    "jp": "ね、ねえ・・・\nど・どうしちゃったの・・・！？",
-   "en": "",
+   "en": "H-hey... wh-what's gotten into you...!?",
    "box": "17x3",
    "face": 10
   },
@@ -25,7 +25,7 @@
    "id": "s100:000a2",
    "op": "15",
    "jp": "た、たいへん！！",
-   "en": "",
+   "en": "Oh, this is bad!!",
    "box": "17x3",
    "face": 10
   },
@@ -33,7 +33,7 @@
    "id": "s100:000c6",
    "op": "15",
    "jp": "ねえ、しっかりして・・・！！",
-   "en": "",
+   "en": "Hey, get a grip...!!",
    "box": "17x3",
    "face": 10
   },
@@ -41,7 +41,7 @@
    "id": "s100:00132",
    "op": "15",
    "jp": "その本には・・・",
-   "en": "",
+   "en": "That book...",
    "box": "17x3",
    "face": 10
   },
@@ -49,7 +49,7 @@
    "id": "s100:00156",
    "op": "15",
    "jp": "この世界でオカルトって\n呼ばれているものが書いてあるの。",
-   "en": "",
+   "en": "has in it what this world calls the occult.",
    "box": "17x3",
    "face": 10
   },
@@ -57,7 +57,7 @@
    "id": "s100:001a2",
    "op": "15",
    "jp": "読む人はみんなおかしな人だって\n他人から言われちゃうんだ・・・",
-   "en": "",
+   "en": "Whoever reads it gets called strange by other people...",
    "box": "17x3",
    "face": 10
   },
@@ -65,7 +65,7 @@
    "id": "s100:001f2",
    "op": "15",
    "jp": "やっぱり・・・\n・・・変なのかなぁ・・・私！？",
-   "en": "",
+   "en": "So I guess... ...I really am... strange, huh!?",
    "box": "17x3",
    "face": 10
   },
@@ -73,7 +73,7 @@
    "id": "s100:0024a",
    "op": "15",
    "jp": "そ・・その本を見ちゃったんだ、",
-   "en": "",
+   "en": "S... so you saw that book, huh,",
    "box": "17x3",
    "face": 10
   },
@@ -81,7 +81,7 @@
    "id": "s100:0027a",
    "op": "15",
    "jp": "その中身をどう思うかは・・・",
-   "en": "",
+   "en": "What you think of what's in it...",
    "box": "17x3",
    "face": 10
   },
@@ -89,7 +89,7 @@
    "id": "s100:002aa",
    "op": "15",
    "jp": "キミ自身が考えて・・\n私からは、なんとも・・・",
-   "en": "",
+   "en": "you can decide for yourself... I've got nothing to say about it...",
    "box": "17x3",
    "face": 10
   }

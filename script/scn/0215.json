@@ -17,7 +17,7 @@
    "id": "s215:00936",
    "op": "15",
    "jp": "ちっ！悪運の強い奴らだ・・・",
-   "en": "",
+   "en": "Tch! Lucky bastards...",
    "box": "17x3",
    "face": 134
   },
@@ -25,7 +25,7 @@
    "id": "s215:00966",
    "op": "15",
    "jp": "だがまさか・・・\nここで試合を止めるつもりでは\nあるまいな・・・！？",
-   "en": "",
+   "en": "But surely... you don't mean to quit the match here... do you...!?",
    "box": "17x3",
    "face": 134
   },
@@ -33,21 +33,21 @@
    "id": "s215:009de",
    "op": "1d",
    "jp": "止める",
-   "en": "",
+   "en": "Quit",
    "max": 15
   },
   {
    "id": "s215:009ec",
    "op": "1d",
    "jp": "止めない",
-   "en": "",
+   "en": "Don't quit",
    "max": 15
   },
   {
    "id": "s215:00a16",
    "op": "15",
    "jp": "ちっ・・・・・\nだったら、後学の為にも・・・",
-   "en": "",
+   "en": "Tch..... Then, for future reference...",
    "box": "17x3",
    "face": 134
   },
@@ -55,7 +55,7 @@
    "id": "s215:00a56",
    "op": "15",
    "jp": "この建物の西館で行われている、\nせり市にでも、\n行ってみるがいい・・・",
-   "en": "",
+   "en": "why not go have a look at the auction they hold in this building's west wing...",
    "box": "17x3",
    "face": 134
   },
@@ -70,7 +70,7 @@
    "id": "s215:00c5e",
    "op": "15",
    "jp": "くっくっくっ馬鹿な奴らめ・・・",
-   "en": "",
+   "en": "Heh heh heh, you fools...",
    "box": "17x3"
   }
  ]

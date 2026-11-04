@@ -9,7 +9,7 @@
    "id": "s128:00576",
    "op": "15",
    "jp": "俺の名はレブロブス",
-   "en": "",
+   "en": "Name's Leburobus.",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s128:0059a",
    "op": "15",
    "jp": "シャバに居た時には、\n最強の白き羽、なんて\n呼ばれた事もあったがな・・・",
-   "en": "",
+   "en": "Back on the outside, they even called me the strongest White Wing...",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s128:0061e",
    "op": "15",
    "jp": "お前もこの待合室に\n入れられたって事は・・・",
-   "en": "",
+   "en": "You got tossed in this waiting room too, so...",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s128:0065e",
    "op": "15",
    "jp": "俺と同じ七つの大罪を\n犯した死刑囚なんだろう？",
-   "en": "",
+   "en": "you're a death-row con who broke the Seven Deadly Sins like me, right?",
    "box": "17x3",
    "face": 2
   },
@@ -57,7 +57,7 @@
    "id": "s128:006da",
    "op": "15",
    "jp": "なんだ！知らなかったのか？",
-   "en": "",
+   "en": "What! You didn't know?",
    "box": "17x3",
    "face": 2
   },
@@ -65,7 +65,7 @@
    "id": "s128:00706",
    "op": "15",
    "jp": "この場所は、\n生けにえの待合室と呼ばれる、\n死刑囚達の吹き溜まりなんだぜ！",
-   "en": "",
+   "en": "This place is called the Sacrifice Waiting Room. A dumpin' ground for death-row cons!",
    "box": "17x3",
    "face": 2
   },
@@ -73,7 +73,7 @@
    "id": "s128:0082a",
    "op": "15",
    "jp": "そこのデカブツさんよ！",
-   "en": "",
+   "en": "Say there, you big lug!",
    "box": "17x3",
    "face": 1
   },
@@ -81,7 +81,7 @@
    "id": "s128:00852",
    "op": "15",
    "jp": "「知る者は言わず、言う者は知らず」　って言葉、知ってるかい？",
-   "en": "",
+   "en": "Ever hear the saying, \"Those who know don't speak, and those who speak don't know\"?",
    "box": "17x3",
    "face": 1
   },
@@ -89,7 +89,7 @@
    "id": "s128:008a2",
    "op": "15",
    "jp": "真実なんてものは・・・\nいつも事件の当事者は、\n知らねぇ方が幸せなもんさ！",
-   "en": "",
+   "en": "The truth... Whoever's caught up in a thing is always happier not knowin' it!",
    "box": "17x3",
    "face": 1
   },
@@ -97,7 +97,7 @@
    "id": "s128:009c6",
    "op": "15",
    "jp": "なんだてめぇは！？",
-   "en": "",
+   "en": "What the hell are you!?",
    "box": "17x3",
    "face": 2
   },
@@ -105,7 +105,7 @@
    "id": "s128:009fa",
    "op": "15",
    "jp": "俺の名はガイウス！\n人は俺を疾風のガイと呼ぶ！！",
-   "en": "",
+   "en": "The name's Gaius! They call me Gai the Gale!!",
    "box": "17x3",
    "face": 1
   },
@@ -113,7 +113,7 @@
    "id": "s128:00a8e",
    "op": "15",
    "jp": "さては貴様！",
-   "en": "",
+   "en": "Wait, you...!",
    "box": "17x3",
    "face": 2
   },
@@ -121,7 +121,7 @@
    "id": "s128:00ad2",
    "op": "15",
    "jp": "貧乏人から正義の味方だなどと\nおだてられ・・・",
-   "en": "",
+   "en": "The one poor folks flatter as a champion of justice...",
    "box": "17x3",
    "face": 2
   },
@@ -129,7 +129,7 @@
    "id": "s128:00b12",
    "op": "15",
    "jp": "二百人以上もの権力者の家を\n襲っては斬殺を繰り返し・・・、",
-   "en": "",
+   "en": "raidin' the houses of over two hundred big shots and cuttin' 'em down, again and again...,",
    "box": "17x3",
    "face": 2
   },
@@ -137,7 +137,7 @@
    "id": "s128:00b5e",
    "op": "15",
    "jp": "あまつさえ、その盗んだ金を、\nくだらない貧乏人どもに\nめぐんで歩いたって噂の・・・",
-   "en": "",
+   "en": "and on top of that, goin' around handin' the stolen money out to worthless paupers, they say...",
    "box": "17x3",
    "face": 2
   },
@@ -145,7 +145,7 @@
    "id": "s128:00bc2",
    "op": "15",
    "jp": "あの偽善者のガイか！？",
-   "en": "",
+   "en": "You're that hypocrite, Gai!?",
    "box": "17x3",
    "face": 2
   },
@@ -153,7 +153,7 @@
    "id": "s128:00bfa",
    "op": "15",
    "jp": "仰ぎて天に恥じず。",
-   "en": "",
+   "en": "I look up and feel no shame before Heaven.",
    "box": "17x3",
    "face": 1
   },
@@ -161,7 +161,7 @@
    "id": "s128:00c1e",
    "op": "15",
    "jp": "本来捕まりさえしなければ\n盗みも殺しも黒き羽の連中が\n賞賛している行いさ・・・！",
-   "en": "",
+   "en": "Long as you ain't caught, theft and murder are what the Black Wings themselves praise...!",
    "box": "17x3",
    "face": 1
   },
@@ -169,7 +169,7 @@
    "id": "s128:00c82",
    "op": "15",
    "jp": "問題は俺の羽の色が白だという\n現実があるだけにすぎん・・・",
-   "en": "",
+   "en": "The only problem is the plain fact that my wings are white...",
    "box": "17x3",
    "face": 1
   },
@@ -177,7 +177,7 @@
    "id": "s128:00cce",
    "op": "15",
    "jp": "俺は今まで自分の行動を\n少しも恥じた事はねぇ！",
-   "en": "",
+   "en": "I've never felt one bit of shame for what I've done!",
    "box": "17x3",
    "face": 1
   },
@@ -185,7 +185,7 @@
    "id": "s128:00d0e",
    "op": "15",
    "jp": "だが、俺も前に聞いた事があるぜ。",
-   "en": "",
+   "en": "But I've heard a thing or two myself.",
    "box": "17x3",
    "face": 1
   },
@@ -193,7 +193,7 @@
    "id": "s128:00d42",
    "op": "15",
    "jp": "パンデモニウムの街に居た\n奴隷の分際で、自分の主人である\n領主をも殺し・・・",
-   "en": "",
+   "en": "A mere slave in the city of Pandemonium, who killed even his own master, the lord...",
    "box": "17x3",
    "face": 1
   },
@@ -201,7 +201,7 @@
    "id": "s128:00da2",
    "op": "15",
    "jp": "この世には、初めから\nありもしない、自由とか言う物を\n追い求めてさまよい歩く、",
-   "en": "",
+   "en": "who wanders around chasin' this thing called freedom, which never even existed in this world...",
    "box": "17x3",
    "face": 1
   },
@@ -209,7 +209,7 @@
    "id": "s128:00e02",
    "op": "15",
    "jp": "腕力バカの逃亡奴隷、\nレブロブスとか言う\n世間知らずの名前をな！！",
-   "en": "",
+   "en": "a muscle-headed runaway slave... the name of some know-nothing called Leburobus!!",
    "box": "17x3",
    "face": 1
   },
@@ -217,7 +217,7 @@
    "id": "s128:00ede",
    "op": "15",
    "jp": "なんだと、貴様ぁ～！！",
-   "en": "",
+   "en": "What'd you say, you bastaaard!!",
    "box": "17x3",
    "face": 2
   },
@@ -225,7 +225,7 @@
    "id": "s128:00f16",
    "op": "15",
    "jp": "うるさいぞ、貴様ら！！",
-   "en": "",
+   "en": "Quiet, you lot!!",
    "box": "17x3",
    "face": 104
   },
@@ -233,7 +233,7 @@
    "id": "s128:0250e",
    "op": "15",
    "jp": "だいたいこの房の警備をするはずの\nピリポのバカはどこにいるんだ！？",
-   "en": "",
+   "en": "And where's that idiot Phillipo, who's supposed to guard this cell!?",
    "box": "17x3",
    "face": 35
   },
@@ -241,7 +241,7 @@
    "id": "s128:025fe",
    "op": "15",
    "jp": "ボクは・・ここにいます！",
-   "en": "",
+   "en": "I-I'm... over here!",
    "box": "17x3",
    "face": 95
   },
@@ -273,7 +273,7 @@
    "id": "s128:02bba",
    "op": "15",
    "jp": "きさまっ！\nまた脅えて隠れてやがったのか！？",
-   "en": "",
+   "en": "You! Cowerin' in hiding again, were you!?",
    "box": "17x3",
    "face": 35
   },
@@ -281,7 +281,7 @@
    "id": "s128:02bfa",
    "op": "15",
    "jp": "てめぇはどうして\nそう臆病者なんだ！？",
-   "en": "",
+   "en": "Why the hell are you such a coward!?",
    "box": "17x3",
    "face": 35
   },
@@ -289,7 +289,7 @@
    "id": "s128:02c32",
    "op": "15",
    "jp": "こっちまでイラついちまうぜ！",
-   "en": "",
+   "en": "You're pissin' me off just lookin' at you!",
    "box": "17x3",
    "face": 35
   },
@@ -297,7 +297,7 @@
    "id": "s128:02e0a",
    "op": "15",
    "jp": "あのピリポって看守はよぉ、\n生まれついての臆病者なんで、",
-   "en": "",
+   "en": "That guard Phillipo, see, he's a born coward,",
    "box": "17x3",
    "face": 2
   },
@@ -305,7 +305,7 @@
    "id": "s128:02e56",
    "op": "15",
    "jp": "他の看守達から、いつも\n手ひどく虐められてるのさ！",
-   "en": "",
+   "en": "so the other guards are always knockin' him around somethin' awful!",
    "box": "17x3",
    "face": 2
   },
@@ -321,7 +321,7 @@
    "id": "s128:02ec6",
    "op": "15",
    "jp": "ちっ！弱虫野郎め！！",
-   "en": "",
+   "en": "Tch! Damn weakling!!",
    "box": "17x3",
    "face": 2
   },
@@ -329,7 +329,7 @@
    "id": "s128:02eee",
    "op": "15",
    "jp": "いつもいいようにやられやがって、\n虫酸が走るぜ！",
-   "en": "",
+   "en": "Always lettin' 'em walk all over him. Makes my skin crawl!",
    "box": "17x3",
    "face": 2
   },
@@ -337,7 +337,7 @@
    "id": "s128:02f9a",
    "op": "15",
    "jp": "フッ、黒い羽を持つ奴らに\nとっちゃあ、弱者である事自体が、\nすでに罪深い事なのさ・・・",
-   "en": "",
+   "en": "Heh. To those with black wings, being weak is already sinful in itself...",
    "box": "17x3",
    "face": 1
   },
@@ -345,7 +345,7 @@
    "id": "s128:03002",
    "op": "15",
    "jp": "俺達は牢獄に入れられるような\n犯罪者だが、あの弱虫のピリポに\n比べりゃ、百倍はマシかもな！",
-   "en": "",
+   "en": "We may be criminals fit for a dungeon, but next to that weakling Phillipo, we might be a hundred times better!",
    "box": "17x3",
    "face": 1
   },
@@ -353,7 +353,7 @@
    "id": "s128:03096",
    "op": "15",
    "jp": "流石は七つの大罪を\nあえて犯すような・・・",
-   "en": "",
+   "en": "Just what I'd expect of those who dare commit the Seven Deadly Sins...",
    "box": "17x3",
    "face": 104
   },
@@ -361,7 +361,7 @@
    "id": "s128:030d2",
    "op": "15",
    "jp": "モラルの低い極悪人どもね！",
-   "en": "",
+   "en": "A low-moraled pack of villains!",
    "box": "17x3",
    "face": 104
   },
@@ -369,7 +369,7 @@
    "id": "s128:0310e",
    "op": "15",
    "jp": "このプラハ様が獄長を務める\n牢獄内で騒ぎ立てるとは・・・",
-   "en": "",
+   "en": "Making a racket in a prison where the great Prague is Warden...",
    "box": "17x3",
    "face": 11
   },
@@ -377,7 +377,7 @@
    "id": "s128:0315a",
    "op": "15",
    "jp": "いい度胸してるじゃない！！",
-   "en": "",
+   "en": "You've got some nerve!!",
    "box": "17x3",
    "face": 11
   },
@@ -385,7 +385,7 @@
    "id": "s128:0319e",
    "op": "15",
    "jp": "ぐわっはっはははっ！！\n気分はどうかね？諸君！",
-   "en": "",
+   "en": "Gwahahahaha!! And how are we feeling, gentlemen?",
    "box": "17x3",
    "face": 34
   },
@@ -393,7 +393,7 @@
    "id": "s128:03a96",
    "op": "15",
    "jp": "けっ！\n殺すんならさっさと殺しやがれ！",
-   "en": "",
+   "en": "Tch! If you're gonna kill us, just get it over with!",
    "box": "17x3",
    "face": 2
   },
@@ -401,7 +401,7 @@
    "id": "s128:03b42",
    "op": "15",
    "jp": "殺せですって？！\nふん！世の中殺されるより・・・",
-   "en": "",
+   "en": "Kill you, you say!? Hmph! In this world, rather than being killed...",
    "box": "17x3",
    "face": 11
   },
@@ -409,7 +409,7 @@
    "id": "s128:03b92",
    "op": "15",
    "jp": "あえて生き続けなければ\nいけない事の方が\nよっぽど、苦しみが多いものよ！！",
-   "en": "",
+   "en": "having to go on living holds far more suffering!!",
    "box": "17x3",
    "face": 11
   },
@@ -417,7 +417,7 @@
    "id": "s128:03bee",
    "op": "15",
    "jp": "それに、今この瞬間にも飢餓や戦さで世界中の人間が何百万人もボロクズのように死んでいっている・・・",
-   "en": "",
+   "en": "Besides, at this very moment, millions worldwide are dying like rags, from famine and war...",
    "box": "17x3",
    "face": 11
   },
@@ -425,7 +425,7 @@
    "id": "s128:03c6e",
    "op": "15",
    "jp": "人の命なんて・・・",
-   "en": "",
+   "en": "A human life...",
    "box": "17x3",
    "face": 11
   },
@@ -433,7 +433,7 @@
    "id": "s128:03ca2",
    "op": "15",
    "jp": "ましてやオマエ達、白き羽の奴隷の\n命なんて・・・",
-   "en": "",
+   "en": "let alone the life of a White Wing slave like you...",
    "box": "17x3",
    "face": 11
   },
@@ -441,7 +441,7 @@
    "id": "s128:03ce6",
    "op": "15",
    "jp": "パン一枚の価値すら\n無いというのに・・・",
-   "en": "",
+   "en": "isn't worth so much as a slice of bread...",
    "box": "17x3",
    "face": 11
   },
@@ -449,7 +449,7 @@
    "id": "s128:03d22",
    "op": "15",
    "jp": "アンタ達が死刑なんて\n軽い刑罰で・・・",
-   "en": "",
+   "en": "So something as light as a death sentence...",
    "box": "17x3",
    "face": 11
   },
@@ -457,7 +457,7 @@
    "id": "s128:03d5a",
    "op": "15",
    "jp": "すまされるわけがないじゃない！！",
-   "en": "",
+   "en": "could never be enough for you lot!!",
    "box": "17x3",
    "face": 11
   },
@@ -473,7 +473,7 @@
    "id": "s128:03dba",
    "op": "15",
    "jp": "正義・・・？",
-   "en": "",
+   "en": "Justice...?",
    "box": "17x3",
    "face": 11
   },
@@ -481,7 +481,7 @@
    "id": "s128:03dda",
    "op": "15",
    "jp": "自由？？",
-   "en": "",
+   "en": "Freedom??",
    "box": "17x3",
    "face": 11
   },
@@ -489,7 +489,7 @@
    "id": "s128:03df6",
    "op": "15",
    "jp": "あげくに愛ですって・・・？！",
-   "en": "",
+   "en": "And on top of that, love, you say...!?",
    "box": "17x3",
    "face": 11
   },
@@ -497,7 +497,7 @@
    "id": "s128:03e26",
    "op": "15",
    "jp": "この世のどこを探せば、\nそんな物が有るって言うのよ？！",
-   "en": "",
+   "en": "Where in this world would you find such a thing, tell me!?",
    "box": "17x3",
    "face": 11
   },
@@ -513,7 +513,7 @@
    "id": "s128:03e9e",
    "op": "15",
    "jp": "中でも愛なんていう目に見えない\n最大の偽善を、自分の飼い主に\n信じ込ませ・・・",
-   "en": "",
+   "en": "You, above all: making your owner believe in love, that invisible, supreme hypocrisy...",
    "box": "17x3",
    "face": 11
   },
@@ -521,7 +521,7 @@
    "id": "s128:03efe",
    "op": "15",
    "jp": "破滅の道に追い込んだアンタの罪は、万死に値するわ！！",
-   "en": "",
+   "en": "and driving your owner down the road to ruin. For that crime, you deserve ten thousand deaths!!",
    "box": "17x3",
    "face": 11
   },
@@ -529,7 +529,7 @@
    "id": "s128:03f76",
    "op": "15",
    "jp": "看守兵！",
-   "en": "",
+   "en": "Guards!",
    "box": "17x3",
    "face": 11
   },
@@ -537,7 +537,7 @@
    "id": "s128:03f92",
    "op": "15",
    "jp": "これ以上、彼らが騒がないよう\nしっかり見張っておきなさい！！",
-   "en": "",
+   "en": "Keep a close watch, so they make no more noise!!",
    "box": "17x3",
    "face": 11
   },
@@ -545,7 +545,7 @@
    "id": "s128:03ffe",
    "op": "15",
    "jp": "あれだけの大罪を犯しておいて、\n簡単に殺してもらおうとは・・・",
-   "en": "",
+   "en": "After committing such deadly sins, to expect so easy a death...",
    "box": "17x3",
    "face": 34
   },
@@ -553,7 +553,7 @@
    "id": "s128:0404e",
    "op": "15",
    "jp": "それは虫が良すぎるというもの。",
-   "en": "",
+   "en": "is asking rather too much.",
    "box": "17x3",
    "face": 34
   },
@@ -561,7 +561,7 @@
    "id": "s128:0407e",
    "op": "15",
    "jp": "諸君らは大悪神を封じ込める\n生けにえとして、無限に続く\n地獄の苦しみを味わうのだ！",
-   "en": "",
+   "en": "You gentlemen shall taste endless torments of hell, as sacrifices to seal away the Great Evil God!",
    "box": "17x3",
    "face": 34
   },
@@ -569,7 +569,7 @@
    "id": "s128:040e2",
    "op": "15",
    "jp": "愛や自由などと、たわごとを語る\n愚か者よ！",
-   "en": "",
+   "en": "Fools who spout nonsense about love and freedom!",
    "box": "17x3",
    "face": 34
   },
@@ -577,7 +577,7 @@
    "id": "s128:0411e",
    "op": "15",
    "jp": "身に余る待遇を、\n我に感謝するが良い！\nぐわっはっはっはっはっ！",
-   "en": "",
+   "en": "Be grateful to me for treatment beyond your station! Gwahahahaha!",
    "box": "17x3",
    "face": 34
   },
@@ -593,7 +593,7 @@
    "id": "s128:041ba",
    "op": "15",
    "jp": "看守兵！",
-   "en": "",
+   "en": "Guards!",
    "box": "17x3",
    "face": 34
   },
@@ -601,7 +601,7 @@
    "id": "s128:041d6",
    "op": "15",
    "jp": "これ以上この者らが騒がんよう\nしっかり見張っておけ！！",
-   "en": "",
+   "en": "Keep a close watch on these wretches, so they make no more noise!!",
    "box": "17x3",
    "face": 34
   },
@@ -609,7 +609,7 @@
    "id": "s128:04fe6",
    "op": "15",
    "jp": "いいか、生けにえども！！",
-   "en": "",
+   "en": "Listen up, sacrifices!!",
    "box": "17x3",
    "face": 35
   },
@@ -617,7 +617,7 @@
    "id": "s128:05012",
    "op": "15",
    "jp": "この奥の独房には、お前達など、\n本来なら足下にも及ばないような、",
-   "en": "",
+   "en": "In the solitary cell back there is someone you lot could never even stand near,",
    "box": "17x3",
    "face": 35
   },
@@ -625,7 +625,7 @@
    "id": "s128:05066",
    "op": "15",
    "jp": "やんごとなき身分のお方が、\n入っていらっしゃるのだ！",
-   "en": "",
+   "en": "a personage of noble rank!",
    "box": "17x3",
    "face": 35
   },
@@ -633,7 +633,7 @@
    "id": "s128:050ae",
    "op": "15",
    "jp": "これ以上、騒ぎ立てるようなら、\n容赦はせんぞ！！",
-   "en": "",
+   "en": "Make any more racket and you'll get no mercy!!",
    "box": "17x3",
    "face": 35
   },
@@ -641,7 +641,7 @@
    "id": "s128:0567a",
    "op": "15",
    "jp": "けっ！\nやんごとなきお方だとぉ～？",
-   "en": "",
+   "en": "Tch! A noble personage, ya say~?",
    "box": "17x3",
    "face": 2
   },
@@ -649,7 +649,7 @@
    "id": "s128:056ae",
    "op": "15",
    "jp": "くだらねぇ！！",
-   "en": "",
+   "en": "What a load of crap!!",
    "box": "17x3",
    "face": 2
   },
@@ -657,7 +657,7 @@
    "id": "s128:0574a",
    "op": "15",
    "jp": "そういやぁ聞いた事がある・・・",
-   "en": "",
+   "en": "Come to think of it, I've heard somethin'...",
    "box": "17x3",
    "face": 1
   },
@@ -665,7 +665,7 @@
    "id": "s128:0577a",
    "op": "15",
    "jp": "確か何年か前に、\n太陽の神殿と呼ばれる神殿の\n大神官が権力争いに敗れ・・・",
-   "en": "",
+   "en": "Some years back, as I recall, the Temple of the Sun's High Priest lost a power struggle...",
    "box": "17x3",
    "face": 1
   },
@@ -673,7 +673,7 @@
    "id": "s128:057d6",
    "op": "15",
    "jp": "このゴルゴダの牢獄の中に\n閉じこめられたって噂だ！",
-   "en": "",
+   "en": "and, rumor has it, got locked up in this very Golgotha Prison!",
    "box": "17x3",
    "face": 1
   },
@@ -681,7 +681,7 @@
    "id": "s128:0582a",
    "op": "15",
    "jp": "あぁっ？\n大神官だぁ！？",
-   "en": "",
+   "en": "Huh? High Priest!?",
    "box": "17x3",
    "face": 2
   },
@@ -689,7 +689,7 @@
    "id": "s128:05856",
    "op": "15",
    "jp": "神官がどれだけ\n偉ぇってんだ！？",
-   "en": "",
+   "en": "What's so damn great about a priest!?",
    "box": "17x3",
    "face": 2
   },
@@ -705,7 +705,7 @@
    "id": "s128:058a6",
    "op": "15",
    "jp": "そこの筋肉バカは\n知らねぇだろうが、",
-   "en": "",
+   "en": "The muscle-head over there wouldn't know this, but",
    "box": "17x3",
    "face": 1
   },
@@ -713,7 +713,7 @@
    "id": "s128:058de",
    "op": "15",
    "jp": "黒き羽の連中は自分達を、\n神話の中に出てくる\n創世記戦争で勝ち残った、",
-   "en": "",
+   "en": "the Black Wings see themselves as heirs of those who won the Genesis War of myth:",
    "box": "17x3",
    "face": 1
   },
@@ -721,7 +721,7 @@
    "id": "s128:05936",
    "op": "15",
    "jp": "神の子孫だと考えてやがる。",
-   "en": "",
+   "en": "descendants of gods, they figure.",
    "box": "17x3",
    "face": 1
   },
@@ -737,7 +737,7 @@
    "id": "s128:0598e",
    "op": "15",
    "jp": "そんな黒き羽の連中の中でも、\n特に大神官と呼ばれる奴らは、",
-   "en": "",
+   "en": "And among those Black Wings, the ones they call High Priests",
    "box": "17x3",
    "face": 1
   },
@@ -745,7 +745,7 @@
    "id": "s128:059da",
    "op": "15",
    "jp": "神々に最も近い存在として、\n驚異と戦りつの対象だ。",
-   "en": "",
+   "en": "are the closest thing to gods, objects of awe and terror.",
    "box": "17x3",
    "face": 1
   },
@@ -761,7 +761,7 @@
    "id": "s128:05a6e",
    "op": "15",
    "jp": "なにせ大神官って奴らは、\n頭に角が生えている上に、",
-   "en": "",
+   "en": "After all, High Priests grow horns on their heads,",
    "box": "17x3",
    "face": 1
   },
@@ -769,7 +769,7 @@
    "id": "s128:05ab2",
    "op": "15",
    "jp": "常人には考えられねぇような、\n魔道の力が使えるって\n話だからな！",
-   "en": "",
+   "en": "and they say they wield magic no ordinary man could dream of!",
    "box": "17x3",
    "face": 1
   },
@@ -777,7 +777,7 @@
    "id": "s128:05ba2",
    "op": "15",
    "jp": "けっ、嘘くせえ！",
-   "en": "",
+   "en": "Tch, sounds like a load of bull!",
    "box": "17x3",
    "face": 2
   },
@@ -785,7 +785,7 @@
    "id": "s128:05bc6",
    "op": "15",
    "jp": "そんなにすげえ力があるんなら、\nとっくにこんな所から\n逃げ出してるはずじゃねえか！？",
-   "en": "",
+   "en": "If he's got that kinda power, why ain't he busted outta here long ago!?",
    "box": "17x3",
    "face": 2
   },
@@ -793,7 +793,7 @@
    "id": "s128:05c2e",
    "op": "15",
    "jp": "デマだよ、デマ！！",
-   "en": "",
+   "en": "That's bull, pure bull!!",
    "box": "17x3",
    "face": 2
   },
@@ -801,7 +801,7 @@
    "id": "s128:05c52",
    "op": "15",
    "jp": "どうせインチキ臭え\nほらジジイに決まってる！！",
-   "en": "",
+   "en": "Gotta be some phony old geezer blowin' hot air!!",
    "box": "17x3",
    "face": 2
   },
@@ -809,7 +809,7 @@
    "id": "s128:05c92",
    "op": "15",
    "jp": "だいいちここは、\n悪名高い生けにえの待合室\nなんだぜ！？",
-   "en": "",
+   "en": "Besides, this here's the infamous Sacrifice Waiting Room, y'know!?",
    "box": "17x3",
    "face": 2
   },
@@ -817,7 +817,7 @@
    "id": "s128:05cea",
    "op": "15",
    "jp": "ふおっふぉっふおっ！",
-   "en": "",
+   "en": "Fo-ho-ho-ho!",
    "box": "17x3",
    "face": 29
   },
@@ -825,7 +825,7 @@
    "id": "s128:05d12",
    "op": "15",
    "jp": "こんな牢ぐらい出ようと思えば、\nいつでも出られるわい！",
-   "en": "",
+   "en": "A cell like this? I could walk out any time I pleased, my boy!",
    "box": "17x3",
    "face": 29
   },
@@ -849,7 +849,7 @@
    "id": "s128:05e6a",
    "op": "15",
    "jp": "わしの悪口を言う時には、\nもっと堂々と大声で、\n話してもらいたいもんじゃな！",
-   "en": "",
+   "en": "When you badmouth me, I'd thank you to do it boldly, at the top of your lungs, eh!",
    "box": "17x3",
    "face": 29
   },
@@ -857,7 +857,7 @@
    "id": "s128:05eca",
    "op": "15",
    "jp": "誰かが、誰かの悪口を言う場合には\n大抵・・・",
-   "en": "",
+   "en": "When one man badmouths another, it generally means...",
    "box": "17x3",
    "face": 29
   },
@@ -865,7 +865,7 @@
    "id": "s128:05f0a",
    "op": "15",
    "jp": "その相手の優秀さを\n心の底では嫉妬しておるという",
-   "en": "",
+   "en": "that deep in his heart, he envies the other man's excellence.",
    "box": "17x3",
    "face": 29
   },
@@ -873,7 +873,7 @@
    "id": "s128:05f4e",
    "op": "15",
    "jp": "なによりの証じゃ！！",
-   "en": "",
+   "en": "There's no surer proof of it, I daresay!!",
    "box": "17x3",
    "face": 29
   },
@@ -889,7 +889,7 @@
    "id": "s128:05f9e",
    "op": "15",
    "jp": "それに今日の所は、お主達も\nそろそろ床についた方が良かろう。",
-   "en": "",
+   "en": "Besides, you lot had best turn in for today, eh.",
    "box": "17x3",
    "face": 29
   },
@@ -897,7 +897,7 @@
    "id": "s128:05fee",
    "op": "15",
    "jp": "これ以上騒いでおると・・・\nまたぞろそこで脅えている、",
-   "en": "",
+   "en": "Make any more racket, and once again that cowering...",
    "box": "17x3",
    "face": 29
   },
@@ -905,7 +905,7 @@
    "id": "s128:06036",
    "op": "15",
    "jp": "臆病者の看守が痛い目に\nあわされそうで見るに耐えんわい！",
-   "en": "",
+   "en": "coward of a guard there is apt to get hurt, and I can't bear to watch it!",
    "box": "17x3",
    "face": 29
   },
@@ -913,7 +913,7 @@
    "id": "s128:06082",
    "op": "15",
    "jp": "お主達とて、弱い者虐めを\nいつまでも見物し続けるのが・・・",
-   "en": "",
+   "en": "Surely even you lot don't truly wish to go on watching the weak get bullied...",
    "box": "17x3",
    "face": 29
   },
@@ -921,7 +921,7 @@
    "id": "s128:060ce",
    "op": "15",
    "jp": "本意ではあるまい？",
-   "en": "",
+   "en": "...forever, eh?",
    "box": "17x3",
    "face": 29
   },
@@ -929,7 +929,7 @@
    "id": "s128:06172",
    "op": "15",
    "jp": "ちっ、バカらしい！\n俺はもう寝るぜ！",
-   "en": "",
+   "en": "Tch, this is stupid! I'm goin' to bed!",
    "box": "17x3",
    "face": 2
   }

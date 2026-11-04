@@ -9,7 +9,7 @@
    "id": "s306:00696",
    "op": "14",
    "jp": "うぉーっ！腹が減ったぁっ！\nなにか喰わせろぉぉおおっ！！",
-   "en": "",
+   "en": "Uoooh! I'm starving! Gimme something to eaaaat!!",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s306:00712",
    "op": "14",
    "jp": "この街はいいところだよぉ・・・\n何より、食い物がうまい！！",
-   "en": "",
+   "en": "This town's a fine place, I tell ya... Above all, the food's great!!",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s306:0078e",
    "op": "14",
    "jp": "この街の支配者は、バアル様だぁ\nとっても優しい紳士で、おらも\n食事に招待された事があるんだぁ。",
-   "en": "",
+   "en": "The ruler of this town is Baal-sama. A real kind gentleman. Why, I've been invited to dine with him myself.",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s306:007f4",
    "op": "14",
    "jp": "ヨロイ！？\n知らないなぁ・・・",
-   "en": "",
+   "en": "Armor!? Never heard of it...",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s306:0081a",
    "op": "14",
    "jp": "トリュフなら知ってるけど、\n食い物じゃないよねぇ！！",
-   "en": "",
+   "en": "I know truffles, though. That ain't food, is it!!",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s306:00856",
    "op": "14",
    "jp": "なに？黒い羽の女性、\nその辺探せば、\n沢山いるだろう？",
-   "en": "",
+   "en": "What? A black-winged woman? Look around, there's plenty of 'em, ain't there?",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s306:008ce",
    "op": "14",
    "jp": "バアル様の屋敷で\n何かあったらしいぜ。",
-   "en": "",
+   "en": "Something's going on at Baal-sama's mansion, I hear.",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s306:008fc",
    "op": "14",
    "jp": "ついさっきも奴隷達が大勢\n屋敷に連れて行かれたところだ。",
-   "en": "",
+   "en": "Just now a whole crowd of slaves got hauled off there.",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s306:00976",
    "op": "14",
    "jp": "なんだい客かい！？\n珍しいねぇ、\nわざわざ歩いて来るなんて",
-   "en": "",
+   "en": "What's this, a customer!? That's rare, comin' all this way on foot!",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s306:009b8",
    "op": "14",
    "jp": "でも悪いケド\n今材料を切らしててさぁ、",
-   "en": "",
+   "en": "Sorry, though, we're fresh out of ingredients right now,",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s306:009e6",
    "op": "14",
    "jp": "そういうわけで\nとっとと出てってくれ！",
-   "en": "",
+   "en": "so get the hell out already!",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s306:00a14",
    "op": "14",
    "jp": "・・・なんて言ってみたいよなぁ。",
-   "en": "",
+   "en": "...is what I'd love to say, y'know.",
    "box": "17x3",
    "face": 104
   },
@@ -113,7 +113,7 @@
    "id": "s306:00ac4",
    "op": "14",
    "jp": "犬に話しかけたからといって\n「わんわん」とでも言うと\n思ったのか？",
-   "en": "",
+   "en": "You talked to a dog, so you figured it'd say \"woof woof\"?",
    "box": "17x3",
    "face": 104
   },
@@ -121,7 +121,7 @@
    "id": "s306:00b0e",
    "op": "14",
    "jp": "お前はいつも犬に話しかけるのか？",
-   "en": "",
+   "en": "Do you always talk to dogs?",
    "box": "17x3",
    "face": 104
   },
@@ -137,7 +137,7 @@
    "id": "s306:00b48",
    "op": "14",
    "jp": "わんわん",
-   "en": "",
+   "en": "Woof woof",
    "box": "17x3",
    "face": 104
   },
@@ -145,7 +145,7 @@
    "id": "s306:00ba2",
    "op": "14",
    "jp": "すいません、お客さん！",
-   "en": "",
+   "en": "Sorry, sir!",
    "box": "17x3",
    "face": 22
   },
@@ -153,7 +153,7 @@
    "id": "s306:00bc0",
    "op": "14",
    "jp": "今、店の人間は\nバアル様のお屋敷に呼ばれて\n誰もいないんです・・・",
-   "en": "",
+   "en": "The shop folks all got called to Baal-sama's mansion, so nobody's here...",
    "box": "17x3",
    "face": 22
   },
@@ -161,7 +161,7 @@
    "id": "s306:00c0a",
    "op": "14",
    "jp": "私も後から来るように\n言われてるし、",
-   "en": "",
+   "en": "I've been told to come along later too,",
    "box": "17x3",
    "face": 22
   },
@@ -169,7 +169,7 @@
    "id": "s306:00c36",
    "op": "14",
    "jp": "またいらしてくださいね！！",
-   "en": "",
+   "en": "so do come again!!",
    "box": "17x3",
    "face": 22
   },
@@ -177,7 +177,7 @@
    "id": "s306:00ca2",
    "op": "14",
    "jp": "いらっしゃい！",
-   "en": "",
+   "en": "Welcome!",
    "box": "17x3",
    "face": 104
   },
@@ -185,7 +185,7 @@
    "id": "s306:00cb8",
    "op": "14",
    "jp": "この店の食料は、\n他の街から仕入れてきた、\n保存に適した品揃えばかりだよ！",
-   "en": "",
+   "en": "The food in this shop's bought in from other towns, all stock that keeps nice and long!",
    "box": "17x3",
    "face": 104
   },
@@ -193,7 +193,7 @@
    "id": "s306:00d0a",
    "op": "14",
    "jp": "うちの品物は味よりも、\n長持ちする質に\nこだわってるんだ！！",
-   "en": "",
+   "en": "Our goods aren't about flavor. We're particular about shelf life!!",
    "box": "17x3",
    "face": 104
   },
@@ -201,7 +201,7 @@
    "id": "s306:00d4e",
    "op": "14",
    "jp": "しこたま金を稼いで\nバアル様印の\n美味しい物を食べるのさ！",
-   "en": "",
+   "en": "Make a pile of money and eat tasty Baal-sama brand food, that's the life!",
    "box": "17x3",
    "face": 104
   },
@@ -209,7 +209,7 @@
    "id": "s306:00d90",
    "op": "14",
    "jp": "さあ、何を買うんだい！？",
-   "en": "",
+   "en": "Now, what'll it be!?",
    "box": "17x3",
    "face": 104
   },
@@ -217,7 +217,7 @@
    "id": "s306:00dda",
    "op": "14",
    "jp": "まだ買うかい？",
-   "en": "",
+   "en": "Buying more?",
    "box": "17x3",
    "face": 104
   },
@@ -225,21 +225,21 @@
    "id": "s306:00f16",
    "op": "1d",
    "jp": "は　い",
-   "en": "",
+   "en": "Yes",
    "max": 15
   },
   {
    "id": "s306:00f24",
    "op": "1d",
    "jp": "いいえ",
-   "en": "",
+   "en": "No",
    "max": 15
   },
   {
    "id": "s306:00f34",
    "op": "20",
    "jp": "街を出ますか？",
-   "en": ""
+   "en": "Leave town?"
   }
  ]
 }

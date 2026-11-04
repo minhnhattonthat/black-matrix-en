@@ -9,7 +9,7 @@
    "id": "s294:0124e",
    "op": "15",
    "jp": "どうぞ、こちらへ。\nご主人様がお待ちでございます。",
-   "en": "",
+   "en": "This way, if you please. The master is waiting.",
    "box": "17x3",
    "face": 40
   },
@@ -17,7 +17,7 @@
    "id": "s294:014aa",
    "op": "15",
    "jp": "いらっしゃいませ\nどうぞごゆっくり。",
-   "en": "",
+   "en": "Welcome. Please make yourselves at home.",
    "box": "17x3",
    "face": 41
   },
@@ -25,7 +25,7 @@
    "id": "s294:01cba",
    "op": "15",
    "jp": "どことなく、\nみんなぎこちないようだが・・・",
-   "en": "",
+   "en": "Something's a little stiff about all of them...",
    "box": "17x3",
    "face": 1
   },
@@ -33,7 +33,7 @@
    "id": "s294:01d2a",
    "op": "15",
    "jp": "きっと落ちつかないんですよ！",
-   "en": "",
+   "en": "They must just be nervous!",
    "box": "17x3",
    "face": 6
   },
@@ -41,7 +41,7 @@
    "id": "s294:01d5a",
    "op": "15",
    "jp": "こんな、お屋敷のメイドだなんて\n奴隷達にとってはまさに\n破格の待遇ですからね！！",
-   "en": "",
+   "en": "A maid in a mansion like this! For slaves, that's truly exceptional treatment, you know!!",
    "box": "17x3",
    "face": 6
   },
@@ -49,7 +49,7 @@
    "id": "s294:01dee",
    "op": "15",
    "jp": "本当にそうなのか？",
-   "en": "",
+   "en": "Is that really so?",
    "box": "17x3",
    "face": 1
   },
@@ -57,7 +57,7 @@
    "id": "s294:01e22",
    "op": "15",
    "jp": "はい。",
-   "en": "",
+   "en": "Yes.",
    "box": "17x3",
    "face": 41
   },
@@ -65,7 +65,7 @@
    "id": "s294:01e3a",
    "op": "15",
    "jp": "ご主人様は、\n本当におやさしい方で、\n私たちは、楽しく働いています！",
-   "en": "",
+   "en": "The master is a truly kind person, and we enjoy our work!",
    "box": "17x3",
    "face": 41
   },
@@ -73,7 +73,7 @@
    "id": "s294:01e92",
    "op": "15",
    "jp": "ここに居られるだけで、\n私達はとっても幸せです！！",
-   "en": "",
+   "en": "Just being here makes us so very happy!!",
    "box": "17x3",
    "face": 41
   },
@@ -105,7 +105,7 @@
    "id": "s294:01f9a",
    "op": "15",
    "jp": "とにかく、ここの主人の\nバアルとかいう奴に\n直接会えばわかるんだろ？",
-   "en": "",
+   "en": "Anyway, we just gotta go meet this Baal guy who runs the place and we'll know, right?",
    "box": "17x3",
    "face": 2
   },
@@ -113,7 +113,7 @@
    "id": "s294:02cf2",
    "op": "15",
    "jp": "ボク、お腹が減ったなぁ・・・",
-   "en": "",
+   "en": "I-I'm getting kinda hungry...",
    "box": "17x3",
    "face": 3
   }

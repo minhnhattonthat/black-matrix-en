@@ -9,7 +9,7 @@
    "id": "s292:00bda",
    "op": "15",
    "jp": "突然のことで\n失礼とは存じますが、",
-   "en": "",
+   "en": "Pardon the suddenness of this, I beg you,",
    "box": "17x3",
    "face": 40
   },
@@ -17,7 +17,7 @@
    "id": "s292:00c0e",
    "op": "15",
    "jp": "あなた様が有名な\nヨハネ様でございますか！？",
-   "en": "",
+   "en": "but would you be the renowned Johannes-sama!?",
    "box": "17x3",
    "face": 40
   },
@@ -33,7 +33,7 @@
    "id": "s292:00c7a",
    "op": "15",
    "jp": "この街の領主であらせられる\nバアル様が、あなた様方をぜひ、",
-   "en": "",
+   "en": "Baal-sama, lord of this town, wishes most earnestly",
    "box": "17x3",
    "face": 40
   },
@@ -41,7 +41,7 @@
    "id": "s292:00cc6",
    "op": "15",
    "jp": "お食事にご招待したいと\n申しております。",
-   "en": "",
+   "en": "to invite you and your party to dine.",
    "box": "17x3",
    "face": 40
   },
@@ -49,7 +49,7 @@
    "id": "s292:00d0e",
    "op": "15",
    "jp": "むう・・・・",
-   "en": "",
+   "en": "Hmm....",
    "box": "17x3",
    "face": 5
   },
@@ -57,7 +57,7 @@
    "id": "s292:00d2e",
    "op": "15",
    "jp": "たとえワナだったにせよ\nどの道、領主の館には\nいかねばなるまい・・・",
-   "en": "",
+   "en": "Trap or no, we must go to the lord's mansion either way, I daresay...",
    "box": "17x3",
    "face": 5
   },
@@ -65,7 +65,7 @@
    "id": "s292:00d92",
    "op": "15",
    "jp": "「虎穴に入らずんば」\nと言う事か！？",
-   "en": "",
+   "en": "\"Stay out of the tiger's den...\" and so on, huh!?",
    "box": "17x3",
    "face": 1
   },

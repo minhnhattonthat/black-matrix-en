@@ -9,7 +9,7 @@
    "id": "s182:00672",
    "op": "14",
    "jp": "こそこそ逃げ回ってねぇで、\nとっとと戦いやがれ！！",
-   "en": "",
+   "en": "Quit sneakin' around and fight already, dammit!!",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s182:006ba",
    "op": "14",
    "jp": "失礼ね！！\nこういうのを世間では\n頭がいい戦い方って言うのよ！",
-   "en": "",
+   "en": "How rude!! Out in the world, this is what we call fighting smart, darling!",
    "box": "17x3",
    "face": 13
   },
@@ -25,7 +25,7 @@
    "id": "s182:00922",
    "op": "14",
    "jp": "こいつらはまかせな！っと、\n言いたい所だが、",
-   "en": "",
+   "en": "Leave these guys to me! ...is what I'd like to say, but",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s182:00962",
    "op": "14",
    "jp": "こいつらなんだか気持ち悪りぃ！",
-   "en": "",
+   "en": "these guys are givin' me the creeps!",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s182:009e2",
    "op": "14",
    "jp": "何やってんだ。\nこの筋肉バカは！\n見ちゃいらんねぇな！",
-   "en": "",
+   "en": "What are you doing, muscle-head! I can't stand to watch!",
    "box": "17x3",
    "face": 1
   },
@@ -49,7 +49,7 @@
    "id": "s182:00b8e",
    "op": "14",
    "jp": "今まで\nよくもダマしてくれたわね！",
-   "en": "",
+   "en": "How dare you trick me all this time!",
    "box": "17x3",
    "face": 6
   },
@@ -57,7 +57,7 @@
    "id": "s182:00bb8",
    "op": "14",
    "jp": "あとで私の復讐日記に、\n書いておかなくっちゃ！！",
-   "en": "",
+   "en": "I'd better write this in my Revenge Diary later!!",
    "box": "17x3",
    "face": 6
   },
@@ -73,7 +73,7 @@
    "id": "s182:00c62",
    "op": "14",
    "jp": "お前の日記って\n復讐日記だったんかい！",
-   "en": "",
+   "en": "So that diary of yours is a Revenge Diary!?",
    "box": "17x3",
    "face": 1
   },
@@ -81,7 +81,7 @@
    "id": "s182:00ff6",
    "op": "14",
    "jp": "うるさい人たちね～っ！！",
-   "en": "",
+   "en": "What noisy people you are~!!",
    "box": "17x3",
    "face": 6
   },
@@ -89,7 +89,7 @@
    "id": "s182:010aa",
    "op": "14",
    "jp": "きゃっ！こんな所で死ぬモンですか！",
-   "en": "",
+   "en": "Eek! I'm not about to die in a place like this!",
    "box": "17x3",
    "face": 6
   },
@@ -97,7 +97,7 @@
    "id": "s182:01152",
    "op": "14",
    "jp": "このユダ様を裏切るとは、\nみんな死んでしまえっ！！",
-   "en": "",
+   "en": "Betray this Judas-sama, will you! Die, all of you!!",
    "box": "17x3",
    "face": 13
   },
@@ -105,7 +105,7 @@
    "id": "s182:01226",
    "op": "14",
    "jp": "ええいっ、\nこのグズ、\nのろま！",
-   "en": "",
+   "en": "Grr! You dimwits, you slugs!",
    "box": "17x3",
    "face": 13
   },
@@ -113,7 +113,7 @@
    "id": "s182:012e6",
    "op": "14",
    "jp": "何やってんのよ！\nお前達それでもアタシの愛人！？",
-   "en": "",
+   "en": "What are you doing! And you call yourselves my lovers!?",
    "box": "17x3",
    "face": 13
   },
@@ -121,7 +121,7 @@
    "id": "s182:015d6",
    "op": "14",
    "jp": "ひとまず撤退よ！！",
-   "en": "",
+   "en": "Retreat for now!!",
    "box": "17x3",
    "face": 13
   }

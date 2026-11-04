@@ -9,7 +9,7 @@
    "id": "s112:0004a",
    "op": "15",
    "jp": "わ～っ！きれいになったね、\n私よりじょうず！",
-   "en": "",
+   "en": "Wow! It's so clean now! You're better at this than I am!",
    "box": "17x3",
    "face": 7
   },
@@ -17,7 +17,7 @@
    "id": "s112:000b6",
    "op": "15",
    "jp": "ごめんねぇ、\nお掃除なんかさせちゃって。",
-   "en": "",
+   "en": "I'm sorry, making you do the cleaning.",
    "box": "17x3",
    "face": 7
   },
@@ -25,7 +25,7 @@
    "id": "s112:000f2",
    "op": "15",
    "jp": "でもリハビリのためだから、\n頑張ってね！",
-   "en": "",
+   "en": "But it's for your rehabilitation, so do your best!",
    "box": "17x3",
    "face": 7
   },
@@ -33,7 +33,7 @@
    "id": "s112:0015a",
    "op": "15",
    "jp": "あら・・・！？",
-   "en": "",
+   "en": "Oh, dear...!?",
    "box": "17x3",
    "face": 7
   },
@@ -41,7 +41,7 @@
    "id": "s112:0017a",
    "op": "15",
    "jp": "ううん、いいのいいの！\nそれよりケガしなかった？\n・・・ねぇ！",
-   "en": "",
+   "en": "No, no, it's fine, it's fine! More to the point, you didn't get hurt, did you? ...Well!",
    "box": "17x3",
    "face": 7
   },
@@ -49,7 +49,7 @@
    "id": "s112:001e2",
    "op": "15",
    "jp": "アナタって、ほんとになんでも\nできるのね！",
-   "en": "",
+   "en": "You really can do anything, can't you!",
    "box": "17x3",
    "face": 7
   },
@@ -57,7 +57,7 @@
    "id": "s112:0022e",
    "op": "15",
    "jp": "尊敬しちゃう！",
-   "en": "",
+   "en": "I admire you!",
    "box": "17x3",
    "face": 7
   }

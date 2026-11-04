@@ -9,7 +9,7 @@
    "id": "s302:00be2",
    "op": "15",
    "jp": "まったくあなた達は、\n仕方のない人達ですねぇ。",
-   "en": "",
+   "en": "Honestly, what hopeless people you are.",
    "box": "17x3",
    "face": 15
   },
@@ -17,7 +17,7 @@
    "id": "s302:00c22",
    "op": "15",
    "jp": "事ここに至っては、\nどうやら実力に訴える他\n方法がないようですね！！",
-   "en": "",
+   "en": "At this point, it seems there is no other way but to resort to force!!",
    "box": "17x3",
    "face": 15
   },
@@ -25,7 +25,7 @@
    "id": "s302:00d3a",
    "op": "15",
    "jp": "やっぱり\nダマそうとしてたんだぁ！",
-   "en": "",
+   "en": "So you were trying to trick us after all!",
    "box": "17x3",
    "face": 6
   },
@@ -33,7 +33,7 @@
    "id": "s302:00d7e",
    "op": "15",
    "jp": "うそつきぃ！",
-   "en": "",
+   "en": "Liaaar!",
    "box": "17x3",
    "face": 3
   }

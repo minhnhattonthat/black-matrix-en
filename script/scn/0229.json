@@ -9,7 +9,7 @@
    "id": "s229:0077a",
    "op": "14",
    "jp": "この村ほど安全な村は、\n他には有るまい・・・",
-   "en": "",
+   "en": "No village is safer than this one, my boy...",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s229:007ae",
    "op": "14",
    "jp": "なにせ村の創立以来、\n一度も戦争に巻き込まれた事が\n無いんじゃからな！",
-   "en": "",
+   "en": "Why, since its founding it's never once been caught up in a war, eh!",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s229:00836",
    "op": "14",
    "jp": "この村の住民達は皆、過去に\n他の街で名を上げた\n力のある連中ばかりじゃ・・・",
-   "en": "",
+   "en": "Every soul in this village made a name elsewhere, a person of power, one and all...",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s229:0088a",
    "op": "14",
    "jp": "その意味では、この村の住民こそ\n真の選ばれた強者の子孫だと\n言えるじゃろうて・・・",
-   "en": "",
+   "en": "In that sense, the folk here are descendants of the truly chosen strong, I daresay...",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s229:0091e",
    "op": "14",
    "jp": "暇じゃ・・とにかく暇じゃ・・・",
-   "en": "",
+   "en": "Bored... I'm just plain bored...",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s229:00944",
    "op": "14",
    "jp": "仕事？！そんな物は若い者や、\n白い羽の者がするものじゃ！",
-   "en": "",
+   "en": "Work?! That's for the young, my boy, and those with white wings!",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s229:00984",
    "op": "14",
    "jp": "わし等はただ、毎日を怠惰に\n過ごせるよう努力しておる！",
-   "en": "",
+   "en": "We strive only to spend each day in sloth!",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s229:009c2",
    "op": "14",
    "jp": "とはいうものの・・・\nだからこそ、とにかく暇なんじゃ！",
-   "en": "",
+   "en": "Mind you... that's just why I'm so bored, eh!",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s229:00a3a",
    "op": "14",
    "jp": "それでなくても世間では、\n病気や戦争で子供の数が\n減り続けておるというのに・・・",
-   "en": "",
+   "en": "As if children weren't dwindling enough out there from sickness and war...",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s229:00a92",
    "op": "14",
    "jp": "この村が、戦争に巻き込まれづらい\nという噂を聞きつけて、世界中から\n金持ちの老人達が集まってきおった。",
-   "en": "",
+   "en": "the rumor that war seldom touches this village drew rich old folk from all over the world.",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s229:00b00",
    "op": "14",
    "jp": "そのおかげで、この村の９割方の\n人間が老人達ばかりに\nなってしまったんじゃ・・・",
-   "en": "",
+   "en": "Thanks to that, nine in ten here are nothing but old folk, my boy...",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s229:00b92",
    "op": "14",
    "jp": "なんじゃいお前達！！",
-   "en": "",
+   "en": "What's all this, you lot!!",
    "box": "17x3",
    "face": 104
   },
@@ -105,7 +105,7 @@
    "id": "s229:00bae",
    "op": "14",
    "jp": "いい若いもんが、昼間っから\n仕事もせんで、遊んでばかり\n居おって・・・！！",
-   "en": "",
+   "en": "Fine young folk, playing about in broad daylight without a lick of work...!!",
    "box": "17x3",
    "face": 104
   },
@@ -113,7 +113,7 @@
    "id": "s229:00c00",
    "op": "14",
    "jp": "わし等老人が怠惰な生活を\n送れるように・・・\nもっと死ぬ気で働くんじゃ～！！",
-   "en": "",
+   "en": "So we old folk can live in sloth... work harder, work yourselves to death, I say!!",
    "box": "17x3",
    "face": 104
   },
@@ -121,7 +121,7 @@
    "id": "s229:00c62",
    "op": "14",
    "jp": "なぁおい・・・",
-   "en": "",
+   "en": "Hey, uh...",
    "box": "17x3",
    "face": 2
   },
@@ -129,7 +129,7 @@
    "id": "s229:00c78",
    "op": "14",
    "jp": "このジジイ・・・\n斬り殺しちゃだめかなぁ・・・？",
-   "en": "",
+   "en": "This geezer... can't I just cut him down...?",
    "box": "17x3",
    "face": 2
   },
@@ -145,7 +145,7 @@
    "id": "s229:00d0a",
    "op": "14",
    "jp": "村の周りの墓石の値段が・・・\nここのところめっきり上がってきて\n困っているんじゃ・・・",
-   "en": "",
+   "en": "The price of tombstones around the village has shot up lately, and it's a real bother, eh...",
    "box": "17x3",
    "face": 104
   },
@@ -153,7 +153,7 @@
    "id": "s229:00d68",
    "op": "14",
    "jp": "とはいっても、別段戦争があった\n訳でも病気が流行っている訳でも\nないんじゃが・・・",
-   "en": "",
+   "en": "Mind you, it's not as if there's been a war, or any sickness going around...",
    "box": "17x3",
    "face": 104
   },
@@ -161,7 +161,7 @@
    "id": "s229:00dfe",
    "op": "14",
    "jp": "この村の医療技術は世界一じゃ！",
-   "en": "",
+   "en": "This village's medicine is the finest in the world, my boy!",
    "box": "17x3",
    "face": 104
   },
@@ -169,7 +169,7 @@
    "id": "s229:00e24",
    "op": "14",
    "jp": "大陸中から集まった老人どもに\n引き寄せられて・・・、",
-   "en": "",
+   "en": "Drawn by the old folk gathered from across the continent...",
    "box": "17x3",
    "face": 104
   },
@@ -177,7 +177,7 @@
    "id": "s229:00e60",
    "op": "14",
    "jp": "強欲を志す医者どもが\n山ほど集まってきおった・・・！！",
-   "en": "",
+   "en": "doctors aspiring to greed came flocking by the heap...!!",
    "box": "17x3",
    "face": 104
   },
@@ -185,7 +185,7 @@
    "id": "s229:00e9e",
    "op": "14",
    "jp": "じゃが心配しなくとも、\nこの村の医療費は全部若い連中が\n払う事になっておるから・・・",
-   "en": "",
+   "en": "But no need to worry: the village's medical bills are all paid by the young folk,",
    "box": "17x3",
    "face": 104
   },
@@ -193,7 +193,7 @@
    "id": "s229:00efa",
    "op": "14",
    "jp": "わし等は全額タダなんじゃよ！",
-   "en": "",
+   "en": "so for us it's all free, eh!",
    "box": "17x3",
    "face": 104
   },
@@ -201,7 +201,7 @@
    "id": "s229:00f1e",
    "op": "14",
    "jp": "この村のはずれには、年貢を払えない若者や白い羽の者のために・・・",
-   "en": "",
+   "en": "On the edge of this village, for young folk and white-wings who can't pay their taxes...",
    "box": "17x3",
    "face": 104
   },
@@ -209,7 +209,7 @@
    "id": "s229:00f66",
    "op": "14",
    "jp": "無料の診療所をやっている\n変わり者が住んでおる・・・",
-   "en": "",
+   "en": "lives an oddball who runs a free clinic...",
    "box": "17x3",
    "face": 104
   },
@@ -217,7 +217,7 @@
    "id": "s229:00fa2",
    "op": "14",
    "jp": "おかげで他の医者からは、\nいつもひどい嫌がらせを\n受けておるようじゃ・・・",
-   "en": "",
+   "en": "Thanks to that, the other doctors are forever giving them awful grief, I daresay...",
    "box": "17x3",
    "face": 104
   },
@@ -225,7 +225,7 @@
    "id": "s229:00ff4",
    "op": "14",
    "jp": "まあ、当然といえば当然じゃがな！",
-   "en": "",
+   "en": "Well, it's only natural, if you ask me!",
    "box": "17x3",
    "face": 104
   },
@@ -233,7 +233,7 @@
    "id": "s229:01056",
    "op": "14",
    "jp": "が、からぁああああ～！",
-   "en": "",
+   "en": "G-Gah, spicyyyyyy~!",
    "box": "17x3",
    "face": 104
   },
@@ -241,7 +241,7 @@
    "id": "s229:010ae",
    "op": "14",
    "jp": "ふざけやがって！！",
-   "en": "",
+   "en": "Screw this!!",
    "box": "17x3",
    "face": 108
   },
@@ -249,7 +249,7 @@
    "id": "s229:010c8",
    "op": "14",
    "jp": "こんな年貢の高い村になんかに\n住んでられるかってんだ！！",
-   "en": "",
+   "en": "Who the hell could live in a village with taxes this high!!",
    "box": "17x3",
    "face": 108
   },
@@ -257,7 +257,7 @@
    "id": "s229:01108",
    "op": "14",
    "jp": "オイ！お前達もこんな村には\n長居しない方がいいぜ・・・！！",
-   "en": "",
+   "en": "Hey! You guys better not stick around this village long neither...!!",
    "box": "17x3",
    "face": 108
   },
@@ -265,7 +265,7 @@
    "id": "s229:0114a",
    "op": "14",
    "jp": "なにせ収入の８割方を\n爺さん達の病院代に\n取り上げられちまうんだからな・・",
-   "en": "",
+   "en": "See, they grab about 80 percent of your income for the geezers' hospital bills..",
    "box": "17x3",
    "face": 108
   },
@@ -281,7 +281,7 @@
    "id": "s229:011ea",
    "op": "14",
    "jp": "今は話しかけないで下さい・・・",
-   "en": "",
+   "en": "Please don't talk to me right now...",
    "box": "17x3",
    "face": 104
   },
@@ -289,7 +289,7 @@
    "id": "s229:01210",
    "op": "14",
    "jp": "この村では、子供が産まれると、\n子供達の数だけ、大人と同じ額の\n年貢を取り立てるんです・・・",
-   "en": "",
+   "en": "In this village, when a child is born, they collect taxes equal to an adult's for every child...",
    "box": "17x3",
    "face": 104
   },
@@ -297,7 +297,7 @@
    "id": "s229:01274",
    "op": "14",
    "jp": "だから子供が増えると、どんどん\n貧乏になっていく・・・",
-   "en": "",
+   "en": "So the more children you have, the poorer you get...",
    "box": "17x3",
    "face": 104
   },
@@ -305,7 +305,7 @@
    "id": "s229:012b2",
    "op": "14",
    "jp": "この子を産もうかどうしようか、\n今真剣に悩んでるんです・・・",
-   "en": "",
+   "en": "I'm seriously agonizing right now over whether to have this child...",
    "box": "17x3",
    "face": 104
   },
@@ -313,7 +313,7 @@
    "id": "s229:01332",
    "op": "14",
    "jp": "この村の若い連中はみんな、\n村を捨てて出ていってしまったんだ！",
-   "en": "",
+   "en": "All the young folks in this village up and abandoned it and left!",
    "box": "17x3",
    "face": 104
   },
@@ -321,7 +321,7 @@
    "id": "s229:01378",
    "op": "14",
    "jp": "いいよな黒い羽の連中は・・・",
-   "en": "",
+   "en": "Must be nice, bein' one of those black-winged folks...",
    "box": "17x3",
    "face": 104
   },
@@ -329,7 +329,7 @@
    "id": "s229:0139c",
    "op": "14",
    "jp": "俺かい！？\n奴隷の俺が逃亡なんか\n出来るわけが無いじゃないか・・・",
-   "en": "",
+   "en": "Me!? I'm a slave. How could I ever run away...",
    "box": "17x3",
    "face": 104
   },
@@ -345,7 +345,7 @@
    "id": "s229:0143e",
    "op": "14",
    "jp": "この村の老人達は・・・",
-   "en": "",
+   "en": "The old folks in this village...",
    "box": "17x3",
    "face": 104
   },
@@ -353,7 +353,7 @@
    "id": "s229:0145c",
    "op": "14",
    "jp": "暇だ暇だ！って、いつもみんなで\nブツブツいってるのに・・・",
-   "en": "",
+   "en": "They're always grumbling together, \"I'm bored, I'm bored!\", and yet...",
    "box": "17x3",
    "face": 104
   },
@@ -361,7 +361,7 @@
    "id": "s229:0149e",
    "op": "14",
    "jp": "誰一人として働こうとしないんだ！",
-   "en": "",
+   "en": "...not a single one of them will do any work!",
    "box": "17x3",
    "face": 104
   },
@@ -369,7 +369,7 @@
    "id": "s229:01502",
    "op": "14",
    "jp": "いらっしゃい！って・・ああっ！！\n若いお客さんなんて、\nえらいひさしぶりだなぁ・・・",
-   "en": "",
+   "en": "Welcome! ...Oh, whoa!! A young customer! It's been ages since I saw one of those...",
    "box": "17x3",
    "face": 104
   },
@@ -377,7 +377,7 @@
    "id": "s229:0155e",
    "op": "14",
    "jp": "いったい、何が欲しいんだ！？",
-   "en": "",
+   "en": "So what is it you want, anyway!?",
    "box": "17x3",
    "face": 104
   },
@@ -385,21 +385,21 @@
    "id": "s229:0167e",
    "op": "1d",
    "jp": "は　い",
-   "en": "",
+   "en": "Yes",
    "max": 15
   },
   {
    "id": "s229:0168c",
    "op": "1d",
    "jp": "いいえ",
-   "en": "",
+   "en": "No",
    "max": 15
   },
   {
    "id": "s229:0169c",
    "op": "20",
    "jp": "村を出ますか？",
-   "en": ""
+   "en": "Leave the village?"
   }
  ]
 }

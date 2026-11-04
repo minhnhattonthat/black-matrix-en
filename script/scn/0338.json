@@ -9,7 +9,7 @@
    "id": "s338:00782",
    "op": "14",
    "jp": "・・・鎧の力とやらは、\nこの程度のものなのか・・・",
-   "en": "",
+   "en": "...So this is all the so-called power of the armor amounts to...",
    "box": "17x3",
    "face": 128
   },
@@ -17,7 +17,7 @@
    "id": "s338:007fe",
    "op": "14",
    "jp": "鎧の力なんざ関係ねぇ！！",
-   "en": "",
+   "en": "The armor's power's got nothin' to do with it!!",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s338:0086a",
    "op": "14",
    "jp": "まあ、\nせいぜい生き延びることだな、\n力なき白い羽共よ。",
-   "en": "",
+   "en": "Well. Survive as best you can, powerless White Wings.",
    "box": "17x3",
    "face": 128
   },
@@ -33,7 +33,7 @@
    "id": "s338:008ee",
    "op": "14",
    "jp": "力なき白い羽どもに\n忠告する。",
-   "en": "",
+   "en": "A warning to you powerless White Wings.",
    "box": "17x3",
    "face": 128
   },
@@ -41,7 +41,7 @@
    "id": "s338:0096e",
    "op": "14",
    "jp": "くっ！！",
-   "en": "",
+   "en": "Ngh!!",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s338:0098a",
    "op": "14",
    "jp": "貴様らごときを殺すのは簡単だ。",
-   "en": "",
+   "en": "Killing the likes of you is easy.",
    "box": "17x3",
    "face": 128
   },
@@ -65,7 +65,7 @@
    "id": "s338:00a22",
    "op": "14",
    "jp": "お前らの、くだらん考え方に\n興味はないが・・・",
-   "en": "",
+   "en": "I've no interest in your worthless ideas, but...",
    "box": "17x3",
    "face": 128
   },
@@ -73,7 +73,7 @@
    "id": "s338:00a58",
    "op": "14",
    "jp": "それを追い求める限り、\n奴との衝突は\n避けられんだろう。",
-   "en": "",
+   "en": "as long as you chase them, a clash with him can't be avoided.",
    "box": "17x3",
    "face": 128
   },
@@ -89,7 +89,7 @@
    "id": "s338:00afe",
    "op": "14",
    "jp": "（教団の上層部を知っている！？）",
-   "en": "",
+   "en": "(He knows the upper ranks of the Order!?)",
    "box": "17x3",
    "face": 1
   },
@@ -97,7 +97,7 @@
    "id": "s338:00b32",
    "op": "14",
    "jp": "だが、俺と同じ力を\n求めるだけでは、\n奴を倒すことはできん。",
-   "en": "",
+   "en": "But merely seeking the same power as mine won't bring him down.",
    "box": "17x3",
    "face": 128
   },
@@ -105,7 +105,7 @@
    "id": "s338:00b76",
    "op": "14",
    "jp": "貴様らが持つ、\nまだ見ぬ力・・・",
-   "en": "",
+   "en": "The power you hold, as yet unseen...",
    "box": "17x3",
    "face": 128
   },
@@ -113,7 +113,7 @@
    "id": "s338:00b9e",
    "op": "14",
    "jp": "その力を理解することだな。",
-   "en": "",
+   "en": "Come to understand that power.",
    "box": "17x3",
    "face": 128
   },
@@ -121,7 +121,7 @@
    "id": "s338:00c1a",
    "op": "14",
    "jp": "（・・・あやつ・・・）",
-   "en": "",
+   "en": "(...That fellow, eh...)",
    "box": "17x3",
    "face": 5
   },
@@ -129,7 +129,7 @@
    "id": "s338:00c92",
    "op": "14",
    "jp": "（・・・何を言っている？）",
-   "en": "",
+   "en": "(...What's he talking about?)",
    "box": "17x3",
    "face": 1
   },
@@ -137,7 +137,7 @@
    "id": "s338:00cc2",
    "op": "14",
    "jp": "貴様らが、俺に代わって\n奴を倒したそのときには・・",
-   "en": "",
+   "en": "When you've defeated him in my stead...",
    "box": "17x3",
    "face": 128
   },
@@ -145,7 +145,7 @@
    "id": "s338:00cfc",
    "op": "14",
    "jp": "俺が改めて、\n貴様らを殺してやろう。",
-   "en": "",
+   "en": "I will come and kill you myself.",
    "box": "17x3",
    "face": 128
   },
@@ -153,7 +153,7 @@
    "id": "s338:00d82",
    "op": "14",
    "jp": "くそがぁッ！！",
-   "en": "",
+   "en": "You bastard!!",
    "box": "17x3",
    "face": 2
   },
@@ -161,7 +161,7 @@
    "id": "s338:00db6",
    "op": "14",
    "jp": "（なぜ奴が、この程度の\n　鎧にこだわるのか・・・）",
-   "en": "",
+   "en": "(Why is he so set on armor of this level...)",
    "box": "17x3",
    "face": 128
   },
@@ -169,7 +169,7 @@
    "id": "s338:00df0",
    "op": "14",
    "jp": "（時代の先を見るのも、\n　面白いかも知れんな・・・）",
-   "en": "",
+   "en": "(Seeing what lies ahead in this age might be amusing...)",
    "box": "17x3",
    "face": 128
   },
@@ -177,7 +177,7 @@
    "id": "s338:00e9e",
    "op": "14",
    "jp": "このやろう！！\nよそ見してんじゃねぇ！！",
-   "en": "",
+   "en": "You son of a bitch!! Don't you look away from me!!",
    "box": "17x3",
    "face": 2
   },
@@ -185,7 +185,7 @@
    "id": "s338:00fc2",
    "op": "14",
    "jp": "よぉ、会いたかったぜ！！",
-   "en": "",
+   "en": "Yo, I've been dyin' to see you!!",
    "box": "17x3",
    "face": 2
   },
@@ -193,7 +193,7 @@
    "id": "s338:00fee",
    "op": "14",
    "jp": "・・・この程度の力すら\n押さえ込むこともできんとは・・\n教団も衰えたな・・・",
-   "en": "",
+   "en": "...Unable to hold down even power this slight... The Order has declined...",
    "box": "17x3",
    "face": 128
   },
@@ -201,7 +201,7 @@
    "id": "s338:0104e",
    "op": "14",
    "jp": "なんだとぉ！！",
-   "en": "",
+   "en": "What'd you say!!",
    "box": "17x3",
    "face": 2
   },
@@ -209,7 +209,7 @@
    "id": "s338:01146",
    "op": "14",
    "jp": "貴様ほどの力を持つ者が、\nなぜ、奴らに従う必要がある？",
-   "en": "",
+   "en": "Someone with your power... why would you need to obey them?",
    "box": "17x3",
    "face": 1
   },
@@ -217,7 +217,7 @@
    "id": "s338:01192",
    "op": "14",
    "jp": "従う？",
-   "en": "",
+   "en": "Obey?",
    "box": "17x3",
    "face": 128
   },
@@ -225,7 +225,7 @@
    "id": "s338:011a0",
    "op": "14",
    "jp": "ふっ、俺が生きていた時代では、\n聞いたこともない言葉だな・・・",
-   "en": "",
+   "en": "Heh. A word unheard of in the age I lived in...",
    "box": "17x3",
    "face": 128
   },
@@ -233,7 +233,7 @@
    "id": "s338:011e6",
    "op": "14",
    "jp": "それもまた、時代の流れか・・・",
-   "en": "",
+   "en": "That too must be the flow of the ages...",
    "box": "17x3",
    "face": 128
   },
@@ -241,7 +241,7 @@
    "id": "s338:0121a",
    "op": "14",
    "jp": "時代・・・だと？",
-   "en": "",
+   "en": "The ages... you say?",
    "box": "17x3",
    "face": 1
   },
@@ -249,7 +249,7 @@
    "id": "s338:0153a",
    "op": "14",
    "jp": "（なぜ奴が、この程度の\n　鎧にこだわるのか・・・）",
-   "en": "",
+   "en": "(Why is he so set on armor of this level...)",
    "box": "17x3",
    "face": 128
   },
@@ -257,7 +257,7 @@
    "id": "s338:01574",
    "op": "14",
    "jp": "（時代の先を見るのも、\n　面白いかも知れんな・・・）",
-   "en": "",
+   "en": "(Seeing what lies ahead in this age might be amusing...)",
    "box": "17x3",
    "face": 128
   }

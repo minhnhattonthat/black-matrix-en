@@ -9,7 +9,7 @@
    "id": "s305:00dc2",
    "op": "15",
    "jp": "コウモリ！？\n奴の正体はコウモリだったのか？",
-   "en": "",
+   "en": "A bat!? So that's what he really is, a bat?",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s305:00e32",
    "op": "15",
    "jp": "いや、おそらく\nこれは奴の作った影！",
-   "en": "",
+   "en": "No, this is likely a shadow he made, my boy!",
    "box": "17x3",
    "face": 5
   },
@@ -25,7 +25,7 @@
    "id": "s305:00f06",
    "op": "15",
    "jp": "じゃあ、\nバアルは別の場所に？",
-   "en": "",
+   "en": "Then Baal's somewhere else?",
    "box": "17x3",
    "face": 1
   },
@@ -33,7 +33,7 @@
    "id": "s305:00f46",
    "op": "15",
    "jp": "うむ、隠れておるにちがいない！",
-   "en": "",
+   "en": "Mm, hiding, no doubt about it!",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s305:00f86",
    "op": "15",
    "jp": "くっ！！",
-   "en": "",
+   "en": "Dammit!!",
    "box": "17x3",
    "face": 1
   },
@@ -49,7 +49,7 @@
    "id": "s305:00fae",
    "op": "15",
    "jp": "それにしても\nいったい何が有ったというのじゃ\nガイよ！？",
-   "en": "",
+   "en": "But just what happened back there, Gai, eh!?",
    "box": "17x3",
    "face": 5
   },
@@ -65,7 +65,7 @@
    "id": "s305:0103a",
    "op": "15",
    "jp": "やっぱり奴は単なる・・・\n偽善者だったって事さ！",
-   "en": "",
+   "en": "Turns out he's just... a hypocrite after all, that's what!",
    "box": "17x3",
    "face": 1
   },
@@ -81,7 +81,7 @@
    "id": "s305:0109a",
    "op": "15",
    "jp": "その言葉が真実ならば・・・",
-   "en": "",
+   "en": "If what you say is true...",
    "box": "17x3",
    "face": 5
   },
@@ -89,7 +89,7 @@
    "id": "s305:010c6",
    "op": "15",
    "jp": "この屋敷にもすでに仕掛けが\nしてあるやもしれん・・・",
-   "en": "",
+   "en": "this mansion may well be rigged already, I daresay...",
    "box": "17x3",
    "face": 5
   },
@@ -97,7 +97,7 @@
    "id": "s305:0110e",
    "op": "15",
    "jp": "奴の正体はどうやら、",
-   "en": "",
+   "en": "What he truly is, it seems,",
    "box": "17x3",
    "face": 5
   },
@@ -105,7 +105,7 @@
    "id": "s305:01136",
    "op": "15",
    "jp": "人間を吸血鬼へと変える\nヴァンパイヤ！",
-   "en": "",
+   "en": "is a vampire, who turns humans into bloodsuckers!",
    "box": "17x3",
    "face": 5
   },
@@ -121,7 +121,7 @@
    "id": "s305:0119a",
    "op": "15",
    "jp": "いったん奴に生き血を\n吸い尽くされれば、\nもはや人間には戻れん！！",
-   "en": "",
+   "en": "Once he drains you of your blood, there's no turning human again, my boy!!",
    "box": "17x3",
    "face": 5
   },
@@ -129,7 +129,7 @@
    "id": "s305:011fe",
    "op": "15",
    "jp": "待ってくれ！！\nじゃあこの屋敷のメイド達も？",
-   "en": "",
+   "en": "Hold on!! Then the maids in this mansion too?",
    "box": "17x3",
    "face": 1
   },
@@ -137,7 +137,7 @@
    "id": "s305:0126e",
    "op": "15",
    "jp": "おそらくはすでに・・・・",
-   "en": "",
+   "en": "Most likely, already....",
    "box": "17x3",
    "face": 5
   },
@@ -153,7 +153,7 @@
    "id": "s305:0130e",
    "op": "15",
    "jp": "じゃが、たとえ彼女らが\n可哀想な白き羽の者達とはいえ、",
-   "en": "",
+   "en": "But pitiable White Wings though they may be,",
    "box": "17x3",
    "face": 5
   },
@@ -161,7 +161,7 @@
    "id": "s305:01356",
    "op": "15",
    "jp": "私情を捨てて戦わんと\nお主達まで、吸血鬼と化すぞ！！",
-   "en": "",
+   "en": "cast your feelings aside and fight, or you'll turn into bloodsuckers too, eh!!",
    "box": "17x3",
    "face": 5
   },
@@ -177,7 +177,7 @@
    "id": "s305:01406",
    "op": "15",
    "jp": "さっきの食事を食べ損ねたから\nお腹がすいたよ・・・",
-   "en": "",
+   "en": "Um, I missed out on that meal, so I'm hungry...",
    "box": "17x3",
    "face": 3
   },
@@ -185,7 +185,7 @@
    "id": "s305:0147e",
    "op": "15",
    "jp": "緊張感のねぇやつだ！",
-   "en": "",
+   "en": "You got no sense of danger, do ya!",
    "box": "17x3",
    "face": 2
   },
@@ -193,7 +193,7 @@
    "id": "s305:014fa",
    "op": "15",
    "jp": "いや、こやつの言う事も\nもっともじゃ！",
-   "en": "",
+   "en": "No, the boy has a point, eh!",
    "box": "17x3",
    "face": 5
   },
@@ -201,7 +201,7 @@
    "id": "s305:0154a",
    "op": "15",
    "jp": "激情に身を任せたままでは\nそれこそ奴らの思うツボ。",
-   "en": "",
+   "en": "Give in to passion and we'll play right into their hands.",
    "box": "17x3",
    "face": 5
   },
@@ -209,7 +209,7 @@
    "id": "s305:015da",
    "op": "15",
    "jp": "いったん屋敷を出て、\n態勢を整えた方が良い。",
-   "en": "",
+   "en": "Better we leave the mansion for now and regroup.",
    "box": "17x3",
    "face": 5
   },
@@ -217,7 +217,7 @@
    "id": "s305:0167a",
    "op": "15",
    "jp": "良いな？ガイ！！",
-   "en": "",
+   "en": "Is that clear, Gai!?",
    "box": "17x3",
    "face": 5
   },
@@ -233,14 +233,14 @@
    "id": "s305:016ca",
    "op": "1d",
    "jp": "いったん街に戻る！！",
-   "en": "",
+   "en": "Return to town for now!!",
    "max": 15
   },
   {
    "id": "s305:016e8",
    "op": "1d",
    "jp": "バアルを追う！",
-   "en": "",
+   "en": "Chase Baal!",
    "max": 15
   }
  ]

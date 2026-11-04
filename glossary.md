@@ -120,7 +120,24 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 上位 / 下位 (magic, summons) | Greater / Lesser | | | |
 | ボーナスポイント | Bonus Points | | level-up | |
 | 大天使 / 天使 / 戦闘天使 | archangel / angel / battle angel | | | |
-| 邪教 / 邪教徒 | the wicked faith / wicked believer | | praise in the world's morals unless the line is plainly a sneer from a heretic | heathen |
+| 邪教 / 邪教徒 | the wicked faith / wicked believer | | praise in the world's morals; as a plain sneer: heathen cult / heathen | |
+| 年貢 / 用心棒の先生がた | taxes / my hired protectors | | | |
+| 仲間にする / 仲間にしない / Xが仲間になった | Recruit / Don't recruit / X joined the party! | | | |
+| 雷神のマステマ / 烈火のパウア / 強欲のマモン | Mastema the Thunder God / Paua the Blazing / Mammon the Greedy | | titles | |
+| 千人殺し / 筋肉の兄貴 / 無料診療所 | Slayer of a Thousand / Big Bro Muscles / the free clinic | | | |
+| アンゲルス教典 / 聖なる行い / 神の子羊 | Angelus Scripture / Holy Deeds / Lamb of God | | | |
+| 弱肉強食 / 死刑囚 | the strong eat the weak / death-row con | | | |
+| 殿 | -dono | | kept like the other honorifics | |
+| 悪魔 / 白き悪魔 / 悪魔の鎧 | devil / white devils / devil armor | | | |
+| 背徳の街 / 暴食の街 / 封印の間 | the Town of Vice / the City of Gluttony / the Sealed Chamber | | | |
+| 神官魔法 / 神官兵 / 騎士様 | priest magic / priest soldiers / Sir Knight | | | |
+| 盗賊 / 大義賊 / 肉ドロボウ | bandit / great noble thief / meat thief | | | |
+| 領主 / 吸血鬼 / ヴァンパイヤメイド | lord / bloodsuckers / Vampire Maids | | | |
+| 奥義 / 秘技 | Ultimate Art / Secret Technique | | | |
+| テラ銭 / 呪符 | house cut / talisman | | | |
+| 不発弾のゼファル / 退廃の剣闘士 | Zephar the Dud / the Gladiator of Decadence | | | |
+| 閃光のゼロ / 黒き皇帝 / 七冠人 | Flash Zero / the Black Emperor / the Seven-Crown Man | | | |
+| 週刊剣闘士新聞 / 勝人投票券 | Weekly Gladiator News / winner tickets | | | |
 | 剣闘士 / 闘技場 | gladiator / the Arena | | | |
 | 大洪水 | the Great Flood | | | |
 | 秘密地下組織 | the secret underground | | | |

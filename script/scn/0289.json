@@ -9,7 +9,7 @@
    "id": "s289:0073e",
    "op": "14",
    "jp": "うぉーっ！腹が減ったぁっ！\nなにか喰わせろぉぉおおっ！！",
-   "en": "",
+   "en": "Uoooh! I'm starving! Gimme something to eaaaat!!",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s289:007ba",
    "op": "14",
    "jp": "この街はいいところだよぉ。\n何より、食い物がうまい！！",
-   "en": "",
+   "en": "This town's a fine place, I tell ya. Above all, the food's great!!",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s289:00832",
    "op": "14",
    "jp": "この街の支配者は、\nバアル様だぁ！！",
-   "en": "",
+   "en": "The ruler of this town is Baal-sama!!",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s289:0085e",
    "op": "14",
    "jp": "とっても邪悪な気のいい紳士で、\nおらも食事に招待された事が\nあるんだぁ。",
-   "en": "",
+   "en": "A real wicked, good-natured gentleman. Why, I've been invited to dine with him myself.",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s289:008ae",
    "op": "14",
    "jp": "ヨロイ！？\n知らないなぁ・・・",
-   "en": "",
+   "en": "Armor!? Never heard of it...",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s289:008d4",
    "op": "14",
    "jp": "トリュフなら知ってるけど\n食い物じゃないよねぇ！",
-   "en": "",
+   "en": "I know truffles, though. That ain't food, is it!",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s289:0090c",
    "op": "14",
    "jp": "なに？黒い羽の女性\nその辺探せば\n沢山いるだろう？",
-   "en": "",
+   "en": "What? A black-winged woman? Look around, there's plenty of 'em, ain't there?",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s289:00982",
    "op": "14",
    "jp": "この街では、ほとんど白い羽の\n奴隷を見かけないだろぉう！？",
-   "en": "",
+   "en": "You hardly see any white-winged slaves in this town, do ya!?",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s289:009c4",
    "op": "14",
    "jp": "この街の奴等は、\n金が無くなると自分達の奴隷を\nバアル様に差し出して、",
-   "en": "",
+   "en": "When folks here run out of money, they hand their slaves over to Baal-sama,",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s289:00a12",
    "op": "14",
    "jp": "その代わりに食い物を\n手に入れているのさ・・・！",
-   "en": "",
+   "en": "and get food in exchange...!",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s289:00a4a",
    "op": "14",
    "jp": "でも俺には金も差し出す奴隷も\nもういないから\n食い物がもらえないんだぁ！！",
-   "en": "",
+   "en": "But I got no money and no slaves left to give, so I don't get any food!!",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s289:00ad6",
    "op": "14",
    "jp": "白すぎだぞ・・・！",
-   "en": "",
+   "en": "Way too white...!",
    "box": "17x3",
    "face": 104
   },
@@ -105,7 +105,7 @@
    "id": "s289:00b2a",
    "op": "14",
    "jp": "わんわん",
-   "en": "",
+   "en": "Woof woof",
    "box": "17x3",
    "face": 104
   },
@@ -113,7 +113,7 @@
    "id": "s289:00b76",
    "op": "14",
    "jp": "シッシッ！！",
-   "en": "",
+   "en": "Shoo, shoo!!",
    "box": "17x3",
    "face": 104
   },
@@ -121,7 +121,7 @@
    "id": "s289:00b8a",
    "op": "14",
    "jp": "ここはお前達のような\n奴隷が入れる場所じゃない！！",
-   "en": "",
+   "en": "This is no place for slaves like you!!",
    "box": "17x3",
    "face": 104
   },
@@ -129,7 +129,7 @@
    "id": "s289:00bfe",
    "op": "14",
    "jp": "はい、この街の黒き羽の人たちは、\n働かないどころか\nほとんど動こうともしません！",
-   "en": "",
+   "en": "Yes, the Black Wings in this town don't work, and they hardly even move!",
    "box": "17x3",
    "face": 22
   },
@@ -137,7 +137,7 @@
    "id": "s289:00c56",
    "op": "14",
    "jp": "ですから、街の人の食べ物は、\n毎日私が出前をしているんです！",
-   "en": "",
+   "en": "So I deliver the townsfolk's food myself, every single day!",
    "box": "17x3",
    "face": 22
   },
@@ -145,7 +145,7 @@
    "id": "s289:00c9a",
    "op": "14",
    "jp": "ちなみに、私以外の白い羽の\n人達は、バアル様のお屋敷で\n働いているらしいのですが、",
-   "en": "",
+   "en": "Oh, and the other white-winged folks work at Baal-sama's mansion, apparently,",
    "box": "17x3",
    "face": 22
   },
@@ -153,7 +153,7 @@
    "id": "s289:00cf4",
    "op": "14",
    "jp": "何をしているのか\n誰にも解らないんです。",
-   "en": "",
+   "en": "but nobody knows what they do there.",
    "box": "17x3",
    "face": 22
   },
@@ -161,7 +161,7 @@
    "id": "s289:00d24",
    "op": "14",
    "jp": "だって、屋敷から帰ってきた\n人達は、誰一人いないから！",
-   "en": "",
+   "en": "'Cause not one of them has ever come back from it!",
    "box": "17x3",
    "face": 22
   },
@@ -169,7 +169,7 @@
    "id": "s289:00d62",
    "op": "14",
    "jp": "だけど、バアル様は邪悪な人ですよ！私達にも優しい言葉を\nかけてくださいますし・・・",
-   "en": "",
+   "en": "But Baal-sama's a wicked person, you know! He even has kind words for us...",
    "box": "17x3",
    "face": 22
   },
@@ -177,7 +177,7 @@
    "id": "s289:00dbc",
    "op": "14",
    "jp": "食料は一週間ごとに\nバアル様の所から、\n届けられてくるんです！",
-   "en": "",
+   "en": "And the food gets sent over from Baal-sama's place once a week!",
    "box": "17x3",
    "face": 22
   },
@@ -193,7 +193,7 @@
    "id": "s289:00e46",
    "op": "14",
    "jp": "またいらしてくださいね！",
-   "en": "",
+   "en": "Do come again!",
    "box": "17x3",
    "face": 22
   },
@@ -201,7 +201,7 @@
    "id": "s289:00e8a",
    "op": "14",
    "jp": "オ・・・オラにも一口・・・",
-   "en": "",
+   "en": "G-gimme a bite too, I reckon...",
    "box": "17x3",
    "face": 110
   },
@@ -209,7 +209,7 @@
    "id": "s289:00ef6",
    "op": "14",
    "jp": "なんだい客かい！？珍しいねぇ、\nわざわざ歩いて来るなんてぇ！",
-   "en": "",
+   "en": "What's this, a customer!? That's rare, comin' all this way on foot!",
    "box": "17x3",
    "face": 104
   },
@@ -217,7 +217,7 @@
    "id": "s289:00f50",
    "op": "14",
    "jp": "ハッ！！",
-   "en": "",
+   "en": "Hah!!",
    "box": "17x3",
    "face": 104
   },
@@ -225,7 +225,7 @@
    "id": "s289:00f60",
    "op": "14",
    "jp": "さては、その眼付き\nアンタかなりの食通と見た！",
-   "en": "",
+   "en": "That look in your eye... you're quite the gourmet, I can tell!",
    "box": "17x3",
    "face": 104
   },
@@ -233,7 +233,7 @@
    "id": "s289:00f96",
    "op": "14",
    "jp": "この街の喰いもんはぁ、\n抜群にうまいぜぇ！！",
-   "en": "",
+   "en": "The grub in this town's outstanding, pal!!",
    "box": "17x3",
    "face": 104
   },
@@ -241,7 +241,7 @@
    "id": "s289:00fca",
    "op": "14",
    "jp": "何ならココでぇ\n味見をしていくかい？！",
-   "en": "",
+   "en": "How 'bout a little taste right here?!",
    "box": "17x3",
    "face": 104
   },
@@ -249,21 +249,21 @@
    "id": "s289:01012",
    "op": "1d",
    "jp": "味見する！？",
-   "en": "",
+   "en": "Taste it!?",
    "max": 15
   },
   {
    "id": "s289:01028",
    "op": "1d",
    "jp": "味見しない！！",
-   "en": "",
+   "en": "Don't taste it!!",
    "max": 15
   },
   {
    "id": "s289:01062",
    "op": "14",
    "jp": "こっこれは！？",
-   "en": "",
+   "en": "Wh-what is this!?",
    "box": "17x3",
    "face": 0
   },
@@ -271,7 +271,7 @@
    "id": "s289:01078",
    "op": "14",
    "jp": "まったりとして、サッパリとして、\nそれでいて、少しも味がくどく\nないばかりか、",
-   "en": "",
+   "en": "Mellow, refreshing, and yet not the least bit heavy -- what's more,",
    "box": "17x3",
    "face": 0
   },
@@ -279,7 +279,7 @@
    "id": "s289:010ce",
    "op": "14",
    "jp": "ハンナリとして、\nもちもちっとした食感が、\n口の中全体に広がったかと思うと、",
-   "en": "",
+   "en": "elegantly delicate, its chewy texture spreads through the whole mouth, and then,",
    "box": "17x3",
    "face": 0
   },
@@ -287,7 +287,7 @@
    "id": "s289:01122",
    "op": "14",
    "jp": "淡雪のような強烈な清涼感が舌の\n上全体に広がり、甘くて豊潤な\n肉の旨味だけが後味として・・・",
-   "en": "",
+   "en": "a fierce coolness like powder snow sweeps across the tongue, leaving as aftertaste only the sweet, rich savor of meat...",
    "box": "17x3",
    "face": 0
   },
@@ -295,7 +295,7 @@
    "id": "s289:01186",
    "op": "14",
    "jp": "とにかく抜群にうまかった！！",
-   "en": "",
+   "en": "Anyway, it was outstandingly good!!",
    "box": "17x3",
    "face": 0
   },
@@ -303,7 +303,7 @@
    "id": "s289:011b6",
    "op": "14",
    "jp": "料理のおかわりを頼みますか！？",
-   "en": "",
+   "en": "Order another helping!?",
    "box": "17x3",
    "face": 104
   },
@@ -311,21 +311,21 @@
    "id": "s289:011f6",
    "op": "1d",
    "jp": "おかわりする！",
-   "en": "",
+   "en": "Seconds!",
    "max": 15
   },
   {
    "id": "s289:0120c",
    "op": "1d",
    "jp": "遠慮する！！",
-   "en": "",
+   "en": "No thanks!!",
    "max": 15
   },
   {
    "id": "s289:01232",
    "op": "14",
    "jp": "こっこれは！？",
-   "en": "",
+   "en": "Wh-what is this!?",
    "box": "17x3",
    "face": 0
   },
@@ -333,7 +333,7 @@
    "id": "s289:01248",
    "op": "14",
    "jp": "先ほど食べたばかりだというのに、\nシャキッとした深みのある、香りの\n五重奏が一瞬鼻先にたなびいて、",
-   "en": "",
+   "en": "Though I only just ate, a crisp, profound quintet of aromas drifts for an instant past my nose,",
    "box": "17x3",
    "face": 0
   },
@@ -341,7 +341,7 @@
    "id": "s289:012b2",
    "op": "14",
    "jp": "その食欲を一気に極限まで高めたかと思うと、そのぷりぷりっとした\n濃厚で上品な食感がふっくらとした",
-   "en": "",
+   "en": "sending the appetite to its utter limit at a stroke, and then that bouncy, rich, refined texture, with the fluffy...",
    "box": "17x3",
    "face": 0
   },
@@ -349,7 +349,7 @@
    "id": "s289:0131a",
    "op": "14",
    "jp": "肉の味と引き合い、むしろその味に\nドッシリとした土台を与えて、\n妙に人の心を惹き付けたかと思うと、",
-   "en": "",
+   "en": "flavor of the meat, draws it in, gives it a hefty foundation, oddly captivating the heart, and then,",
    "box": "17x3",
    "face": 0
   },
@@ -357,7 +357,7 @@
    "id": "s289:01384",
    "op": "14",
    "jp": "ズバーンとした、その得も言われぬ\n鮮烈な香ばしさが両方の旨味を増大\nさせて、なんとも瑞々しい・・",
-   "en": "",
+   "en": "WHAM! An indescribable, vivid toastiness magnifies both savors, so wonderfully fresh...",
    "box": "17x3",
    "face": 0
   },
@@ -365,7 +365,7 @@
    "id": "s289:013ec",
    "op": "14",
    "jp": "とにかく滅茶苦茶うまかった！",
-   "en": "",
+   "en": "Anyway, it was damn good!",
    "box": "17x3",
    "face": 0
   },
@@ -373,7 +373,7 @@
    "id": "s289:01422",
    "op": "14",
    "jp": "ふん！",
-   "en": "",
+   "en": "Hmph!",
    "box": "17x3",
    "face": 104
   },
@@ -381,7 +381,7 @@
    "id": "s289:01430",
    "op": "14",
    "jp": "目の前にある料理の味見もせず、\n実際に食べてみもしないうちから、\n物知り顔で帰ろうだなんて、",
-   "en": "",
+   "en": "You won't even taste the food in front of you, not one bite, and you'd walk out looking like you know it all,",
    "box": "17x3",
    "face": 104
   },
@@ -389,7 +389,7 @@
    "id": "s289:01494",
    "op": "14",
    "jp": "しょせん食通ぶってはいても\nたんなる貧乏人か！！",
-   "en": "",
+   "en": "Playing the gourmet, but you're just some pauper after all!!",
    "box": "17x3",
    "face": 104
   },
@@ -397,7 +397,7 @@
    "id": "s289:014f2",
    "op": "14",
    "jp": "おっと、食べた分の金は\nちゃんとおいて行けよぉ～！",
-   "en": "",
+   "en": "Hey, you leave the money for what you ate, ya hear~!",
    "box": "17x3",
    "face": 104
   },
@@ -405,7 +405,7 @@
    "id": "s289:01544",
    "op": "14",
    "jp": "まいどぉおぉおぉーっ！！",
-   "en": "",
+   "en": "Thank youuuuu, come agaaaain!!",
    "box": "17x3",
    "face": 104
   },
@@ -413,7 +413,7 @@
    "id": "s289:01580",
    "op": "14",
    "jp": "キ、キサマー！！",
-   "en": "",
+   "en": "Y-you bastaaard!!",
    "box": "17x3",
    "face": 104
   },
@@ -421,7 +421,7 @@
    "id": "s289:015e2",
    "op": "14",
    "jp": "いらっしゃい！",
-   "en": "",
+   "en": "Welcome!",
    "box": "17x3",
    "face": 104
   },
@@ -429,7 +429,7 @@
    "id": "s289:015f8",
    "op": "14",
    "jp": "この店の食料は、\n他の街から仕入れてきた、",
-   "en": "",
+   "en": "The food in this shop's bought in from other towns,",
    "box": "17x3",
    "face": 104
   },
@@ -437,7 +437,7 @@
    "id": "s289:0162a",
    "op": "14",
    "jp": "保存に適した品揃えばかりだよ！",
-   "en": "",
+   "en": "all stock that keeps nice and long!",
    "box": "17x3",
    "face": 104
   },
@@ -445,7 +445,7 @@
    "id": "s289:01650",
    "op": "14",
    "jp": "うちの品物は味よりも、\n長持ちする質にこだわってるんだ！！",
-   "en": "",
+   "en": "Our goods aren't about flavor. We're particular about shelf life!!",
    "box": "17x3",
    "face": 104
   },
@@ -453,7 +453,7 @@
    "id": "s289:01692",
    "op": "14",
    "jp": "しこたま金を稼いで、\nバアル様印の\n美味しい物を食べるのさ！",
-   "en": "",
+   "en": "Make a pile of money and eat tasty Baal-sama brand food, that's the life!",
    "box": "17x3",
    "face": 104
   },
@@ -461,7 +461,7 @@
    "id": "s289:016d6",
    "op": "14",
    "jp": "さあ、\n何を買うんだい！？",
-   "en": "",
+   "en": "Now, what'll it be!?",
    "box": "17x3",
    "face": 104
   },
@@ -469,7 +469,7 @@
    "id": "s289:01722",
    "op": "14",
    "jp": "まだ買うかい？",
-   "en": "",
+   "en": "Buying more?",
    "box": "17x3",
    "face": 104
   },
@@ -477,7 +477,7 @@
    "id": "s289:01772",
    "op": "14",
    "jp": "キサマ等！",
-   "en": "",
+   "en": "You lot!",
    "box": "17x3",
    "face": 104
   },
@@ -485,7 +485,7 @@
    "id": "s289:01784",
    "op": "14",
    "jp": "ウチの組のなわばりに\nなんのようだ！！",
-   "en": "",
+   "en": "What's your business on our gang's turf!!",
    "box": "17x3",
    "face": 104
   },
@@ -493,21 +493,21 @@
    "id": "s289:01866",
    "op": "1d",
    "jp": "は　い",
-   "en": "",
+   "en": "Yes",
    "max": 15
   },
   {
    "id": "s289:01874",
    "op": "1d",
    "jp": "いいえ",
-   "en": "",
+   "en": "No",
    "max": 15
   },
   {
    "id": "s289:01884",
    "op": "20",
    "jp": "街を出ますか？",
-   "en": ""
+   "en": "Leave town?"
   }
  ]
 }

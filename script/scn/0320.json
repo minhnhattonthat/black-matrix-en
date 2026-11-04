@@ -9,7 +9,7 @@
    "id": "s320:00b2e",
    "op": "15",
    "jp": "いったい・・・\nさっきのバアルの言葉は\nどういう、意味だったんだろう！？",
-   "en": "",
+   "en": "Um... what on earth could Baal have meant by that!?",
    "box": "17x3",
    "face": 3
   },
@@ -25,7 +25,7 @@
    "id": "s320:00bb6",
    "op": "15",
    "jp": "今はとりあえず、\n次の街に行くしかあるまい。",
-   "en": "",
+   "en": "For now, we've no choice but to go on to the next city.",
    "box": "17x3",
    "face": 5
   },
@@ -33,7 +33,7 @@
    "id": "s320:00bf6",
    "op": "15",
    "jp": "それぞれの街の支配者ならば\n何らかの情報を知っておる\nはずじゃからな！！",
-   "en": "",
+   "en": "Each city's ruler is bound to know something or other, eh!!",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s320:00c5e",
    "op": "15",
    "jp": "ああっ！",
-   "en": "",
+   "en": "Yeah!",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s320:00c7a",
    "op": "15",
    "jp": "それにしてもあの御馳走、\nもったいないったら、\nないぜ！！",
-   "en": "",
+   "en": "Still, what a damn waste of that feast!!",
    "box": "17x3",
    "face": 2
   },
@@ -81,7 +81,7 @@
    "id": "s320:00d7e",
    "op": "15",
    "jp": "街の食堂でさえあの旨さだって\n言うのに！",
-   "en": "",
+   "en": "Even the town diner's that tasty, y'know!",
    "box": "17x3",
    "face": 2
   },
@@ -89,7 +89,7 @@
    "id": "s320:00dba",
    "op": "15",
    "jp": "いったい材料に\n何を使ってるんだろうな！！",
-   "en": "",
+   "en": "What the hell do they use for ingredients, anyway!!",
    "box": "17x3",
    "face": 2
   },
@@ -105,7 +105,7 @@
    "id": "s320:00e16",
    "op": "15",
    "jp": "おい！",
-   "en": "",
+   "en": "Hey!",
    "box": "17x3",
    "face": 1
   },
@@ -113,7 +113,7 @@
    "id": "s320:00e2e",
    "op": "15",
    "jp": "お前、\nさっきあの食堂で\n料理を喰ったんだっけ！？",
-   "en": "",
+   "en": "You... did you eat the food at that diner earlier!?",
    "box": "17x3",
    "face": 1
   },
@@ -129,7 +129,7 @@
    "id": "s320:00ebe",
    "op": "15",
    "jp": "いや・・・別に・・・\nそれならいいんだ！",
-   "en": "",
+   "en": "No... never mind... If that's so, it's fine!",
    "box": "17x3",
    "face": 1
   },
@@ -137,7 +137,7 @@
    "id": "s320:00f0e",
    "op": "15",
    "jp": "食わなくって正解さ！",
-   "en": "",
+   "en": "You were right not to eat it!",
    "box": "17x3",
    "face": 1
   },
@@ -145,7 +145,7 @@
    "id": "s320:00f36",
    "op": "15",
    "jp": "あの料理の材料は、\n奴が食べ尽くした後の・・・",
-   "en": "",
+   "en": "The ingredients in that food were what remained after he'd eaten his fill...",
    "box": "17x3",
    "face": 1
   },
@@ -153,7 +153,7 @@
    "id": "s320:00f76",
    "op": "15",
    "jp": "いわば・・・\n食い残しだったんだからな！！",
-   "en": "",
+   "en": "his table scraps, so to speak!!",
    "box": "17x3",
    "face": 1
   },
@@ -169,7 +169,7 @@
    "id": "s320:0215e",
    "op": "15",
    "jp": "街の他の連中は、\nどうしちまったんだい！？",
-   "en": "",
+   "en": "What the hell happened to the rest of the folks in town!?",
    "box": "17x3",
    "face": 2
   },
@@ -177,7 +177,7 @@
    "id": "s320:022e2",
    "op": "15",
    "jp": "あなた達がバアル様を倒したんで、\n脅えて逃げ出したか、\n家に閉じこもっちゃったのよ！！",
-   "en": "",
+   "en": "You guys beat Baal-sama, so they got scared and ran off, or shut themselves up at home!!",
    "box": "17x3",
    "face": 22
   },
@@ -185,7 +185,7 @@
    "id": "s320:0234a",
    "op": "15",
    "jp": "もっとも普段と、あんまり\nかわらないんだけどネ！",
-   "en": "",
+   "en": "Not that it's all that different from usual, tee-hee!",
    "box": "17x3",
    "face": 22
   },
@@ -201,7 +201,7 @@
    "id": "s320:023ce",
    "op": "15",
    "jp": "バアルに頼り切っていたのね、\nここの人たちは・・・",
-   "en": "",
+   "en": "They leaned on Baal for everything, the people here...",
    "box": "17x3",
    "face": 6
   },
@@ -209,7 +209,7 @@
    "id": "s320:02446",
    "op": "15",
    "jp": "私の御主人様も逃げちゃったんだ！",
-   "en": "",
+   "en": "My master ran away too!",
    "box": "17x3",
    "face": 22
   },
@@ -217,7 +217,7 @@
    "id": "s320:0247a",
    "op": "15",
    "jp": "で、モノは相談なんだけどぉ、",
-   "en": "",
+   "en": "Sooo, here's a proposition~,",
    "box": "17x3",
    "face": 22
   },
@@ -225,7 +225,7 @@
    "id": "s320:024aa",
    "op": "15",
    "jp": "私もあなた達に\n付いて行っちゃダメかなぁ！？",
-   "en": "",
+   "en": "Would it be no good if I tagged along with you guys~!?",
    "box": "17x3",
    "face": 22
   },
@@ -233,21 +233,21 @@
    "id": "s320:024f6",
    "op": "1d",
    "jp": "連れていく！！",
-   "en": "",
+   "en": "Take her along!!",
    "max": 15
   },
   {
    "id": "s320:0250c",
    "op": "1d",
    "jp": "連れていかない！",
-   "en": "",
+   "en": "Don't take her!",
    "max": 15
   },
   {
    "id": "s320:02542",
    "op": "15",
    "jp": "わぁーい！ありがとう！\n私パリティ、よろしくね！",
-   "en": "",
+   "en": "Yaaay! Thank you! I'm Parity, nice to meet ya!",
    "box": "17x3",
    "face": 22
   },
@@ -255,7 +255,7 @@
    "id": "s320:02592",
    "op": "15",
    "jp": "特技はお料理と人の癖を\n見抜くことかなぁ～！？",
-   "en": "",
+   "en": "My specialties are cooking and seeing through people's little habits, I guess~!?",
    "box": "17x3",
    "face": 22
   },
@@ -263,7 +263,7 @@
    "id": "s320:025e2",
    "op": "15",
    "jp": "ぜぇったい、\n役に立つからね！！",
-   "en": "",
+   "en": "I'll be suuuper useful, promise!!",
    "box": "17x3",
    "face": 22
   },
@@ -271,7 +271,7 @@
    "id": "s320:02624",
    "op": "14",
    "jp": "パリティが仲間になった！",
-   "en": "",
+   "en": "Parity joined the party!",
    "box": "17x3",
    "face": 104
   },
@@ -279,7 +279,7 @@
    "id": "s320:0268a",
    "op": "15",
    "jp": "そうだよね！",
-   "en": "",
+   "en": "Right, of course!",
    "box": "17x3",
    "face": 22
   },
@@ -287,7 +287,7 @@
    "id": "s320:026aa",
    "op": "15",
    "jp": "私なんかが付いて行っても、\n足手まといになるだけだモノね！",
-   "en": "",
+   "en": "Someone like me tagging along would only get in your way, huh!",
    "box": "17x3",
    "face": 22
   },
@@ -295,7 +295,7 @@
    "id": "s320:026f6",
    "op": "15",
    "jp": "いいの・・・\nここで食堂を続けるわ！",
-   "en": "",
+   "en": "It's fine... I'll keep running the diner here!",
    "box": "17x3",
    "face": 22
   },
@@ -303,7 +303,7 @@
    "id": "s320:0272e",
    "op": "15",
    "jp": "近くに来る事があったら、\nまた食べに来てね！！",
-   "en": "",
+   "en": "If you're ever nearby, come eat here again!!",
    "box": "17x3",
    "face": 22
   },

@@ -9,7 +9,7 @@
    "id": "s136:004ca",
    "op": "14",
    "jp": "筋肉バカと爺さんとガキか・・・",
-   "en": "",
+   "en": "A muscle-head, an old man and a kid...",
    "box": "17x3",
    "face": 1
   },
@@ -25,7 +25,7 @@
    "id": "s136:0053e",
    "op": "14",
    "jp": "お前、腹すいてねえか？",
-   "en": "",
+   "en": "Hey, you hungry?",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s136:0055c",
    "op": "14",
    "jp": "そういやぁリンゴ持ってやがったな\nあいつ・・・",
-   "en": "",
+   "en": "Come to think of it, that guy had an apple on him...",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s136:005ce",
    "op": "14",
    "jp": "こんな所におっても仕方あるまい。\n先を急ごうではないか？",
-   "en": "",
+   "en": "No use lingering in a place like this. Shall we press on, eh?",
    "box": "17x3",
    "face": 5
   },
@@ -49,7 +49,7 @@
    "id": "s136:0064a",
    "op": "14",
    "jp": "確かキミは・・・",
-   "en": "",
+   "en": "If I remember right, you...",
    "box": "17x3",
    "face": 3
   },
@@ -57,7 +57,7 @@
    "id": "s136:00662",
    "op": "14",
    "jp": "大事な記憶を色々と\n無くしちゃってるんだったよね・・・",
-   "en": "",
+   "en": "lost a lot of important memories, didn't you...",
    "box": "17x3",
    "face": 3
   },
@@ -65,7 +65,7 @@
    "id": "s136:006a0",
    "op": "14",
    "jp": "ボクなんかでも・・・\nなにかキミの役にたてる事が\nあるのかなぁ？",
-   "en": "",
+   "en": "Is there... um, anything even someone like me could do to help you?",
    "box": "17x3",
    "face": 3
   },
@@ -73,56 +73,56 @@
    "id": "s136:00702",
    "op": "1d",
    "jp": "七つの大罪について",
-   "en": "",
+   "en": "About the Seven Deadly Sins",
    "max": 15
   },
   {
    "id": "s136:0071c",
    "op": "1d",
    "jp": "七つの美徳について",
-   "en": "",
+   "en": "About the Seven Virtues",
    "max": 15
   },
   {
    "id": "s136:00738",
    "op": "1d",
    "jp": "この牢獄の事について",
-   "en": "",
+   "en": "About this prison",
    "max": 15
   },
   {
    "id": "s136:00754",
    "op": "1d",
    "jp": "黒き羽の生活について",
-   "en": "",
+   "en": "About Black Wing life",
    "max": 15
   },
   {
    "id": "s136:00770",
    "op": "1d",
    "jp": "大神官について",
-   "en": "",
+   "en": "About High Priests",
    "max": 15
   },
   {
    "id": "s136:00788",
    "op": "1d",
    "jp": "この牢獄の獄長について",
-   "en": "",
+   "en": "About this prison's Warden",
    "max": 15
   },
   {
    "id": "s136:007a8",
    "op": "1d",
    "jp": "自分のご主人様の居場所について",
-   "en": "",
+   "en": "About where my master is",
    "max": 15
   },
   {
    "id": "s136:007e6",
    "op": "14",
    "jp": "自由・正義・人権・平等・友情・愛\nなんていう考え方は・・・",
-   "en": "",
+   "en": "Freedom, justice, human rights, equality, friendship, love... ideas like those...",
    "box": "17x3",
    "face": 3
   },
@@ -130,7 +130,7 @@
    "id": "s136:00828",
    "op": "14",
    "jp": "どれも実際には、この世に有りも\nしない偽善的で退廃的な\n考え方だとして・・・",
-   "en": "",
+   "en": "...don't actually exist in this world. They're hypocritical, decadent ideas, so...",
    "box": "17x3",
    "face": 3
   },
@@ -138,7 +138,7 @@
    "id": "s136:0087c",
    "op": "14",
    "jp": "黒き羽のボク等の間では、口にする\n事さえ、はばかられているんだ。",
-   "en": "",
+   "en": "among us Black Wings, people won't even say them out loud.",
    "box": "17x3",
    "face": 3
   },
@@ -146,7 +146,7 @@
    "id": "s136:008c4",
    "op": "14",
    "jp": "それにボクのような弱者は・・・",
-   "en": "",
+   "en": "And weak people like me...",
    "box": "17x3",
    "face": 3
   },
@@ -154,7 +154,7 @@
    "id": "s136:008ea",
    "op": "14",
    "jp": "弱肉強食のこの世の中では、\n存在自体が罪に値するんだって・・・",
-   "en": "",
+   "en": "...in this dog-eat-dog world, um, just existing counts as a sin, they say...",
    "box": "17x3",
    "face": 3
   },
@@ -162,7 +162,7 @@
    "id": "s136:00942",
    "op": "14",
    "jp": "憤怒・おごり・嫉妬・怠惰・暴食・\n強欲、それに欲情といった感情は・・",
-   "en": "",
+   "en": "Wrath, pride, envy, sloth, gluttony, greed and lust... feelings like those...",
    "box": "17x3",
    "face": 3
   },
@@ -170,7 +170,7 @@
    "id": "s136:0098e",
    "op": "14",
    "jp": "どれも、最も動物らしい自然な\n行いだとして、どれもとっても\n尊重されているんだ・・・",
-   "en": "",
+   "en": "...are the most natural, animal things a person can do, so they're all held in very high regard...",
    "box": "17x3",
    "face": 3
   },
@@ -178,7 +178,7 @@
    "id": "s136:009ea",
    "op": "14",
    "jp": "弱肉強食のこの世の中では、\nどれも当たり前の行いだって\nみんなは言ってるけど・・・",
-   "en": "",
+   "en": "Everyone says that in this dog-eat-dog world, they're only natural, but...",
    "box": "17x3",
    "face": 3
   },
@@ -186,7 +186,7 @@
    "id": "s136:00a56",
    "op": "14",
    "jp": "このゴルゴダの牢獄は地下３階建ての建物になっていて・・・",
-   "en": "",
+   "en": "Golgotha Prison is a building that goes three floors underground...",
    "box": "17x3",
    "face": 3
   },
@@ -194,7 +194,7 @@
    "id": "s136:00a96",
    "op": "14",
    "jp": "地下１階には、たんに殺される予定の軽い刑罰を受ける犯罪者達が\n入っているんだ・・・",
-   "en": "",
+   "en": "The first basement holds criminals with light sentences, who are simply going to be killed...",
    "box": "17x3",
    "face": 3
   },
@@ -202,7 +202,7 @@
    "id": "s136:00af0",
    "op": "14",
    "jp": "地下２階には、罪人に痛みを\n与え続ける為の拷問部屋が・・・",
-   "en": "",
+   "en": "The second basement has torture rooms, for keeping prisoners in constant pain...",
    "box": "17x3",
    "face": 3
   },
@@ -210,7 +210,7 @@
    "id": "s136:00b32",
    "op": "14",
    "jp": "そしていまボク達がいる地下３階が\n大邪神を封じ込める為の\n生けにえとして選ばれ・・・、",
-   "en": "",
+   "en": "And the third basement, where we are now... um, it's for those chosen as sacrifices to seal away the Great Evil God...",
    "box": "17x3",
    "face": 3
   },
@@ -218,7 +218,7 @@
    "id": "s136:00b90",
    "op": "14",
    "jp": "生きたまま永遠の苦しみを\n与え続けられる大罪人用の監獄だって聞いてるんだけど・・・",
-   "en": "",
+   "en": "...a jail for great sinners, made to suffer forever while alive. Or so I've heard...",
    "box": "17x3",
    "face": 3
   },
@@ -226,7 +226,7 @@
    "id": "s136:00bea",
    "op": "14",
    "jp": "実際に罪人が、ここからどこに\n連れて行かれるのかは、\nボクもよく知らないんだ・・・",
-   "en": "",
+   "en": "Where the prisoners actually get taken from here, I-I don't really know...",
    "box": "17x3",
    "face": 3
   },
@@ -234,7 +234,7 @@
    "id": "s136:00c44",
    "op": "14",
    "jp": "だけど少なくとも、\nキミが言っていたご主人様は・・・",
-   "en": "",
+   "en": "But at least that master you mentioned...",
    "box": "17x3",
    "face": 3
   },
@@ -242,7 +242,7 @@
    "id": "s136:00c80",
    "op": "14",
    "jp": "ココにはいないと思うよ・・・",
-   "en": "",
+   "en": "...isn't here, I don't think...",
    "box": "17x3",
    "face": 3
   },
@@ -250,7 +250,7 @@
    "id": "s136:00cb6",
    "op": "14",
    "jp": "黒き羽のボク達の基本的な生活は、\n狩猟に頼った所が多いから\n放浪生活を送る人も多いんだけど、",
-   "en": "",
+   "en": "We Black Wings mostly live by hunting, so lots of people live as wanderers, but...",
    "box": "17x3",
    "face": 3
   },
@@ -258,7 +258,7 @@
    "id": "s136:00d1a",
    "op": "14",
    "jp": "権力者達は、奴隷を使った農園を\nやっているんで、その土地を\n守るために城塞を構えたり・・・",
-   "en": "",
+   "en": "The powerful run plantations with slaves, so they build fortresses to guard that land...",
    "box": "17x3",
    "face": 3
   },
@@ -266,7 +266,7 @@
    "id": "s136:00d7c",
    "op": "14",
    "jp": "自分の勢力を誇示するために傭兵を\n集めたりするんだ・・・・",
-   "en": "",
+   "en": "and gather mercenaries to show off their might....",
    "box": "17x3",
    "face": 3
   },
@@ -274,7 +274,7 @@
    "id": "s136:00dbe",
    "op": "14",
    "jp": "もっとも、黒い羽の傭兵達は\n大抵自分の雇い主を倒そうと、\n日々腕を磨いているから・・・",
-   "en": "",
+   "en": "Though most Black Wing mercenaries train daily to overthrow their own employers, so...",
    "box": "17x3",
    "face": 3
   },
@@ -282,7 +282,7 @@
    "id": "s136:00e1c",
    "op": "14",
    "jp": "いつの間にか\n領主が変わっていたりする事も\n珍しくないんだ・・・",
-   "en": "",
+   "en": "it's not unusual for a lord to change before you know it...",
    "box": "17x3",
    "face": 3
   },
@@ -290,7 +290,7 @@
    "id": "s136:00e64",
    "op": "14",
    "jp": "だけど、キミ達白き羽の人々が、\n自分のご主人様や黒き羽の人々に\n向かって手を上げることだけは",
-   "en": "",
+   "en": "But for you White Wings, raising a hand against your master or any Black Wing...",
    "box": "17x3",
    "face": 3
   },
@@ -298,7 +298,7 @@
    "id": "s136:00ec8",
    "op": "14",
    "jp": "厳しく禁じられているんだ！！",
-   "en": "",
+   "en": "is strictly forbidden!!",
    "box": "17x3",
    "face": 3
   },
@@ -306,7 +306,7 @@
    "id": "s136:00eec",
    "op": "14",
    "jp": "もっともレブさんやガイさん達の\n場合には異端審問官達に\n捕まった時に・・・",
-   "en": "",
+   "en": "Though in the case of Reb-san and Gai-san, when the Inquisitors caught them...",
    "box": "17x3",
    "face": 3
   },
@@ -314,7 +314,7 @@
    "id": "s136:00f3e",
    "op": "14",
    "jp": "自由とか正義って言葉を\n口にしちゃった事の方が、問題だったみたいなんだけど・・・",
-   "en": "",
+   "en": "the bigger problem seems to have been that they said words like freedom and justice...",
    "box": "17x3",
    "face": 3
   },
@@ -322,7 +322,7 @@
    "id": "s136:00faa",
    "op": "14",
    "jp": "ボクたち黒き羽の一族は・・・、",
-   "en": "",
+   "en": "Our people, the Black Wings...",
    "box": "17x3",
    "face": 3
   },
@@ -330,7 +330,7 @@
    "id": "s136:00fd0",
    "op": "14",
    "jp": "創世記戦争と呼ばれる戦いで勝利したメフィスト様やリリス様達の直系の\n子孫だと言われてるんだけど・・・",
-   "en": "",
+   "en": "are said to be direct descendants of Mephisto-sama, Lilith-sama and the others who won the battle called the Genesis War, but...",
    "box": "17x3",
    "face": 3
   },
@@ -338,7 +338,7 @@
    "id": "s136:0103c",
    "op": "14",
    "jp": "長い年月の間にその神秘的な力の\nほとんどは、失われてしまったって\n言われているんだ・・・",
-   "en": "",
+   "en": "over the long years, they say, most of that mystic power has been lost...",
    "box": "17x3",
    "face": 3
   },
@@ -346,7 +346,7 @@
    "id": "s136:0109c",
    "op": "14",
    "jp": "ところが、そんなボクたちとは違い\n僅かに残った、頭に角が生えた\n大神官と呼ばれる人達だけは・・・",
-   "en": "",
+   "en": "But unlike us, the few who remain with horns on their heads, the ones called High Priests...",
    "box": "17x3",
    "face": 3
   },
@@ -354,7 +354,7 @@
    "id": "s136:01104",
    "op": "14",
    "jp": "暗黒魔術と呼ばれる、奇跡の力を\n未だに受け継いでいるんだって・・・",
-   "en": "",
+   "en": "have still inherited the miraculous power called dark magic, they say...",
    "box": "17x3",
    "face": 3
   },
@@ -362,7 +362,7 @@
    "id": "s136:0114e",
    "op": "14",
    "jp": "風の噂によると彼らの間では、",
-   "en": "",
+   "en": "Word is that among them,",
    "box": "17x3",
    "face": 3
   },
@@ -370,7 +370,7 @@
    "id": "s136:01172",
    "op": "14",
    "jp": "「いつの日にか世界を取り戻そうと\n　する大邪神が復活し、それを阻む\n　ために神もまた蘇る！」",
-   "en": "",
+   "en": "\"Someday the Great Evil God will return to reclaim the world, and God too will rise to stop it!\"",
    "box": "17x3",
    "face": 3
   },
@@ -378,7 +378,7 @@
    "id": "s136:011d6",
    "op": "14",
    "jp": "って言う伝説が、\n真剣に信じられているんだって\n聞いたことがあるけど・・・",
-   "en": "",
+   "en": "That's a legend they truly believe in, or so I've heard...",
    "box": "17x3",
    "face": 3
   },
@@ -386,7 +386,7 @@
    "id": "s136:01252",
    "op": "14",
    "jp": "ここの獄長を務めるプラハ様は、\n噂によると、とっても邪悪な人物\nらしくって・・・",
-   "en": "",
+   "en": "The Warden here, Prague-sama, is rumored to be a very wicked person...",
    "box": "17x3",
    "face": 3
   },
@@ -394,7 +394,7 @@
    "id": "s136:012aa",
    "op": "14",
    "jp": "彼女がきてからは、\n極端に拷問や死刑の数が\n減ってきているんだ・・・・",
-   "en": "",
+   "en": "Since she came, the number of tortures and executions has dropped sharply....",
    "box": "17x3",
    "face": 3
   },
@@ -402,7 +402,7 @@
    "id": "s136:012f8",
    "op": "14",
    "jp": "ボクの事も、\nまだ一度も殴った事がないし、",
-   "en": "",
+   "en": "She's never hit me, not even once,",
    "box": "17x3",
    "face": 3
   },
@@ -410,7 +410,7 @@
    "id": "s136:0132a",
    "op": "14",
    "jp": "他の看守達も職務怠慢だって、\nさんざん陰で文句を言ってたよ！",
-   "en": "",
+   "en": "and the other guards complain behind her back that she's neglecting her duties!",
    "box": "17x3",
    "face": 3
   },
@@ -418,7 +418,7 @@
    "id": "s136:01382",
    "op": "14",
    "jp": "ここの獄長を務めるカロン様は、\n他の看守達からすごく評判がよくて",
-   "en": "",
+   "en": "The Warden here, Charon-sama, is really well thought of by the other guards...",
    "box": "17x3",
    "face": 3
   },
@@ -426,7 +426,7 @@
    "id": "s136:013ca",
    "op": "14",
    "jp": "憤怒・嫉妬・怠惰・おごり・暴食・\n強欲・欲情といった七つの美徳の\nどれをとっても一級品の・・・",
-   "en": "",
+   "en": "Wrath, envy, sloth, pride, gluttony, greed, lust... in every one of the Seven Virtues, he's first-class...",
    "box": "17x3",
    "face": 3
   },
@@ -434,7 +434,7 @@
    "id": "s136:01430",
    "op": "14",
    "jp": "模範的な人物なんだって！",
-   "en": "",
+   "en": "...a real model of a man, they say!",
    "box": "17x3",
    "face": 3
   },
@@ -442,7 +442,7 @@
    "id": "s136:01450",
    "op": "14",
    "jp": "彼がココにきてからは、極端に拷問や死刑の数が上がり続けてるんだ！",
-   "en": "",
+   "en": "Since he came here, the number of tortures and executions has kept climbing and climbing!",
    "box": "17x3",
    "face": 3
   },
@@ -450,7 +450,7 @@
    "id": "s136:014aa",
    "op": "14",
    "jp": "ごめんね・・・・",
-   "en": "",
+   "en": "I'm sorry....",
    "box": "17x3",
    "face": 3
   },
@@ -458,7 +458,7 @@
    "id": "s136:014c2",
    "op": "14",
    "jp": "残念だけど、\nボクにはキミのご主人様が\nどこに連れて行かれたかなんて・・・",
-   "en": "",
+   "en": "Unfortunately, where your master was taken...",
    "box": "17x3",
    "face": 3
   },
@@ -466,7 +466,7 @@
    "id": "s136:01514",
    "op": "14",
    "jp": "想像もつかないよ・・・",
-   "en": "",
+   "en": "I-I can't even imagine...",
    "box": "17x3",
    "face": 3
   },
@@ -474,7 +474,7 @@
    "id": "s136:0156e",
    "op": "14",
    "jp": "ボクは囚人。\n白い羽の囚人。",
-   "en": "",
+   "en": "I am a prisoner. A White Wing prisoner.",
    "box": "17x3",
    "face": 104
   },
@@ -482,7 +482,7 @@
    "id": "s136:015ce",
    "op": "14",
    "jp": "昨日は、萌えるゴミの日。",
-   "en": "",
+   "en": "Yesterday was hot trash day.",
    "box": "17x3",
    "face": 104
   },
@@ -490,21 +490,21 @@
    "id": "s136:0162e",
    "op": "1d",
    "jp": "は　い",
-   "en": "",
+   "en": "Yes",
    "max": 15
   },
   {
    "id": "s136:0163c",
    "op": "1d",
    "jp": "いいえ",
-   "en": "",
+   "en": "No",
    "max": 15
   },
   {
    "id": "s136:0164c",
    "op": "20",
    "jp": "外に出ますか？",
-   "en": ""
+   "en": "Go outside?"
   }
  ]
 }

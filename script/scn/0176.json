@@ -9,7 +9,7 @@
    "id": "s176:0069e",
    "op": "15",
    "jp": "なんだよ、\n誰もいねぇじゃねぇか・・・",
-   "en": "",
+   "en": "What the hell, there's nobody here...",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s176:006e6",
    "op": "15",
    "jp": "この神殿の封印の間には、\n色々な神官魔法を使う連中が、\n多く存在しておる、",
-   "en": "",
+   "en": "In this temple's Sealed Chamber you'll find many a fellow using all manner of priest magic,",
    "box": "17x3",
    "face": 5
   },
@@ -25,7 +25,7 @@
    "id": "s176:00742",
    "op": "15",
    "jp": "気を付けねばならんぞ！",
-   "en": "",
+   "en": "so we must watch ourselves, eh!",
    "box": "17x3",
    "face": 5
   },
@@ -33,7 +33,7 @@
    "id": "s176:0077a",
    "op": "15",
    "jp": "でも、ガイさんとルピルピさんが、\nまだ合流できてないよ。",
-   "en": "",
+   "en": "B-but, um, Gai-san and Rupirupi-san haven't caught up with us yet.",
    "box": "17x3",
    "face": 3
   },
@@ -41,7 +41,7 @@
    "id": "s176:007f6",
    "op": "15",
    "jp": "うむ・・・",
-   "en": "",
+   "en": "Mm...",
    "box": "17x3",
    "face": 5
   },
@@ -49,7 +49,7 @@
    "id": "s176:008b2",
    "op": "15",
    "jp": "そんなの関係ねぇ！！",
-   "en": "",
+   "en": "Who gives a damn!!",
    "box": "17x3",
    "face": 2
   },
@@ -57,7 +57,7 @@
    "id": "s176:008da",
    "op": "15",
    "jp": "２人ぐれぇ足らなくても\n俺様が全部、\nぶっ倒してやるからよ！",
-   "en": "",
+   "en": "So we're short a couple guys! I'll smash every last one of 'em myself!",
    "box": "17x3",
    "face": 2
   },
@@ -65,7 +65,7 @@
    "id": "s176:00936",
    "op": "15",
    "jp": "でっ・・でも・・・",
-   "en": "",
+   "en": "B-b-but...",
    "box": "17x3",
    "face": 3
   },
@@ -73,7 +73,7 @@
    "id": "s176:00982",
    "op": "15",
    "jp": "まったく！\n単純なのにもほどがあるわね！",
-   "en": "",
+   "en": "Honestly! There's simple, and then there's you, hmph!",
    "box": "17x3",
    "face": 11
   },
@@ -81,7 +81,7 @@
    "id": "s176:009e2",
    "op": "15",
    "jp": "おにいちゃん、おにいちゃん！\nこの人、頭に・・・",
-   "en": "",
+   "en": "Big brother, big brother! This guy's head...",
    "box": "17x3",
    "face": 8
   },
@@ -89,7 +89,7 @@
    "id": "s176:00a26",
    "op": "15",
    "jp": "虫でも飼ってるのかなぁ？！",
-   "en": "",
+   "en": "...has he got bugs living in it or something?!",
    "box": "17x3",
    "face": 8
   },
@@ -97,7 +97,7 @@
    "id": "s176:00a62",
    "op": "15",
    "jp": "うるせぇっ！\nごちゃごちゃ言う前に行動だ！",
-   "en": "",
+   "en": "Shut up! Less yappin', more doin'!",
    "box": "17x3",
    "face": 2
   },
@@ -105,7 +105,7 @@
    "id": "s176:00ada",
    "op": "15",
    "jp": "おら行くぞ！！\nうおおおおおおおおおりゃああ！！",
-   "en": "",
+   "en": "Let's GO!! Raaaaaaaaaaaaah!!",
    "box": "17x3",
    "face": 2
   }

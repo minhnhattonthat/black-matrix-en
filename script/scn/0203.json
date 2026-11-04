@@ -9,7 +9,7 @@
    "id": "s203:00542",
    "op": "15",
    "jp": "この丘を越えれば、\nパンデモニウムの街か・・・",
-   "en": "",
+   "en": "Over this hill and we're at Pandemonium, huh...",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s203:00582",
    "op": "15",
    "jp": "なんだかやけに懐かしいぜ！",
-   "en": "",
+   "en": "Damn, it sure takes me back!",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s203:005ae",
    "op": "15",
    "jp": "俺は昔、あそこの領主に\n仕えていた事があったんだ！",
-   "en": "",
+   "en": "I served the lord of that place once, ya know!",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s203:00626",
    "op": "15",
    "jp": "アナタが仕えていたのなら\nその領主はとても\n強かったんでしょうね・・・",
-   "en": "",
+   "en": "If you served him, that lord must have been very strong...",
    "box": "17x3",
    "face": 6
   },
@@ -41,7 +41,7 @@
    "id": "s203:00752",
    "op": "15",
    "jp": "それがとんでもない\n見かけ倒しでなぁ～！",
-   "en": "",
+   "en": "Turned out he was all show, big time!",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s203:0078e",
    "op": "15",
    "jp": "愛想を尽かして、\n自分から飛び出したのさ！",
-   "en": "",
+   "en": "Got sick of him and walked out on my own!",
    "box": "17x3",
    "face": 2
   },
@@ -57,7 +57,7 @@
    "id": "s203:0095a",
    "op": "15",
    "jp": "ボクの実家も・・・\nこの近くにあるんだ！",
-   "en": "",
+   "en": "My home is... near here, too!",
    "box": "17x3",
    "face": 3
   },
@@ -65,7 +65,7 @@
    "id": "s203:00996",
    "op": "15",
    "jp": "なんだか久しぶりだな・・・",
-   "en": "",
+   "en": "It's been a while, somehow...",
    "box": "17x3",
    "face": 3
   },
@@ -73,7 +73,7 @@
    "id": "s203:009ea",
    "op": "15",
    "jp": "ねえ・・・\nちょっと遠回りになるかも\nしれないけど・・・",
-   "en": "",
+   "en": "Um... it might be a bit of a detour, but...",
    "box": "17x3",
    "face": 3
   },
@@ -81,7 +81,7 @@
    "id": "s203:00a36",
    "op": "15",
    "jp": "もしよかったら明日、\nボクの実家のある村に寄って\nみてくれないかなぁ・・・！？",
-   "en": "",
+   "en": "if you don't mind, could we maybe stop by my home village tomorrow...!?",
    "box": "17x3",
    "face": 3
   },
@@ -89,21 +89,21 @@
    "id": "s203:00aa6",
    "op": "1d",
    "jp": "そうだね！そうしよう！！",
-   "en": "",
+   "en": "Sure! Let's do that!!",
    "max": 15
   },
   {
    "id": "s203:00ac8",
    "op": "1d",
    "jp": "ごめん先を急ぐから・・・",
-   "en": "",
+   "en": "Sorry, we're in a hurry...",
    "max": 15
   },
   {
    "id": "s203:00baa",
    "op": "15",
    "jp": "村まであと少しだが今夜は\nココで野宿するとしようぜ！",
-   "en": "",
+   "en": "The village ain't far now, but let's camp out here tonight!",
    "box": "17x3",
    "face": 2
   },
@@ -111,7 +111,7 @@
    "id": "s203:00c72",
    "op": "15",
    "jp": "街まであと少しだが今夜は\nココで野宿するとしようぜ！",
-   "en": "",
+   "en": "The town ain't far now, but let's camp out here tonight!",
    "box": "17x3",
    "face": 2
   }

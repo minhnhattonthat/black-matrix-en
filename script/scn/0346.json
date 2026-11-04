@@ -9,7 +9,7 @@
    "id": "s346:00ec6",
    "op": "15",
    "jp": "みなさん！",
-   "en": "",
+   "en": "Everyone!",
    "box": "17x3",
    "face": 16
   },
@@ -17,7 +17,7 @@
    "id": "s346:00f2e",
    "op": "15",
    "jp": "我が白き羽・解放革命戦線の\n総本部にようこそ！",
-   "en": "",
+   "en": "Welcome to the headquarters of our White Wing Revolutionary Liberation Front!",
    "box": "17x3",
    "face": 16
   },
@@ -25,7 +25,7 @@
    "id": "s346:00fc6",
    "op": "15",
    "jp": "まさか、聞いていた施設が\nこんな地下にあるなんて",
-   "en": "",
+   "en": "Never figured the place I'd heard about would be this far underground.",
    "box": "17x3",
    "face": 1
   },
@@ -33,7 +33,7 @@
    "id": "s346:01016",
    "op": "15",
    "jp": "はっはっはっはっ。\nなにぶん地下水路を\n利用しておりますからな！",
-   "en": "",
+   "en": "Hahahaha. We do make use of the underground waterways, you see!",
    "box": "17x3",
    "face": 16
   },
@@ -41,7 +41,7 @@
    "id": "s346:0106a",
    "op": "15",
    "jp": "若干臭いはしますが、\nこれ以上に安全な場所は\n他にはありますまい。",
-   "en": "",
+   "en": "There is a slight odor, but surely no safer place exists anywhere.",
    "box": "17x3",
    "face": 16
   },
@@ -49,7 +49,7 @@
    "id": "s346:010ce",
    "op": "15",
    "jp": "ところでケルビム殿！\n先程は危ない所を助けて頂き、",
-   "en": "",
+   "en": "By the way, Cherubim-dono! You saved us from a tight spot earlier,",
    "box": "17x3",
    "face": 5
   },
@@ -57,7 +57,7 @@
    "id": "s346:01112",
    "op": "15",
    "jp": "仲間の手当までしてもらって\nすまなかった・・・",
-   "en": "",
+   "en": "and tended to our companion as well. I'm much obliged, my friend...",
    "box": "17x3",
    "face": 5
   },
@@ -65,7 +65,7 @@
    "id": "s346:01162",
    "op": "15",
    "jp": "いえいえ、\n我々の設備があれば\nこのくらい造作もありません。",
-   "en": "",
+   "en": "Not at all. With our facilities, this much is no trouble whatever.",
    "box": "17x3",
    "face": 16
   },
@@ -73,7 +73,7 @@
    "id": "s346:011b2",
    "op": "15",
    "jp": "しかし、先程の女性は・・・",
-   "en": "",
+   "en": "But that lady just now...",
    "box": "17x3",
    "face": 16
   },
@@ -81,7 +81,7 @@
    "id": "s346:011de",
    "op": "15",
    "jp": "怪我もさることながら随分と\n衰弱されているご様子でしたが。",
-   "en": "",
+   "en": "Her wounds aside, she seemed quite gravely weakened.",
    "box": "17x3",
    "face": 16
   },
@@ -97,7 +97,7 @@
    "id": "s346:0125a",
    "op": "15",
    "jp": "いやいや失敬、\n余計な詮索は無しとしましょう。",
-   "en": "",
+   "en": "Ah, but pardon me. Let us have no needless prying.",
    "box": "17x3",
    "face": 16
   },
@@ -105,7 +105,7 @@
    "id": "s346:012aa",
    "op": "15",
    "jp": "ケルビムさんよ、\nそれよりあんた達の組織の事、\nみんなに話してやってくれ。",
-   "en": "",
+   "en": "Cherubim-san, never mind that. Tell everyone about that outfit of yours.",
    "box": "17x3",
    "face": 1
   },
@@ -113,7 +113,7 @@
    "id": "s346:01316",
    "op": "15",
    "jp": "おっと、そうでしたね！",
-   "en": "",
+   "en": "Ah, quite so!",
    "box": "17x3",
    "face": 16
   },
@@ -121,7 +121,7 @@
    "id": "s346:0133e",
    "op": "15",
    "jp": "我々は、この世界の\n黒き羽の者達による、",
-   "en": "",
+   "en": "We are, in this world of the Black Wing,",
    "box": "17x3",
    "face": 16
   },
@@ -129,7 +129,7 @@
    "id": "s346:0137a",
    "op": "15",
    "jp": "独裁的な奴隷支配を\n変えるために立ち上がった、\n白き羽の秘密地下組織なのです！",
-   "en": "",
+   "en": "risen up to change their tyrannical rule by slavery: the White Wing's secret underground!",
    "box": "17x3",
    "face": 16
   },
@@ -137,7 +137,7 @@
    "id": "s346:0140e",
    "op": "15",
    "jp": "ひみつちかそしきって、\n何？",
-   "en": "",
+   "en": "Um... what's a \"secret underground\"?",
    "box": "17x3",
    "face": 3
   },
@@ -145,7 +145,7 @@
    "id": "s346:0146e",
    "op": "15",
    "jp": "ようするに、黒い羽の連中が\n強いこの世界では\n表だって行動ができないんで、",
-   "en": "",
+   "en": "Basically, in this world where the black wings are strong, they can't act out in the open,",
    "box": "17x3",
    "face": 2
   },
@@ -153,7 +153,7 @@
    "id": "s346:014ca",
    "op": "15",
    "jp": "こそこそと陰で動き回ってる\n団体って事さ",
-   "en": "",
+   "en": "so it's a bunch of folks sneakin' around in the shadows.",
    "box": "17x3",
    "face": 2
   },
@@ -161,7 +161,7 @@
    "id": "s346:0155a",
    "op": "15",
    "jp": "はっはははははっ！",
-   "en": "",
+   "en": "Hahahahahaha!",
    "box": "17x3",
    "face": 16
   },
@@ -169,7 +169,7 @@
    "id": "s346:015a6",
    "op": "15",
    "jp": "これはまた随分と\n耳の痛い事をおっしゃる！",
-   "en": "",
+   "en": "My word, you do say things that sting the ears!",
    "box": "17x3",
    "face": 16
   },
@@ -177,7 +177,7 @@
    "id": "s346:015f2",
    "op": "15",
    "jp": "それで、その組織とやらの\n具体的な活動としては、\n何をしておられるのかな？",
-   "en": "",
+   "en": "And what is it, concretely, that this organization of yours actually does, eh?",
    "box": "17x3",
    "face": 5
   },
@@ -185,7 +185,7 @@
    "id": "s346:0165e",
    "op": "15",
    "jp": "既に、この大陸全土では\n多くの同志達が、\n秘密裏に集結しており、",
-   "en": "",
+   "en": "Already, across this whole continent, many comrades are gathering in secret,",
    "box": "17x3",
    "face": 16
   },
@@ -193,7 +193,7 @@
    "id": "s346:016b2",
    "op": "15",
    "jp": "来たるべき武装決起の日に\n向けて、着々と戦闘の準備を\n進めております・・・",
-   "en": "",
+   "en": "steadily preparing for battle, toward the coming day of armed uprising...",
    "box": "17x3",
    "face": 16
   },
@@ -201,7 +201,7 @@
    "id": "s346:0170e",
    "op": "15",
    "jp": "アナタ方とて、",
-   "en": "",
+   "en": "You yourselves,",
    "box": "17x3",
    "face": 16
   },
@@ -209,7 +209,7 @@
    "id": "s346:0172e",
    "op": "15",
    "jp": "今まで白き羽の者達が、\nどんなにムゴイ扱いを受けて\n来たかは、よくご存じでしょう！",
-   "en": "",
+   "en": "know full well how cruelly the White Wing have been treated all this time!",
    "box": "17x3",
    "face": 16
   },
@@ -225,7 +225,7 @@
    "id": "s346:017c2",
    "op": "15",
    "jp": "つまり、我々の最終目的は\n白い羽の者達による、",
-   "en": "",
+   "en": "In short, our ultimate aim, by the hands of the White Wing,",
    "box": "17x3",
    "face": 16
   },
@@ -233,7 +233,7 @@
    "id": "s346:01802",
    "op": "15",
    "jp": "革命政権を創る事にあるのです・・・",
-   "en": "",
+   "en": "is to create a revolutionary government...",
    "box": "17x3",
    "face": 16
   },
@@ -249,7 +249,7 @@
    "id": "s346:0186a",
    "op": "15",
    "jp": "そこで、できれば救世主様には\n是非、我々の仲間に\n加わっていただき・・・",
-   "en": "",
+   "en": "And so, Savior-sama, if it please you, we beg you to join our ranks...",
    "box": "17x3",
    "face": 16
   },
@@ -257,7 +257,7 @@
    "id": "s346:018c6",
    "op": "15",
    "jp": "我が組織のシンボルに\nなってもらいたいのです！！",
-   "en": "",
+   "en": "and become the symbol of our organization!!",
    "box": "17x3",
    "face": 16
   },
@@ -265,7 +265,7 @@
    "id": "s346:01916",
    "op": "15",
    "jp": "な、なんじゃと！？",
-   "en": "",
+   "en": "Wh-what's that!?",
    "box": "17x3",
    "face": 5
   },
@@ -273,7 +273,7 @@
    "id": "s346:0193a",
    "op": "15",
    "jp": "それはいささか\n話が飛躍してはおらぬか？",
-   "en": "",
+   "en": "Isn't that something of a leap, my friend?",
    "box": "17x3",
    "face": 5
   },
@@ -289,7 +289,7 @@
    "id": "s346:01992",
    "op": "15",
    "jp": "アナタ方の着ている、\n鎧に封じ込められた大邪神達には、",
-   "en": "",
+   "en": "The Great Evil Gods sealed in the armors you wear...",
    "box": "17x3",
    "face": 16
   },
@@ -297,7 +297,7 @@
    "id": "s346:019da",
    "op": "15",
    "jp": "それぞれにいわれがあることを\nご存じですか？",
-   "en": "",
+   "en": "did you know each has a history of its own?",
    "box": "17x3",
    "face": 16
   },
@@ -313,7 +313,7 @@
    "id": "s346:01ade",
    "op": "15",
    "jp": "現在では大邪神などと\n呼ばれている彼らも、",
-   "en": "",
+   "en": "Those now called the Great Evil Gods,",
    "box": "17x3",
    "face": 16
   },
@@ -321,7 +321,7 @@
    "id": "s346:01b1a",
    "op": "15",
    "jp": "神話でいう、かの創世記戦争で\nサタン側に敗れるそれまでは、",
-   "en": "",
+   "en": "until they lost to Satan's side in that famed Genesis War of myth,",
    "box": "17x3",
    "face": 16
   },
@@ -329,7 +329,7 @@
    "id": "s346:01b66",
    "op": "15",
    "jp": "大邪神ゴッドを崇める使徒として\nその強大な力を、地上界に広く\n振るっていたという事なのです！",
-   "en": "",
+   "en": "were, it is said, apostles who worshipped God, the Great Evil God, and wielded their vast power far and wide over the earthly world!",
    "box": "17x3",
    "face": 16
   },
@@ -337,7 +337,7 @@
    "id": "s346:01bd6",
    "op": "15",
    "jp": "我らがマルコ殿の鎧は、\n大気を称える大邪神\nラグエルのもの！",
-   "en": "",
+   "en": "Our Marco-dono's armor belongs to Raguel, the Great Evil God who exalts the air!",
    "box": "17x3",
    "face": 16
   },
@@ -345,7 +345,7 @@
    "id": "s346:01c26",
    "op": "15",
    "jp": "レブロブス殿の鎧は、\n炎を称える自由の大邪神\nウリエルのもの！",
-   "en": "",
+   "en": "Leburobus-dono's armor belongs to Uriel, Great Evil God of Freedom, who exalts fire!",
    "box": "17x3",
    "face": 16
   },
@@ -353,7 +353,7 @@
    "id": "s346:01c76",
    "op": "15",
    "jp": "ピリポ殿の鎧は、\n水を称える弱者の大邪神\nサリエルのもの！",
-   "en": "",
+   "en": "Phillipo-dono's armor belongs to Sariel, Great Evil God of the Weak, who exalts water!",
    "box": "17x3",
    "face": 16
   },
@@ -361,7 +361,7 @@
    "id": "s346:01cc2",
    "op": "15",
    "jp": "ガイ殿の鎧は、\n大地を称える正義の大邪神\nミカエルのもの！",
-   "en": "",
+   "en": "Gai-dono's armor belongs to Michael, Great Evil God of Justice, who exalts the earth!",
    "box": "17x3",
    "face": 16
   },
@@ -369,7 +369,7 @@
    "id": "s346:01d0e",
    "op": "15",
    "jp": "そして・・・\n残るアナタの鎧こそが・・・",
-   "en": "",
+   "en": "And then... the one armor remaining, yours...",
    "box": "17x3",
    "face": 16
   },
@@ -377,7 +377,7 @@
    "id": "s346:01d4a",
    "op": "15",
    "jp": "闇の支配者と万物の創造主の\n２つの顔を持つ\n謎めいた神、",
-   "en": "",
+   "en": "A mysterious god of two faces, ruler of darkness and creator of all things,",
    "box": "17x3",
    "face": 16
   },
@@ -385,7 +385,7 @@
    "id": "s346:01d96",
    "op": "15",
    "jp": "究極の大善神・・・\nサタン様の正体では\n無いかと噂される・・・",
-   "en": "",
+   "en": "the ultimate Great Good God... rumored to be the true identity of Satan-sama...",
    "box": "17x3",
    "face": 16
   },
@@ -393,7 +393,7 @@
    "id": "s346:01de6",
    "op": "15",
    "jp": "メタトロン様の鎧なのです！！",
-   "en": "",
+   "en": "It is the armor of Metatron-sama!!",
    "box": "17x3",
    "face": 16
   },
@@ -457,7 +457,7 @@
    "id": "s346:01f86",
    "op": "15",
    "jp": "しかも救世主様達のこれまでの\n数々のご活躍は、すでに奴隷達の\n間でも伝説と化しております。",
-   "en": "",
+   "en": "What's more, your many great deeds, Savior-sama, have already become legend among the slaves.",
    "box": "17x3",
    "face": 16
   },
@@ -473,7 +473,7 @@
    "id": "s346:02046",
    "op": "15",
    "jp": "いかがでしょう？",
-   "en": "",
+   "en": "What say you?",
    "box": "17x3",
    "face": 16
   },
@@ -481,7 +481,7 @@
    "id": "s346:0206a",
    "op": "15",
    "jp": "全ての白き羽の人々の幸せの\nためにも、我々の組織に力を\n貸しては頂けないでしょうか？",
-   "en": "",
+   "en": "For the happiness of all White Wing people, will you not lend our organization your strength?",
    "box": "17x3",
    "face": 16
   },
@@ -489,7 +489,7 @@
    "id": "s346:0214a",
    "op": "15",
    "jp": "参謀殿の話は解ったが、\nリーダーのマルコ殿よ・・・",
-   "en": "",
+   "en": "I understand the adviser's view, but you, our leader Marco-dono...",
    "box": "17x3",
    "face": 5
   },
@@ -497,7 +497,7 @@
    "id": "s346:0218e",
    "op": "15",
    "jp": "お主自身は\nケルビム殿の意見を正直どう思う？",
-   "en": "",
+   "en": "what do you honestly think of Cherubim-dono's opinion, eh?",
    "box": "17x3",
    "face": 5
   },
@@ -505,7 +505,7 @@
    "id": "s346:021fe",
    "op": "15",
    "jp": "僕は・・・",
-   "en": "",
+   "en": "I...",
    "box": "17x3",
    "face": 4
   },
@@ -513,7 +513,7 @@
    "id": "s346:02242",
    "op": "15",
    "jp": "初代リーダーだった\n親友の遺志を継いで・・・\n全力を尽くすだけです！",
-   "en": "",
+   "en": "I will simply carry on the will of my best friend, our first leader... and give all I have!",
    "box": "17x3",
    "face": 4
   },
@@ -521,7 +521,7 @@
    "id": "s346:022ca",
    "op": "15",
    "jp": "だが、お見受けしたところ\n参謀役のケルビム殿も、",
-   "en": "",
+   "en": "But from what I can see, your adviser Cherubim-dono,",
    "box": "17x3",
    "face": 5
   },
@@ -529,7 +529,7 @@
    "id": "s346:0230e",
    "op": "15",
    "jp": "わしやルピルピと同じ\n黒き羽の出身のようじゃが\nなにゆえこの白き羽の組織に？",
-   "en": "",
+   "en": "like Rupirupi and me, was born a Black Wing, I daresay. Why join this White Wing group, eh?",
    "box": "17x3",
    "face": 5
   },
@@ -537,7 +537,7 @@
    "id": "s346:0237a",
    "op": "15",
    "jp": "ケルビムさんは・・・",
-   "en": "",
+   "en": "Cherubim-san is...",
    "box": "17x3",
    "face": 4
   },
@@ -553,7 +553,7 @@
    "id": "s346:023b2",
    "op": "15",
    "jp": "亡くなられた\nこの組織の初代リーダーで\n僕の親友でもあった・・・",
-   "en": "",
+   "en": "father to the late first leader of this organization, who was also my best friend...",
    "box": "17x3",
    "face": 4
   },
@@ -561,7 +561,7 @@
    "id": "s346:02406",
    "op": "15",
    "jp": "セラフィムさんの\nお父上なのです！！",
-   "en": "",
+   "en": "Seraphim-san!!",
    "box": "17x3",
    "face": 4
   },
@@ -585,7 +585,7 @@
    "id": "s346:0247a",
    "op": "15",
    "jp": "この邪神の鎧こそ、\n彼が僕に遺してくれた\n唯一の形見なのです・・・",
-   "en": "",
+   "en": "This evil god's armor is the only keepsake he left me...",
    "box": "17x3",
    "face": 4
   }

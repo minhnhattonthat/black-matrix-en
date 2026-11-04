@@ -9,7 +9,7 @@
    "id": "s356:00582",
    "op": "14",
    "jp": "ああ～らっ！いい男ねぇ～ん！！",
-   "en": "",
+   "en": "Oooh my! What a fine man~!!",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s356:005a8",
    "op": "14",
    "jp": "ここは欲情の街・ベギルドよ！\nゆっくりしていってね！",
-   "en": "",
+   "en": "This is Begild, the city of lust! Take your time and stay a while!",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s356:0061e",
    "op": "14",
    "jp": "いらっしゃぁ～～い！\nうちの商品は\nいい物取りそろえてるわよぉ～",
-   "en": "",
+   "en": "Welcoooome~! Our goods are all top quality, you knooow~",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s356:006ae",
    "op": "14",
    "jp": "あ～ら、アナタなんだか、\nとぉ～っても強そうね！",
-   "en": "",
+   "en": "Oh my, you look just sooo strong, somehow!",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s356:00722",
    "op": "14",
    "jp": "いやぁ～～ん！この街に\nアタシを知らない男が\nいるなんてぇ～！",
-   "en": "",
+   "en": "Ooooh no~! To think there's a man in this city who doesn't know me~!",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s356:007a2",
    "op": "14",
    "jp": "ようこそ、ベギルドの街へ。\nこの街はお気に召しまして？",
-   "en": "",
+   "en": "Welcome to the city of Begild. Is it to your liking?",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s356:007e0",
    "op": "14",
    "jp": "気に入られたのでしたら、\nお住まいになっても\nよろしいのですよ",
-   "en": "",
+   "en": "If it pleases you, you are quite welcome to settle here.",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s356:00826",
    "op": "14",
    "jp": "強い方なら・・・くすっ！\n羽の色など気にしませんもの・・",
-   "en": "",
+   "en": "As long as a man is strong... tee-hee! We don't mind the color of his wings...",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s356:00866",
    "op": "14",
    "jp": "なんと言ってもこの街は・・\n素晴らしき欲情の街\nなんですから・・・",
-   "en": "",
+   "en": "After all, this city is... the glorious city of lust...",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s356:008ea",
    "op": "14",
    "jp": "何だよ、俺は何も悪い事なんか\nして無いぞ・・・たぶん。",
-   "en": "",
+   "en": "Hey, what? I ain't done nothin' wrong... probably.",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s356:00928",
    "op": "14",
    "jp": "なにせこの街で働いてるのは、\n女性だけなのさ・・・、\nってそうでもないか！？",
-   "en": "",
+   "en": "The thing is, the only ones workin' in this town are women... wait, maybe not!?",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s356:009b6",
    "op": "14",
    "jp": "この間グザファン様の私設軍隊が\nどこかに出征したらしいけど",
-   "en": "",
+   "en": "The other day, Xaphan-sama's private army marched off somewhere,",
    "box": "17x3",
    "face": 104
   },
@@ -105,7 +105,7 @@
    "id": "s356:009f8",
    "op": "14",
    "jp": "あれからどうなったのかな？",
-   "en": "",
+   "en": "wonder how that turned out?",
    "box": "17x3",
    "face": 104
   },
@@ -113,7 +113,7 @@
    "id": "s356:00a6e",
    "op": "14",
    "jp": "あら、この街に来て\nウチによらないなんてウソよ！",
-   "en": "",
+   "en": "Oh, you can't come to this city and not stop by my place, that's just wrong!",
    "box": "17x3",
    "face": 104
   },
@@ -121,7 +121,7 @@
    "id": "s356:00aa6",
    "op": "14",
    "jp": "ちょっと寄ってく？",
-   "en": "",
+   "en": "Stopping in for a bit?",
    "box": "17x3",
    "face": 104
   },
@@ -129,21 +129,21 @@
    "id": "s356:00ada",
    "op": "1d",
    "jp": "寄っていく",
-   "en": "",
+   "en": "Stop in",
    "max": 15
   },
   {
    "id": "s356:00aec",
    "op": "1d",
    "jp": "寄っていかない",
-   "en": "",
+   "en": "Don't stop in",
    "max": 15
   },
   {
    "id": "s356:00b08",
    "op": "14",
    "jp": "だれが行きますか？",
-   "en": "",
+   "en": "Who will go?",
    "box": "17x3",
    "face": 104
   },
@@ -151,21 +151,21 @@
    "id": "s356:00b3a",
    "op": "1d",
    "jp": "レブロブス",
-   "en": "",
+   "en": "Leburobus",
    "max": 15
   },
   {
    "id": "s356:00b4c",
    "op": "1d",
    "jp": "ガイウス",
-   "en": "",
+   "en": "Gaius",
    "max": 15
   },
   {
    "id": "s356:00b5c",
    "op": "1d",
    "jp": "ピリポ",
-   "en": "",
+   "en": "Phillipo",
    "max": 15
   },
   {

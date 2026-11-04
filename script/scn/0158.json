@@ -9,7 +9,7 @@
    "id": "s158:006a2",
    "op": "15",
    "jp": "準備が良ければ、\n太陽の神殿に向かうとするか。",
-   "en": "",
+   "en": "If you're ready, let's head for the Temple of the Sun, eh.",
    "box": "17x3",
    "face": 30
   },
@@ -17,7 +17,7 @@
    "id": "s158:006f2",
    "op": "15",
    "jp": "いいのか爺さん！？",
-   "en": "",
+   "en": "You sure, old man!?",
    "box": "17x3",
    "face": 1
   },
@@ -25,7 +25,7 @@
    "id": "s158:00716",
    "op": "15",
    "jp": "住人の様子から察すると、\n十中八九\n敵さんが待ち伏せをしてるぜ！",
-   "en": "",
+   "en": "Judging by the locals, ten to one the enemy's lying in wait!",
    "box": "17x3",
    "face": 1
   },
@@ -41,7 +41,7 @@
    "id": "s158:007da",
    "op": "15",
    "jp": "とにかく、\n慎重に行動する他あるまい。",
-   "en": "",
+   "en": "In any case, we've little choice but to tread carefully, my boy.",
    "box": "17x3",
    "face": 30
   },
@@ -57,7 +57,7 @@
    "id": "s158:0085a",
    "op": "15",
    "jp": "ハイハイハーーーイ！！",
-   "en": "",
+   "en": "Okay okay okaaaaay!!",
    "box": "17x3",
    "face": 8
   },
@@ -65,7 +65,7 @@
    "id": "s158:0092e",
    "op": "15",
    "jp": "だからお前が一番心配なんだって！",
-   "en": "",
+   "en": "That's why you're the one I'm most worried about!",
    "box": "17x3",
    "face": 2
   }

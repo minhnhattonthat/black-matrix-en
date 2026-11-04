@@ -9,7 +9,7 @@
    "id": "s300:001d6",
    "op": "15",
    "jp": "くそぉ、くそっ、くそ～っ！！",
-   "en": "",
+   "en": "Damn it, damn it, dammit~!!",
    "box": "17x3",
    "face": 1
   },
@@ -17,7 +17,7 @@
    "id": "s300:00206",
    "op": "15",
    "jp": "奴の言ってた正義って奴を・・・",
-   "en": "",
+   "en": "That justice he was talking about...",
    "box": "17x3",
    "face": 1
   },
@@ -25,7 +25,7 @@
    "id": "s300:00236",
    "op": "15",
    "jp": "誰よりも俺が一番",
-   "en": "",
+   "en": "More than anyone,",
    "box": "17x3",
    "face": 1
   },
@@ -33,7 +33,7 @@
    "id": "s300:0025a",
    "op": "15",
    "jp": "信じたかったのに・・・",
-   "en": "",
+   "en": "I wanted to believe in it...",
    "box": "17x3",
    "face": 1
   },
@@ -41,7 +41,7 @@
    "id": "s300:0032a",
    "op": "15",
    "jp": "この・・・裏切り者っ！！",
-   "en": "",
+   "en": "You... traitor!!",
    "box": "17x3",
    "face": 140
   },
@@ -49,7 +49,7 @@
    "id": "s300:003fa",
    "op": "15",
    "jp": "よくも・・・！！",
-   "en": "",
+   "en": "How could you...!!",
    "box": "17x3",
    "face": 140
   },
@@ -57,7 +57,7 @@
    "id": "s300:0041e",
    "op": "15",
    "jp": "よくもオレ達の\n両親を・・・",
-   "en": "",
+   "en": "How could you do that to our parents...",
    "box": "17x3",
    "face": 140
   },
@@ -65,7 +65,7 @@
    "id": "s300:0045a",
    "op": "15",
    "jp": "違う！！",
-   "en": "",
+   "en": "No!!",
    "box": "17x3",
    "face": 139
   },
@@ -73,7 +73,7 @@
    "id": "s300:00476",
    "op": "15",
    "jp": "俺の父さんは・・・",
-   "en": "",
+   "en": "My dad...",
    "box": "17x3",
    "face": 139
   },
@@ -81,7 +81,7 @@
    "id": "s300:0049a",
    "op": "15",
    "jp": "この国を守る為の規則に・・・\n従ってるだけだっ！！",
-   "en": "",
+   "en": "He's only following... the rules that protect this country!!",
    "box": "17x3",
    "face": 139
   },
@@ -89,7 +89,7 @@
    "id": "s300:0055a",
    "op": "15",
    "jp": "ふざけんなよガイ！！",
-   "en": "",
+   "en": "Don't gimme that, Gai!!",
    "box": "17x3",
    "face": 141
   },
@@ -97,7 +97,7 @@
    "id": "s300:00582",
    "op": "15",
    "jp": "だったらなんでお前の親父は\n白き羽なのに・・・",
-   "en": "",
+   "en": "Then how come your old man, a White Wing himself...",
    "box": "17x3",
    "face": 141
   },
@@ -105,7 +105,7 @@
    "id": "s300:005c2",
    "op": "15",
    "jp": "同じ白き羽の首ばかりを・・・",
-   "en": "",
+   "en": "only ever... other White Wings' heads...",
    "box": "17x3",
    "face": 141
   },
@@ -113,7 +113,7 @@
    "id": "s300:005f2",
    "op": "15",
    "jp": "斧で切り落としたりしてるんだ？！",
-   "en": "",
+   "en": "chops them off with an axe?!",
    "box": "17x3",
    "face": 141
   },
@@ -121,7 +121,7 @@
    "id": "s300:00632",
    "op": "15",
    "jp": "違う・・・！",
-   "en": "",
+   "en": "No...!",
    "box": "17x3",
    "face": 139
   },
@@ -129,7 +129,7 @@
    "id": "s300:00652",
    "op": "15",
    "jp": "それはちゃんと公平に・・・",
-   "en": "",
+   "en": "He does it fair and...",
    "box": "17x3",
    "face": 139
   },
@@ -137,7 +137,7 @@
    "id": "s300:006fa",
    "op": "15",
    "jp": "うそだ・・・！",
-   "en": "",
+   "en": "Liar...!",
    "box": "17x3",
    "face": 140
   },
@@ -145,7 +145,7 @@
    "id": "s300:0071a",
    "op": "15",
    "jp": "黒き羽と白き羽が、\n公平なワケがないじゃないか！",
-   "en": "",
+   "en": "Black Wings and White Wings can't ever be fair!",
    "box": "17x3",
    "face": 140
   },
@@ -153,7 +153,7 @@
    "id": "s300:0075e",
    "op": "15",
    "jp": "お前達一家が奴隷じゃない事が・・・裏切りの何よりの証拠さ・・・！",
-   "en": "",
+   "en": "Your family not being slaves... that's the best proof you're traitors...!",
    "box": "17x3",
    "face": 140
   },
@@ -161,7 +161,7 @@
    "id": "s300:007b2",
    "op": "15",
    "jp": "お前の親父はオレ達白き羽だけを\n裁くために金で雇われた・・・",
-   "en": "",
+   "en": "Your old man got hired for money, just to judge us White Wings...",
    "box": "17x3",
    "face": 140
   },
@@ -169,7 +169,7 @@
    "id": "s300:00802",
    "op": "15",
    "jp": "単なる死刑執行人じゃ\nないか～っ！！",
-   "en": "",
+   "en": "He's nothing but an executioner~!!",
    "box": "17x3",
    "face": 140
   },
@@ -177,7 +177,7 @@
    "id": "s300:008d2",
    "op": "15",
    "jp": "くそうっ・・・・・",
-   "en": "",
+   "en": "Damn it.....",
    "box": "17x3",
    "face": 1
   },
@@ -185,7 +185,7 @@
    "id": "s300:008f6",
    "op": "15",
    "jp": "正義こそが・・・",
-   "en": "",
+   "en": "Justice...",
    "box": "17x3",
    "face": 1
   },
@@ -193,7 +193,7 @@
    "id": "s300:0091a",
    "op": "15",
    "jp": "俺が一番・・・\n求めていた\nものだったはずなのに・・・",
-   "en": "",
+   "en": "It was the very thing... I wanted most...",
    "box": "17x3",
    "face": 1
   },

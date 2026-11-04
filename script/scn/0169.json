@@ -9,7 +9,7 @@
    "id": "s169:00822",
    "op": "15",
    "jp": "それにしてもお師匠様\nよくぞ・・・",
-   "en": "",
+   "en": "Still, Master... how...",
    "box": "17x3",
    "face": 31
   },
@@ -17,7 +17,7 @@
    "id": "s169:008ca",
    "op": "15",
    "jp": "よくぞご無事で！！",
-   "en": "",
+   "en": "how wonderful that you're safe!!",
    "box": "17x3",
    "face": 6
   },
@@ -25,7 +25,7 @@
    "id": "s169:008ee",
    "op": "15",
    "jp": "ああっ、この喜ばしい出来事を、\n私の日記にぜひ、\n書きとめておかなくっちゃ！",
-   "en": "",
+   "en": "Oh, I simply must write this joyous event in my diary!",
    "box": "17x3",
    "face": 6
   },
@@ -33,7 +33,7 @@
    "id": "s169:0098a",
    "op": "15",
    "jp": "お師匠様はやめんか！",
-   "en": "",
+   "en": "Stop calling me Master!",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s169:009b2",
    "op": "15",
    "jp": "今の我が輩は・・・",
-   "en": "",
+   "en": "As I am now...",
    "box": "17x3",
    "face": 5
   },
@@ -49,7 +49,7 @@
    "id": "s169:009d6",
    "op": "15",
    "jp": "邪神の光臨を信じる、\nただの邪教徒にすぎん！",
-   "en": "",
+   "en": "I am merely a wicked believer, awaiting the evil god's advent!",
    "box": "17x3",
    "face": 5
   },
@@ -57,7 +57,7 @@
    "id": "s169:00aea",
    "op": "15",
    "jp": "と言われますと、\nもしや！？",
-   "en": "",
+   "en": "By that, you mean... could it be!?",
    "box": "17x3",
    "face": 6
   },
@@ -65,7 +65,7 @@
    "id": "s169:00b26",
    "op": "15",
    "jp": "ついに大邪神の鎧を\n解放する術を、\n見つけられたのですか！？",
-   "en": "",
+   "en": "Have you finally found a way to unseal the Great Evil God's armor!?",
    "box": "17x3",
    "face": 6
   },
@@ -73,7 +73,7 @@
    "id": "s169:00b82",
    "op": "15",
    "jp": "おい爺さん、\nさっきからなんだい、その・・・",
-   "en": "",
+   "en": "Hey, old man, what's all this you keep on about...",
    "box": "17x3",
    "face": 2
   },
@@ -81,7 +81,7 @@
    "id": "s169:00c52",
    "op": "15",
    "jp": "鎧がどうのこうのってぇのは？",
-   "en": "",
+   "en": "...armor this, armor that?",
    "box": "17x3",
    "face": 2
   },
@@ -97,7 +97,7 @@
    "id": "s169:00ca2",
    "op": "15",
    "jp": "我々黒き羽の者達の、\n言い伝えによると、",
-   "en": "",
+   "en": "According to the legends of us Black Wing folk, my boy,",
    "box": "17x3",
    "face": 5
   },
@@ -105,7 +105,7 @@
    "id": "s169:00cfa",
    "op": "15",
    "jp": "遥かなる神話の時代\nこの世界全体は、愛や\n偽善や自由を信じる、",
-   "en": "",
+   "en": "in the distant age of myth, this whole world belonged to a believer in love, hypocrisy and freedom:",
    "box": "17x3",
    "face": 5
   },
@@ -113,7 +113,7 @@
    "id": "s169:00d4a",
    "op": "15",
    "jp": "大悪神・ゴッドによって\n支配されていた。",
-   "en": "",
+   "en": "God, the Great Evil God, who held it under his rule.",
    "box": "17x3",
    "face": 5
   },
@@ -121,7 +121,7 @@
    "id": "s169:00e2a",
    "op": "15",
    "jp": "しかしある時、",
-   "en": "",
+   "en": "But then, one day,",
    "box": "17x3",
    "face": 5
   },
@@ -129,7 +129,7 @@
    "id": "s169:00e4a",
    "op": "15",
    "jp": "我らが救世主であらせられる、\n偉大なる大天使メフィスト様が・・・",
-   "en": "",
+   "en": "our Savior, the mighty archangel Mephisto-sama...",
    "box": "17x3",
    "face": 5
   },
@@ -137,7 +137,7 @@
    "id": "s169:00e9e",
    "op": "15",
    "jp": "父なる大神サタン様の旗の下、\n聖戦を始められ・・・",
-   "en": "",
+   "en": "under the banner of Satan-sama, the Great God our Father, began a holy war...",
    "box": "17x3",
    "face": 5
   },
@@ -145,7 +145,7 @@
    "id": "s169:00ee2",
    "op": "15",
    "jp": "白き悪魔達と６６６日間の\n永きに渡る戦争を行ったと\n伝えられている・・・！",
-   "en": "",
+   "en": "and fought the white devils for 666 long days, or so it is told, eh...!",
    "box": "17x3",
    "face": 5
   },
@@ -153,7 +153,7 @@
    "id": "s169:00f4e",
    "op": "15",
    "jp": "俗にいう神々達の戦い、\n創世記戦争って呼ばれている\nやつだな。",
-   "en": "",
+   "en": "What folks call the battle of the gods. The Genesis War, right.",
    "box": "17x3",
    "face": 1
   },
@@ -169,7 +169,7 @@
    "id": "s169:01016",
    "op": "15",
    "jp": "そして、その戦争で敗れさった\n白き悪魔達は・・・",
-   "en": "",
+   "en": "And the white devils, beaten in that war...",
    "box": "17x3",
    "face": 5
   },
@@ -177,7 +177,7 @@
    "id": "s169:0105a",
    "op": "15",
    "jp": "朽ち果てた鎧を\n残して死んでいったのだ・・・",
-   "en": "",
+   "en": "died, leaving only their decaying armor behind...",
    "box": "17x3",
    "face": 5
   },
@@ -193,7 +193,7 @@
    "id": "s169:010c6",
    "op": "15",
    "jp": "だが、死んだはずの\n白き悪魔のちからは、\nその後も鎧に宿り続け・・・",
-   "en": "",
+   "en": "Yet the power of those devils, dead as they should be, dwelt on in the armor...",
    "box": "17x3",
    "face": 5
   },
@@ -201,7 +201,7 @@
    "id": "s169:0111e",
    "op": "15",
    "jp": "それを手にした者達に、\n強大なるちからを与え続けておると\n言われておる・・・",
-   "en": "",
+   "en": "and to this day, I daresay, it is said to grant tremendous power to any who take it up...",
    "box": "17x3",
    "face": 5
   },
@@ -209,7 +209,7 @@
    "id": "s169:0118a",
    "op": "15",
    "jp": "それが噂に聞く邪道騎士の\n悪魔の鎧の正体って訳か・・・",
-   "en": "",
+   "en": "So that's what's behind the devil armor of those Heretic Knights I've heard about...",
    "box": "17x3",
    "face": 1
   },
@@ -225,7 +225,7 @@
    "id": "s169:01232",
    "op": "15",
    "jp": "ねぇねぇおにいちゃん！",
-   "en": "",
+   "en": "Hey, hey, big brother!",
    "box": "17x3",
    "face": 8
   },
@@ -233,7 +233,7 @@
    "id": "s169:0125a",
    "op": "15",
    "jp": "（プリカなんだか・・・\n　よくわかんないや！）",
-   "en": "",
+   "en": "(Purica doesn't really... get any of this!)",
    "box": "17x3",
    "face": 8
   },
@@ -241,7 +241,7 @@
    "id": "s169:012ba",
    "op": "15",
    "jp": "ところがかつて",
-   "en": "",
+   "en": "But long ago, there were",
    "box": "17x3",
    "face": 5
   },
@@ -249,7 +249,7 @@
    "id": "s169:012da",
    "op": "15",
    "jp": "そんな白き羽の悪魔達よりも、\nはるかに強大な力を誇る、\n七人の大邪神達がいた・・・",
-   "en": "",
+   "en": "seven Great Evil Gods, whose might far outstripped even those White Wing devils...",
    "box": "17x3",
    "face": 5
   },
@@ -257,7 +257,7 @@
    "id": "s169:01372",
    "op": "15",
    "jp": "すなわち・・・",
-   "en": "",
+   "en": "Namely...",
    "box": "17x3",
    "face": 5
   },
@@ -265,7 +265,7 @@
    "id": "s169:013c2",
    "op": "15",
    "jp": "大地の大邪神ミカエル！",
-   "en": "",
+   "en": "Michael, Great Evil God of Earth!",
    "box": "17x3",
    "face": 5
   },
@@ -273,7 +273,7 @@
    "id": "s169:0140a",
    "op": "15",
    "jp": "生命の大邪神ガブリエル！",
-   "en": "",
+   "en": "Gabriel, Great Evil God of Life!",
    "box": "17x3",
    "face": 5
   },
@@ -281,7 +281,7 @@
    "id": "s169:01452",
    "op": "15",
    "jp": "太陽の大邪神ラファエル！",
-   "en": "",
+   "en": "Raphael, Great Evil God of the Sun!",
    "box": "17x3",
    "face": 5
   },
@@ -289,7 +289,7 @@
    "id": "s169:0149a",
    "op": "15",
    "jp": "炎の大邪神ウリエル！",
-   "en": "",
+   "en": "Uriel, Great Evil God of Fire!",
    "box": "17x3",
    "face": 5
   },
@@ -297,7 +297,7 @@
    "id": "s169:014de",
    "op": "15",
    "jp": "水の大邪神サリエル！",
-   "en": "",
+   "en": "Sariel, Great Evil God of Water!",
    "box": "17x3",
    "face": 5
   },
@@ -305,7 +305,7 @@
    "id": "s169:01522",
    "op": "15",
    "jp": "大気の大邪神ラグエル！",
-   "en": "",
+   "en": "Raguel, Great Evil God of Air!",
    "box": "17x3",
    "face": 5
   },
@@ -313,7 +313,7 @@
    "id": "s169:0156a",
    "op": "15",
    "jp": "そして、\n中でも最も恐れられていた、",
-   "en": "",
+   "en": "And the most feared of them all,",
    "box": "17x3",
    "face": 5
   },
@@ -321,7 +321,7 @@
    "id": "s169:015a2",
    "op": "15",
    "jp": "地獄の大邪神メタトロン！！",
-   "en": "",
+   "en": "Metatron, Great Evil God of Hell!!",
    "box": "17x3",
    "face": 5
   },
@@ -329,7 +329,7 @@
    "id": "s169:015ee",
    "op": "15",
    "jp": "その大邪神メタトロンが\n創世記戦争で着ていたという、\n伝説の大邪神の鎧が・・・",
-   "en": "",
+   "en": "The legendary Great Evil God's armor that Metatron is said to have worn in the Genesis War...",
    "box": "17x3",
    "face": 5
   },
@@ -337,7 +337,7 @@
    "id": "s169:0164e",
    "op": "15",
    "jp": "このわしが\nかつて統治しておった、",
-   "en": "",
+   "en": "in the very place I once governed,",
    "box": "17x3",
    "face": 5
   },
@@ -345,7 +345,7 @@
    "id": "s169:01682",
    "op": "15",
    "jp": "太陽の神殿に\n封印されておったのじゃ！",
-   "en": "",
+   "en": "lay sealed in the Temple of the Sun, my boy!",
    "box": "17x3",
    "face": 5
   },
@@ -361,7 +361,7 @@
    "id": "s169:0171a",
    "op": "15",
    "jp": "大邪神の鎧を発見したわしは、\n狂喜にむせかえった。",
-   "en": "",
+   "en": "When I discovered the Great Evil God's armor, I choked with wild joy.",
    "box": "17x3",
    "face": 5
   },
@@ -369,7 +369,7 @@
    "id": "s169:0175e",
    "op": "15",
    "jp": "地獄の大邪神とうたわれた\nメタトロンの鎧じゃ！！",
-   "en": "",
+   "en": "The armor of Metatron, sung of as the Great Evil God of Hell!!",
    "box": "17x3",
    "face": 5
   },
@@ -377,7 +377,7 @@
    "id": "s169:017a2",
    "op": "15",
    "jp": "その強大なる魔力は、\n邪道騎士達の低俗なる悪魔の鎧など\n及ぶべくもない・・・！",
-   "en": "",
+   "en": "The Heretic Knights' vulgar devil armor could never hope to match its tremendous magic...!",
    "box": "17x3",
    "face": 5
   },
@@ -385,7 +385,7 @@
    "id": "s169:01802",
    "op": "15",
    "jp": "わしが牢に入れられたのも、",
-   "en": "",
+   "en": "The very reason I was thrown in prison,",
    "box": "17x3",
    "face": 5
   },
@@ -393,7 +393,7 @@
    "id": "s169:0182e",
    "op": "15",
    "jp": "元はと言えばご禁制だった\nその大邪神の鎧の研究を、\n始めたせいだったのじゃ！！",
-   "en": "",
+   "en": "all goes back to my starting research on that forbidden Great Evil God's armor, eh!!",
    "box": "17x3",
    "face": 5
   },
@@ -401,7 +401,7 @@
    "id": "s169:018fe",
    "op": "15",
    "jp": "ようするに爺さんは、\nその鎧とやらの魅力に惹かれて、",
-   "en": "",
+   "en": "In other words, old man, you fell for the charms of this armor of yours,",
    "box": "17x3",
    "face": 1
   },
@@ -409,7 +409,7 @@
    "id": "s169:0199a",
    "op": "15",
    "jp": "自分を見失っちまったワケだ！",
-   "en": "",
+   "en": "and lost yourself completely!",
    "box": "17x3",
    "face": 1
   },
@@ -417,7 +417,7 @@
    "id": "s169:01a06",
    "op": "15",
    "jp": "この世の基本は弱肉強食！",
-   "en": "",
+   "en": "The first law of this world: the strong devour the weak!",
    "box": "17x3",
    "face": 5
   },
@@ -425,7 +425,7 @@
    "id": "s169:01a32",
    "op": "15",
    "jp": "たとえ血塗られた\n大邪神の鎧であったとしても、",
-   "en": "",
+   "en": "Even if it is a blood-soaked Great Evil God's armor,",
    "box": "17x3",
    "face": 5
   },
@@ -433,7 +433,7 @@
    "id": "s169:01a72",
    "op": "15",
    "jp": "強い力を持つ物は使わんと、\n絶対に損だとは思わんか・・・！？",
-   "en": "",
+   "en": "wouldn't you say it's a plain waste not to use a thing of such power, eh...!?",
    "box": "17x3",
    "face": 5
   },
@@ -449,7 +449,7 @@
    "id": "s169:01b3e",
    "op": "15",
    "jp": "その後もわしは、\nこのルピルピと研究を続け、",
-   "en": "",
+   "en": "After that, I carried on my research with Rupirupi here,",
    "box": "17x3",
    "face": 5
   },
@@ -457,7 +457,7 @@
    "id": "s169:01b7e",
    "op": "15",
    "jp": "なんとか封印を解き、\nその大邪神の鎧を、\n着用しようと試みたが・・・",
-   "en": "",
+   "en": "somehow broke the seal, and tried to put that Great Evil God's armor on, but...",
    "box": "17x3",
    "face": 5
   },
@@ -465,7 +465,7 @@
    "id": "s169:01bd6",
    "op": "15",
    "jp": "どうしても着ることが出来ずに、\nあと一歩という所で失敗して、\n奴等に捕まってしまったのじゃ！",
-   "en": "",
+   "en": "try as I might, I could not wear it! I failed one step short, and they caught me, my boy!",
    "box": "17x3",
    "face": 5
   },
@@ -473,7 +473,7 @@
    "id": "s169:01c52",
    "op": "15",
    "jp": "何で・・・失敗したんだろう！？",
-   "en": "",
+   "en": "Wh-why... did it fail, I wonder!?",
    "box": "17x3",
    "face": 3
   },
@@ -481,7 +481,7 @@
    "id": "s169:01cc2",
    "op": "15",
    "jp": "それは、\n実際に実物の大邪神の鎧を、\n見れば解るじゃろうて。",
-   "en": "",
+   "en": "That, I daresay, you'll understand once you see a real Great Evil God's armor.",
    "box": "17x3",
    "face": 5
   },
@@ -489,7 +489,7 @@
    "id": "s169:01d4e",
    "op": "15",
    "jp": "それが・・・\n大邪神の鎧は既に・・・",
-   "en": "",
+   "en": "About that... the Great Evil God's armor has already...",
    "box": "17x3",
    "face": 6
   },
@@ -497,7 +497,7 @@
    "id": "s169:01de2",
    "op": "15",
    "jp": "ユダに奪われたというのか！",
-   "en": "",
+   "en": "You say Judas stole it!",
    "box": "17x3",
    "face": 5
   },
@@ -505,7 +505,7 @@
    "id": "s169:01e1e",
    "op": "15",
    "jp": "アヤツいったい何のつもりで！？",
-   "en": "",
+   "en": "What on earth is that rascal up to, eh!?",
    "box": "17x3",
    "face": 5
   },
@@ -513,7 +513,7 @@
    "id": "s169:01e62",
    "op": "15",
    "jp": "なんだかよくわかんねえが、\n俺達が自由になるには、\nどのみち避けては通れねぇんだろ！",
-   "en": "",
+   "en": "I don't get half of this, but if we wanna be free, there ain't no gettin' around it anyhow, right!",
    "box": "17x3",
    "face": 2
   },
@@ -521,7 +521,7 @@
    "id": "s169:01f36",
    "op": "15",
    "jp": "ともかく大邪神の鎧じゃ！",
-   "en": "",
+   "en": "In any case, the Great Evil God's armor comes first, eh!",
    "box": "17x3",
    "face": 5
   },
@@ -529,7 +529,7 @@
    "id": "s169:01f62",
    "op": "15",
    "jp": "それさえ手中におさめれば、\n強大なちからが蘇る。",
-   "en": "",
+   "en": "Get it in hand, and tremendous power will be reborn.",
    "box": "17x3",
    "face": 5
   },
@@ -537,7 +537,7 @@
    "id": "s169:01fb2",
    "op": "15",
    "jp": "え？彼のご主人様を助けるのは、\nどうするの？",
-   "en": "",
+   "en": "Huh? B-but, um, what about saving his master?",
    "box": "17x3",
    "face": 3
   },
@@ -545,7 +545,7 @@
    "id": "s169:0207e",
    "op": "15",
    "jp": "おっ、おぉそうじゃったな、\nそれも忘れてはいかん。",
-   "en": "",
+   "en": "Oh, ah, yes, so it was. Mustn't forget that either, eh.",
    "box": "17x3",
    "face": 5
   },
@@ -553,7 +553,7 @@
    "id": "s169:02102",
    "op": "15",
    "jp": "ふっ、なにやらやけに\nうさん臭い話だ。",
-   "en": "",
+   "en": "Heh. This whole thing smells awfully fishy.",
    "box": "17x3",
    "face": 1
   },
@@ -561,7 +561,7 @@
    "id": "s169:02252",
    "op": "15",
    "jp": "私の名はルピルピ！！",
-   "en": "",
+   "en": "My name is Rupirupi!!",
    "box": "17x3",
    "face": 6
   },
@@ -569,7 +569,7 @@
    "id": "s169:0227a",
    "op": "15",
    "jp": "私の趣味は\n日記を付ける事なんです！",
-   "en": "",
+   "en": "And my hobby is keeping a diary!",
    "box": "17x3",
    "face": 6
   },
@@ -577,7 +577,7 @@
    "id": "s169:022be",
    "op": "15",
    "jp": "いまの言い方、ちょこ～っと\nカチン！ときたから、",
-   "en": "",
+   "en": "The way you said that just now made me go \"grr!\", just a teeeensy bit,",
    "box": "17x3",
    "face": 6
   },
@@ -585,7 +585,7 @@
    "id": "s169:0233e",
    "op": "15",
    "jp": "アナタの事も日記に\n書いちゃいますね！！",
-   "en": "",
+   "en": "so I'm writing you in my diary too!!",
    "box": "17x3",
    "face": 6
   },
@@ -601,7 +601,7 @@
    "id": "s169:0241e",
    "op": "15",
    "jp": "そ、それにしても、\n俺はこんな小娘相手に、\n遅れをとっていたのかあぁ。",
-   "en": "",
+   "en": "S-still... to think I was fallin' behind against a slip of a girl like this, dammit...",
    "box": "17x3",
    "face": 2
   },
@@ -609,14 +609,14 @@
    "id": "s169:0261e",
    "op": "1d",
    "jp": "封印の間に向かう！",
-   "en": "",
+   "en": "Head for the Sealed Chamber!",
    "max": 15
   },
   {
    "id": "s169:02638",
    "op": "1d",
    "jp": "いったん街に戻る！！",
-   "en": "",
+   "en": "Back to town for now!!",
    "max": 15
   }
  ]

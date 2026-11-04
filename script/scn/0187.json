@@ -9,7 +9,7 @@
    "id": "s187:0064a",
    "op": "14",
    "jp": "すげぇ、{0020}の奴・・・、\nあんなに力が強くなったのか！？",
-   "en": "",
+   "en": "Damn... {0020} got that strong!?",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s187:006fa",
    "op": "14",
    "jp": "こっ・・・\nこの強大なる魔力は・・・！？",
-   "en": "",
+   "en": "Th-this tremendous magic power...!?",
    "box": "17x3",
    "face": 11
   },
@@ -25,7 +25,7 @@
    "id": "s187:00736",
    "op": "14",
    "jp": "これこそ大邪神の鎧の力！！",
-   "en": "",
+   "en": "This is the power of the Great Evil God's armor!!",
    "box": "17x3",
    "face": 5
   },
@@ -33,7 +33,7 @@
    "id": "s187:00758",
    "op": "14",
    "jp": "装備者の能力を極限まで引き上げ、\n生命の源である血を媒体として",
-   "en": "",
+   "en": "It raises its wearer's abilities to the very limit, with blood, the source of life, as its medium,",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s187:0079e",
    "op": "14",
    "jp": "最終的には神自身の力をも\n備えるという、成長する生きた鎧！",
-   "en": "",
+   "en": "and in the end gains the power of a god itself: a living armor that grows, my boy!",
    "box": "17x3",
    "face": 5
   },
@@ -49,7 +49,7 @@
    "id": "s187:00856",
    "op": "14",
    "jp": "お・・・おにいちゃん・・・",
-   "en": "",
+   "en": "B-big... big brother...",
    "box": "17x3",
    "face": 8
   },
@@ -57,7 +57,7 @@
    "id": "s187:00886",
    "op": "14",
    "jp": "なんなんですか、\nこの力は！？",
-   "en": "",
+   "en": "What IS this power!?",
    "box": "17x3",
    "face": 13
   },
@@ -65,7 +65,7 @@
    "id": "s187:008ba",
    "op": "14",
    "jp": "力だけじゃない・・・、\nあの素早さ！",
-   "en": "",
+   "en": "Not just power... that speed!",
    "box": "17x3",
    "face": 1
   },
@@ -73,7 +73,7 @@
    "id": "s187:008e6",
    "op": "14",
    "jp": "まさに・・・電光石火だぜ！",
-   "en": "",
+   "en": "Quick as lightning, no question.",
    "box": "17x3",
    "face": 1
   },
@@ -81,7 +81,7 @@
    "id": "s187:00bc2",
    "op": "14",
    "jp": "だっ、だめだーぁ・・・",
-   "en": "",
+   "en": "N-no, nooo...",
    "box": "17x3",
    "face": 13
   },
@@ -89,7 +89,7 @@
    "id": "s187:00be0",
    "op": "14",
    "jp": "このままでは、アタシの\n地位と名誉がーっつ！！",
-   "en": "",
+   "en": "At this rate, my position and my honooor!!",
    "box": "17x3",
    "face": 13
   }

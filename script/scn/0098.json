@@ -9,7 +9,7 @@
    "id": "s98:0004a",
    "op": "15",
    "jp": "あれっ！",
-   "en": "",
+   "en": "Huh!",
    "box": "17x3",
    "face": 8
   },
@@ -17,7 +17,7 @@
    "id": "s98:00066",
    "op": "15",
    "jp": "ね、ねえ・・・\nど・どうしちゃったの・・・！？",
-   "en": "",
+   "en": "H-hey... wh-what's wrong with youuu...!?",
    "box": "17x3",
    "face": 8
   },
@@ -25,7 +25,7 @@
    "id": "s98:000a6",
    "op": "15",
    "jp": "た、たいへん！！",
-   "en": "",
+   "en": "Uh-oh, uh-oh!!",
    "box": "17x3",
    "face": 8
   },
@@ -33,7 +33,7 @@
    "id": "s98:000ca",
    "op": "15",
    "jp": "おにいちゃん、しっかりして！！",
-   "en": "",
+   "en": "Big brother, hang on!!",
    "box": "17x3",
    "face": 8
   },
@@ -41,7 +41,7 @@
    "id": "s98:00136",
    "op": "15",
    "jp": "その本はね、オカルトって呼ばれる\nコワーイ本なんだよ！",
-   "en": "",
+   "en": "That book, y'know, it's a scaaary book they call occult!",
    "box": "17x3",
    "face": 8
   },
@@ -49,7 +49,7 @@
    "id": "s98:0017e",
    "op": "15",
    "jp": "だけどあたしにはちっとも\n恐くないしぃ・・・",
-   "en": "",
+   "en": "But I'm not scared of it one tiny bit...",
    "box": "17x3",
    "face": 8
   },
@@ -57,7 +57,7 @@
    "id": "s98:001be",
    "op": "15",
    "jp": "読む人はみんな、おかしな人だって\n言われちゃうんだぁ・・・",
-   "en": "",
+   "en": "Everybody who reads it gets called weird, y'know...",
    "box": "17x3",
    "face": 8
   },
@@ -65,7 +65,7 @@
    "id": "s98:0020a",
    "op": "15",
    "jp": "やっぱりあたし、\nちょっと変なのかなぁ・・・？",
-   "en": "",
+   "en": "Am I kinda weird after all...?",
    "box": "17x3",
    "face": 8
   },
@@ -73,7 +73,7 @@
    "id": "s98:00262",
    "op": "15",
    "jp": "そっそれを・・・\n読んじゃったんだ、おにいちゃん！",
-   "en": "",
+   "en": "Y-you... you went and read that, big brother!",
    "box": "17x3",
    "face": 8
   },
@@ -81,7 +81,7 @@
    "id": "s98:002a6",
    "op": "15",
    "jp": "どう思った？",
-   "en": "",
+   "en": "What'd you think?",
    "box": "17x3",
    "face": 8
   },
@@ -89,7 +89,7 @@
    "id": "s98:002c6",
    "op": "15",
    "jp": "あたしは・・・",
-   "en": "",
+   "en": "Me, I...",
    "box": "17x3",
    "face": 8
   },
@@ -97,7 +97,7 @@
    "id": "s98:002e6",
    "op": "15",
    "jp": "エヘヘ・・・\n難しくてよく分かんないや！",
-   "en": "",
+   "en": "Ehehe... It's too hard, I don't get it at all!",
    "box": "17x3",
    "face": 8
   }

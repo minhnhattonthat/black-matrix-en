@@ -177,7 +177,7 @@
    "id": "s73:00946",
    "op": "15",
    "jp": "あっ！！",
-   "en": "",
+   "en": "Wha!!",
    "box": "17x3",
    "face": 43
   },
@@ -193,7 +193,7 @@
    "id": "s73:00986",
    "op": "15",
    "jp": "愛だとぉ～！",
-   "en": "",
+   "en": "Love, ya say~!",
    "box": "17x3",
    "face": 43
   },
@@ -209,7 +209,7 @@
    "id": "s73:009c2",
    "op": "15",
    "jp": "それは俗に、\nこの世界でも恋と呼ばれる\n人間の発情期の勘違いですよ！",
-   "en": "",
+   "en": "That, commonly, even in this world, is called a childish fancy: a silly human misunderstanding!",
    "box": "17x3",
    "face": 97
   },
@@ -225,7 +225,7 @@
    "id": "s73:00a46",
    "op": "15",
    "jp": "発情期に入るとどんな動物でも\n動ξが激しくなって\n頭に血が上り・・・",
-   "en": "",
+   "en": "Any creature that grows attached gets a racing heart, and blood rushes to its head...",
    "box": "17x3",
    "face": 97
   },
@@ -233,7 +233,7 @@
    "id": "s73:00a9e",
    "op": "15",
    "jp": "ときおり訳の分からない事を\n叫んで見たりするものです。",
-   "en": "",
+   "en": "and now and then it shouts nonsense.",
    "box": "17x3",
    "face": 97
   },
@@ -241,7 +241,7 @@
    "id": "s73:00ae6",
    "op": "15",
    "jp": "だったらそれこそ、\nアナタが彼を\n好きにすればいいんです！！",
-   "en": "",
+   "en": "Then by all means, keep him as a pet as you please!!",
    "box": "17x3",
    "face": 97
   },
@@ -257,7 +257,7 @@
    "id": "s73:00b62",
    "op": "15",
    "jp": "自分が奴隷に対して\n欲情した事を\n恥じてはいけませんよ！",
-   "en": "",
+   "en": "You needn't be ashamed of growing fond of a slave!",
    "box": "17x3",
    "face": 97
   },
@@ -265,7 +265,7 @@
    "id": "s73:00bae",
    "op": "15",
    "jp": "誰かに欲情するという事は・・・",
-   "en": "",
+   "en": "Growing attached to something...",
    "box": "17x3",
    "face": 97
   },
@@ -273,7 +273,7 @@
    "id": "s73:00bde",
    "op": "15",
    "jp": "全ての動物にとって\n種族の保存に繋がる\n根元的な行為なのです！",
-   "en": "",
+   "en": "is, for every animal, a root instinct that keeps its kind alive!",
    "box": "17x3",
    "face": 97
   },
@@ -281,7 +281,7 @@
    "id": "s73:00c2e",
    "op": "15",
    "jp": "だいいちそんな・・・",
-   "en": "",
+   "en": "Besides, such...",
    "box": "17x3",
    "face": 97
   },
@@ -289,7 +289,7 @@
    "id": "s73:00c56",
    "op": "15",
    "jp": "愛などという、\n実際にはこの世にはありもしない\n妄想を口にすることが、",
-   "en": "",
+   "en": "To speak of a delusion called love, which does not even exist in this world,",
    "box": "17x3",
    "face": 97
   },
@@ -297,7 +297,7 @@
    "id": "s73:00cae",
    "op": "15",
    "jp": "七つの大罪の一つである事を\nアナタはご存じないんですか！？",
-   "en": "",
+   "en": "is one of the Seven Deadly Sins. Did you not know that!?",
    "box": "17x3",
    "face": 97
   },
@@ -305,7 +305,7 @@
    "id": "s73:00d0a",
    "op": "15",
    "jp": "あ・・貴方達のいうように・・・\nわ・・私の想いは・・・",
-   "en": "",
+   "en": "M-maybe it's like you say... m-my feelings...",
    "box": "17x3",
    "face": 10
   },
@@ -313,7 +313,7 @@
    "id": "s73:00d52",
    "op": "15",
    "jp": "一方的な物かもしれない・・・",
-   "en": "",
+   "en": "...might only be one-sided...",
    "box": "17x3",
    "face": 10
   },
@@ -321,7 +321,7 @@
    "id": "s73:00d8e",
    "op": "15",
    "jp": "でも・・・！\nホントは彼がペットでも・・\nヌイグルミでも無いことに・・・",
-   "en": "",
+   "en": "But...! That he's not really a pet... or a stuffed toy...",
    "box": "17x3",
    "face": 10
   },
@@ -329,7 +329,7 @@
    "id": "s73:00df6",
    "op": "15",
    "jp": "私、とっくに気付いていたのよ・・・",
-   "en": "",
+   "en": "I noticed that a long time ago, okay...",
    "box": "17x3",
    "face": 10
   },
@@ -337,7 +337,7 @@
    "id": "s73:00e2a",
    "op": "15",
    "jp": "それが・・どんなに罪深い事でも・・",
-   "en": "",
+   "en": "No matter... how sinful that is...",
    "box": "17x3",
    "face": 10
   },
@@ -345,7 +345,7 @@
    "id": "s73:00e5e",
    "op": "15",
    "jp": "わ・・わたしは・・・",
-   "en": "",
+   "en": "I... I...",
    "box": "17x3",
    "face": 10
   },
@@ -353,7 +353,7 @@
    "id": "s73:00e92",
    "op": "15",
    "jp": "私は彼を・・・\n愛しているのよ～！！",
-   "en": "",
+   "en": "Him... I love him~!!",
    "box": "17x3",
    "face": 10
   }

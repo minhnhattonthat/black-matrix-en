@@ -9,7 +9,7 @@
    "id": "s155:0062a",
    "op": "14",
    "jp": "ここはリベイラの街だ！\nもっとも、他の街の者からは、\n背徳の街と呼ばれとるがな！",
-   "en": "",
+   "en": "This is the city of Ribeira! Though folks from other cities call it the Town of Vice!",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s155:006be",
    "op": "14",
    "jp": "お前達、下せんなる白い羽の分際で\nなんで勝手に街をうろついてんだ！",
-   "en": "",
+   "en": "You lowly White Wings! What are you doing wandering the city on your own!",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s155:00708",
    "op": "14",
    "jp": "あっ、こりゃどうも！！",
-   "en": "",
+   "en": "Oh, pardon me!!",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s155:00726",
    "op": "14",
    "jp": "そちらの神官様の奴隷でしたか！",
-   "en": "",
+   "en": "You're slaves of this priest-sama here!",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s155:00786",
    "op": "14",
    "jp": "この街には、\n数多くの教会がある。",
-   "en": "",
+   "en": "This city has a great many churches.",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s155:007b0",
    "op": "14",
    "jp": "その中でも特に凄いのは、\n太陽の神殿なんだが・・・",
-   "en": "",
+   "en": "The most amazing of all is the Temple of the Sun, but...",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s155:007ea",
    "op": "14",
    "jp": "そこにいた前の大神官のヨハネ様は、",
-   "en": "",
+   "en": "the former High Priest there, Johannes-sama,",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s155:00814",
    "op": "14",
    "jp": "なにかヘマをやらかして\n監獄に送られたらしいぜ！",
-   "en": "",
+   "en": "botched something and got sent to prison, they say!",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s155:00886",
    "op": "14",
    "jp": "太陽の神殿の大神官ユダ様は、\nこの街の支配者であらせられる！",
-   "en": "",
+   "en": "Judas-sama, High Priest of the Temple of the Sun, is ruler of this city!",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s155:008ca",
    "op": "14",
    "jp": "ユダ様は、えらく嫉妬深いんで、\nすぐ人を殺しちまうんだ・・・！",
-   "en": "",
+   "en": "Judas-sama is awfully jealous, so people get killed at the drop of a hat...!",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s155:00910",
    "op": "14",
    "jp": "たしかに嫉妬深いのは\nいい事なんだろうけど・・・",
-   "en": "",
+   "en": "Sure, being jealous is a good thing, I suppose, but...",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s155:00948",
    "op": "14",
    "jp": "誰だって死ぬのはイヤなんで、",
-   "en": "",
+   "en": "nobody wants to die,",
    "box": "17x3",
    "face": 104
   },
@@ -105,7 +105,7 @@
    "id": "s155:0096c",
    "op": "14",
    "jp": "前の支配者だった、ヨハネ様の方が、今だに人気が高いがね！",
-   "en": "",
+   "en": "so the old ruler, Johannes-sama, is still more popular!",
    "box": "17x3",
    "face": 104
   },
@@ -113,7 +113,7 @@
    "id": "s155:009e6",
    "op": "14",
    "jp": "この街の神殿には、かの有名な\n神々達の戦いで産み出された",
-   "en": "",
+   "en": "In this city's temple, from that famous battle of the gods...",
    "box": "17x3",
    "face": 104
   },
@@ -121,7 +121,7 @@
    "id": "s155:00a26",
    "op": "14",
    "jp": "遺跡が眠っているって\nもっぱらの噂よ！",
-   "en": "",
+   "en": "...ruins lie sleeping, or so the rumor goes!",
    "box": "17x3",
    "face": 104
   },
@@ -129,7 +129,7 @@
    "id": "s155:00a54",
    "op": "14",
    "jp": "本当の所は、\n正直、誰にもわからないけど・・・",
-   "en": "",
+   "en": "Honestly, though, nobody knows the truth of it...",
    "box": "17x3",
    "face": 104
   },
@@ -137,7 +137,7 @@
    "id": "s155:00ac6",
    "op": "14",
    "jp": "実はこの街には悪魔達が残した\nとんでもない鎧が、\nあるって評判なんだが・・・",
-   "en": "",
+   "en": "Word is, this city's got an incredible armor left behind by the devils...",
    "box": "17x3",
    "face": 104
   },
@@ -145,7 +145,7 @@
    "id": "s155:00b1a",
    "op": "14",
    "jp": "たとえ悪魔の物だろうと、",
-   "en": "",
+   "en": "Even if it is a devil's thing,",
    "box": "17x3",
    "face": 104
   },
@@ -153,7 +153,7 @@
    "id": "s155:00b3a",
    "op": "14",
    "jp": "強い力を持つ物は使わないと\n絶対損だと思わないか！？",
-   "en": "",
+   "en": "if a thing has great power, you'd be a fool not to use it, don't you think!?",
    "box": "17x3",
    "face": 104
   },
@@ -169,7 +169,7 @@
    "id": "s155:00ba2",
    "op": "14",
    "jp": "もっともこの考え方は、\n偉大なる前の支配者、\nヨハネ様の受け売りだがね！！",
-   "en": "",
+   "en": "Mind you, I got that idea from our great former ruler, Johannes-sama!!",
    "box": "17x3",
    "face": 104
   },
@@ -177,7 +177,7 @@
    "id": "s155:00c2e",
    "op": "14",
    "jp": "あんた達、邪道騎士って\n知ってるかい・・・！？",
-   "en": "",
+   "en": "You folks know about Heretic Knights...!?",
    "box": "17x3",
    "face": 104
   },
@@ -185,7 +185,7 @@
    "id": "s155:00c64",
    "op": "14",
    "jp": "なんでも、白き羽の悪魔達の\n残した鎧を身につける事によって、",
-   "en": "",
+   "en": "They say by wearing armor left behind by the White Wing devils,",
    "box": "17x3",
    "face": 104
   },
@@ -193,7 +193,7 @@
    "id": "s155:00ca8",
    "op": "14",
    "jp": "強大な力を手に入れたって\n話らしいぜ・・・。",
-   "en": "",
+   "en": "they gained tremendous power, or so the story goes...",
    "box": "17x3",
    "face": 104
   },
@@ -201,7 +201,7 @@
    "id": "s155:00cea",
    "op": "14",
    "jp": "ボク達の先祖にあたる\n黒き羽の大天使達は・・・",
-   "en": "",
+   "en": "The Black Wing archangels, our ancestors...",
    "box": "17x3",
    "face": 3
   },
@@ -209,7 +209,7 @@
    "id": "s155:00d20",
    "op": "14",
    "jp": "この大地の地下に住んでいたと\n言われているんだ・・・",
-   "en": "",
+   "en": "are said to have lived under the ground of this land...",
    "box": "17x3",
    "face": 3
   },
@@ -217,7 +217,7 @@
    "id": "s155:00d5c",
    "op": "14",
    "jp": "吹き上がるマグマ、血も凍るような\n極寒の地、乾燥しきった砂漠地帯。\nそれらが混在する地下の世界は・・・",
-   "en": "",
+   "en": "Spouting magma, lands of blood-freezing cold, bone-dry deserts. That underground world, where all of them mixed...",
    "box": "17x3",
    "face": 3
   },
@@ -225,7 +225,7 @@
    "id": "s155:00dca",
    "op": "14",
    "jp": "必然的に弱い生命は駆逐される、\n単純明快な弱肉強食の世界！！",
-   "en": "",
+   "en": "was a simple, clear-cut, dog-eat-dog world, where weak life was naturally wiped out!!",
    "box": "17x3",
    "face": 3
   },
@@ -233,7 +233,7 @@
    "id": "s155:00e0e",
    "op": "14",
    "jp": "そこでは人々が、いつでも\n最大限の努力をしなければ、生き\n残れなかったと言われているんだ。",
-   "en": "",
+   "en": "They say people there couldn't survive unless they always gave their very best.",
    "box": "17x3",
    "face": 3
   },
@@ -241,7 +241,7 @@
    "id": "s155:00e70",
    "op": "14",
    "jp": "強い力や不屈の闘志とかって\n物に憧れている人達は、恵まれた\n楽園だなんて言ってるけど・・・",
-   "en": "",
+   "en": "People who admire strength and an unyielding fighting spirit call it a blessed paradise, but...",
    "box": "17x3",
    "face": 3
   },
@@ -249,7 +249,7 @@
    "id": "s155:00ed2",
    "op": "14",
    "jp": "ボクにとってはそんな場所・・・",
-   "en": "",
+   "en": "To me, a place like that...",
    "box": "17x3",
    "face": 3
   },
@@ -257,7 +257,7 @@
    "id": "s155:00ef8",
    "op": "14",
    "jp": "地獄以外の何物でも無いんだけどね！",
-   "en": "",
+   "en": "is nothing but hell, you know!",
    "box": "17x3",
    "face": 3
   },
@@ -273,7 +273,7 @@
    "id": "s155:00f4e",
    "op": "14",
    "jp": "とにかくそんな楽園で暮らしていた\nボク等のご先祖様達は・・・",
-   "en": "",
+   "en": "Anyway, our ancestors, living in that paradise...",
    "box": "17x3",
    "face": 3
   },
@@ -281,7 +281,7 @@
    "id": "s155:00f92",
    "op": "14",
    "jp": "かの救世主メフィスト・フェレス様のお導きで・・・",
-   "en": "",
+   "en": "under the guidance of the Savior Mephistopheles-sama...",
    "box": "17x3",
    "face": 3
   },
@@ -289,7 +289,7 @@
    "id": "s155:00fca",
    "op": "14",
    "jp": "大邪神や悪魔達がばっこしていた\nこの地上へと侵攻して、\n大邪神軍団を滅ぼし・・・",
-   "en": "",
+   "en": "invaded this surface world, where the Great Evil Gods and devils ran rampant, and destroyed the Great Evil God's army...",
    "box": "17x3",
    "face": 3
   },
@@ -297,7 +297,7 @@
    "id": "s155:01022",
    "op": "14",
    "jp": "この大陸の地下深くに・・・",
-   "en": "",
+   "en": "and deep under this continent...",
    "box": "17x3",
    "face": 3
   },
@@ -305,7 +305,7 @@
    "id": "s155:01044",
    "op": "14",
    "jp": "あの神の鎖で封じ込めてたんだって\n教えられているんだけど・・・",
-   "en": "",
+   "en": "sealed them away with those Chains of God. That's what we're taught, anyway...",
    "box": "17x3",
    "face": 3
   },
@@ -329,7 +329,7 @@
    "id": "s155:01144",
    "op": "14",
    "jp": "いらっしゃ・・・",
-   "en": "",
+   "en": "Welc...",
    "box": "17x3",
    "face": 104
   },
@@ -337,7 +337,7 @@
    "id": "s155:0117c",
    "op": "14",
    "jp": "いらっしゃ・・・",
-   "en": "",
+   "en": "Welc...",
    "box": "17x3",
    "face": 104
   },
@@ -345,7 +345,7 @@
    "id": "s155:01194",
    "op": "14",
    "jp": "なんでぃ！\n白い羽の分際で何のようだ？",
-   "en": "",
+   "en": "What's this! What's a White Wing want here?",
    "box": "17x3",
    "face": 104
   },
@@ -353,7 +353,7 @@
    "id": "s155:011c2",
    "op": "14",
    "jp": "お使いか！\nなにが欲しいんだ！",
-   "en": "",
+   "en": "On an errand, eh! What d'you want!",
    "box": "17x3",
    "face": 104
   },
@@ -361,7 +361,7 @@
    "id": "s155:01208",
    "op": "14",
    "jp": "うちの商品は、どれも値段に見合った極上モンばっかりだぜ！。",
-   "en": "",
+   "en": "Everything here's top-grade stuff, worth every coin!",
    "box": "17x3",
    "face": 104
   },
@@ -369,7 +369,7 @@
    "id": "s155:01250",
    "op": "14",
    "jp": "いらっしゃ・・・",
-   "en": "",
+   "en": "Welc...",
    "box": "17x3",
    "face": 104
   },
@@ -377,7 +377,7 @@
    "id": "s155:012ae",
    "op": "14",
    "jp": "おわらんぞ～",
-   "en": "",
+   "en": "We ain't done~",
    "box": "17x3",
    "face": 104
   },
@@ -401,7 +401,7 @@
    "id": "s155:0139e",
    "op": "15",
    "jp": "準備が良ければ、\n太陽の神殿に向かうとするか？",
-   "en": "",
+   "en": "If you're ready, shall we head for the Temple of the Sun, eh?",
    "box": "17x3",
    "face": 30
   },
@@ -409,14 +409,14 @@
    "id": "s155:013ee",
    "op": "1d",
    "jp": "太陽の神殿に行く！",
-   "en": "",
+   "en": "Go to the Temple of the Sun!",
    "max": 15
   },
   {
    "id": "s155:01408",
    "op": "1d",
    "jp": "まだ準備ができていない！",
-   "en": "",
+   "en": "Not ready yet!",
    "max": 15
   }
  ]

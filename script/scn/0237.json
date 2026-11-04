@@ -9,7 +9,7 @@
    "id": "s237:00b12",
    "op": "15",
    "jp": "ピリポよ・・・\nこうなっては致し方あるまい！",
-   "en": "",
+   "en": "Phillipo, my boy... it can't be helped now!",
    "box": "17x3",
    "face": 5
   },
@@ -17,7 +17,7 @@
    "id": "s237:00b52",
    "op": "15",
    "jp": "どうしても両親に会いたいなら、\n勇気を出して、正面から向き合うしか他に手はないと思うぞ・・・",
-   "en": "",
+   "en": "If you must see your parents, I think you've no choice but to find courage and face them head-on...",
    "box": "17x3",
    "face": 5
   },
@@ -33,7 +33,7 @@
    "id": "s237:00c06",
    "op": "15",
    "jp": "だっ・・だけど・・・",
-   "en": "",
+   "en": "B-b-but...",
    "box": "17x3",
    "face": 3
   },
@@ -41,7 +41,7 @@
    "id": "s237:00c3a",
    "op": "15",
    "jp": "どうでもいいから、早いとこ\n会いに行っちまえよ・・・",
-   "en": "",
+   "en": "Whatever, just go see 'em already...",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s237:00c82",
    "op": "15",
    "jp": "なんだかんだ言ったって、\nオマエの実の肉親なんだろう！？",
-   "en": "",
+   "en": "Say what you want, they're your own flesh and blood, ain't they!?",
    "box": "17x3",
    "face": 2
   },
@@ -65,7 +65,7 @@
    "id": "s237:00dc2",
    "op": "15",
    "jp": "うるさいぞキサマ等！！",
-   "en": "",
+   "en": "Quiet, you lot!!",
    "box": "17x3",
    "face": 115
   },
@@ -73,7 +73,7 @@
    "id": "s237:00dea",
    "op": "15",
    "jp": "ココをこの村の村長の館としって\n騒いでおるのか・・・！？",
-   "en": "",
+   "en": "Do you know this is the village chief's manor, making this racket...!?",
    "box": "17x3",
    "face": 115
   },
@@ -81,7 +81,7 @@
    "id": "s237:00e36",
    "op": "15",
    "jp": "んんっ！？なんだお前達は・・・",
-   "en": "",
+   "en": "Hm!? And what are you people...",
    "box": "17x3",
    "face": 115
   },
@@ -89,7 +89,7 @@
    "id": "s237:00e66",
    "op": "15",
    "jp": "この、首輪も着けずに、しかも立って歩いている奴隷は・・・",
-   "en": "",
+   "en": "These slaves, with no collars, and walking upright besides...",
    "box": "17x3",
    "face": 115
   },
@@ -97,7 +97,7 @@
    "id": "s237:00eb2",
    "op": "15",
    "jp": "お前達の飼っている奴隷達なのか！？",
-   "en": "",
+   "en": "Are these slaves that you keep!?",
    "box": "17x3",
    "face": 115
   },
@@ -113,7 +113,7 @@
    "id": "s237:00f46",
    "op": "15",
    "jp": "ハーイ！このお兄ちゃんは\nアタシの奴隷だよ～ん！",
-   "en": "",
+   "en": "Hiii! This big brother's my slave, nyah!",
    "box": "17x3",
    "face": 8
   },
@@ -129,7 +129,7 @@
    "id": "s237:00fe6",
    "op": "15",
    "jp": "だったらなんだっていうのよぉ～！！",
-   "en": "",
+   "en": "So what if he is, huh!!",
    "box": "17x3",
    "face": 10
   },
@@ -145,7 +145,7 @@
    "id": "s237:0103a",
    "op": "15",
    "jp": "この家の主人に・・・",
-   "en": "",
+   "en": "To the master of this house...",
    "box": "17x3",
    "face": 5
   },
@@ -153,7 +153,7 @@
    "id": "s237:01062",
    "op": "15",
    "jp": "内密に、ちと話したい事が\nあってな・・・",
-   "en": "",
+   "en": "...I've a little private matter to discuss, eh...",
    "box": "17x3",
    "face": 5
   },
@@ -161,7 +161,7 @@
    "id": "s237:0109e",
    "op": "15",
    "jp": "商売の話じゃ・・・",
-   "en": "",
+   "en": "A matter of business...",
    "box": "17x3",
    "face": 5
   },
@@ -169,7 +169,7 @@
    "id": "s237:010c2",
    "op": "15",
    "jp": "ピリポが来たと伝えれば\nわかるじゃろうて・・・！",
-   "en": "",
+   "en": "Tell him Phillipo has come, and he'll understand, I daresay...!",
    "box": "17x3",
    "face": 5
   },
@@ -177,7 +177,7 @@
    "id": "s237:011f6",
    "op": "15",
    "jp": "・・・なんじゃ騒々しい！！",
-   "en": "",
+   "en": "...What is this racket!!",
    "box": "17x3",
    "face": 113
   },
@@ -185,7 +185,7 @@
    "id": "s237:01232",
    "op": "15",
    "jp": "これは旦那様・・・\nこちらのピリポ殿と\n呼ばれる神官の方が・・・",
-   "en": "",
+   "en": "Ah, master... this priest called Phillipo-dono...",
    "box": "17x3",
    "face": 115
   },
@@ -193,7 +193,7 @@
    "id": "s237:01292",
    "op": "15",
    "jp": "ピリポじゃと・・・！？",
-   "en": "",
+   "en": "Phillipo, you say...!?",
    "box": "17x3",
    "face": 113
   },
@@ -201,7 +201,7 @@
    "id": "s237:0132e",
    "op": "15",
    "jp": "きっ・・・キサマ・・・\nさては、ユスリたかりの類か！？",
-   "en": "",
+   "en": "Y... you... I see, you're some kind of blackmailer, are you!?",
    "box": "17x3",
    "face": 113
   },
@@ -217,7 +217,7 @@
    "id": "s237:013a6",
    "op": "15",
    "jp": "あ・・・あのう・・・・",
-   "en": "",
+   "en": "U-um....",
    "box": "17x3",
    "face": 3
   },
@@ -233,7 +233,7 @@
    "id": "s237:013fe",
    "op": "15",
    "jp": "おっ・・・オマエ・・・\nその白き羽は・・・・！？",
-   "en": "",
+   "en": "Y... you... those white wings...!?",
    "box": "17x3",
    "face": 113
   },
@@ -241,7 +241,7 @@
    "id": "s237:0144e",
    "op": "15",
    "jp": "旦那様・・・\nやはり、お知り合いの方で！？",
-   "en": "",
+   "en": "Master... so you do know them!?",
    "box": "17x3",
    "face": 115
   },
@@ -249,7 +249,7 @@
    "id": "s237:0149a",
    "op": "15",
    "jp": "し・・しらん！！",
-   "en": "",
+   "en": "I-I don't!!",
    "box": "17x3",
    "face": 113
   },
@@ -257,7 +257,7 @@
    "id": "s237:014be",
    "op": "15",
    "jp": "知らんぞこんな奴らは！！",
-   "en": "",
+   "en": "I know nothing of these people!!",
    "box": "17x3",
    "face": 113
   },
@@ -273,7 +273,7 @@
    "id": "s237:01516",
    "op": "15",
    "jp": "おそらくは、我が家の家系に\n難癖をつけに来た・・・",
-   "en": "",
+   "en": "Most likely they've come to smear my family line...",
    "box": "17x3",
    "face": 113
   },
@@ -281,7 +281,7 @@
    "id": "s237:0155a",
    "op": "15",
    "jp": "ユスリ屋の類であろう！！",
-   "en": "",
+   "en": "...blackmailers of some sort!!",
    "box": "17x3",
    "face": 113
   },
@@ -289,7 +289,7 @@
    "id": "s237:01586",
    "op": "15",
    "jp": "用心棒の先生がた・・・",
-   "en": "",
+   "en": "Gentlemen, my hired protectors...",
    "box": "17x3",
    "face": 113
   },
@@ -297,7 +297,7 @@
    "id": "s237:015ae",
    "op": "15",
    "jp": "奴等が何を言おうと構う事はない！",
-   "en": "",
+   "en": "Never mind whatever they say!",
    "box": "17x3",
    "face": 113
   },
@@ -305,7 +305,7 @@
    "id": "s237:015e2",
    "op": "15",
    "jp": "さっさとかたずけて下さい！！",
-   "en": "",
+   "en": "Dispose of them at once!!",
    "box": "17x3",
    "face": 113
   },
@@ -313,7 +313,7 @@
    "id": "s237:0161e",
    "op": "15",
    "jp": "くそぉ・・・・\nやっぱりこういう展開になんのかよ！",
-   "en": "",
+   "en": "Dammit.... So that's how this goes, huh!",
    "box": "17x3",
    "face": 2
   },
@@ -321,7 +321,7 @@
    "id": "s237:01672",
    "op": "15",
    "jp": "ちっ！！",
-   "en": "",
+   "en": "Tch!!",
    "box": "17x3",
    "face": 1
   },

@@ -9,7 +9,7 @@
    "id": "s204:00a16",
    "op": "15",
    "jp": "おぅ、オメェか！？",
-   "en": "",
+   "en": "Oh, it's you, huh!?",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s204:00a66",
    "op": "15",
    "jp": "ん？いや何、\nちょいと寝つけなくってよ。",
-   "en": "",
+   "en": "Hm? Nah, just can't sleep, is all.",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s204:00ada",
    "op": "15",
    "jp": "なぁ・・・\nおめぇは、本当にその罪を\n犯しちまうほどよ、",
-   "en": "",
+   "en": "Hey... enough to really go and commit that crime,",
    "box": "17x3",
    "face": 2
   },
@@ -57,7 +57,7 @@
    "id": "s204:00b26",
    "op": "15",
    "jp": "愛とかっていうのを\n理解できてんのかよ？",
-   "en": "",
+   "en": "do you actually get this love stuff?",
    "box": "17x3",
    "face": 2
   },
@@ -73,7 +73,7 @@
    "id": "s204:00b8e",
    "op": "15",
    "jp": "俺は・・・俺は自由ってのが\n未だにさっぱりわかんねぇ。",
-   "en": "",
+   "en": "Me... I still don't get what freedom is at all.",
    "box": "17x3",
    "face": 2
   },
@@ -81,7 +81,7 @@
    "id": "s204:00bd6",
    "op": "15",
    "jp": "産まれたときから、\nただ虐げられるだけの\n白い羽の奴隷。",
-   "en": "",
+   "en": "Born a White Wing slave, doin' nothin' but gettin' stomped on.",
    "box": "17x3",
    "face": 2
   },
@@ -89,7 +89,7 @@
    "id": "s204:00c22",
    "op": "15",
    "jp": "俺はそいつが我慢出来ず、\nそこから抜け出すために力を、",
-   "en": "",
+   "en": "I couldn't stand it, so to break outta that, power,",
    "box": "17x3",
    "face": 2
   },
@@ -97,7 +97,7 @@
    "id": "s204:00c6a",
    "op": "15",
    "jp": "そう、力を求めたんだ！！",
-   "en": "",
+   "en": "yeah, I went after power!!",
    "box": "17x3",
    "face": 2
   },
@@ -105,7 +105,7 @@
    "id": "s204:00c96",
    "op": "15",
    "jp": "力さえあれば、\nもう誰にも縛られねぇ、\nどこへだって行ける！",
-   "en": "",
+   "en": "With power, nobody ties me down again, I can go anywhere!",
    "box": "17x3",
    "face": 2
   },
@@ -113,7 +113,7 @@
    "id": "s204:00ce6",
    "op": "15",
    "jp": "だがこの世界ではそれを手に\n入れる事を自由といい、",
-   "en": "",
+   "en": "But in this world, gettin' that's called freedom,",
    "box": "17x3",
    "face": 2
   },
@@ -121,7 +121,7 @@
    "id": "s204:00d2a",
    "op": "15",
    "jp": "７つの大罪に触れるって\nいうじゃねぇか！？",
-   "en": "",
+   "en": "and they say it breaks one of the Seven Deadly Sins, don't they!?",
    "box": "17x3",
    "face": 2
   },
@@ -137,7 +137,7 @@
    "id": "s204:00dfa",
    "op": "15",
    "jp": "ふざけんじゃねぇ！\nだったら黒い羽のやつらは\nどうなんだ！！",
-   "en": "",
+   "en": "Like hell! Then what about those Black Wing bastards!!",
    "box": "17x3",
    "face": 2
   },
@@ -145,7 +145,7 @@
    "id": "s204:00e6e",
    "op": "15",
    "jp": "あの連中の白い羽に対する\n好き勝手な振る舞いの、\nどこが自由じゃねぇってんだ！！",
-   "en": "",
+   "en": "All the crap they pull on White Wings as they please... how the hell's that not freedom!!",
    "box": "17x3",
    "face": 2
   },
@@ -153,7 +153,7 @@
    "id": "s204:00ed2",
    "op": "15",
    "jp": "そう思った俺は、自分の主人\nパンデモニウムの領主を\nこの手で殺しちまった。",
-   "en": "",
+   "en": "Thinkin' that, I killed my own master, the lord of Pandemonium, with these hands.",
    "box": "17x3",
    "face": 2
   },
@@ -161,7 +161,7 @@
    "id": "s204:00f56",
    "op": "15",
    "jp": "その後は聞いての通りさ。",
-   "en": "",
+   "en": "After that, it's like you heard.",
    "box": "17x3",
    "face": 2
   },
@@ -169,7 +169,7 @@
    "id": "s204:00fa6",
    "op": "15",
    "jp": "国中を渡り歩き、主を変え、",
-   "en": "",
+   "en": "I roamed all over the land, switchin' masters,",
    "box": "17x3",
    "face": 2
   },
@@ -177,7 +177,7 @@
    "id": "s204:00fd2",
    "op": "15",
    "jp": "仲間を変えては力の限り、\n思うまま好きなように振る舞って\nやった・・・",
-   "en": "",
+   "en": "switchin' comrades, throwin' my strength around, doin' whatever I damn well pleased...",
    "box": "17x3",
    "face": 2
   },
@@ -185,7 +185,7 @@
    "id": "s204:0102a",
    "op": "15",
    "jp": "だが奴隷は奴隷、\nいっしょに戦った仲間の中に\n強ェ奴らはいっぱいいたが、",
-   "en": "",
+   "en": "But a slave's a slave. Plenty of the guys I fought beside were tough as hell,",
    "box": "17x3",
    "face": 2
   },
@@ -193,7 +193,7 @@
    "id": "s204:01086",
    "op": "15",
    "jp": "結局、自由なんてものには\nとうてい巡り会えなかった。",
-   "en": "",
+   "en": "but in the end, I never came close to findin' this freedom.",
    "box": "17x3",
    "face": 2
   },
@@ -209,7 +209,7 @@
    "id": "s204:010f6",
    "op": "15",
    "jp": "でもよ、笑っちまうよな。",
-   "en": "",
+   "en": "But, ya know, it's a laugh.",
    "box": "17x3",
    "face": 2
   },
@@ -217,7 +217,7 @@
    "id": "s204:01122",
    "op": "15",
    "jp": "黒い羽の連中にも\n主従関係ってのがあって、",
-   "en": "",
+   "en": "Even the Black Wings got masters and servants among 'em,",
    "box": "17x3",
    "face": 2
   },
@@ -225,7 +225,7 @@
    "id": "s204:0115e",
    "op": "15",
    "jp": "連中でもすべてが思い通りって\nワケじゃねぇときやがる。",
-   "en": "",
+   "en": "so not even they get everything their way, if you can believe it.",
    "box": "17x3",
    "face": 2
   },
@@ -241,7 +241,7 @@
    "id": "s204:011d2",
    "op": "15",
    "jp": "だったら、\n俺の知りてェ自由ってのは何だ！",
-   "en": "",
+   "en": "So then what's this freedom I wanna know about!",
    "box": "17x3",
    "face": 2
   },
@@ -249,7 +249,7 @@
    "id": "s204:0120e",
    "op": "15",
    "jp": "罪深い自由って何だよ？！",
-   "en": "",
+   "en": "What the hell is sinful freedom?!",
    "box": "17x3",
    "face": 2
   },
@@ -257,7 +257,7 @@
    "id": "s204:0123a",
    "op": "15",
    "jp": "悪ィ、懐かしい街並みを目にして、\n少し感傷的になっちまった\nみてぇだ。",
-   "en": "",
+   "en": "Sorry. Seein' the old streets got me a little sentimental, I guess.",
    "box": "17x3",
    "face": 2
   },
@@ -265,7 +265,7 @@
    "id": "s204:01292",
    "op": "15",
    "jp": "今夜は妙に右目の古傷が\n痛みやがる。",
-   "en": "",
+   "en": "That old wound by my right eye's actin' up tonight, dammit.",
    "box": "17x3",
    "face": 2
   },
@@ -273,7 +273,7 @@
    "id": "s204:0195e",
    "op": "15",
    "jp": "オイ！！\n昔話はそこまでだ！",
-   "en": "",
+   "en": "Hey!! That's enough old stories!",
    "box": "17x3",
    "face": 1
   },
@@ -281,7 +281,7 @@
    "id": "s204:019d6",
    "op": "15",
    "jp": "何か現れたぜ！！",
-   "en": "",
+   "en": "Something's here!!",
    "box": "17x3",
    "face": 1
   },
@@ -289,7 +289,7 @@
    "id": "s204:022aa",
    "op": "15",
    "jp": "ついに見つけたぞ、お前ら！",
-   "en": "",
+   "en": "Found ya at last, you lot!",
    "box": "17x3",
    "face": 38
   },
@@ -297,7 +297,7 @@
    "id": "s204:022d6",
    "op": "15",
    "jp": "噂だとお前らは、\nたいそうなお宝を\n持っているそうじゃないか！！",
-   "en": "",
+   "en": "Word is you've got quite a treasure on you!!",
    "box": "17x3",
    "face": 38
   },
@@ -305,7 +305,7 @@
    "id": "s204:0232a",
    "op": "15",
    "jp": "さっさと、出しやがれ！",
-   "en": "",
+   "en": "Hand it over, quick!",
    "box": "17x3",
    "face": 38
   },
@@ -313,7 +313,7 @@
    "id": "s204:02362",
    "op": "15",
    "jp": "そのお宝っていうのは、\nもしかして・・・ハッ！",
-   "en": "",
+   "en": "This treasure you mean... could it be... Oh!",
    "box": "17x3",
    "face": 6
   },
@@ -321,7 +321,7 @@
    "id": "s204:023a2",
    "op": "15",
    "jp": "アタシのこの美貌の事！？",
-   "en": "",
+   "en": "My dazzling beauty!?",
    "box": "17x3",
    "face": 6
   },
@@ -329,7 +329,7 @@
    "id": "s204:023da",
    "op": "15",
    "jp": "ぶっ殺す！！！",
-   "en": "",
+   "en": "I'll kill you!!!",
    "box": "17x3",
    "face": 38
   },
@@ -337,7 +337,7 @@
    "id": "s204:02562",
    "op": "15",
    "jp": "くっくっくっ・・・\n我らが今まで生き残れてきた事を\nたんなる偶然と思うなよ・・・！！",
-   "en": "",
+   "en": "Heh heh heh... Don't think it's dumb luck we've survived this long...!!",
    "box": "17x3",
    "face": 38
   },
@@ -345,7 +345,7 @@
    "id": "s204:025ca",
    "op": "15",
    "jp": "我らには我らの守護神とも言える、\n邪悪なる邪道騎士！",
-   "en": "",
+   "en": "We've got our own guardian god, ya might say, a wicked Heretic Knight!",
    "box": "17x3",
    "face": 38
   },
@@ -353,7 +353,7 @@
    "id": "s204:02612",
    "op": "15",
    "jp": "オスカー様がついて\nいらっしゃるのだ！！",
-   "en": "",
+   "en": "Oscar-sama is on our side!!",
    "box": "17x3",
    "face": 38
   },
@@ -361,7 +361,7 @@
    "id": "s204:0265a",
    "op": "15",
    "jp": "じゃ・・邪道騎士ですって！？",
-   "en": "",
+   "en": "A H-Heretic Knight, you say!?",
    "box": "17x3",
    "face": 6
   },
@@ -377,7 +377,7 @@
    "id": "s204:026a6",
    "op": "15",
    "jp": "なにもキミ達の命を奪う事が\n我々の目的では無いんだ・・・",
-   "en": "",
+   "en": "Taking your lives is by no means our aim, I assure you...",
    "box": "17x3",
    "face": 127
   },
@@ -385,7 +385,7 @@
    "id": "s204:026f2",
    "op": "15",
    "jp": "出来れば、その宝物とやらを",
-   "en": "",
+   "en": "If you would, that treasure of yours,",
    "box": "17x3",
    "face": 127
   },
@@ -393,7 +393,7 @@
    "id": "s204:0271e",
    "op": "15",
    "jp": "ココに置いて・・・",
-   "en": "",
+   "en": "leave it here...",
    "box": "17x3",
    "face": 127
   },
@@ -401,7 +401,7 @@
    "id": "s204:02742",
    "op": "15",
    "jp": "だまってこの場を\n立ち去って欲しい・・・",
-   "en": "",
+   "en": "and quietly quit this place...",
    "box": "17x3",
    "face": 127
   },
@@ -409,7 +409,7 @@
    "id": "s204:0277e",
    "op": "15",
    "jp": "そうすれば他には何も盗らないし\nキミ達の安全も保障しよう・・・",
-   "en": "",
+   "en": "Do so, and we shall take nothing else, and I will guarantee your safety...",
    "box": "17x3",
    "face": 127
   },
@@ -417,7 +417,7 @@
    "id": "s204:027de",
    "op": "15",
    "jp": "ふざけるな！",
-   "en": "",
+   "en": "Like hell!",
    "box": "17x3",
    "face": 2
   },
@@ -425,7 +425,7 @@
    "id": "s204:0280a",
    "op": "15",
    "jp": "残念ながら・・・\nそのアンタ等が言っている",
-   "en": "",
+   "en": "Sorry to say... what you people are calling",
    "box": "17x3",
    "face": 1
   },
@@ -433,7 +433,7 @@
    "id": "s204:02846",
    "op": "15",
    "jp": "お宝って奴は・・・",
-   "en": "",
+   "en": "treasure...",
    "box": "17x3",
    "face": 1
   },
@@ -441,7 +441,7 @@
    "id": "s204:0286a",
    "op": "15",
    "jp": "おいそれと置いたり脱いだり\n出来るような代物じゃないんでね！",
-   "en": "",
+   "en": "isn't the kind of thing you can just set down or take off!",
    "box": "17x3",
    "face": 1
   },
@@ -457,7 +457,7 @@
    "id": "s204:028e6",
    "op": "15",
    "jp": "オスカー様！！",
-   "en": "",
+   "en": "Oscar-sama!!",
    "box": "17x3",
    "face": 38
   },
@@ -465,7 +465,7 @@
    "id": "s204:02916",
    "op": "15",
    "jp": "やるしか・・無いのか・・・",
-   "en": "",
+   "en": "So there is... no choice but to fight...",
    "box": "17x3",
    "face": 127
   },

@@ -9,7 +9,7 @@
    "id": "s232:00982",
    "op": "15",
    "jp": "コイツはいったい・・・\n何のまねだ！？",
-   "en": "",
+   "en": "What the hell is all this...? What's the big idea!?",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s232:009ca",
    "op": "15",
    "jp": "オマエ達若い者を・・・",
-   "en": "",
+   "en": "You young folk...",
    "box": "17x3",
    "face": 112
   },
@@ -25,7 +25,7 @@
    "id": "s232:009f2",
    "op": "15",
    "jp": "この村から出すわけには\nいかんのじゃよ！",
-   "en": "",
+   "en": "...we can't have you leaving this village, eh!",
    "box": "17x3",
    "face": 112
   },
@@ -33,7 +33,7 @@
    "id": "s232:00ab2",
    "op": "15",
    "jp": "なんだって！？",
-   "en": "",
+   "en": "Come again!?",
    "box": "17x3",
    "face": 1
   },
@@ -41,7 +41,7 @@
    "id": "s232:00ae2",
    "op": "15",
    "jp": "この村の病院は若い連中から\n吸い上げた年貢によって\n運営されておる・・・！",
-   "en": "",
+   "en": "This village's hospitals are run on the taxes we squeeze from the young...!",
    "box": "17x3",
    "face": 142
   },
@@ -49,7 +49,7 @@
    "id": "s232:00b3e",
    "op": "15",
    "jp": "ところが最近の若い連中は・・・",
-   "en": "",
+   "en": "But the young folk these days...",
    "box": "17x3",
    "face": 142
   },
@@ -57,7 +57,7 @@
    "id": "s232:00b6e",
    "op": "15",
    "jp": "わし等が苦労して創り上げたこの村に住んでおきながら、老人に対する\n感謝の気持ちも忘れ・・・",
-   "en": "",
+   "en": "They live in this village we toiled to build, yet forget all gratitude to their elders...",
    "box": "17x3",
    "face": 142
   },
@@ -65,7 +65,7 @@
    "id": "s232:00bda",
    "op": "15",
    "jp": "自分等の生まれた村を捨てて、\n出ていこうなどと\nたくらんでおる・・・",
-   "en": "",
+   "en": "...and scheme to abandon the very village they were born in, and leave it...",
    "box": "17x3",
    "face": 142
   },
@@ -73,7 +73,7 @@
    "id": "s232:00c32",
    "op": "15",
    "jp": "自分達とて、いつかは年を取り、\nジジイになる日が来る事も\n忘れてのぅ・・・",
-   "en": "",
+   "en": "...forgetting that they too will age one day and be old geezers, I daresay...",
    "box": "17x3",
    "face": 142
   },
@@ -89,7 +89,7 @@
    "id": "s232:00cbe",
    "op": "15",
    "jp": "そんな無法な行いは・・・",
-   "en": "",
+   "en": "Such lawless conduct...",
    "box": "17x3",
    "face": 112
   },
@@ -97,7 +97,7 @@
    "id": "s232:00cea",
    "op": "15",
    "jp": "我ら爆老決死隊が、\n命に代えても阻止してくれるワ！！",
-   "en": "",
+   "en": "...we of the Elder Death Squad will stop, even at the cost of our lives, eh!!",
    "box": "17x3",
    "face": 112
   },
@@ -105,7 +105,7 @@
    "id": "s232:00d3e",
    "op": "15",
    "jp": "ちょ・・ちょっと待ってくれよ\n爺さん・・・俺達は・・！？",
-   "en": "",
+   "en": "H-hold on a second, old man... We're...!?",
    "box": "17x3",
    "face": 1
   },
@@ -113,7 +113,7 @@
    "id": "s232:00d96",
    "op": "15",
    "jp": "問答無用！！",
-   "en": "",
+   "en": "Enough talk!!",
    "box": "17x3",
    "face": 112
   }

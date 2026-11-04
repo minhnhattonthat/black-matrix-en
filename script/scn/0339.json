@@ -9,7 +9,7 @@
    "id": "s339:00bda",
    "op": "15",
    "jp": "正直焦ったぜ！\n奴らと出会って戻ってみたら、\n突然あの状態だからな！！",
-   "en": "",
+   "en": "Honestly, that rattled me! I run into these folks, come back, and suddenly it's all that!!",
    "box": "17x3",
    "face": 1
   },
@@ -17,7 +17,7 @@
    "id": "s339:00c66",
    "op": "15",
    "jp": "ほんと、\nどうなるかと思った！！",
-   "en": "",
+   "en": "R-really, I didn't know what would happen!!",
    "box": "17x3",
    "face": 3
   },
@@ -25,7 +25,7 @@
    "id": "s339:00cca",
    "op": "15",
    "jp": "ああ、悪かったな。",
-   "en": "",
+   "en": "Yeah, my bad.",
    "box": "17x3",
    "face": 1
   },
@@ -33,7 +33,7 @@
    "id": "s339:00d16",
    "op": "15",
    "jp": "これからはなるべくみんなから\n離れないように心がけるよ。",
-   "en": "",
+   "en": "From now on, I'll try not to stray too far from everyone.",
    "box": "17x3",
    "face": 1
   },
@@ -41,7 +41,7 @@
    "id": "s339:00d92",
    "op": "15",
    "jp": "てやんでい！\nたかだかあれぐらいの敵。",
-   "en": "",
+   "en": "Like hell! Enemies like that were nothin'.",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s339:00dda",
    "op": "15",
    "jp": "（ちくしょう、キザ野郎め。\n　一番おいしい所を\n　持っていきやがる！）",
-   "en": "",
+   "en": "(Dammit, pretty boy. Runnin' off with all the best bits!)",
    "box": "17x3",
    "face": 2
   },
@@ -65,7 +65,7 @@
    "id": "s339:00e7a",
    "op": "15",
    "jp": "でも、ガイさんの\n側にいるのは誰なんだろう？",
-   "en": "",
+   "en": "But, um... who's that beside Gai-san?",
    "box": "17x3",
    "face": 3
   },
@@ -73,7 +73,7 @@
    "id": "s339:00eea",
    "op": "15",
    "jp": "うむっ、どうやら彼らは\n白き羽の者のようじゃが・・・",
-   "en": "",
+   "en": "Hmm, they appear to be White Wing folk, I daresay...",
    "box": "17x3",
    "face": 5
   },
@@ -81,7 +81,7 @@
    "id": "s339:00f3e",
    "op": "15",
    "jp": "おおおおぉうぅっ、\nまさしく、それは！\n我々が長年探し求めていた、",
-   "en": "",
+   "en": "Oooooh! Indeed, that is it! The very thing we have sought for so many years,",
    "box": "17x3",
    "face": 16
   },
@@ -89,7 +89,7 @@
    "id": "s339:00f92",
    "op": "15",
    "jp": "大邪神・メタトロンの鎧！！",
-   "en": "",
+   "en": "the armor of the Great Evil God Metatron!!",
    "box": "17x3",
    "face": 16
   },
@@ -105,7 +105,7 @@
    "id": "s339:01006",
    "op": "15",
    "jp": "貴方様こそが我々の、\n救世主様に違いありません！",
-   "en": "",
+   "en": "You, good sir, can be none other than our Savior!",
    "box": "17x3",
    "face": 16
   },
@@ -121,7 +121,7 @@
    "id": "s339:01082",
    "op": "15",
    "jp": "とりあえず礼は言わせて貰うが、\nお主達はいったい・・・",
-   "en": "",
+   "en": "You have my thanks, at any rate, but who on earth are you people, eh...",
    "box": "17x3",
    "face": 5
   },
@@ -129,7 +129,7 @@
    "id": "s339:010da",
    "op": "15",
    "jp": "おおっと、\nこれは申し遅れました！",
-   "en": "",
+   "en": "Ah! A thousand pardons, I have yet to introduce myself!",
    "box": "17x3",
    "face": 16
   },
@@ -137,7 +137,7 @@
    "id": "s339:0110e",
    "op": "15",
    "jp": "私は、とある組織の参謀を\n務めさせて頂いております、\nケルビムと申します！",
-   "en": "",
+   "en": "I have the honor of serving as adviser to a certain organization. My name is Cherubim!",
    "box": "17x3",
    "face": 16
   },
@@ -145,7 +145,7 @@
    "id": "s339:0116a",
    "op": "15",
    "jp": "ささっ！マルコ様も\n救世主様ご一行に、\nぜひご挨拶を！！",
-   "en": "",
+   "en": "Come, come! Marco-sama, do pay your respects to the Savior and company!!",
    "box": "17x3",
    "face": 16
   },
@@ -153,7 +153,7 @@
    "id": "s339:011c2",
    "op": "15",
    "jp": "初めまして！\n僕がこの組織のリーダーの、\nマルコと申します！",
-   "en": "",
+   "en": "How do you do! I am the leader of this organization, Marco!",
    "box": "17x3",
    "face": 4
   },
@@ -161,7 +161,7 @@
    "id": "s339:0121e",
    "op": "15",
    "jp": "なっ、なんじゃと！？",
-   "en": "",
+   "en": "Wh-what's that!?",
    "box": "17x3",
    "face": 5
   },
@@ -169,7 +169,7 @@
    "id": "s339:01246",
    "op": "15",
    "jp": "まさかお主が、\nこの世界で最初に\n大邪神の鎧を解放したという、",
-   "en": "",
+   "en": "Don't tell me you're the one who first in this world unsealed a Great Evil God's armor,",
    "box": "17x3",
    "face": 5
   },
@@ -177,7 +177,7 @@
    "id": "s339:01296",
    "op": "15",
    "jp": "奇跡の少年\nあのマルコなのか！？",
-   "en": "",
+   "en": "the miracle boy, that Marco himself!?",
    "box": "17x3",
    "face": 5
   },
@@ -193,7 +193,7 @@
    "id": "s339:012f6",
    "op": "15",
    "jp": "詳しい話の前に・・\nそちらの女性の手当もしなければ！",
-   "en": "",
+   "en": "Before the details... that lady there must have her wounds seen to!",
    "box": "17x3",
    "face": 16
   },
@@ -201,7 +201,7 @@
    "id": "s339:0133e",
    "op": "15",
    "jp": "ささっ、とりあえず我々の\n総本部までおいで下さい！！",
-   "en": "",
+   "en": "Come, come, do step along to our headquarters for now!!",
    "box": "17x3",
    "face": 16
   },
@@ -209,7 +209,7 @@
    "id": "s339:0215a",
    "op": "15",
    "jp": "ここが我々の総本部がある\n欲情の街ベギルドです。",
-   "en": "",
+   "en": "This is Begild, the city of lust, where our headquarters lies.",
    "box": "17x3",
    "face": 16
   },
@@ -217,7 +217,7 @@
    "id": "s339:021f2",
    "op": "15",
    "jp": "この街は、アンゲルス教団の言う\n七つの美徳のうち欲情が\n特に実践された街なので、",
-   "en": "",
+   "en": "Of the Seven Virtues the Angelus Order preaches, this city practices lust above all,",
    "box": "17x3",
    "face": 4
   },
@@ -225,7 +225,7 @@
    "id": "s339:02256",
    "op": "15",
    "jp": "逆に教団もあまり\n目を向けることがありません。",
-   "en": "",
+   "en": "so, paradoxically, the Order rarely turns its eye here.",
    "box": "17x3",
    "face": 4
   },
@@ -233,7 +233,7 @@
    "id": "s339:022a6",
    "op": "15",
    "jp": "ここで使われている奴隷の多くは、\n密かに裏で地下組織へ\n参加しておるのです。",
-   "en": "",
+   "en": "Many of the slaves employed here secretly belong to the underground, you see.",
    "box": "17x3",
    "face": 16
   },
@@ -241,7 +241,7 @@
    "id": "s339:02312",
    "op": "15",
    "jp": "なるほど。",
-   "en": "",
+   "en": "I see.",
    "box": "17x3",
    "face": 5
   },
@@ -249,7 +249,7 @@
    "id": "s339:0233e",
    "op": "15",
    "jp": "しかしさすがに欲情を\n実践するだけあって、\nなんともなまめかしい街だぜ。",
-   "en": "",
+   "en": "Figures a city that practices lust would be... damn, the whole place is steamy.",
    "box": "17x3",
    "face": 2
   },
