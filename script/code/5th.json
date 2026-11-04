@@ -8,43 +8,43 @@
   {
    "id": "5th:800f16dc",
    "jp": "レベルアップ",
-   "en": "",
+   "en": "Level Up",
    "max": 6
   },
   {
    "id": "5th:800f16ec",
    "jp": "ボーナスポイントが残っています",
-   "en": "",
+   "en": "You still have Bonus Points left.",
    "max": 15
   },
   {
    "id": "5th:800f170c",
    "jp": "レベルアップを終了します",
-   "en": "",
+   "en": "End Level Up.",
    "max": 12
   },
   {
    "id": "5th:800f1728",
    "jp": "レベルアップします",
-   "en": "",
+   "en": "Level up.",
    "max": 9
   },
   {
    "id": "5th:800f173c",
    "jp": "ボーナスポイントの合計が８、１２ではありません",
-   "en": "",
+   "en": "Bonus Points must total 8 or 12.",
    "max": 23
   },
   {
    "id": "5th:800f176c",
    "jp": "上げられるレベルは　　　　　　　　　　最大レベル＋３までです",
-   "en": "",
+   "en": "You can raise it at most to           max level +3.",
    "max": 30
   },
   {
    "id": "5th:800f17ac",
    "jp": "経験値が足りません",
-   "en": "",
+   "en": "Not enough EXP.",
    "max": 9
   }
  ]

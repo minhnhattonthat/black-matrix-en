@@ -105,8 +105,31 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 暗黒魔術 | dark magic | | | |
 | ＢＰ / ＭＯＶ / ＨＰ | BP / MOV / HP | | keep | |
 | 剣血 | Sword-Blood | | rite that spends BP (the blood on a sword) | |
-| 補血 | Replenish | | command; restores blood | |
+| 補血 | Refill | | command, 6 letters; restores blood | Replenish |
 | 待機型 | Stance | | command | |
+| 凝血 | Clot | | rite that fixes a weapon's true power, no more Sword-Blood after | |
+| 行動力 | AP | | "action points" in prose | |
+| 潜在能力 / 潜在発動 / 潜在一覧 | Latent Power / Latent Burst / Latent List | | a weapon's special ability, spent with BP | |
+| 鎧召喚 / 上位召喚 / 下位召喚 | Summon Armor / Greater Summon / Lesser Summon | | command labels: Summon, Greater, Lesser | |
+| 防御 / 回避 / 反撃 | Guard / Evade / Counter | | the stances; 6-letter menu says Strike for Counter | |
+| 出撃 / 編成 / 振分 | Sortie / Formation / Allot | | camp menu | |
+| 初期配置 | Deployment | | | |
+| 自由行動 | Free Time | | camp between stages | |
+| バイオリズム | biorhythm | | | |
+| カージ / フィキス / ミュタ | Kaji / Fikis / Myuta | | the three magic families | |
+| 上位 / 下位 (magic, summons) | Greater / Lesser | | | |
+| ボーナスポイント | Bonus Points | | level-up | |
+| 大天使 / 天使 / 戦闘天使 | archangel / angel / battle angel | | | |
+| 邪教 / 邪教徒 | the wicked faith / wicked believer | | praise in the world's morals unless the line is plainly a sneer from a heretic | heathen |
+| 剣闘士 / 闘技場 | gladiator / the Arena | | | |
+| 大洪水 | the Great Flood | | | |
+| 秘密地下組織 | the secret underground | | | |
+| 諜報省 / 首席補佐官 | the Ministry of Intelligence / Chief Aide | | | |
+| 師匠様 / お師匠様 | Master | | Rupirupi to Johannes, capital M; ご主人様 stays lower case | |
+| 復讐日記 | Revenge Diary | | Rupirupi's | |
+| エステル / トビト / ユディト / マカバイ | Esther / Tobit / Judith / Maccabee | | Apocrypha names on stones and rings: "Esther Stone", "Tobit Ring" | |
+| パイモン / ベリアル / ポイゾニスト | Paimon / Belial / Poisonist | | | |
+| サナトス / ネメシスブロウ | Thanatos / Nemesis Blow | | spells | |
 | 友愛の剣 | Sword of Friendship | | | |
 | ゾンビ爆 | Zombie Blast | | | |
 | 儀式 | Rite | | menu | |

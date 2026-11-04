@@ -9,98 +9,98 @@
    "id": "s10:002de",
    "op": "14",
    "jp": "（痛っ・・！）",
-   "en": "",
+   "en": "(Ow...!)",
    "box": "19x3"
   },
   {
    "id": "s10:002f4",
    "op": "14",
    "jp": "（何だか、体中が痛い・・）",
-   "en": "",
+   "en": "(My whole body hurts, somehow...)",
    "box": "19x3"
   },
   {
    "id": "s10:00316",
    "op": "14",
    "jp": "（身体全体に\n　鈍い痛みが走り・・・）",
-   "en": "",
+   "en": "(A dull pain, running all through me...)",
    "box": "19x3"
   },
   {
    "id": "s10:00344",
    "op": "14",
    "jp": "（かすかな吐き気に紛れて、\n　後頭部がジクジクと痛む・・・）",
-   "en": "",
+   "en": "(And under a faint nausea, a throbbing ache in the back of my head...)",
    "box": "19x3"
   },
   {
    "id": "s10:00388",
    "op": "14",
    "jp": "（手足が完全にεれ・・・\n　まったく自分のいうことを\n　聞かないようだ・・・）",
-   "en": "",
+   "en": "(My arms and legs are completely numb... They won't do a thing I tell them...)",
    "box": "19x3"
   },
   {
    "id": "s10:003de",
    "op": "14",
    "jp": "（ひどい脱力感・・・）",
-   "en": "",
+   "en": "(This awful weakness...)",
    "box": "19x3"
   },
   {
    "id": "s10:003fc",
    "op": "14",
    "jp": "（そ・・それにしても・・・\n　何てμが重いんだ・・・！？）",
-   "en": "",
+   "en": "(And... and on top of that... why are my eyelids so heavy...!?)",
    "box": "19x3"
   },
   {
    "id": "s10:0043e",
    "op": "14",
    "jp": "（いったい・・・\n　・・僕の・体は・・・）",
-   "en": "",
+   "en": "(What on earth... ...is wrong... with my body...)",
    "box": "19x3"
   },
   {
    "id": "s10:00470",
    "op": "14",
    "jp": "（昨日は確か・・・\n　って・・あれ！？）",
-   "en": "",
+   "en": "(Yesterday, I'm sure I... Wait... huh!?)",
    "box": "19x3"
   },
   {
    "id": "s10:004a0",
    "op": "14",
    "jp": "（今日は、一体\n　・・・・・・？？）",
-   "en": "",
+   "en": "(What's today, anyway... ......??)",
    "box": "19x3"
   },
   {
    "id": "s10:004cc",
    "op": "14",
    "jp": "（いや、ちょっと待て、）",
-   "en": "",
+   "en": "(No, hold on,)",
    "box": "19x3"
   },
   {
    "id": "s10:004ec",
    "op": "14",
    "jp": "（大体僕は・・・）",
-   "en": "",
+   "en": "(Who I am, to begin with...)",
    "box": "19x3"
   },
   {
    "id": "s10:00506",
    "op": "14",
    "jp": "（僕は誰なんだ！？）",
-   "en": "",
+   "en": "(Who am I!?)",
    "box": "19x3"
   },
   {
    "id": "s10:00602",
    "op": "14",
    "jp": "！？",
-   "en": "",
+   "en": "!?",
    "box": "17x3",
    "face": 9
   },
@@ -108,7 +108,7 @@
    "id": "s10:00626",
    "op": "15",
    "jp": "・・・・・よかった～！",
-   "en": "",
+   "en": ".....Oh, phew!",
    "box": "17x3",
    "face": 9
   },
@@ -116,7 +116,7 @@
    "id": "s10:0065e",
    "op": "15",
    "jp": "もう・・・",
-   "en": "",
+   "en": "Geez...",
    "box": "17x3",
    "face": 9
   },
@@ -124,7 +124,7 @@
    "id": "s10:0067a",
    "op": "15",
    "jp": "一生目を覚まさないんじゃないかと、思っちゃったよ！",
-   "en": "",
+   "en": "I thought you'd never wake up as long as you lived!",
    "box": "17x3",
    "face": 9
   },
@@ -132,7 +132,7 @@
    "id": "s10:006be",
    "op": "15",
    "jp": "だって・・・",
-   "en": "",
+   "en": "I mean...",
    "box": "17x3",
    "face": 9
   },
@@ -140,7 +140,7 @@
    "id": "s10:006de",
    "op": "15",
    "jp": "だって、もう十ヶ月以上も・・・\n高熱を出したまま寝込んでたんだよ！",
-   "en": "",
+   "en": "I mean, you've been laid up with a high fever for over ten months...!",
    "box": "17x3",
    "face": 9
   },
@@ -148,7 +148,7 @@
    "id": "s10:00736",
    "op": "14",
    "jp": "・・・・・・",
-   "en": "",
+   "en": "...",
    "box": "17x3",
    "face": 0
   },
@@ -156,7 +156,7 @@
    "id": "s10:00762",
    "op": "15",
    "jp": "えっ・・・",
-   "en": "",
+   "en": "Huh...",
    "box": "17x3",
    "face": 9
   },
@@ -164,7 +164,7 @@
    "id": "s10:0078e",
    "op": "15",
    "jp": "どうしたの！\nまだどこか痛むの！？",
-   "en": "",
+   "en": "What's up! Does something still hurt!?",
    "box": "17x3",
    "face": 9
   },
@@ -172,7 +172,7 @@
    "id": "s10:007c6",
    "op": "14",
    "jp": "・・・・・・",
-   "en": "",
+   "en": "...",
    "box": "17x3",
    "face": 0
   },
@@ -180,7 +180,7 @@
    "id": "s10:007f2",
    "op": "15",
    "jp": "まっ・・まさか！？",
-   "en": "",
+   "en": "N-no way!?",
    "box": "17x3",
    "face": 9
   },
@@ -188,7 +188,7 @@
    "id": "s10:00826",
    "op": "15",
    "jp": "ボクの事を・・・\n忘れちゃったとか？",
-   "en": "",
+   "en": "You didn't... forget about me?",
    "box": "17x3",
    "face": 9
   },
@@ -196,7 +196,7 @@
    "id": "s10:0086a",
    "op": "15",
    "jp": "えっ！？\nまさか・・・自分の事も？",
-   "en": "",
+   "en": "What!? No way... yourself, too?",
    "box": "17x3",
    "face": 9
   },
@@ -204,7 +204,7 @@
    "id": "s10:008ae",
    "op": "15",
    "jp": "キミの名前は・・・？",
-   "en": "",
+   "en": "Your name is...?",
    "box": "17x3",
    "face": 9
   },
@@ -212,7 +212,7 @@
    "id": "s10:00952",
    "op": "15",
    "jp": "じゃあ、ボクの名前は？",
-   "en": "",
+   "en": "Then what's my name?",
    "box": "17x3",
    "face": 9
   },
@@ -220,7 +220,7 @@
    "id": "s10:009f6",
    "op": "15",
    "jp": "その通り！！",
-   "en": "",
+   "en": "You got it!!",
    "box": "17x3",
    "face": 9
   },
@@ -228,7 +228,7 @@
    "id": "s10:00a16",
    "op": "15",
    "jp": "良かった、良かった・・・",
-   "en": "",
+   "en": "Phew, thank goodness...",
    "box": "17x3",
    "face": 9
   },
@@ -236,7 +236,7 @@
    "id": "s10:00a42",
    "op": "14",
    "jp": "・・・・・",
-   "en": "",
+   "en": "...",
    "box": "17x3",
    "face": 0
   },
@@ -244,7 +244,7 @@
    "id": "s10:00a6e",
    "op": "15",
    "jp": "ここは・・・\nキミとボクだけが住んでる家！",
-   "en": "",
+   "en": "This is... the house where only you and I live!",
    "box": "17x3",
    "face": 9
   },
@@ -252,7 +252,7 @@
    "id": "s10:00aaa",
    "op": "15",
    "jp": "他には誰もいないよ！！",
-   "en": "",
+   "en": "There's nobody else around!!",
    "box": "17x3",
    "face": 9
   },
@@ -260,7 +260,7 @@
    "id": "s10:00ae2",
    "op": "15",
    "jp": "キミは事故で大ケガをしたんだ！",
-   "en": "",
+   "en": "You got badly hurt in an accident!",
    "box": "17x3",
    "face": 9
   },
@@ -268,7 +268,7 @@
    "id": "s10:00b12",
    "op": "15",
    "jp": "雨の日に雷が落ちて・・・",
-   "en": "",
+   "en": "Lightning struck, on a rainy day...",
    "box": "17x3",
    "face": 9
   },
@@ -276,7 +276,7 @@
    "id": "s10:00b4a",
    "op": "15",
    "jp": "傷の手当はしたんだけど・・・\nずっと眠ったままなんだもん！",
-   "en": "",
+   "en": "I treated your wounds and all... but you just kept on sleeping!",
    "box": "17x3",
    "face": 9
   },
@@ -284,7 +284,7 @@
    "id": "s10:00b96",
    "op": "15",
    "jp": "とっても心配しちゃったよ！",
-   "en": "",
+   "en": "You really had me worried!",
    "box": "17x3",
    "face": 9
   },
@@ -292,7 +292,7 @@
    "id": "s10:00bc6",
    "op": "14",
    "jp": "・・・！？",
-   "en": "",
+   "en": "...!?",
    "box": "17x3",
    "face": 0
   },
@@ -300,7 +300,7 @@
    "id": "s10:00cda",
    "op": "15",
    "jp": "背中の・・・羽？",
-   "en": "",
+   "en": "The... wings on your back?",
    "box": "17x3",
    "face": 9
   },
@@ -308,7 +308,7 @@
    "id": "s10:00d0a",
    "op": "15",
    "jp": "本当に・・・\n全部忘れちゃったんだ・・・",
-   "en": "",
+   "en": "So you really... forgot everything...",
    "box": "17x3",
    "face": 9
   },
@@ -316,7 +316,7 @@
    "id": "s10:00d46",
    "op": "15",
    "jp": "誰にでも、生えてる物じゃないか！\nキミにもボクにも・・・！",
-   "en": "",
+   "en": "Everybody's got those, don't they! You, me...!",
    "box": "17x3",
    "face": 9
   },
@@ -324,7 +324,7 @@
    "id": "s10:00d92",
    "op": "15",
    "jp": "・・・気にしないで、",
-   "en": "",
+   "en": "...Don't sweat it,",
    "box": "17x3",
    "face": 9
   },
@@ -332,7 +332,7 @@
    "id": "s10:00dba",
    "op": "15",
    "jp": "順番に思い出していこうね・・・！",
-   "en": "",
+   "en": "We'll remember it all, one piece at a time...!",
    "box": "17x3",
    "face": 9
   },
@@ -340,7 +340,7 @@
    "id": "s10:00dee",
    "op": "15",
    "jp": "この世界のこと、\nそして・・・",
-   "en": "",
+   "en": "About this world, and...",
    "box": "17x3",
    "face": 9
   },
@@ -348,7 +348,7 @@
    "id": "s10:00e1e",
    "op": "15",
    "jp": "ボク達のことも・・・",
-   "en": "",
+   "en": "...about us...",
    "box": "17x3",
    "face": 9
   },
@@ -356,14 +356,14 @@
    "id": "s10:00e9a",
    "op": "1d",
    "jp": "１章を続ける！",
-   "en": "",
+   "en": "Continue with Chapter 1!",
    "max": 15
   },
   {
    "id": "s10:00eb0",
    "op": "1d",
    "jp": "２章から始める！",
-   "en": "",
+   "en": "Start from Chapter 2!",
    "max": 15
   }
  ]

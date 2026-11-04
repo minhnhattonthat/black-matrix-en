@@ -29,6 +29,12 @@ def test_check_limits():
     assert fit.check('a ' * 48 + 'stub', '17x3') == []  # a little over a page is what paging is for
     assert fit.check('x' * 13, '12ch')
     assert fit.check('x' * 12, '12ch') == []
+    assert fit.check(' '.join(['word'] * 14), '38r2') == []  # seven words to a row of 38
+    assert fit.check(' '.join(['word'] * 15), '38r2')  # a third row
+    assert fit.check('Replenish', '6r8')  # one word wider than a cell
+    # a fixed-row field wraps at a space and pads each row to the cell
+    words = extract._uncells('aaaa bbbb', 2, 6, engine.encode)
+    assert engine.decode(words[:2]) == 'aaaa' and engine.decode(words[2:4]) == 'bbbb'
     assert fit.check('{0023} got it', '16ch')
 
 

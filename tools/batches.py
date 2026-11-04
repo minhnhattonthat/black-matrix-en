@@ -37,11 +37,13 @@ def form_limit(rel, s):
     if s.get('box'):
         return ('dlg' if s.get('face') not in (None, 104) else 'narration'), s['box']
     if s.get('cell'):
-        return 'menu', f'{s["cell"] * 2}x{s["max"] // s["cell"]}'
+        return 'menu', f'{s["cell"] * 2}r{s["max"] // s["cell"]}'
     if rel == 'table/magic.json' and s['id'].endswith('.name'):
         return 'name', '14ch'  # the magic list window is 7 cells wide, narrower than the field's 8 words
     if s.get('max'):
-        return ('choice' if s.get('op') == '1d' else 'name' if s['max'] <= 8 else 'menu'), f'{s["max"] * 2}ch'
+        # code strings that outgrow their place go to the long table (engine.Long), so the limit is a window row, not the field
+        room = -(-s['max'] * 2 // 38) * 38 if rel.startswith('code/') else s['max'] * 2
+        return ('choice' if s.get('op') == '1d' else 'name' if s['max'] <= 8 else 'menu'), f'{room}ch'
     return 'menu', '38ch' if s.get('op') == '20' else '16ch'
 
 
@@ -101,7 +103,7 @@ def split():
     rows = glossary_rows()
     q, batches, cur, chars = queue(docs), [], [], 0
     for rel, s in q:
-        if cur and (chars + len(s['jp']) > MAX_CHARS or len(cur) >= MAX_LINES or (rel.startswith('scn/') != cur[-1][0].startswith('scn/'))):
+        if cur and (chars + len(s['jp']) > MAX_CHARS or len(cur) >= MAX_LINES or rel.split('/')[0] != cur[-1][0].split('/')[0]):
             batches.append(cur)
             cur, chars = [], 0
         cur.append((rel, s))

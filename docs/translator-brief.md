@@ -15,14 +15,18 @@ Work only on the batches named in your dispatch, one at a time in the order give
 - ` / ` separates the lines of one box. Translate the box as one utterance; the build re-wraps it, so don't reproduce the breaks.
 - Lines are in story order and scenes run on. `# script N` boundaries aren't shown: an id `s64:0039e` is script 64. **Many scenes appear once per master (six versions of one beat in a row), each in that master's voice**: keep them parallel but give each its voice.
 - The same character may speak with a slightly different tone by master route; a line with `妹` and another with `弟` are route variants: translate each as written.
+- **Greek letters in the Japanese are kanji the font lacks.** ε=痺 (麻ε paralysis, 痺れ numb), μ=瞼 eyelid, ξ=悸 (動ξ palpitations), Γ=贄 (生Γ sacrifice), Η=驕 (驕り pride), Ψ=詭 (詭弁 sophistry), ρ=籠 (駕ρの鳥 caged bird), τ=隕 (隕石 meteorite), ΛΜ=跋扈 (run rampant), ν=煎 (roast), Σ抗=拮抗 (match, resist), Τ=戮 (殺戮 slaughter), Ω=饉 (飢饉 famine), α=墟 (廃墟 ruin), Θ=惑 (be misled), φχ=絶大 (tremendous). Runs of symbols like `○月■日` (a diary's blurred dates) or `★●◎◇□` (a garbled or censored line) are the game's: render as `Month ?, Day ?` or as a garble in ASCII (`#@$%`), to fit the line.
+- `○ボタン`, `□`, `△`, `×` as buttons: Circle, Square, Triangle, Cross.
 
 ## Output: `work/tl/<batch>.out.tsv`, written with your file-write tool (not a shell heredoc)
 `id<TAB>English`, every input id exactly once, same order. Plain ASCII: straight quotes, `...`, `--`; no tabs inside the English, no Japanese or fullwidth characters, no `\uXXXX`. Write `\n` only where a break must fall (rare; lists, a verse, a menu row). The build wraps at spaces.
 
+Lines repeated word for word across route scenes (the shared narration, 同じ `（痛っ・・！）` in s8, s9, s10, s11) get word-for-word the same English: reuse yours. Look at `work/tl/b010.out.tsv` for how route scenes split by voice. あたし is "I"; only プリカ as a pronoun is "Purica" in the third person.
+
 ## Limits
 `limit` is a hard limit the checker enforces.
 - `17x3` = a portrait box: pages of 3 rows of 34 letters (last row 32). `19x3` = no portrait: 3 rows of 38 (last 36). `19x2` = 2 rows. **One page is about 95 letters in a portrait box.** Past that the game waits at an arrow and pages by itself, so a line may run onto a second page when the meaning needs it (2 pages at most). Most lines should stay on one page: cut filler, not beats, and let a long speech take the second page rather than lose content. Dry-run a long line: `python -X utf8 tools/batches.py fit "text" --box 17x3`.
-- `38x2` etc. on a menu or description = rows of that many letters; the rows may be split with `\n` where the Japanese breaks them, or left to fit (the checker counts total letters here).
+- `38r2` etc. on a menu or description = at most 2 rows of 38 letters. These rows are fixed, with no paging. The build wraps them at spaces; `\n` forces a row. `6r8` = a list of 8 labels of at most 6 letters each, with `\n` between labels: keep one label per row, in order.
 - `12ch`, `16ch`, `30ch` = letters for one field. Names, items and enemies have the least room: `12ch` means 12 letters, no more. Don't abbreviate a name; report it `LONG:`. (Ruling: engine before abbreviation, so the controller may find room.)
 - `{0020}` Abel's name, `{0021}` the master's name, `{0023}` an item: keep each exactly as in the Japanese, once each. The checker counts one as 12 letters. Don't glue a suffix to one.
 

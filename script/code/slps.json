@@ -80,546 +80,546 @@
   {
    "id": "slps:80011484",
    "jp": "これでよろしいですか？",
-   "en": "",
+   "en": "Is this all right?",
    "max": 11
   },
   {
    "id": "slps:8001149c",
    "jp": "は　い\nいいえ",
-   "en": "",
+   "en": "Yes\nNo",
    "max": 6,
    "cell": 3
   },
   {
    "id": "slps:80072d7c",
    "jp": "表示速度を遅くします",
-   "en": "",
+   "en": "Slow text speed.",
    "max": 10
   },
   {
    "id": "slps:80072d94",
    "jp": "表示速度を普通にします",
-   "en": "",
+   "en": "Normal text speed.",
    "max": 11
   },
   {
    "id": "slps:80072dac",
    "jp": "表示速度を速くします",
-   "en": "",
+   "en": "Fast text speed.",
    "max": 10
   },
   {
    "id": "slps:80072dc4",
    "jp": "振動機能を有りにします",
-   "en": "",
+   "en": "Vibration on.",
    "max": 11
   },
   {
    "id": "slps:80072ddc",
    "jp": "振動機能を無しにします",
-   "en": "",
+   "en": "Vibration off.",
    "max": 11
   },
   {
    "id": "slps:80072df4",
    "jp": "ＢＧＭを無しにします",
-   "en": "",
+   "en": "BGM off.",
    "max": 10
   },
   {
    "id": "slps:80072e0c",
    "jp": "ＢＧＭ音量を小さくします",
-   "en": "",
+   "en": "Low BGM volume.",
    "max": 12
   },
   {
    "id": "slps:80072e28",
    "jp": "ＢＧＭ音量を普通にします",
-   "en": "",
+   "en": "Normal BGM volume.",
    "max": 12
   },
   {
    "id": "slps:80072e44",
    "jp": "ＢＧＭ音量を大きくします",
-   "en": "",
+   "en": "High BGM volume.",
    "max": 12
   },
   {
    "id": "slps:80072e60",
    "jp": "音声出力を有りにします",
-   "en": "",
+   "en": "Voices on.",
    "max": 11
   },
   {
    "id": "slps:80072e78",
    "jp": "音声出力を無しにします",
-   "en": "",
+   "en": "Voices off.",
    "max": 11
   },
   {
    "id": "slps:80072e90",
    "jp": "効果音を有りにします",
-   "en": "",
+   "en": "Sound effects on.",
    "max": 10
   },
   {
    "id": "slps:80072ea8",
    "jp": "効果音を無しにします",
-   "en": "",
+   "en": "Sound effects off.",
    "max": 10
   },
   {
    "id": "slps:80072ec0",
    "jp": "全てのヘルプメッセージを表示します",
-   "en": "",
+   "en": "Show all help messages.",
    "max": 17
   },
   {
    "id": "slps:80072ee4",
    "jp": "ヘルプメッセージを一切、表示しません",
-   "en": "",
+   "en": "Show no help messages at all.",
    "max": 18
   },
   {
    "id": "slps:80072f0c",
    "jp": "ヘルプメッセージを項目毎に設定します",
-   "en": "",
+   "en": "Set help messages one by one.",
    "max": 18
   },
   {
    "id": "slps:80072f34",
    "jp": "ヘルプメッセージの表示を　　　　　　　初期設定にします",
-   "en": "",
+   "en": "Reset help messages                   to the defaults.",
    "max": 27
   },
   {
    "id": "slps:80072f6c",
    "jp": "この項目を選択して○ボタンを押すと　　前画面に戻ります",
-   "en": "",
+   "en": "Choose this and press Circle          to go back to the previous screen.",
    "max": 27
   },
   {
    "id": "slps:80072fa4",
    "jp": "自由行動、ステージ画面のコマンド　　　「ショップ」のヘルプ表示設定",
-   "en": "",
+   "en": "Free Time and stage command           \"Shop\" help setting.",
    "max": 33
   },
   {
    "id": "slps:80072fe8",
    "jp": "自由行動、ステージ、戦闘画面のコマンド「状態」のヘルプ表示設定",
-   "en": "",
+   "en": "Free Time, stage and battle command   \"Status\" help setting.",
    "max": 31
   },
   {
    "id": "slps:80073028",
    "jp": "自由行動、ステージ画面のコマンド　　　「アイテム」のヘルプ表示設定",
-   "en": "",
+   "en": "Free Time and stage command           \"Items\" help setting.",
    "max": 33
   },
   {
    "id": "slps:8007306c",
    "jp": "自由行動、ステージ画面のコマンド　　　「儀式」のヘルプ表示設定",
-   "en": "",
+   "en": "Free Time and stage command           \"Rites\" help setting.",
    "max": 31
   },
   {
    "id": "slps:800730ac",
    "jp": "自由行動画面のコマンド　　　　　　　　「出る」のヘルプ表示設定",
-   "en": "",
+   "en": "Free Time command                     \"Leave\" help setting.",
    "max": 31
   },
   {
    "id": "slps:800730ec",
    "jp": "ステージ画面のコマンド　　　　　　　　「出撃」のヘルプ表示設定",
-   "en": "",
+   "en": "Stage command                         \"Sortie\" help setting.",
    "max": 31
   },
   {
    "id": "slps:8007312c",
    "jp": "編成画面　　　　　　　　　　　　　　　「編成モード」のヘルプ表示設定",
-   "en": "",
+   "en": "Formation screen                      \"Formation mode\" help setting.",
    "max": 34
   },
   {
    "id": "slps:80073174",
    "jp": "編成画面　　　　　　　　　　　　　　　「ＢＰ振り分けモード」のヘルプ表示設定",
-   "en": "",
+   "en": "Formation screen                      \"BP Allot mode\" help setting.",
    "max": 38
   },
   {
    "id": "slps:800731c4",
    "jp": "戦闘画面　　　　　　　　　　　　　　　「初期配置設定モード」のヘルプ表示設定",
-   "en": "",
+   "en": "Battle screen                         \"Deployment mode\" help setting.",
    "max": 38
   },
   {
    "id": "slps:80073214",
    "jp": "戦闘コマンド　　　　　　　　　　　　　「移動」のヘルプ表示設定",
-   "en": "",
+   "en": "Battle command                        \"Move\" help setting.",
    "max": 31
   },
   {
    "id": "slps:80073254",
    "jp": "戦闘コマンド　　　　　　　　　　　　　「攻撃」のヘルプ表示設定",
-   "en": "",
+   "en": "Battle command                        \"Attack\" help setting.",
    "max": 31
   },
   {
    "id": "slps:80073294",
    "jp": "戦闘コマンド　　　　　　　　　　　　　「魔法」のヘルプ表示設定",
-   "en": "",
+   "en": "Battle command                        \"Magic\" help setting.",
    "max": 31
   },
   {
    "id": "slps:800732d4",
    "jp": "戦闘コマンド　　　　　　　　　　　　　「道具」のヘルプ表示設定",
-   "en": "",
+   "en": "Battle command                        \"Item\" help setting.",
    "max": 31
   },
   {
    "id": "slps:80073314",
    "jp": "戦闘コマンド　　　　　　　　　　　　　「補血」のヘルプ表示設定",
-   "en": "",
+   "en": "Battle command                        \"Refill\" help setting.",
    "max": 31
   },
   {
    "id": "slps:80073354",
    "jp": "戦闘コマンド　　　　　　　　　　　　　「待機型」のヘルプ表示設定",
-   "en": "",
+   "en": "Battle command                        \"Stance\" help setting.",
    "max": 32
   },
   {
    "id": "slps:80073398",
    "jp": "戦闘コマンド　　　　　　　　　　　　　「鎧召喚」のヘルプ表示設定",
-   "en": "",
+   "en": "Battle command                        \"Summon\" help setting.",
    "max": 32
   },
   {
    "id": "slps:800733dc",
    "jp": "戦闘勝利画面のヘルプ表示設定",
-   "en": "",
+   "en": "Victory screen help setting.",
    "max": 14
   },
   {
    "id": "slps:800733fc",
    "jp": "レベルアップ画面のヘルプ表示設定",
-   "en": "",
+   "en": "Level Up screen help setting.",
    "max": 16
   },
   {
    "id": "slps:80073420",
    "jp": "ＣＯＮＦＩＧ画面に戻ります",
-   "en": "",
+   "en": "Back to the CONFIG screen.",
    "max": 13
   },
   {
    "id": "slps:800734ec",
    "jp": "ＢＧＭの音量を変化させます",
-   "en": "",
+   "en": "Change the BGM volume.",
    "max": 13
   },
   {
    "id": "slps:80073508",
    "jp": "方向キーの左右で曲名を変更し、　　　　○ボタンで再生、　　　　　　　　　　　×ボタンで再生中止します",
-   "en": "",
+   "en": "Left/Right changes the song,          Circle plays it,                      Cross stops it.",
    "max": 50
   },
   {
    "id": "slps:80073570",
    "jp": "ＤＥＭＯ　ＭＯＶＩＥ１を見ます",
-   "en": "",
+   "en": "Watch DEMO MOVIE 1.",
    "max": 15
   },
   {
    "id": "slps:80073590",
    "jp": "ＤＥＭＯ　ＭＯＶＩＥ２を見ます",
-   "en": "",
+   "en": "Watch DEMO MOVIE 2.",
    "max": 15
   },
   {
    "id": "slps:800735b0",
    "jp": "ＳＰＥＣＩＡＬ　ＲＯＯＭ終了します",
-   "en": "",
+   "en": "Leave the SPECIAL ROOM.",
    "max": 17
   },
   {
    "id": "slps:800735e0",
    "jp": "アイテム一覧",
-   "en": "",
+   "en": "Item List",
    "max": 6
   },
   {
    "id": "slps:800735f0",
    "jp": "これ以上アイテムを持てません　　　　　捨てるアイテムを選んで下さい",
-   "en": "",
+   "en": "You can't carry any more items.       Choose an item to throw away.",
    "max": 33
   },
   {
    "id": "slps:80075ef0",
    "jp": "メモリーカード差込口１\nメモリーカード差込口２",
-   "en": "",
+   "en": "Memory Card Slot 1\nMemory Card Slot 2",
    "max": 22,
    "cell": 11
   },
   {
    "id": "slps:80075f20",
    "jp": "ＬＯＡＤ\nＳＡＶＥ",
-   "en": "",
+   "en": "LOAD\nSAVE",
    "max": 8,
    "cell": 4
   },
   {
    "id": "slps:80075f34",
    "jp": "　は　い\n　いいえ",
-   "en": "",
+   "en": "Yes\nNo",
    "max": 8,
    "cell": 4
   },
   {
    "id": "slps:80075f48",
    "jp": "新規作成",
-   "en": "",
+   "en": "New File",
    "max": 4
   },
   {
    "id": "slps:80075f54",
    "jp": "　メモリーカードをチェックしています　　メモリーカードを抜き差ししないでください",
-   "en": "",
+   "en": "       Checking the Memory Card.             Do not remove the Memory Card.",
    "max": 40
   },
   {
    "id": "slps:80075fa8",
    "jp": "　　　　　メモリーカードが　　　　　　　メモリーカード差込口１に差されていません",
-   "en": "",
+   "en": "           No Memory Card in                      Memory Card Slot 1.",
    "max": 40
   },
   {
    "id": "slps:80075ffc",
    "jp": "　　　　　ＬＯＡＤしています　　　　　　メモリーカードを抜き差ししないでください",
-   "en": "",
+   "en": "                Loading.                     Do not remove the Memory Card.",
    "max": 40
   },
   {
    "id": "slps:80076050",
    "jp": "　　　　ＬＯＡＤに成功しました",
-   "en": "",
+   "en": "             Load complete.",
    "max": 15
   },
   {
    "id": "slps:80076070",
    "jp": "　　　　ＬＯＡＤに失敗しました",
-   "en": "",
+   "en": "              Load failed.",
    "max": 15
   },
   {
    "id": "slps:80076090",
    "jp": "　　　　　ＳＡＶＥしています　　　　　　メモリーカードを抜き差ししないでください",
-   "en": "",
+   "en": "                Saving.                      Do not remove the Memory Card.",
    "max": 40
   },
   {
    "id": "slps:800760e4",
    "jp": "　　　　ＳＡＶＥに成功しました",
-   "en": "",
+   "en": "             Save complete.",
    "max": 15
   },
   {
    "id": "slps:80076104",
    "jp": "　　　　ＳＡＶＥに失敗しました",
-   "en": "",
+   "en": "              Save failed.",
    "max": 15
   },
   {
    "id": "slps:80076124",
    "jp": "　　　　空き容量が足りません",
-   "en": "",
+   "en": "         Not enough free space.",
    "max": 14
   },
   {
    "id": "slps:80076144",
    "jp": "　　　ブラックマトリクス・クロスの　　　　　　　セーブデータがありません",
-   "en": "",
+   "en": "           No Black/Matrix +                        save data found.",
    "max": 36
   },
   {
    "id": "slps:80076190",
    "jp": "　　　　　メモリーカードを　　　　　　　　　　　認識することができません",
-   "en": "",
+   "en": "            The Memory Card                          can't be read.",
    "max": 36
   },
   {
    "id": "slps:800761dc",
    "jp": "　メモリーカードが初期化されていません",
-   "en": "",
+   "en": "     Memory Card is not formatted.",
    "max": 19
   },
   {
    "id": "slps:80076204",
    "jp": "　メモリーカードを初期化しています　　　メモリーカードを抜き差ししないでください",
-   "en": "",
+   "en": "      Formatting the Memory Card.            Do not remove the Memory Card.",
    "max": 40
   },
   {
    "id": "slps:80076258",
    "jp": "　　　　初期化に成功しました",
-   "en": "",
+   "en": "            Format complete.",
    "max": 14
   },
   {
    "id": "slps:80076278",
    "jp": "　　　　　初期化に失敗しました",
-   "en": "",
+   "en": "             Format failed.",
    "max": 15
   },
   {
    "id": "slps:80076298",
    "jp": "破損",
-   "en": "",
+   "en": "Corrupt",
    "max": 2
   },
   {
    "id": "slps:800762a0",
    "jp": "　　　　　メモリーカードが　　　　　　　メモリーカード差込口２に差されていません",
-   "en": "",
+   "en": "           No Memory Card in                      Memory Card Slot 2.",
    "max": 40
   },
   {
    "id": "slps:800762f4",
    "jp": "メモリーカード差込口を選択してください",
-   "en": "",
+   "en": "Choose a Memory Card slot.",
    "max": 19
   },
   {
    "id": "slps:8007631c",
    "jp": "　　　　ＬＯＡＤを行いますか？",
-   "en": "",
+   "en": "            Load this file?",
    "max": 15
   },
   {
    "id": "slps:8007633c",
    "jp": "　ＳＡＶＥファイルを新規に作りますか？",
-   "en": "",
+   "en": "        Create a new save file?",
    "max": 19
   },
   {
    "id": "slps:80076364",
    "jp": "メモリーカードが初期化されていません　　　　　初期化を行いますか？",
-   "en": "",
+   "en": "     Memory Card is not formatted.                   Format it now?",
    "max": 33
   },
   {
    "id": "slps:800763a8",
    "jp": "　ＳＡＶＥファイルを上書きしますか？",
-   "en": "",
+   "en": "       Overwrite this save file?",
    "max": 18
   },
   {
    "id": "slps:80076dec",
    "jp": "魔法は使えません",
-   "en": "",
+   "en": "Can't use magic.",
    "max": 8
   },
   {
    "id": "slps:80076e00",
    "jp": "状態",
-   "en": "",
+   "en": "Status",
    "max": 2
   },
   {
    "id": "slps:80076e08",
    "jp": "装備",
-   "en": "",
+   "en": "Equip",
    "max": 2
   },
   {
    "id": "slps:80076e10",
    "jp": "装備していません",
-   "en": "",
+   "en": "Nothing equipped",
    "max": 8
   },
   {
    "id": "slps:80076e24",
    "jp": "魔法",
-   "en": "",
+   "en": "Magic",
    "max": 2
   },
   {
    "id": "slps:80076e2c",
    "jp": "射程\n　範囲",
-   "en": "",
+   "en": "Range\nArea",
    "max": 6,
    "cell": 3
   },
   {
    "id": "slps:80076e3c",
    "jp": "この鎧は外せません",
-   "en": "",
+   "en": "This armor can't be removed.",
    "max": 9
   },
   {
    "id": "slps:80076e50",
    "jp": "装備の変更は出来ません。",
-   "en": "",
+   "en": "Equipment can't be changed.",
    "max": 12
   },
   {
    "id": "slps:80076e6c",
    "jp": "これ以上アイテムが持てないため、\n装備を外すことは出来ません",
-   "en": "",
+   "en": "You can't carry any more items, so\nyou can't take that off.",
    "max": 30
   },
   {
    "id": "slps:80076eac",
    "jp": "{0023}を外します",
-   "en": "",
+   "en": "Take off {0023}",
    "max": 6
   },
   {
    "id": "slps:80076ebc",
    "jp": "{0023}を外しました",
-   "en": "",
+   "en": "Took off {0023}",
    "max": 7
   },
   {
    "id": "slps:80076ecc",
    "jp": "{0023}を捨てます",
-   "en": "",
+   "en": "Discard {0023}",
    "max": 6
   },
   {
    "id": "slps:80076edc",
    "jp": "{0023}を捨てました",
-   "en": "",
+   "en": "Discarded {0023}",
    "max": 7
   },
   {
    "id": "slps:80076eec",
    "jp": "戦闘中は着ることが出来ません",
-   "en": "",
+   "en": "Can't be worn during battle.",
    "max": 14
   },
   {
    "id": "slps:80076f0c",
    "jp": "マグダラの鎧を着ます",
-   "en": "",
+   "en": "Put on the Magdalene armor.",
    "max": 10
   },
   {
    "id": "slps:80076f24",
    "jp": "潜在一覧",
-   "en": "",
+   "en": "Latent List",
    "max": 4
   },
   {
    "id": "slps:80076f30",
    "jp": "今後もこのヘルプを表示しますか？",
-   "en": "",
+   "en": "Keep showing this help from now on?",
    "max": 16
   },
   {
    "id": "slps:80076f80",
    "jp": "は　い\nいいえ",
-   "en": "",
+   "en": "Yes\nNo",
    "max": 6,
    "cell": 3
   }

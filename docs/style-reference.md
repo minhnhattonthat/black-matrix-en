@@ -46,6 +46,12 @@ Voices per character, with the Japanese markers and the English that carries the
 | フハハハハハハハ！！！ | Fwahahahahaha!!! | a laugh stays a laugh, capitals when shouted |
 | 邪悪な方ですね | What a wicked man you are. | praise. Inverted morals stay |
 | 優しさは罪です | Kindness is a sin. | said straight |
+| 目を覚まさないんじゃないかと、思ってた！ | I thought you might never wake up! | Domina (pilot, `work/tl/b010.out.tsv`): warm, whole sentences |
+| 目を覚まさないかと、思ったぁ！！ | I thought you'd never wake up!! | Purica: same beat, stretched vowels and "'cause" carry the child |
+| 長い間ずうぅっとずっと眠ったまま起きないんだもん！！ | You stayed asleep for a long, looooong time and wouldn't get up!! | Purica: ずうぅっと kept as a stretched word |
+| 一生目を覚まさないんじゃないかと、思っちゃったよ！ | I thought you'd never wake up as long as you lived! | Kurreshes: sporty, "geez", "you got it", "don't sweat it" |
+| そろそろ捨てちゃおうかと思ってたんだよぉ～！？ | ...I was thinking it was about time to throw you out, you know!? | Michette: covers relief with a jab |
+| （手足が完全にεれ・・・まったく自分のいうことを聞かないようだ・・・） | (My arms and legs are completely numb... They won't do a thing I tell them...) | ε is 痺: the font's stand-in kanji. Identical lines in parallel route scenes are word for word the same in English |
 
 ## Fit
 A portrait box takes 34 letters by 3 rows, the last row 32; past that the game pages by itself. The build wraps for you at spaces. Cut filler before you cut meaning: `It was a strange dream, though. It was pitch dark, I couldn't see anything... and a voice came from somewhere.` becomes `A strange dream, though. Pitch dark, couldn't see a thing... then a voice, from somewhere.`

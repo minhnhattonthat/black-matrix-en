@@ -8,120 +8,120 @@
   {
    "id": "2nd:8012e768",
    "jp": "　　　　　　　　必要ＢＰ　　",
-   "en": "",
+   "en": "                BP Cost",
    "max": 14
   },
   {
    "id": "2nd:8012e788",
    "jp": "行動力　　　　／　　　　ＢＰ　　　　　／　　　　",
-   "en": "",
+   "en": "AP             /          BP            /",
    "max": 24
   },
   {
    "id": "2nd:8012ed48",
    "jp": "移　動\n攻　撃\n魔　法\n道　具\n状　態\n補　血\n待機型\n鎧召喚",
-   "en": "",
+   "en": "Move\nAttack\nMagic\nItem\nStatus\nRefill\nStance\nSummon",
    "max": 24,
    "cell": 3
   },
   {
    "id": "2nd:8012ed7c",
    "jp": "防　御\n回　避\n反　撃",
-   "en": "",
+   "en": "Guard\nEvade\nStrike",
    "max": 9,
    "cell": 3
   },
   {
    "id": "2nd:8012ed90",
    "jp": "上位召喚\n下位召喚",
-   "en": "",
+   "en": "Greater\nLesser",
    "max": 8,
    "cell": 4
   },
   {
    "id": "2nd:8012eda4",
    "jp": "ターン\nユニット一覧\nアイテム一覧\n潜在一覧\nコンフィグ",
-   "en": "",
+   "en": "End Turn\nUnit List\nItem List\nLatent List\nConfig",
    "max": 30,
    "cell": 6
   },
   {
    "id": "2nd:8012ede4",
    "jp": "ターン\nユニット一覧\nアイテム一覧\n潜在一覧\n撤退\nコンフィグ",
-   "en": "",
+   "en": "End Turn\nUnit List\nItem List\nLatent List\nRetreat\nConfig",
    "max": 36,
    "cell": 6
   },
   {
    "id": "2nd:8012ee30",
    "jp": "初期配置変更モードを終了します",
-   "en": "",
+   "en": "Exit Deployment mode.",
    "max": 15
   },
   {
    "id": "2nd:8012ee50",
    "jp": "待機型変更モードを終了します",
-   "en": "",
+   "en": "Exit Stance change mode.",
    "max": 14
   },
   {
    "id": "2nd:8012ee70",
    "jp": "『{0023}』を入手",
-   "en": "",
+   "en": "Got \"{0023}\"",
    "max": 6
   },
   {
    "id": "2nd:8012f024",
    "jp": "補血",
-   "en": "",
+   "en": "Refill",
    "max": 2
   },
   {
    "id": "2nd:8012f02c",
    "jp": "ユニット一覧",
-   "en": "",
+   "en": "Unit List",
    "max": 6
   },
   {
    "id": "2nd:8012f03c",
    "jp": "ステータスアップ",
-   "en": "",
+   "en": "Status Up",
    "max": 8
   },
   {
    "id": "2nd:8012f050",
    "jp": "ステータスダウン",
-   "en": "",
+   "en": "Status Down",
    "max": 8
   },
   {
    "id": "2nd:8012f064",
    "jp": "眠り",
-   "en": "",
+   "en": "Sleep",
    "max": 2
   },
   {
    "id": "2nd:8012f06c",
    "jp": "毒",
-   "en": "",
+   "en": "Poison",
    "max": 1
   },
   {
    "id": "2nd:8012f070",
    "jp": "麻ε",
-   "en": "",
+   "en": "Paralysis",
    "max": 2
   },
   {
    "id": "2nd:8012f078",
    "jp": "ＢＰ凍結",
-   "en": "",
+   "en": "BP Freeze",
    "max": 4
   },
   {
    "id": "2nd:8012f084",
    "jp": "石化",
-   "en": "",
+   "en": "Stone",
    "max": 2
   }
  ]

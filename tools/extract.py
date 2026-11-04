@@ -80,7 +80,7 @@ def _cells(words, cell):
 
 def _uncells(text, cell, cap, enc):
     words = []
-    for row in text.split('\n'):
+    for row in fit.wrap(text, cell):  # rows are fixed, so a line that runs on must break at a space; Japanese has none to break at
         r = enc(row)
         words += r + [BLANK] * (-len(r) % cell if r else cell)
     if len(words) > cap:

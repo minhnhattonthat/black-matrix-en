@@ -45,6 +45,11 @@ def check(text, limit):
     if limit.endswith('ch'):
         n = int(limit[:-2])
         return [f'{width(text)} letters, the limit is {n}'] if width(text.replace('\n', '')) > n else []
+    if 'r' in limit:  # 38r2: a fixed field of 2 rows of 38 letters, wrapped at build (extract._uncells), no paging
+        letters, nrows = map(int, limit.split('r'))
+        rows = wrap(text, letters // 2)
+        bad = [f'"{r[:20]}" is {width(r)} letters, a row has {letters}' for r in rows if width(r) > letters]
+        return bad + ([f'{len(rows)} rows, the field has {nrows}'] if len(rows) > nrows else [])
     cols, nrows = map(int, limit.split('x'))
     rows = wrap(text, cols, nrows)
     bad = []

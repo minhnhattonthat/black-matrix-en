@@ -8,14 +8,14 @@
   {
    "id": "4th:800fd564",
    "jp": "状　　態\n儀　　式\nアイテム\nショップ\n潜在一覧\nシステム\n出　　る",
-   "en": "",
+   "en": "Status\nRites\nItems\nShop\nLatents\nSystem\nLeave",
    "max": 28,
    "cell": 4
   },
   {
    "id": "4th:800fd5a0",
    "jp": "セーブ\nロード\nコンフィグ",
-   "en": "",
+   "en": "Save\nLoad\nConfig",
    "max": 15,
    "cell": 5
   }
