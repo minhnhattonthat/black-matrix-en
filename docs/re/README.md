@@ -17,4 +17,5 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [script-format.md](script-format.md) | PSI22.00 VM, operands, text ops, control words | Tokenizer verified on 524 of 524 |
 | [text.md](text.md) | Tables, EXE and overlay strings, pointer format, compression | Encoding and pointers verified, record layouts for phase 4 |
 | [font.md](font.md) | 14×14 font, index table, glyph cache | Verified from code |
-| [graphics.md](graphics.md) | Picture format, every Japanese picture and movie | Static sweep done, live checks open |
+| [graphics.md](graphics.md) | Picture format, every Japanese picture and movie | Static sweep and warp live checks done |
+| [debug-tool.md](debug-tool.md) | Cold-boot scene warp, scene schema and VM launch ops | Verified: 166 scenes, independent read in [warp-review.txt](warp-review.txt) |

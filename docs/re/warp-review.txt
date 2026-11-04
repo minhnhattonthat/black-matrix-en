@@ -1,0 +1,176 @@
+== proof page 1
+1, title, OK, BLACK/MATRIX logo and PUSH START.
+2, title_menu, OK, NEW GAME / LOAD GAME / CONFIG.
+3, title_load, OK, Japanese memory-card selection/check panel.
+4, title_config, OK, CONFIGURATION settings and help text.
+5, title_newgame, OK, ADVANCED / NORMAL difficulty selection.
+6, title_config_d2, OK, CONFIGURATION settings screen.
+7, master_select, OK, Domina portrait with selection arrows.
+8, master_confirm, OK, Domina portrait with Japanese yes/no confirmation.
+9, rank_record, OK, RANK RECORD and battle statistics.
+10, special_room, OK, SPECIAL ROOM sound and movie menu.
+11, disc_swap, OK, Framed Japanese request to insert Disc 2.
+12, save_prompt, OK, Small Japanese save confirmation choice.
+13, save_screen, OK, Japanese memory-card selection/check panel.
+14, ch01_flow, OK, Fiery occult-circle cinematic imagery.
+15, ch02_card, OK, Chapter 2 card, reddish ruins and gold lettering.
+16, ch03_card, OK, Chapter 3 card, dark fortress and gold lettering.
+17, ch04_card, OK, Chapter 4 card, stormy landscape and pink lettering.
+18, ch05_card, OK, Chapter 5 card, tall ruins and blue lettering.
+19, ch06_card, OK, Chapter 6 card, reddish terrain and purple lettering.
+20, ch07_card, OK, Chapter 7 card, dark pillars and teal lettering.
+21, ch08_card, OK, Chapter 8 card, pale circular motif and blue lettering.
+22, ch09_card, OK, Chapter 9 card, rocky ruins and pink lettering.
+23, ch10_card, OK, Chapter 10 card, ruined hall and pale lettering.
+24, ch11_card, OK, Chapter 11 card, stone arch and cyan lettering.
+25, ch12_card, OK, Chapter 12 card, ruined city and pink lettering.
+26, ch01_card, OK, Chapter 1 card, blue sky and purple lettering.
+27, ch01_end, OK, Chapter 1 end, glowing 完 and “To be continued…”
+28, ch02_end, OK, Chapter 2 end, glowing 完 over dark ruins.
+29, ch03_end, OK, Chapter 3 end, blue 完 over reddish fortress.
+30, ch04_end, OK, Chapter 4 end, red 完 over purple scenery.
+31, ch05_end, OK, Chapter 5 end, red 完 over dark ruins.
+32, ch06_end, OK, Chapter 6 end, violet 完 over reddish terrain.
+33, ch07_end, OK, Chapter 7 end, cyan 完 over dark pillars.
+34, ch08_end, OK, Chapter 8 end, violet 完 over pale circular motif.
+35, ch09_end, OK, Chapter 9 end, blue 完 over rocky ruins.
+36, ch10_end, OK, Chapter 10 end, green 完 over ruined hall.
+37, ch11_end, OK, Chapter 11 end, pink 完 over stone arch.
+38, time_next_day, OK, 次の日 (“Next day”) on black.
+39, time_three_days, OK, 三日後 (“Three days later”) on black.
+40, battle_127_b10, OK, Isometric battlefield, units, HUD and Japanese dialogue.
+DONE 40
+== proof page 2
+1, battle_131_b11, OK, stone courtyard battlefield with blue movement grid.
+2, battle_141_b12, OK, dark stone interior battlefield with scattered units.
+3, battle_157_b16, OK, green stone chamber with blue movement grid.
+4, battle_160_b13, OK, broad staircase battlefield with units on steps.
+5, battle_163_b14, OK, ornate hall battlefield with several units.
+6, battle_167_b15, OK, patterned stone floor battlefield beside stairs.
+7, battle_173_b19, OK, green chamber battlefield with clustered units.
+8, battle_181_b17, OK, staircase battlefield with highlighted floor tiles.
+9, battle_186_b18, OK, isolated stone platforms with units and movement grid.
+10, battle_205_b20, OK, rocky outdoor battlefield crowded with units.
+11, battle_211_b21, OK, sandy stepped battlefield beside dark rocks.
+12, battle_213_b22, OK, pale stone platforms surrounding a golden structure.
+13, battle_219_b23, OK, pale stepped battlefield with bright yellow highlights.
+14, battle_222_b24, OK, sandy stairway battlefield with scattered units.
+15, battle_231_b26, OK, dark rocky chamber with blue movement tiles.
+16, battle_233_b25, OK, brown stone terraces with several units.
+17, battle_238_b27, OK, stone ramp battlefield beside a raised platform.
+18, battle_255_b33, OK, dark metal walkway with blue movement grid.
+19, battle_257_b28, OK, multilevel metal platforms with scattered units.
+20, battle_260_b29, OK, metal staircase battlefield with highlighted tiles.
+21, battle_264_b34, OK, industrial walkway battlefield beside machinery.
+22, battle_266_b30, OK, red tiled interior with broad stairs.
+23, battle_271_b31, OK, red tiled hall with ornate central structure.
+24, battle_275_b32, OK, machinery-filled chamber with units and blue tiles.
+25, battle_291_b40, OK, green industrial chamber with highlighted movement tiles.
+26, battle_298_b35, OK, warmly lit wooden interior battlefield.
+27, battle_303_b36, OK, gray stone terraces with units above stairs.
+28, battle_308_b41, OK, green machinery chamber with clustered units.
+29, battle_310_b37, OK, enclosed green stone room with blue grid.
+30, battle_317_b39, OK, long green stone corridor with blue grid.
+31, battle_333_b42, OK, rugged brown battlefield with numerous units.
+32, battle_337_b43, OK, rocky terraces with units at different elevations.
+33, battle_344_b45, OK, orange-lit platforms beside a glowing fireball.
+34, battle_352_b44, OK, tall gray fortress walls and stepped battlefield.
+35, battle_358_b46, OK, orange-lit passage with bright glowing orbs.
+36, battle_375_b49, OK, outdoor stone stairs bordered by grass.
+37, battle_386_b50, OK, grassy brown clearing with scattered units.
+38, battle_393_b47, OK, outdoor stone stairway with numerous units.
+39, battle_397_b48, OK, grassy clearing with units and movement grid.
+40, battle_413_b51, OK, jagged gray rock battlefield with clustered units.
+DONE 40
+== proof page 3
+1, battle_416_b52, OK, Small battlefield with blue placement squares.
+2, battle_419_b53, OK, Rocky terraces with blue placement squares.
+3, battle_430_b56, OK, Ruined stone battlefield with units.
+4, battle_442_b54, OK, Dark organic chamber with purple floor.
+5, battle_447_b55, OK, Rocky cavern with bright blue grid.
+6, battle_465_b57, OK, Stone corridor with blue placement grid.
+7, battle_468_b58, OK, Fortress courtyard with stairs and units.
+8, battle_470_b59, OK, Raised platforms with orange highlighted area.
+9, battle_477_b61, OK, Pale platforms with units and blue grid.
+10, battle_479_b60, OK, Green stone ruins with illuminated pillars.
+11, battle_506_b62, OK, Dark red stepped battlefield.
+12, battle_510_b63, OK, Fiery chamber with colored vertical pillars.
+13, battle_535_b66, OK, Red and blue organic battlefield.
+14, battle_542_b64, OK, Same organic battlefield as permitted twin.
+15, battle_547_b65, OK, Dark battlefield with red branching structures.
+16, battle_ui, OK, Stone battlefield, placement squares and unit HUD.
+17, game_over, OK, “Game Over” over illustrated background.
+18, battle_report, OK, “BATTLE REPORT” above orange patterned background.
+19, battle_sortie, OK, Units in stone courtyard with dialogue.
+20, camp_menu, OK, Vertical camp menu over illustrated background.
+21, camp_status, OK, Character portrait and numerical statistics.
+22, camp_rite, OK, Rite panel with stat list and description.
+23, camp_items, OK, Inventory panels with item categories.
+24, camp_shop, OK, Shop interior beneath character statistics.
+25, camp_skills, OK, Large empty skill-list panel.
+26, camp_system, OK, Small system menu and options submenu.
+27, home_hub, OK, Isometric home map with day and status indicators.
+28, home_card_menu, OK, Memory-card selection prompt over home map.
+29, home_sweep, UNSURE, Home map visible; lower-left label indistinct.
+30, home_confirm, OK, Small Japanese choice prompt on black.
+31, game_fishing, OK, Home map with horizontal meter.
+32, game_hunting, OK, Home map with green foliage and bow icon.
+33, game_wood, OK, Home map with TIME counter.
+34, game_farm, OK, Home map with TIME and yellow counter.
+35, game_cooking, OK, Kitchen with stove and cookware.
+36, game_cleaning, OK, Tiled room, two characters, red TIME display.
+37, game_laundry, OK, Home map with washtub and overhead indicators.
+38, game_meal, OK, Dining table with covered serving dishes.
+39, manual_0, OK, Japanese fishing instructions and illustration.
+40, manual_1, OK, Japanese hunting instructions and illustration.
+DONE 40
+== proof page 4
+1, manual_2, OK, Japanese woodcutting instructions.
+2, manual_3, OK, Japanese cooking instructions.
+3, manual_4, OK, Whack-a-mole instructions and diagram.
+4, manual_5, OK, Japanese mouse-counting instructions.
+5, manual_6, OK, Japanese laundry instructions.
+6, manual_7, OK, Japanese meal instructions.
+7, home_town, OK, Characters beside fenced garden; dialogue below.
+8, home_diary, OK, Japanese diary text against black.
+9, home_book, OK, Japanese text over bookshelf room.
+10, movie_OPENING, OK, Blurred lettering over textured video background.
+11, movie_PROLOGUE, OK, Vertical Japanese text on white.
+12, movie_0101, OK, Red vaulted chamber.
+13, movie_0102, OK, Faint curved silhouette with colored highlights.
+14, movie_0103, OK, Birds perched on stone battlements.
+15, movie_0104, OK, Rocky landscape beneath floating landmass.
+16, movie_0201, OK, Dark blue membranous wing.
+17, movie_0301, OK, Chain stretching through cloudy sky.
+18, movie_0302, OK, Close-up of heavy chain links.
+19, movie_0401, OK, Swarm of dark flying shapes.
+20, movie_0501, OK, Pointed hanging rock above ocean.
+21, movie_0601, OK, Large dark chain against clouds.
+22, movie_0701, OK, Narrow stone passage with bright opening.
+23, movie_0801, OK, Dark silhouette surrounding cloudy opening.
+24, movie_0901, OK, Hazy tower and distant chains.
+25, movie_0902, OK, Purple storm clouds over water.
+26, movie_0903, OK, Red-lit rocky surface.
+27, movie_1001, OK, Bright light filtering through foliage.
+28, movie_1101, OK, Heavy chain silhouetted against clouds.
+29, movie_1102, OK, Blue-gray cloud texture.
+30, movie_1201, OK, Chain leading toward tower in purple sky.
+31, movie_1203, OK, Dark vertical forms against rainy landscape.
+32, movie_1204, OK, Bright purple energy burst.
+33, movie_1205, OK, Stone interior with fiery window and light beam.
+34, movie_1206, OK, Orange streams descending through rocky cavern.
+35, movie_1207, OK, Dark blue cloud or water texture.
+36, movie_STAFF, OK, Japanese credits beside golden architecture.
+37, movie_DEMO01, OK, Producer credit over dark golden scenery.
+38, movie_DEMO02, OK, Floating rock above mountainous landscape.
+39, ending1, OK, Japanese ending card mentioning second Eve.
+40, ending2, OK, Japanese ending card mentioning second Adam.
+DONE 40
+== proof page 5
+1, ending4, OK, character profile illustration with red END.
+2, ending3, OK, Japanese new-Satan ending card on black.
+3, ending5, OK, bright angel illustration with Game End.
+4, end_card_eve, OK, Japanese second-Eve ending card.
+5, end_card_adam, OK, Japanese second-Adam ending card.
+6, end_card_satan, OK, Japanese new-Satan card matching tile 2.
+DONE 6

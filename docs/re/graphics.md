@@ -73,10 +73,10 @@ SYSTEM/1.1 and 2.1 (#2 title menu: PUSH START, NEW GAME, LOAD GAME, CONFIG, ADVA
 #68-73 master plates (official romanization: Dominna, Prica, Craze, Michette, Prague, Zero; see `glossary.md`).
 Mapped, read: #9 `CONFIGURATION`, #62 `RANK RECORD`, #64 `SPECIAL ROOM`, #74 `NOTICE` frame, #229 `Game Over`, #1033 `Fin`, #1436 `Game End`.
 
-## Open: live checks (needs the debug tool)
+## Live checks (answered by the phase 2 warp)
 
-- **Chapter 1 battle cards:** the cards start at chapter 2-1, and BATTLE/10.0 (#235) is an empty map. See whether chapter 1 battles show a card at all.
-- **Runtime-drawn labels:** this sweep can't show Japanese composed at run time from the 14-px font. Those are strings ([text.md](text.md)); the phase 5 marker tour lists any that stay Japanese, per the skill's survey rule.
+- **Chapter 1 battle cards:** none. The first battle (script 127, chapter 2, `BATTLE/10`) shows no card; cards begin with the next battle. Verified by the cold-boot shots in `work/qa/warp/`.
+- **Runtime-drawn labels:** camp commands, SPECIAL ROOM track names and home prompts use the 14-px font, not pictures. See [debug-tool.md](debug-tool.md). The phase 5 marker tour must catch any remaining runtime strings.
 
 ## Independent read
 

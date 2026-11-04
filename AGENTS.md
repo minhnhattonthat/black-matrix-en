@@ -6,7 +6,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 - Build:    `python -X utf8 tools/build.py` -> build/disc1/black-matrix-plus_en.cue, build/disc2/... (phase 3 writes it; checks the dump against `rom.sha1` first)
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/disc1/black-matrix-plus_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke` (before a build exists: `"rom/Black-Matrix + (Japan) (Disc 1).cue"`)
-- Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/disc1/black-matrix-plus_en.cue --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (phase 2 writes it; scenes: `tools/debug/scenes.tsv`; never ask the user to play to a scene)
+- Warp:     `python -X utf8 tools/debug/warp.py NAME [NAME..]` (`--all --jobs 3`; `--build` uses built discs; scenes: `tools/debug/scenes.tsv`; never ask the user to play to a scene)
 - Release:  `python -X utf8 tools/release.py` (phase 9 writes it; patch + verify; never publish without the user)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 
