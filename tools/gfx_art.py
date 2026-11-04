@@ -49,7 +49,7 @@ ENDINGS = {  # ending line leaf: lines, box
 START = 'Press START to begin!'
 MANUALS = {  # leaf: heading, list of (x, y, w, text, colour); erase boxes for coloured lettering
     'EVENT/71.0': ('Fishing', [(36, 66, 240, 'Wait for a fish to bite. When one does, stop the cursor with the O button: where it stops decides the fish you catch. When the float appears, mash O to reel it in.')], []),
-    'EVENT/72.0': ('Hunting', [(34, 62, 232, 'Shoot the beasts that come out of the trees, with good timing. It ends when you run out of arrows or hunt one beast.'),
+    'EVENT/72.0': ('Hunting', [(34, 62, 232, 'Time your shots at the beasts that come out of the trees. It ends when you run out of arrows or bring one beast down.'),
                                (42, 134, 220, 'D-pad ... Move'), (42, 150, 220, 'O button ... Shoot')], []),
     'EVENT/73.0': ('Chopping Wood', [(50, 82, 216, 'While the axe is being raised, press O with good timing to bring it down and split the log.')], []),
     'EVENT/74.0': ('Cooking', [(26, 54, 256, 'Ingredients appear in cooking order.'),
@@ -61,7 +61,7 @@ MANUALS = {  # leaf: heading, list of (x, y, w, text, colour); erase boxes for c
                                     (24, 152, 170, 'Hit the moles with the buttons shown above, as many as you can.')], []),
     'EVENT/76.0': ('Mouse Count', [(36, 62, 236, 'When the game starts, mice run around the screen. Count them, then enter the number when they stop.'),
                                    (46, 140, 220, 'D-pad ... Up/down picks a number'), (46, 158, 220, 'O button ... Confirm')], []),
-    'EVENT/77.0': ('Laundry', [(28, 56, 250, 'Mash left and right on the D-pad in turn to make the hero wash. When it looks clean, press O to show your master. If your master nods, it gets hung up to dry; if your master shakes their head, keep washing.')], []),
+    'EVENT/77.0': ('Laundry', [(28, 56, 250, 'Mash left and right on the D-pad in turn to make the hero wash. When it looks clean, press O to show your master. If your master nods, it gets hung up to dry. If not, keep washing it.')], []),
     'EVENT/78.0': ('Meal', [(26, 56, 256, 'First pick the dish: left/right on the D-pad, then O. When the game starts, roll the D-pad round and round to make the hero eat, in either direction. Eat it before your opponent to win.')], []),
 }
 

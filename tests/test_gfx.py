@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
 import gfx  # noqa: E402
 import gfx_labels  # noqa: E402
+import gfx_movies  # noqa: E402
 
 
 @pytest.fixture(scope='module')
@@ -68,6 +69,20 @@ def test_redraws_change_only_pixels_map_and_rects():
                     assert old[:off + 4] == new[:off + 4] and old[off + 4 + 4 * n:] == new[off + 4 + 4 * n:], p
     # both discs carry the same SYSTEM and BATTLE redraws
     assert got[1]['SYSTEM'].keys() == got[2]['SYSTEM'].keys() and got[1]['BATTLE'].keys() == got[2]['BATTLE'].keys()
+
+
+def test_movie_table_runs_do_not_overlap_and_rows_split():
+    rows = gfx_movies.table()
+    assert {r[0] for r in rows} == set(gfx_movies.DISC)
+    for name in gfx_movies.DISC:
+        spans = sorted((r[1], r[2]) for r in rows if r[0] == name)
+        assert all(a[1] + gfx_movies.TAIL < b[0] for a, b in zip(spans, spans[1:]) if b[0] - a[1] > 2 * gfx_movies.TAIL)
+    ref = np.zeros((60, 100))
+    ref[10:24, 5:50] = 200  # a name
+    ref[24, 5:7] = 200  # touching the small print under it
+    ref[25:36, 5:40] = 200
+    ref[45:55, 60:90] = 200
+    assert [(y0, y1) for y0, y1, _, _ in gfx_movies.lettering_rows(ref)] == [(10, 24), (24, 36), (45, 55)]
 
 
 def test_font_files_are_listed_with_a_licence():

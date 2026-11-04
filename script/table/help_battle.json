@@ -36,7 +36,7 @@
   {
    "id": "help_battle:4.text",
    "jp": "□ボタンを押すと、\nユニットの向きを変更することが\n出来ます",
-   "en": "Press Square to change a unit's facing.",
+   "en": "Press Square to change facing.",
    "max": 57,
    "cell": 19
   },

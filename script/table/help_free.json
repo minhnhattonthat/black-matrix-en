@@ -95,7 +95,7 @@
   {
    "id": "help_free:11.text",
    "jp": "ＢＰを消費して武器の潜在能力\n（特殊能力）を戦闘中に使用\n出来るようにします",
-   "en": "Spends BP so a weapon's Latent Power (special ability) can be used in battle.",
+   "en": "Spends BP so a weapon's Latent Power (special ability) works in battle.",
    "max": 57,
    "cell": 19
   },

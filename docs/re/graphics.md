@@ -64,7 +64,9 @@ Video-burned text needs re-encoding via jPSXdec (`platform-ps1.md`).
 | `DEMO02.STR` (D2) | Bilingual words already (`Love 愛`, `Fortune 邂逅`, `Despair 絶望` ...), an end ad `プレイステーション用ソフト ブラック／マトリクス クロス 絶賛発売中!!` |
 | `DEMO01.STR` (D2) | English credits, same end ad |
 
-No Japanese seen in the other 25 (`0101`-`1207`; `OPENING` has only English). 2-s sampling could miss a flash shorter than that; phase 8 watches `0101`, the longest.
+No Japanese seen in the other 25 (`0101`-`1207`; `OPENING` has only English). Phase 8 re-read all 25 at one frame per 1.3 s, none found.
+
+Done in phase 8, `tools/gfx_movies.py` + `gfx/movies.tsv`: `PROLOGUE` (also a typed card on white at frames 5-194, missed above), `STAFF`, both ad cards. jPSXdec whole-frame `<replace size-limit="original non-zero">`: a partial replace keeps the frame's quantiser and lettering goes grey and blocky. `DEMO02`'s words keep their Japanese beside the English: the kanji sit on moving art and are decoration of a bonus movie (D16).
 
 ## Already English, keep
 
@@ -82,5 +84,5 @@ Mapped, read: #9 `CONFIGURATION`, #62 `RANK RECORD`, #64 `SPECIAL ROOM`, #74 `NO
 
 `tools/recon_review.py`: Codex, read-only and without this table, over all 47 sheets; verdicts in [graphics-review.txt](graphics-review.txt), which also transcribes every card.
 **Result:** it found all rows above except where noted, and added #739, #740, #811, #816, #818 and the extras on #6 and #223, which I then confirmed by eye and added.
-Rejected after looking: #824 (cans, no writing). Unread `?`: #57 (open book on a desk) and #1228 (sign in a room), art at this size: check zoomed in phase 8. Its readings are drafts: check against the picture before translating.
+Rejected after looking: #824 (cans, no writing). #57 (open book on a desk) and #1228 (sign in a room), read zoomed in phase 8: scribbles, no writing. Its readings are drafts: check against the picture before translating.
 It could not read #1430, #1431, #1434 on the raw sheets, where the map scrambles them, and read them correctly on the mapped ones.

@@ -147,7 +147,7 @@ def source_key():
     """Changes when anything that shapes the redraws changes: the cache in work/gfx hangs on it."""
     h = hashlib.sha1()
     for p in sorted([*(ROOT / 'gfx').rglob('*'), *(ROOT / 'tools').glob('gfx*.py'), *(ROOT / 'fonts').glob('*')]):
-        if p.is_file():
+        if p.is_file() and p.name not in ('movies.tsv', 'gfx_movies.py', 'gfx_sheets.py'):  # those don't touch the pictures
             h.update(p.name.encode())
             h.update(p.read_bytes())
     return h.hexdigest()[:16]

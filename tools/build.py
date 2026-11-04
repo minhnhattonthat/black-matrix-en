@@ -13,6 +13,7 @@ import check_rom
 import engine
 import extract
 import gfx
+import gfx_movies
 import marker
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -95,7 +96,7 @@ def main():
     # \n in a --qa text is the line break
     docs = documents('--marker' in sys.argv, [(k, v.replace('\\n', '\n')) for k, v in qa])
     for disc in DISCS:
-        print(make_image(disc, disc_files(disc, docs), output(disc)))
+        print(make_image(disc, disc_files(disc, docs) | gfx_movies.replaced(disc), output(disc)))
 
 
 if __name__ == '__main__':

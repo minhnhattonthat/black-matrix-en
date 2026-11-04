@@ -27,7 +27,10 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - text still typing out, a box mid-fade or mid-scroll, a cursor caught mid-blink;
 - a map or scene still loading after a warp;
 - anything identical in the original's sheet.
-- <game-specific: e.g. "the double cursor in the shop is the original's">
+- a title or win line stacked over two or three lines on a chapter or battle card: card lettering, sized to the art, not a wrapped paragraph;
+- a green box where a dialogue portrait belongs in a warped scene: the original does it too;
+- kanji beside English words in `DEMO02`: kept, D16; the sprite sheets in `gfx_sheet_*` are raw sheets, so labels overlapping at their top rows show the sheet's layout, not the screen;
+- `Belphe` is a character (glossary), not a clipped `Belphegor`.
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:

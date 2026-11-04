@@ -85,7 +85,7 @@
   {
    "id": "help_stage:11.text",
    "jp": "ＢＰを消費して武器の潜在能力\n（特殊能力）を戦闘中に使用\n出来るようにします",
-   "en": "Spends BP so a weapon's Latent Power (special ability) can be used in battle.",
+   "en": "Spends BP so a weapon's Latent Power (special ability) works in battle.",
    "max": 57,
    "cell": 19
   },
@@ -246,7 +246,7 @@
   {
    "id": "help_stage:34.text",
    "jp": "取得しているＢＰが戦闘参加ユニットの\nＢＰ最大値の合計より多いときは自動で\n振り分けられます",
-   "en": "If your BP exceeds the total max BP of your battle units, it's allotted automatically.",
+   "en": "Extra BP beyond your battle units' total max is allotted automatically.",
    "max": 57,
    "cell": 19
   },

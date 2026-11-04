@@ -1,0 +1,38 @@
+# movie	first frame	last frame	box (L left half, R right half, F full frame, A ad panel, S subtitle, T typed on a white card)	align (L, R, C)	English, one entry per row of lettering ("|"; "red:" colours a row)	Japanese on screen
+PROLOGUE	5	194	T	C	What we call "evil"...|is called "good"|in a world where good and evil are reversed.	我々が『悪』と呼んでいる物が・・・ / 『善』と呼ばれる善悪が逆転した世界
+PROLOGUE	209	262	F	C	Published by|NEC Interchannel|Co., Ltd.	制作・販売 / NECインターチャネル / 株式会社
+PROLOGUE	289	344	F	C	Planning & Development|Flight-Plan|Co., Ltd.	企画・開発 / 株式会社 / フライト・プラン
+PROLOGUE	406	484	S	C	In this world, people are born with|the black wings of a bat,	この世界では、生まれつき / 黒きコウモリの翼と、
+PROLOGUE	486	612	S	C	or the white wings of a bird.|No other kind of human exists.	白き鳥類の翼の生えた、 / 二種類の人間しか存在していない
+PROLOGUE	618	748	S	C	The former, the noble Black Wings,|formed a powerful ruling class,	前者は高貴なる『黒き羽の者』と / 呼ばれる強力な支配階級を形成し、
+PROLOGUE	752	854	S	C	and used the lowly White Wings|as their slaves...	下賤なる『白き羽の者』どもを、 / 奴隷として使役していた・・・
+PROLOGUE	880	934	S	C	To explain this,	この事実を説明するために、
+PROLOGUE	944	1020	S	C	their Black Wing priests|told the following tale...	彼ら黒き羽の神父達は、 / 次のように語った・・・
+STAFF	376	434	L	L	Executive Producer|Kimihisa Usui	エグゼクティブプロデューサー / 臼井 公久
+STAFF	463	521	R	R	Producers|Toshio Tabeta|Nobuhiro Takagaki|Masami Watanabe	プロデューサー / 多部田 俊雄 / 高垣 信宏 / 渡邉 正巳
+STAFF	552	609	L	L	Director|Koichi Kawase|Planners|Sayoko Kato|Shinya Ishihara	ディレクター / 川瀬 浩一 / プランナー / 加藤 小夜子 / 石原 慎也
+STAFF	638	694	R	R	Scenario|Go Bito|(Neko Production)|Character Design|Kyoko Tsuchiya	シナリオ / ビトウ ゴウ / (ネコプロダクション) / キャラクターデザイン / つちや きょうこ
+STAFF	725	781	L	L	Programming|Shintaro Takagi|Kiyohiko Wakayama|Takayuki Kinoshita|Akinori Sano|Kenji Watanabe|Tomoyuki Saiki|Noriyuki Ito	プログラム / 高木 慎太郎 / 若山 清彦 / 木下 貴之 / 佐野 彰紀 / 渡邉 健児 / 斉木 朝幸 / 伊藤 紀幸
+STAFF	810	870	R	R	Graphics|Tomoyuki Murai|Takashi Suzuki|Makoto Ota|Takatoshi Asai|Satoshi Kato	グラフィック / 村井 知幸 / 鈴木 崇士 / 太田 真 / 浅井 貴敏 / 加藤 聡
+STAFF	904	955	L	L	Shuji Arimoto|Sayoko Kato|Kazuhiro Fukagaya|Takeshi Kawai|Yuki Hata|Shihoko Fujiwara	有元 修司 / 加藤 小夜子 / 深萱 和宏 / 川合 武 / 畑 有希 / 藤原 志穂子
+STAFF	991	1038	R	R	Sound & SE|THE HUSTLERS CONCEPT|Katsunari Kitajima|Hiroshi Taniguchi|Atsushi Toshima|Makoto Katsuma	サウンド&SE / THE HUSTLERS CONCEPT / 北嶋 克成 / 谷口 宏 / 戸嶋 敦史 / 勝間 誠
+STAFF	1078	1126	L	L	Voice Cast|Noriko Hidaka|Mika Kanai|Junko Shimakata|Yuko Miyamura|Wakana Yamazaki|Kentaro Ito	ボイスキャスト / 日高 のり子 / かない みか / 嶋方 淳子 / 宮村 優子 / 山崎 和佳奈 / 伊藤 健太郎
+STAFF	1159	1217	R	R	Hideyuki Hori|Kaneto Shiozawa|Hiro Yuki|Ai Orikasa|Takeshi Aono|Kikuko Inoue	堀 秀行 / 塩沢 兼人 / 結城 比呂 / 折笠 愛 / 青野 武 / 井上 喜久子
+STAFF	1252	1300	L	L	Yuko Nagashima|Keiichi Nanba|Michihiro Ikemizu|Masashi Ebara|Kazuyuki Sogabe|Yuko Mita|Yumi Nakatani|Osamu Saka|Kinryu Arimoto	永島 由子 / 難波 圭一 / 池水 通洋 / 江原 正士 / 曽我部 和恭 / 三田 ゆう子 / 中谷 ゆみ / 阪 脩 / 有本 欽隆
+STAFF	1332	1392	R	R	Masaharu Sato|Saho Tsunoda|Kazuya Nakai|Hiroshi Kamiya|Nobuhiko Kazama|Chieko Atarashi|Miki Tsuchiya|Go Bito|Taeko Hanamuro|(Onkio Haus)	佐藤 正治 / 角田 早穂 / 中井 和哉 / 神谷 浩史 / 風間 信彦 / 新 千恵子 / 土屋 実紀 / ビトウ ゴウ / 花室 多恵子 / (音響ハウス)
+STAFF	1426	1474	L	L	Management|Yusuke Jobo|(Aoni Production)|Recording & MA|Tomoki Ota|(Onkio Haus)|Assistant|Yoshiko Takahashi|(Onkio Haus)	マネージメント / 上保 裕資 / (青二プロダクション) / 録音技&MA / 太田 友基 / (音響ハウス) / 補佐 / 高橋 佳子 / (音響ハウス)
+STAFF	1506	1566	R	R	CG Movie Production Staff|CG Movie Production|Visual Science Laboratory, Inc.	CGムービー制作スタッフ / CGムービー制作 / (株)ビジュアルサイエンス研究所
+STAFF	1593	1652	L	L	Supervisor|Ken Yoshioka	スーパーバイザー / 吉岡 賢
+STAFF	1680	1740	R	R	Executive Producer|Kazuo Nakamura	エグゼクティブプロデューサー / 中村 一夫
+STAFF	1775	1820	L	L	Technical Director|Akihisa Watanabe	テクニカルディレクター / 渡部 晃久
+STAFF	1861	1908	R	R	Producer|Hideki Watanabe|Assistant Producer|Takuya Fujita	プロデューサー / 渡辺 英城 / アシスタントプロデューサー / 藤田 卓也
+STAFF	1948	1995	L	L	Chief Designer|Masayuki Watanabe	チーフデザイナー / 渡辺 誠之
+STAFF	2035	2086	R	R	Designers|Toshio Itoga|Takamitsu Suzuki|Takayuki Hatamura|Junichi Hayashi|Hiroshi Fukazawa|Takanori Fujikura|Jun Masuda|Emiko Watanabe	デザイナー / 糸雅 俊夫 / 鈴木 貴光 / 畑村 貴之 / 林 淳一 / 深沢 洋 / 藤倉 崇徳 / 増田 潤 / 渡辺 江身子
+STAFF	2125	2167	L	L	Director|Junichi Watanabe	ディレクター / わたなべ ぢゅんいち
+STAFF	2209	2257	R	R	Sound Production|Sparks|Composer|Yoshiyuki Ito|Sound Effects|Eiko Morikawa|(Rakuonsha)	音響制作 / スパークス / 作曲 / 伊藤 善之 / 効果 / 森川 永子 / (楽音舎)
+STAFF	2289	2343	L	L	Test Play|Pole To Win Co., Ltd.|Takeshi Sasayama|Takayuki Niwa|Kazuhide Mukai|Takumi Hara|Makoto Yamamoto	テストプレイ / ポールトゥウィン株式会社 / 笹山 毅 / 丹羽 隆行 / 向 一秀 / 原 匠 / 山本 誠
+STAFF	2383	2430	R	R	SPECIAL THANKS|Shinji Ikuta|Mao Ichiba|Daisuke Kurokawa|Publicity|Yuko Yamazaki|Tatsuo Kuroda	SPECIAL THANKS / 生田 伸治 / 市場 真央 / 黒川 大輔 / 広報 / 山崎 裕子 / 黒田 達夫
+STAFF	2472	2517	L	L	Development|Flight-Plan Co., Ltd.	開発 / 株式会社 フライト・プラン
+STAFF	2559	2604	F	R	Published by|NEC Interchannel, Ltd.	制作・販売 / NECインターチャネル株式会社
+DEMO01	3227	3332	A	C	PlayStation Software|Black/Matrix|red:Cross|On Sale Now!!	プレイステーション用ソフト / ブラック/マトリクス / クロス / 絶賛発売中!!
+DEMO02	1724	1829	A	C	PlayStation Software|Black/Matrix|red:Cross|On Sale Now!!	プレイステーション用ソフト / ブラック/マトリクス / クロス / 絶賛発売中!!
