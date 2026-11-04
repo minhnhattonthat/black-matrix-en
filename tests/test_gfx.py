@@ -18,6 +18,15 @@ def pics():
     return {(d, p): b for d in (1, 2) for m in gfx.leaves(d).values() for p, b in m.items()}
 
 
+def test_a_strip_cell_with_a_tighter_pitch_holds_fewer_columns():
+    px = np.zeros((16, 64), 'u1')
+    gfx_labels.draw_strip(px, {'text': 'MMMMMM', 'style': 'c8,f6x10,strip=0+0+12;16+0;32+0'}, px)
+    # read back in the game's order: 12 columns from the first cell, then 14 and 14; no column is lost at a boundary
+    seen = np.hstack([px[:, 1:13], px[:, 17:31], px[:, 33:47]])
+    want = gfx_labels.fit(['MMMMMM'], 40, 14, ['6x10'])[0]
+    assert (seen.any(axis=0).sum(), seen.sum()) == (want.any(axis=0).sum(), want.sum() * 8)
+
+
 def test_every_picture_roundtrips(pics):
     for (d, p), b in pics.items():
         assert gfx.Pic(b).bytes() == b, (d, p)

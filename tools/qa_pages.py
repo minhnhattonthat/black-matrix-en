@@ -1,5 +1,5 @@
 """Tour sheets with no current verdict, as pages of the frames nobody has read, for a reader without codex: 45 battles show the same help box, and a rebuild reshoots every sheet.
-A frame differing from a read one by at most TOLERANCE pixels is the same frame: a changed word differs by more. Frames with an issue must be fixed or noted, since a rerun won't show them again.
+A frame differing from a read one by at most TOLERANCE pixels is the same frame: a changed word differs by more, a changed letter may not, so check a one-letter fix by zoom. Frames with an issue must be fixed or noted, since a rerun won't show them again.
 usage: qa_pages.py pages            work/qa/pages/pNNN.png (6 unread frames each, full size), work/qa/pages/frames.tsv (sheet id, page, cell 1-6)
        qa_pages.py read             after reading every page: files its frames in work/qa/read/
        qa_pages.py verdicts NAME BAD.tsv   after `read`: work/qa/verdicts/NAME.tsv, ok for every sheet qa_gate wants, issue for those holding a frame BAD.tsv lists (page<TAB>cell<TAB>note)"""

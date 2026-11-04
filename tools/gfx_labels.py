@@ -48,7 +48,7 @@ class Bdf:
         return cls.cache[name]
 
     def glyph(self, ch):
-        if self.name == '6x13B' and ch == 'm':  # its m is a solid block in game ("Deploywert"); 7x13B's has the same size and baseline
+        if self.name == '6x13B' and ch == 'm':  # its m is nearly a solid block at this size; 7x13B's has the same size and baseline
             return Bdf.get('7x13B').glyph(ch)
         (w, h, bx, by), rows = self.glyphs[ord(ch)]
         a = np.zeros((self.h, w + bx), bool)
@@ -160,9 +160,9 @@ def set_records(leaf, index, rect):
 
 
 def draw_strip(px, row, ref):
-    """Text across 16-px cell sprites the game draws on a 14-px pitch (its one-kanji-per-cell labels): each cell holds the next 14 columns."""
-    cells = [tuple(map(int, c.split('+'))) for c in row['style'].split('strip=')[1].split(',')[0].split(';')]
-    for x, y in cells:
+    """Text across 16-px cell sprites the game draws on a 14-px pitch (its one-kanji-per-cell labels): each cell holds the next 14 columns, or x+y+N's N where the game's pitch is tighter."""
+    cells = [(*map(int, c.split('+')), 14)[:3] for c in row['style'].split('strip=')[1].split(',')[0].split(';')]
+    for x, y, _ in cells:
         px[y:y + 16, x:x + 16] = 0
     if not row['text']:
         return
@@ -170,18 +170,21 @@ def draw_strip(px, row, ref):
     ladder = [p[1:] for p in parts if p.startswith('f') and not p.startswith('from=')] or LADDER
     fg = next((int(p[1:]) for p in parts if p.startswith('c')), None)
     out = next((int(p[1:]) for p in parts if p.startswith('o')), None)
-    a = fit([row['text']], 14 * len(cells), 14, ladder)[0]
-    pad = (14 * len(cells) - a.shape[1]) // 2
-    full = np.zeros((16, 14 * len(cells)), bool)
+    total = sum(c[2] for c in cells)
+    a = fit([row['text']], total, 14, ladder)[0]
+    pad = (total - a.shape[1]) // 2
+    full = np.zeros((16, total), bool)
     top = (16 - a.shape[0]) // 2
     full[top:top + a.shape[0], pad:pad + a.shape[1]] = a
     halo = ndimage.binary_dilation(full, structure=np.ones((3, 3))) & ~full if out is not None else np.zeros_like(full)
-    for i, (x, y) in enumerate(cells):
+    start = 0
+    for x, y, hold in cells:
         cols = [fg] * 16 if fg else row_colours(ref, x, y, 16, 16)
-        for r, c in zip(*np.where(halo[:, i * 14:(i + 1) * 14])):
+        for r, c in zip(*np.where(halo[:, start:start + hold])):
             px[y + r, x + 1 + c] = out
-        for r, c in zip(*np.where(full[:, i * 14:(i + 1) * 14])):
+        for r, c in zip(*np.where(full[:, start:start + hold])):
             px[y + r, x + 1 + c] = cols[r]
+        start += hold
 
 
 def rows():
