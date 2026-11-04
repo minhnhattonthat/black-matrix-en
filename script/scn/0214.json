@@ -1,0 +1,15 @@
+{
+ "source": "d1:SCENARIO/214",
+ "copies": [
+  "d1:SCENARIO/214",
+  "d2:SCENARIO/214"
+ ],
+ "strings": [
+  {
+   "id": "s214:00726",
+   "op": "14",
+   "jp": "また奴には巡り会えなかったか・・・",
+   "en": ""
+  }
+ ]
+}

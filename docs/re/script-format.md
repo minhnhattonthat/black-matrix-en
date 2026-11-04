@@ -1,9 +1,10 @@
 # PSI22.00 scenario scripts
 
 Read off the interpreter in `SLPS_029.62`. **Not** the Black/Matrix 00 bytecode: same developer, different VM.
-Code: `tools/psi.py`. **Verified** by `tools/recon_psi.py` on both discs' SCENARIO.DAT: all 524 files tokenize with no
-unknown op, each token stream ends exactly at the header's code size, and every jump lands on a token start.
-Promote to a test in phase 4 (`tests/`): the check needs `work/extracted`, so it can't run from a clean clone yet.
+Code: `tools/psi.py`. **Verified** by `tests/test_extract.py` on SCENARIO.DAT (identical on both discs): all 524 files tokenize with no unknown
+op, each token stream ends exactly at the header's code size, and `psi.rebuild` gives each file back byte for byte,
+which also proves every jump lands on a token start and every pad is zero. A test grows every text and checks each jump still
+lands on the same token.
 
 ## File
 
@@ -48,13 +49,13 @@ Text ops (from `SUB`/`OPS` in `psi.py`):
 
 | Op | Sig | Use |
 |---|---|---|
-| `14` | `T` | Text, window slot `gp` 0x8007EB2C; 2,318 uses |
-| `15` | `T` | Text with voice wait (calls 0x8001AAEC); 5,818 uses; **guess**: voiced line |
-| `1d` | `TL` | Menu choice: label (first 15 words, padded with `0x8140`) + jump. 282 uses |
-| `20` | `T` | Builds a menu from `1d` rows; **read in phase 4**, it reads more state |
-| `08/15` | `ET` | Speaker/name card: slot expression + name. 6 uses |
+| `14` | `T` | Text, window slot `gp` 0x8007EB2C; 2,856 uses |
+| `15` | `T` | Text with voice wait (calls 0x8001AAEC); 5,864 uses; **guess**: voiced line |
+| `1d` | `TL` | Menu choice: label (first 15 words, padded with `0x8140`) + jump. 284 uses |
+| `20` | `T` | Heading of a menu built from `1d` rows: all 56 are questions (`街を出ますか？`, `ここまでをセーブしますか？`). Its length limit isn't read yet |
+| `08/15` | `ET` | Speaker/name card: slot expression + name. 6 uses: `クレージュ` ×4, `ガブリエル`, `メタトロン` |
 
-Counts are over all 524 scripts of Disc 1 (9,066 text tokens). 0x17/0x18 follow almost every text (wait + clear).
+Counts are over all 524 scripts (9,066 text tokens in 265 files; the rest have no text). 0x17/0x18 follow almost every text (wait + clear). The lines sampled in `script/scn/` carry no speaker name, so phase 6 has to work out who speaks from context.
 Control words actually used (`tools/recon_free.py`): `0x0010` 6,406 times, macro `0x0021` 16, macro `0x0020` once; nothing else below 0x8000.
 Longest text is 53 words. The macro table at 0x800963B8 is filled at run time (**guess**: `0x21` is a name such as the player's).
 

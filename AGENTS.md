@@ -12,7 +12,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 
 ## Paths
 - Original ROM: `rom/Black-Matrix + (Japan) (Disc 1|2).bin/.cue` (gitignored; .bin SHA-1s in `rom.sha1`, checked by `tools/check_rom.py`). Emulator: this repo's own PCSX-Redux in `tools/pcsx/` (nightly 30264.20261103.29, `fetch_emu.py pcsx`; gitignored). BIOS: `tools/bios/scph5500.bin` (`fetch_emu.py psx-bios`). Disc and asm tools, gitignored: `tools/mkpsxiso/` 2.30, `tools/armips/` 0.11, `tools/jpsxdec/jpsxdec_v2.0/` (Java 8); xdelta3 on PATH. Savestates: `work/states/`.
-- Text: `script/` (format set in phase 4). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
+- Text: `script/` JSON, from `tools/extract.py` (format in its docstring; never rerun with `--force` once `en` is filled). Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
 
 ## Rulings
 - Edit source files (.py .lua .asm .tbl .json) only with the file-edit tool; scripts here read and analyse, never `.replace()` and write back.

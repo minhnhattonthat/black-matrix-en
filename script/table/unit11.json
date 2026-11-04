@@ -1,0 +1,207 @@
+{
+ "source": "d1:SYSTEM/11",
+ "copies": [
+  "d1:SYSTEM/11",
+  "d2:SYSTEM/11"
+ ],
+ "strings": [
+  {
+   "id": "unit11:0.name",
+   "jp": "アベル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:1.name",
+   "jp": "レブロブス",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:2.name",
+   "jp": "ピリポ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:3.name",
+   "jp": "ガイウス",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:4.name",
+   "jp": "マルコ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:5.name",
+   "jp": "ヨハネ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:6.name",
+   "jp": "ルピルピ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:8.name",
+   "jp": "ドミナ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:9.name",
+   "jp": "プリカ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:10.name",
+   "jp": "オスカー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:11.name",
+   "jp": "ミシェット",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:12.name",
+   "jp": "プラハ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:13.name",
+   "jp": "ゼロ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:14.name",
+   "jp": "ジェル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:15.name",
+   "jp": "アークエン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:16.name",
+   "jp": "パリティ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:17.name",
+   "jp": "デュナ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:18.name",
+   "jp": "タルシス",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:19.name",
+   "jp": "リン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:20.name",
+   "jp": "ミニオン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:21.name",
+   "jp": "ルビィ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:22.name",
+   "jp": "フィム",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:23.name",
+   "jp": "マステナ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:24.name",
+   "jp": "パウア",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:25.name",
+   "jp": "シャムシェル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:26.name",
+   "jp": "エルリム",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:27.name",
+   "jp": "ライラ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:28.name",
+   "jp": "ドミナ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:29.name",
+   "jp": "プリカ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:30.name",
+   "jp": "クレージュ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:31.name",
+   "jp": "ミシェット",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:32.name",
+   "jp": "プラハ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "unit11:33.name",
+   "jp": "ゼロ",
+   "en": "",
+   "max": 6
+  }
+ ]
+}

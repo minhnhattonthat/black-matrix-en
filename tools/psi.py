@@ -45,7 +45,7 @@ class Token:
     op: int         # main opcode
     sub: int | None
     raw: bytes
-    parts: list     # ('b', bytes) verbatim | ('T', words) text | ('L', target) jump with its pad recorded in 'p'
+    parts: list     # ('b', bytes) verbatim | ('a', bytes) 4-byte-aligned imm32 | ('L', target) jump | ('T', words) text
     words: tuple | None = None   # text words of a T operand
     targets: tuple = ()
 
@@ -60,18 +60,21 @@ def header(b):
     return struct.unpack_from('<I', b, 12)[0]
 
 
-def expr(b, p):
+def expr(b, p, parts):
     start = p
     while True:
         item = _u16(b, p)
+        parts.append(('b', b[p:p + 2]))
         p += 2
         if item == 0:
             return p
         if item == 1:
             if p & 3:
                 p += 4 - (p & 3)
+            parts.append(('a', b[p:p + 4]))
             p += 4
         elif item in (2, 3, 4):
+            parts.append(('b', b[p:p + 2]))
             p += 2
         elif item < 0x80:
             raise ValueError(f'bad expression item {item:#x} at {p - 2:#x} (expr from {start:#x})')
@@ -93,22 +96,26 @@ def token_at(b, p):
         if sig is None:
             raise KeyError(f'unknown op {op:02x} at {start:#x}')
     words, targets = None, []
+    parts = [('b', b[start:p])]
     for c in sig:
         if c == 'w':
+            parts.append(('b', b[p:p + 2]))
             p += 2
         elif c == 'E':
-            p = expr(b, p)
+            p = expr(b, p, parts)
         elif c == 'L':
             if p & 3:
                 p += 4 - (p & 3)
             targets.append(struct.unpack_from('<I', b, p)[0])
+            parts.append(('L', targets[-1]))
             p += 4
         elif c == 'T':
             n = _u16(b, p)
             p += 2
             words = struct.unpack_from(f'<{n}H', b, p)
+            parts.append(('T', words))
             p += 2 * n
-    return Token(start, op, sub, b[start:p], [], words, tuple(targets))
+    return Token(start, op, sub, b[start:p], parts, words, tuple(targets))
 
 
 def tokenize(b):
@@ -124,8 +131,56 @@ def tokenize(b):
     return toks, p, end
 
 
+def rebuild(b, texts=None):
+    """The script again from its tokens, with texts {token offset: new words}: re-emits padding, remaps every jump,
+    updates the code size and pads to the sector. With no texts it gives back b (tests/test_extract.py)."""
+    toks, end, _ = tokenize(b)
+    out = bytearray(b[:CODE_BASE])
+    where, fixups = {end: None}, []
+    for t in toks:
+        where[t.off] = len(out)
+        for kind, v in t.parts:
+            if kind == 'b':
+                out += v
+            elif kind == 'T':
+                ws = texts.get(t.off, v) if texts else v
+                out += struct.pack(f'<H{len(ws)}H', len(ws), *ws)
+            else:
+                out += bytes(-len(out) & 3)
+                if kind == 'L':
+                    fixups.append((len(out), v))
+                out += v if kind == 'a' else bytes(4)
+    where[end] = len(out)
+    for pos, target in fixups:
+        struct.pack_into('<I', out, pos, where[target + CODE_BASE] - CODE_BASE)
+    struct.pack_into('<I', out, 12, len(out) - CODE_BASE)
+    return bytes(out) + bytes(-len(out) % 2048)
+
+
+def is_text(w):
+    """A word text can hold: canonical Shift-JIS, the line break or a macro."""
+    if w == 0x10 or 0x20 <= w <= 0x2F:
+        return True
+    return w >= 0x8140 and decode((w,)) != f'{{{w:04X}}}'
+
+
+def walk(d, minn=1, maxn=400):
+    """Yield (offset, words) for each counted string, greedy from the low end. Code can look like a short string:
+    only trust a hit inside a known string area or with a pointer (tools/recon_counted.py)."""
+    p, n = 0, len(d) & ~1
+    while p + 2 < n:
+        c = _u16(d, p)
+        if minn <= c <= maxn and p + 2 + 2 * c <= n:
+            ws = struct.unpack_from(f'<{c}H', d, p + 2)
+            if all(is_text(w) for w in ws) and any(w >= 0x8140 for w in ws):
+                yield p, ws
+                p += 2 + 2 * c
+                continue
+        p += 2
+
+
 def decode(words):
-    """Text words -> str. 0x0010 is a line break; anything else below 0x100 is kept as {XXXX}."""
+    """Text words -> str. 0x0010 is a line break; anything else not canonical Shift-JIS is kept as {XXXX}."""
     out = []
     for w in words:
         if w == 0x0010:
@@ -141,3 +196,24 @@ def decode(words):
         else:
             out.append(ch)
     return ''.join(out)
+
+
+def encode(text):
+    """Inverse of decode. Raises on a character that isn't a double-byte Shift-JIS one."""
+    out, i = [], 0
+    while i < len(text):
+        c = text[i]
+        if c == '{':
+            out.append(int(text[i + 1:i + 5], 16))
+            assert text[i + 5] == '}', text
+            i += 6
+            continue
+        i += 1
+        if c == '\n':
+            out.append(0x10)
+            continue
+        b = c.encode('cp932')
+        if len(b) != 2:
+            raise ValueError(f'{c!r} in {text!r} is not a double-byte character')
+        out.append(b[0] << 8 | b[1])
+    return out

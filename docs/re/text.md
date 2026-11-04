@@ -2,31 +2,52 @@
 
 Encoding everywhere checked: **little-endian Shift-JIS** words, except the EXE's name-entry data, which is big-endian (see
 below). Found by `tools/recon_text.py` (both byte orders, strict character filter over every leaf) and grouped by content
-in `tools/recon_textmap.py` → `work/recon/textmap.tsv` (one group per distinct leaf: offset, order, text). Runs shorter
-than 3 characters and kanji-only runs are not listed by that filter: phase 4 extracts by record layout, not by scan.
+in `tools/recon_textmap.py` → `work/recon/textmap.tsv` (one group per distinct leaf: offset, order, text).
 
-## Data tables (`STATUS` = layout not read yet; phase 4 reads each record format)
+## Extraction (`tools/extract.py` → `script/`)
 
-| Leaf | Copies | Holds | Sample |
+12,132 strings: 9,066 script, 2,883 table, 183 code. **Verified** by `tests/test_extract.py` on every commit:
+- **Roundtrip:** `extract.text_files(disc, 'jp')` rebuilds the EXE, the four overlays and the four text DATs of each disc from
+  `script/` through the same code the English will use, byte for byte. `script/` matches a fresh extraction.
+- **Coverage:** every text operand of every script is extracted. Every counted string that code or data points at is extracted. Every
+  Japanese run the scan finds outside the extracted text, over every leaf and file of both discs except pictures, models and sound, is in
+  `tests/text_noise.tsv`: 359 hits, reviewed by eye as unreadable, none a word (the longest is the EXE's `５ＤＳｂｑあけだはまろ` table, 8 hits, the rest in
+  `EVENT/8x.2` and similar binaries). An earlier counted-string sweep (`psi.walk`, kanji-only and short strings too) of every non-picture leaf found text only in the tables below.
+- **Not proven:** glyph codes built as immediates in code. The marker build shows those as the Japanese that stays.
+
+## Data tables
+
+`u16 count, words` fields in fixed rows, the layouts in `extract.TABLES`, proven by the roundtrip. A name field's count is its length and the rest
+is `　` (0x8140), so a name fits `max` words. Description and help fields always count their full capacity and hold rows of a fixed width (`cell`).
+`script/` shows those rows split by `\n`, without their padding.
+
+| Leaf | Copies | Rows × bytes | Fields (words) |
 |---|---|---|---|
-| `SYSTEM/5.0`, `.1`, `.2`, `.3` | also `SYSTEM/14.0.0-3` | Item/weapon, skills, armor, accessory names and descriptions (360+253+150+71 runs) | ナイフ, ハードレザー, リリム |
-| `SYSTEM/6` | - | Shop/help text; starts `Armor Item Data` | ○ボタンを押すとアイテムの購入… |
-| `SYSTEM/10`, `11`, `12` | - | `Status Data`: unit names, 58 rows, 0x50 bytes per row (0x20, 0x70, 0xC0…), 12-byte name field padded with `　` | アベル, レブロブス, ピリポ |
-| `SYSTEM/13.1`, `.3`, `BATTLE/0.9`, `EVENT/80.3` (+7 copies) | | Help pages, `HELP` head | 所持しているアイテムの閲覧と… |
-| `SYSTEM/15.4` | | Level-up screen | 今回の戦闘で得た各ポイントです |
-| `BATTLE/5.0`, `6.0`, `7.0` | | `BATTLE ENEMY PARAM`, names of enemies by chapter | カロン, ウリエル, パイモン |
+| `SYSTEM/5.0` Weapon | `14.0.0` | 145 × 0x8E | name 8, desc 38 (2 rows of 19) |
+| `SYSTEM/5.1` SWeapon (**guess**: summons) | `14.0.1` | 57 × 0x88 | name 7, desc 19, effect 38 (2 × 19) |
+| `SYSTEM/5.2` Armor | `14.0.2` | 112 × 0x6E | name 8, desc 38 (2 × 19) |
+| `SYSTEM/5.3` Magic | `14.0.3` | 32 × 0x4E | name 8 at +2, desc 28 |
+| `SYSTEM/10`, `11`, `12` Status | - | 0x50, head 0x10 | name 6 at +0xE |
+| `BATTLE/5.0`, `6.0`, `7.0` Enemies | - | 0x50, head 0x40 | name 6 at +0xE |
+| `SYSTEM/6`, `13.3`, `15.4`, `BATTLE/0.9`, `EVENT/80.3` (`81-86.3`, and on Disc 2) Help | - | 0x74, head 0x10 | text 57 (3 × 19) |
 
-Each table carries its name in ASCII at the head. Padded fields use `　` (0x8140): fixed widths are in the tables.
+Each table carries its name in ASCII at the head (`SYSTEM/6` wrongly says `Armor Item Data`). Help sentences repeat between the help tables; the
+enemy names repeat between the three enemy tables. The tables are separate on disc, so `script/` keeps each.
 
 ## EXE and overlays
 
-| File | Load | Strong runs | Holds |
+String areas are in `extract.CODE`, by RAM address. `max` for these is the original length: they sit among other strings and code, so growing means moving them
+and remapping the pointer (phase 5).
+
+| File | Load | Strings | Holds |
 |---|---|---|---|
-| `SLPS_029.62` | 0x80010000 (header) | 166 | Config help, memory-card messages (0x63xxx), name-entry grid (0x19DC, **big-endian**), 7 default names at 0x1C14 (`ゼロ＿＿＿＿`, 12 bytes each, big-endian, padded with `＿`), EXE data |
-| `3RD.BIN` | 0x80110800 | 100 | Shops: greetings (0xAAE6..) per shopkeeper, buy/sell |
-| `5TH.BIN` | 0x800EB000 | 18 | Level-up |
-| `2ND.BIN` | 0x800EB000 | 12 | Battle menus (0x437xx-0x44xxx) |
-| `4TH.BIN` | 0x800EB000 | 3 | Save/load/config (0x12567) |
+| `SLPS_029.62` | 0x80010000 (header) | 99 | Config help, memory-card messages, unit menu. **Big-endian, no count:** name-entry grid (0x800111DC, 142 words), `かなカナ英字戻る終了` (0x800113FC), 7 default names (0x80011414, every 16 bytes, 6 words padded with `＿`) |
+| `3RD.BIN` | 0x80110800 | 56 | Shops: greetings by shopkeeper, buy/sell, camp menu, blood rituals |
+| `2ND.BIN` | 0x800EB000 | 19 | Battle menus, status names |
+| `5TH.BIN` | 0x800EB000 | 7 | Level-up |
+| `4TH.BIN` | 0x800EB000 | 2 | Camp menu (a copy of the `3RD` rows, last cell differs) |
+
+Macro `{0023}` appears in `を買います`-type strings (**guess**: the item name). The save file name is ASCII (`BISLPS-02962BMCROSS`, EXE file offsets 0x1D4C and 0x26CC) and stays as it is, and beside the first copy `ＦＩＬＥ` is fullwidth, big-endian and already English. Neither is in `script/`. How the card's title is built isn't read yet: check the load and save screens in phase 8.
 
 **Load addresses verified** by two independent votes (`tools/recon_prefix.py`): pointers to count words, and `jal` targets landing on
 function prologues; each load wins by a wide margin (2ND 401 of 603 prologues, 3RD 31 of 48, 4TH 137 of 197, 5TH 18 of 30). 2ND, 4TH and 5TH
@@ -45,10 +66,8 @@ code or a table holds the address of the **count word**. Reached that way, or by
 | 5TH | 19 | 7 | 0 | 12 |
 | 4TH | 6 | 2 | 0 | 4 |
 
-The rest, not resolved here, are the three shapes seen in those lists: fixed-width cells in one run (`買　う売　る`, `は　いいいえ`), so the run is
-reached at its head or by base + index; a table of strings walked by count (shop greetings, 0xAAE6..: **guess**); and false hits, where a
-run is really data (`５ＤＳｂｑあけだはまろ` at EXE 0x6DD1C). Phase 4 decides each one, with the caution from `platform-ps1.md` that literal
-copies use `$gp`-relative loads. Overlay strings sit among code, so they can only grow where the overlay has room or where pointers are remapped.
+Those counts are the raw scan's. By counted string (`tools/recon_counted.py`), the ones with no pointer of their own are the shapes seen in those lists: fixed-width
+cells in one string (`買　う売　る`, `は　いいいえ`), so code indexes into it; and strings walked in sequence from a neighbour (shop greetings at 3RD 0xAAE4, 5 with no pointer: **guess**). The false hits are data (`５ＤＳｂｑあけだはまろ` at EXE 0x6DD1C). Overlay strings sit among code, so they can only grow where the overlay has room or where pointers are remapped, with the caution from `platform-ps1.md` that literal copies use `$gp`-relative loads.
 
 ## Pictures that are text
 

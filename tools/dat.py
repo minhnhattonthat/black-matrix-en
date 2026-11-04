@@ -22,3 +22,16 @@ def unpack(data: bytes) -> list[bytes]:
 
 def pack(entries: list[bytes]) -> bytes:
     return pak.pack(entries, 11)
+
+
+def walk(data: bytes, name: str):
+    """Every leaf of a .DAT as (path like SYSTEM/5.0, bytes)."""
+    for i, f in enumerate(unpack(data)):
+        if f:
+            for p, _, x in pak.walk(f, f'{name}/{i}'):
+                yield p, x
+
+
+def rebuild(data: bytes, name: str, repl: dict) -> bytes:
+    """The .DAT with the leaves in repl {path: bytes} replaced."""
+    return pack([pak.rebuild(f, SECTOR, repl, f'{name}/{i}') for i, f in enumerate(unpack(data))])

@@ -41,13 +41,14 @@ def pack(children, shift, align=None):
     return bytes(out) + bytes(up(len(out), align or unit) - len(out))
 
 
-def rebuild(d, align=2048):
-    """Unpack and repack every level of d. align: the unit of the container d sits in."""
+def rebuild(d, align=2048, repl=None, path=''):
+    """Unpack and repack every level of d, leaves named in repl {walk() path: bytes} replaced.
+    align: the unit of the container d sits in."""
     ents = parse(d)
     if ents is None:
-        return d
+        return repl.get(path, d) if repl else d
     shift = 11 if d[4] == 11 else 4
-    return pack([rebuild(d[o:o + s], 1 << shift) for o, s in ents], shift, align)
+    return pack([rebuild(d[o:o + s], 1 << shift, repl, f'{path}.{i}') for i, (o, s) in enumerate(ents)], shift, align)
 
 
 def walk(d, path=''):

@@ -1,0 +1,3549 @@
+{
+ "source": "d1:BATTLE/5.0",
+ "copies": [
+  "d1:BATTLE/5.0",
+  "d2:BATTLE/5.0"
+ ],
+ "strings": [
+  {
+   "id": "enemy5:0.name",
+   "jp": "筋肉質の男",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:20.name",
+   "jp": "看守長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:21.name",
+   "jp": "看守",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:22.name",
+   "jp": "看守",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:23.name",
+   "jp": "看守",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:24.name",
+   "jp": "看守",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:25.name",
+   "jp": "看守",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:40.name",
+   "jp": "カロン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:41.name",
+   "jp": "プラハ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:42.name",
+   "jp": "看守",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:43.name",
+   "jp": "看守",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:44.name",
+   "jp": "看守",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:45.name",
+   "jp": "看守",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:46.name",
+   "jp": "囚人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:47.name",
+   "jp": "囚人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:48.name",
+   "jp": "囚人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:49.name",
+   "jp": "囚人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:50.name",
+   "jp": "囚人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:60.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:61.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:62.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:63.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:64.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:65.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:80.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:81.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:82.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:83.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:84.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:85.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:86.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:87.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:88.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:100.name",
+   "jp": "強信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:101.name",
+   "jp": "ヒーラー　　",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:102.name",
+   "jp": "ヒーラー　　",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:103.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:104.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:105.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:106.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:107.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:108.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:109.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:120.name",
+   "jp": "強信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:121.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:122.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:123.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:124.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:125.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:126.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:127.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:128.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:140.name",
+   "jp": "ユダ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:141.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:142.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:143.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:144.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:145.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:146.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:147.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:148.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:149.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:160.name",
+   "jp": "ユダ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:161.name",
+   "jp": "Ｄサマナー　",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:162.name",
+   "jp": "Ｄサマナー　",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:163.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:164.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:165.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:166.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:167.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:168.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:169.name",
+   "jp": "愛人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:180.name",
+   "jp": "強信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:181.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:182.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:183.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:184.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:185.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:186.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:187.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:188.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:200.name",
+   "jp": "盗賊団親分",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:201.name",
+   "jp": "盗賊団子分",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:202.name",
+   "jp": "盗賊団子分",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:203.name",
+   "jp": "盗賊団子分",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:204.name",
+   "jp": "盗賊団子分",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:205.name",
+   "jp": "盗賊団子分",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:206.name",
+   "jp": "盗賊団子分",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:207.name",
+   "jp": "盗賊団子分",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:208.name",
+   "jp": "盗賊団子分",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:209.name",
+   "jp": "奴隷",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:210.name",
+   "jp": "奴隷",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:211.name",
+   "jp": "奴隷",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:212.name",
+   "jp": "奴隷",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:213.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:220.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:221.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:222.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:223.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:224.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:225.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:226.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:227.name",
+   "jp": "信者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:240.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:241.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:242.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:243.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:244.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:260.name",
+   "jp": "女剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:261.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:262.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:263.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:264.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:280.name",
+   "jp": "ゼロ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:281.name",
+   "jp": "ゼファル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:282.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:283.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:284.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:285.name",
+   "jp": "剣闘士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:300.name",
+   "jp": "マステマ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:301.name",
+   "jp": "老兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:302.name",
+   "jp": "老兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:303.name",
+   "jp": "老兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:304.name",
+   "jp": "老兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:305.name",
+   "jp": "老兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:306.name",
+   "jp": "老兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:307.name",
+   "jp": "老兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:308.name",
+   "jp": "老兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:309.name",
+   "jp": "老兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:310.name",
+   "jp": "老兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:320.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:321.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:322.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:323.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:324.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:325.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:326.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:327.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:340.name",
+   "jp": "Ｄｒレッド",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:341.name",
+   "jp": "Ｄｒグリーン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:342.name",
+   "jp": "Ｄｒブルー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:343.name",
+   "jp": "Ｄｒイエロー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:344.name",
+   "jp": "Ｄｒブラック",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:345.name",
+   "jp": "門番",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:346.name",
+   "jp": "ミシェット",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:347.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:348.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:349.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:350.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:351.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:360.name",
+   "jp": "警備兵隊長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:361.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:362.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:363.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:364.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:365.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:366.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:367.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:368.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:369.name",
+   "jp": "十字兵見習い",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:380.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:381.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:382.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:383.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:384.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:385.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:386.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:387.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:388.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:389.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:390.name",
+   "jp": "？？？？？",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:400.name",
+   "jp": "マモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:401.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:402.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:403.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:404.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:405.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:406.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:407.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:408.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:409.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:410.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:411.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:420.name",
+   "jp": "マモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:421.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:422.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:423.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:424.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:425.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:426.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:427.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:428.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:429.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:430.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:431.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:440.name",
+   "jp": "異審十字軍長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:441.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:442.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:443.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:444.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:445.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:446.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:447.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:448.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:449.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:450.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:460.name",
+   "jp": "警備兵隊長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:461.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:462.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:463.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:464.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:465.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:466.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:467.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:468.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:469.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:470.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:480.name",
+   "jp": "警備兵隊長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:481.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:482.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:483.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:484.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:485.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:486.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:487.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:488.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:489.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:490.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:500.name",
+   "jp": "コック長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:501.name",
+   "jp": "コック",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:502.name",
+   "jp": "コック",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:503.name",
+   "jp": "コック",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:504.name",
+   "jp": "コック",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:505.name",
+   "jp": "コック",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:506.name",
+   "jp": "コック",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:507.name",
+   "jp": "コック",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:508.name",
+   "jp": "コック",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:520.name",
+   "jp": "バアル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:521.name",
+   "jp": "執事",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:522.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:523.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:524.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:525.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:526.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:527.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:528.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:529.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:530.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:531.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:532.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:540.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:541.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:542.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:543.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:544.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:545.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:546.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:547.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:548.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:560.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:561.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:562.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:563.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:564.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:565.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:566.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:567.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:568.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:580.name",
+   "jp": "バアル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:581.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:582.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:583.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:584.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:585.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:586.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:587.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:588.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:589.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:590.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:591.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:592.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:600.name",
+   "jp": "異端審問官長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:601.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:602.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:603.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:604.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:605.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:606.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:607.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:608.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:609.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:620.name",
+   "jp": "異端審問官長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:621.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:622.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:623.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:624.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:625.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:626.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:627.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:628.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:629.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:640.name",
+   "jp": "異端審問官長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:641.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:642.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:643.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:644.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:645.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:646.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:647.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:648.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:649.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:660.name",
+   "jp": "異端審問官長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:661.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:662.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:663.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:664.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:665.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:666.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:667.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:668.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:669.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:670.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:671.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:672.name",
+   "jp": "？？？？？",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:680.name",
+   "jp": "グザファン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:681.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:682.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:683.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:684.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:685.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:686.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:687.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:688.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:689.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:700.name",
+   "jp": "異端審問官長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:701.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:702.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:703.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:704.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:705.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:706.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:707.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:708.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:709.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:710.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:720.name",
+   "jp": "異端審問官長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:721.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:722.name",
+   "jp": "Ｄサマナー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:723.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:724.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:725.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:726.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:727.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:728.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:729.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:730.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:740.name",
+   "jp": "スタン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:741.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:742.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:743.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:744.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:745.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:746.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:747.name",
+   "jp": "志願兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:748.name",
+   "jp": "志願兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:749.name",
+   "jp": "志願兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:750.name",
+   "jp": "志願兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:751.name",
+   "jp": "志願兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:752.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:753.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:754.name",
+   "jp": "十字兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:760.name",
+   "jp": "ベルフェ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:761.name",
+   "jp": "不平監査官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:762.name",
+   "jp": "不平監査官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:763.name",
+   "jp": "不平監査官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:764.name",
+   "jp": "不平監査官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:765.name",
+   "jp": "不平監査官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:766.name",
+   "jp": "動員兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:767.name",
+   "jp": "動員兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:768.name",
+   "jp": "動員兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:769.name",
+   "jp": "動員兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:770.name",
+   "jp": "動員兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:771.name",
+   "jp": "動員兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:772.name",
+   "jp": "動員兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:780.name",
+   "jp": "異端審問官長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:781.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:782.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:783.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:784.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:785.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:786.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:787.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:788.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:789.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:800.name",
+   "jp": "異端審問官長",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:801.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:802.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:803.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:804.name",
+   "jp": "ヒーラー",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:805.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:806.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:807.name",
+   "jp": "ポイゾニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:808.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:809.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:810.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:820.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:821.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:822.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:823.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:824.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:825.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:826.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:827.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:828.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:829.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:830.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:831.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:840.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:841.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:842.name",
+   "jp": "強兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:843.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:844.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:845.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:846.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:847.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:848.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:849.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:850.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:851.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:852.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:853.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:854.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:860.name",
+   "jp": "若者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:861.name",
+   "jp": "若者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:862.name",
+   "jp": "若者",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:863.name",
+   "jp": "市民",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:864.name",
+   "jp": "市民",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:865.name",
+   "jp": "女性市民",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:866.name",
+   "jp": "女性市民",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:867.name",
+   "jp": "女性市民",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:868.name",
+   "jp": "女性市民",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:869.name",
+   "jp": "老人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:870.name",
+   "jp": "老人",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:871.name",
+   "jp": "子供",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:872.name",
+   "jp": "子供",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:873.name",
+   "jp": "子供",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:874.name",
+   "jp": "子供",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:880.name",
+   "jp": "Ｇデーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:881.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:882.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:883.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:884.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:885.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:886.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:887.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:888.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:889.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:890.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:891.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:900.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:901.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:902.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:903.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:904.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:905.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:906.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:907.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:908.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:909.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:910.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:911.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:912.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:913.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:914.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:920.name",
+   "jp": "Ｇデーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:921.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:922.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:923.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:924.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:925.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:926.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:927.name",
+   "jp": "兵士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:940.name",
+   "jp": "ヴァリエル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:941.name",
+   "jp": "Ｄパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:942.name",
+   "jp": "Ｄパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:943.name",
+   "jp": "Ｐパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:944.name",
+   "jp": "Ｐパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:945.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:946.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:947.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:948.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:949.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:950.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:951.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:952.name",
+   "jp": "警備兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:953.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:954.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:960.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:961.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:962.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:963.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:964.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:965.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:966.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:967.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:968.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:969.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:970.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:971.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:972.name",
+   "jp": "Ｈパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:973.name",
+   "jp": "Ｈパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:974.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:975.name",
+   "jp": "ネクロニスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:976.name",
+   "jp": "僧兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:977.name",
+   "jp": "僧兵",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:980.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:981.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:982.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:983.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:984.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:985.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:986.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:987.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:988.name",
+   "jp": "Ｈパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:989.name",
+   "jp": "Ｈパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:990.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:991.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:992.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:993.name",
+   "jp": "Ｈパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:994.name",
+   "jp": "Ｄパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:995.name",
+   "jp": "Ｄパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:996.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:997.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:998.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:999.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1000.name",
+   "jp": "紅邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1001.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1002.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1003.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1004.name",
+   "jp": "邪道騎士",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1005.name",
+   "jp": "Ｈパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1006.name",
+   "jp": "Ｈパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1007.name",
+   "jp": "Ｄパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1008.name",
+   "jp": "Ｄパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1009.name",
+   "jp": "Ｄパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1010.name",
+   "jp": "Ｄパラディン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1011.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1012.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1013.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1014.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1015.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1016.name",
+   "jp": "異端審問官",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1019.name",
+   "jp": "ファウスト",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1020.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1021.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1022.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1023.name",
+   "jp": "デーモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1024.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1025.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1026.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1027.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1028.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1029.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1030.name",
+   "jp": "堕天使",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1040.name",
+   "jp": "ユダ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1041.name",
+   "jp": "マモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1042.name",
+   "jp": "バアル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1043.name",
+   "jp": "ケルビム",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1044.name",
+   "jp": "アスタルテ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1060.name",
+   "jp": "ルカ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1061.name",
+   "jp": "ベリアル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1062.name",
+   "jp": "パイモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1080.name",
+   "jp": "教皇",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1081.name",
+   "jp": "ユダ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1082.name",
+   "jp": "マモン",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1083.name",
+   "jp": "バアル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1084.name",
+   "jp": "ケルビム",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1085.name",
+   "jp": "アスタルテ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1100.name",
+   "jp": "ウリエル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1101.name",
+   "jp": "サリエル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1102.name",
+   "jp": "ラグエル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1103.name",
+   "jp": "ラファエル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1104.name",
+   "jp": "ミカエル",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1120.name",
+   "jp": "教皇",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1121.name",
+   "jp": "ドミナ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1122.name",
+   "jp": "プリカ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1123.name",
+   "jp": "クレージュ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1124.name",
+   "jp": "ミシェット",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1125.name",
+   "jp": "プラハ",
+   "en": "",
+   "max": 6
+  },
+  {
+   "id": "enemy5:1126.name",
+   "jp": "ゼロ",
+   "en": "",
+   "max": 6
+  }
+ ]
+}

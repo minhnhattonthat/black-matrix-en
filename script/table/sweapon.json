@@ -1,0 +1,1151 @@
+{
+ "source": "d1:SYSTEM/5.1",
+ "copies": [
+  "d1:SYSTEM/5.1",
+  "d1:SYSTEM/14.0.1",
+  "d2:SYSTEM/5.1",
+  "d2:SYSTEM/14.0.1"
+ ],
+ "strings": [
+  {
+   "id": "sweapon:0.name",
+   "jp": "ダミー　　　　",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:0.desc",
+   "jp": "ダミー",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:0.effect",
+   "jp": "ダミー\n詳しいコメント",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:1.name",
+   "jp": "ハボリュム",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:1.desc",
+   "jp": "カージの小さな助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:1.effect",
+   "jp": "カージ系小攻撃追加\nバイオリズム影響、変化無し",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:2.name",
+   "jp": "フォーカロル",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:2.desc",
+   "jp": "フィキスの小さな助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:2.effect",
+   "jp": "フィキス系小攻撃追加\nバイオリズム影響、変化無し",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:3.name",
+   "jp": "フルフル",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:3.desc",
+   "jp": "ミュタの小さな助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:3.effect",
+   "jp": "ミュタ系小攻撃追加\nバイオリズム影響、変化無し",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:4.name",
+   "jp": "パイモン",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:4.desc",
+   "jp": "カージの助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:4.effect",
+   "jp": "カージ系大攻撃追加\nバイオリズム影響、変化有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:5.name",
+   "jp": "ヴィネ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:5.desc",
+   "jp": "フィキスの助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:5.effect",
+   "jp": "フィキス系大攻撃追加\nバイオリズム影響、変化有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:6.name",
+   "jp": "バリデト",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:6.desc",
+   "jp": "ミュタの助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:6.effect",
+   "jp": "ミュタ系大攻撃追加\nバイオリズム影響、変化有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:7.name",
+   "jp": "デーヴァ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:7.desc",
+   "jp": "光の助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:7.effect",
+   "jp": "午前のみ有効な追加攻撃\nバイオリズム影響有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:8.name",
+   "jp": "リントラウ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:8.desc",
+   "jp": "闇の助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:8.effect",
+   "jp": "午後のみ有効な追加攻撃\nバイオリズム影響有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:9.name",
+   "jp": "ハウレス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:9.desc",
+   "jp": "風の助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:9.effect",
+   "jp": "上下４段目まで攻撃可能\n隣接マスに限る",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:10.name",
+   "jp": "アエシュマ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:10.desc",
+   "jp": "猛き力でねじ伏せる事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:10.effect",
+   "jp": "全ての待機型に通常ダメージ\n回避型の回避行動不可",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:11.name",
+   "jp": "フォラス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:11.desc",
+   "jp": "カージの助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:11.effect",
+   "jp": "ＨＰ吸収攻撃\nバイオリズムがカージの時は効果大",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:12.name",
+   "jp": "アクラハイル",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:12.desc",
+   "jp": "フィキスの助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:12.effect",
+   "jp": "ＨＰ吸収攻撃\nバイオリズムがフィキスの時は効果大",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:13.name",
+   "jp": "カラブ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:13.desc",
+   "jp": "ミュタの助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:13.effect",
+   "jp": "ＨＰ吸収攻撃\nバイオリズムがミュタの時は効果大",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:14.name",
+   "jp": "アイニ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:14.desc",
+   "jp": "カージの助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:14.effect",
+   "jp": "ＢＰ吸収攻撃\nバイオリズムがカージの時は効果大",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:15.name",
+   "jp": "タスクト",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:15.desc",
+   "jp": "フィキスの助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:15.effect",
+   "jp": "ＢＰ吸収攻撃\nバイオリズムがフィキスの時は効果大",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:16.name",
+   "jp": "タラブ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:16.desc",
+   "jp": "ミュタの助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:16.effect",
+   "jp": "ＢＰ吸収攻撃\nバイオリズムがミュタの時は効果大",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:17.name",
+   "jp": "フルカス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:17.desc",
+   "jp": "堅固な信念を貫く事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:17.effect",
+   "jp": "貫通攻撃",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:18.name",
+   "jp": "ザロビ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:18.desc",
+   "jp": "自身の名誉を付加する事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:18.effect",
+   "jp": "レベル分ダメージ追加",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:19.name",
+   "jp": "バリサルゴン",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:19.desc",
+   "jp": "窮地の援助が受ける事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:19.effect",
+   "jp": "ＨＰ最大値－現在値分ダメージ追加",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:20.name",
+   "jp": "グシオン",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:20.desc",
+   "jp": "堕落な精神を促す事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:20.effect",
+   "jp": "睡眠状態追加",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:21.name",
+   "jp": "シスラウ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:21.desc",
+   "jp": "一時の痛みを与える事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:21.effect",
+   "jp": "毒状態追加",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:22.name",
+   "jp": "ゼイルナ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:22.desc",
+   "jp": "動けない苦しみを与える事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:22.effect",
+   "jp": "麻ε状態追加",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:23.name",
+   "jp": "シャクス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:23.desc",
+   "jp": "黙する痛みを教える事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:23.effect",
+   "jp": "凍結状態追加",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:24.name",
+   "jp": "バヴァニ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:24.desc",
+   "jp": "動けない呪縛を与える事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:24.effect",
+   "jp": "石化状態追加",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:25.name",
+   "jp": "アンドラス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:25.desc",
+   "jp": "永遠の休息を与える事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:25.effect",
+   "jp": "即死攻撃",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:26.name",
+   "jp": "ベレト",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:26.desc",
+   "jp": "覇気をあてる事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:26.effect",
+   "jp": "吹っ飛ばし攻撃\n１マス後退させる",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:27.name",
+   "jp": "ガープ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:27.desc",
+   "jp": "時空の共鳴を促す事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:27.effect",
+   "jp": "場所交代攻撃",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:28.name",
+   "jp": "ダンタリオン",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:28.desc",
+   "jp": "険悪による離別を促す事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:28.effect",
+   "jp": "ゾック消去攻撃：２４ＣＴ継続\n期間中ゾックを無効化する",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:29.name",
+   "jp": "ムルムル",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:29.desc",
+   "jp": "蛮勇な恐怖を与える事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:29.effect",
+   "jp": "攻撃弱体化攻撃：２４ＣＴ継続\n期間中ＳＴＲを下げる",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:30.name",
+   "jp": "バラトロン",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:30.desc",
+   "jp": "φχな畏怖を与える事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:30.effect",
+   "jp": "魔力弱体化攻撃：２４ＣＴ継続\n期間中ＩＮＴを下げる",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:31.name",
+   "jp": "バルマン",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:31.desc",
+   "jp": "蛮勇な守護を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:31.effect",
+   "jp": "物理攻撃回避：２４ＣＴ継続\n期間中一度だけ物理攻撃を防ぐ",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:32.name",
+   "jp": "マレブランケ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:32.desc",
+   "jp": "φχな守護を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:32.effect",
+   "jp": "魔法攻撃回避：２４ＣＴ継続\n期間中一度だけ魔法攻撃を防ぐ",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:33.name",
+   "jp": "トゥキファト",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:33.desc",
+   "jp": "偉大な守護を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:33.effect",
+   "jp": "物理、魔法攻撃回避：２４ＣＴ\n期間中一度だけ物理、魔法攻撃を防ぐ",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:34.name",
+   "jp": "アガレス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:34.desc",
+   "jp": "自然の力を制する事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:34.effect",
+   "jp": "魔法バイオリズム維持：１２ＣＴ継続\n期間中バイオリズム維持",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:35.name",
+   "jp": "ヴァサゴ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:35.desc",
+   "jp": "自然の力を制する事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:35.effect",
+   "jp": "魔法バイオリズム反転：１２ＣＴ継続\n期間中バイオリズム効果反転",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:36.name",
+   "jp": "ルビカンテ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:36.desc",
+   "jp": "カージの力を行使する事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:36.effect",
+   "jp": "魔法「ヘルゲイザー」が使用できる\nバイオリズム影響、変化有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:37.name",
+   "jp": "ヘイグロト",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:37.desc",
+   "jp": "フィキスの力を行使する事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:37.effect",
+   "jp": "魔法「ノースレイス」が使用できる\nバイオリズム影響、変化有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:38.name",
+   "jp": "ヘルレイカー",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:38.desc",
+   "jp": "ミュタの力を行使する事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:38.effect",
+   "jp": "魔法「サナトス」が使用できる\nバイオリズム影響、変化有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:39.name",
+   "jp": "Ｒ・Ｗ・Ｒ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:39.desc",
+   "jp": "フィキスの力を行使する事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:39.effect",
+   "jp": "魔法「ネメシスブロウ」が使用できる\nバイオリズム影響、変化有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:40.name",
+   "jp": "ベアルファレス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:40.desc",
+   "jp": "カージの加勢を受ける事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:40.effect",
+   "jp": "小爆発攻撃\nバイオリズム影響、変化有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:41.name",
+   "jp": "ハルファス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:41.desc",
+   "jp": "大気の助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:41.effect",
+   "jp": "高所攻撃力強化\n高い所ほどＳＴＲが強化される",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:42.name",
+   "jp": "パナルカルプ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:42.desc",
+   "jp": "大気の助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:42.effect",
+   "jp": "低所攻撃力強化\n低い所ほどＳＴＲが強化される",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:43.name",
+   "jp": "ザガン",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:43.desc",
+   "jp": "φχな助力を受ける事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:43.effect",
+   "jp": "消費ＢＰ抑制２／３\n魔法使用時の消費ＢＰが２／３になる",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:44.name",
+   "jp": "ストラス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:44.desc",
+   "jp": "φχな救済を受ける事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:44.effect",
+   "jp": "消費ＢＰ抑制１／２\n魔法使用時の消費ＢＰが１／２になる",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:45.name",
+   "jp": "バラム",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:45.desc",
+   "jp": "絶えない覇気を受ける事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:45.effect",
+   "jp": "瀕死効果無効",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:46.name",
+   "jp": "パプス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:46.desc",
+   "jp": "絶えない蛮勇を受ける事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:46.effect",
+   "jp": "常時反撃\n待機型に関わらず、必ず反撃する",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:47.name",
+   "jp": "ザレン",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:47.desc",
+   "jp": "快気の助力を受ける事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:47.effect",
+   "jp": "ＨＰ回復（小）\n６ＣＴ毎にＨＰが３回復する",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:48.name",
+   "jp": "サブルス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:48.desc",
+   "jp": "快気の守護を受ける事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:48.effect",
+   "jp": "ＨＰ回復（中）\n６ＣＴ毎にＨＰが６回復する",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:49.name",
+   "jp": "ザルブリス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:49.desc",
+   "jp": "快気の救済を受ける事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:49.effect",
+   "jp": "ＨＰ回復（大）\n６ＣＴ毎にＨＰが９回復する",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:50.name",
+   "jp": "テイロン",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:50.desc",
+   "jp": "絶大な加護を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:50.effect",
+   "jp": "召喚魔法ダメージ減少\n召喚魔法ダメージを１／１０にする",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:51.name",
+   "jp": "ハウェン",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:51.desc",
+   "jp": "大気の助力を受ける事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:51.effect",
+   "jp": "射程＋２",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:52.name",
+   "jp": "グラシャボラス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:52.desc",
+   "jp": "混迷の助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:52.effect",
+   "jp": "ランダム潜在攻撃\nバイオリズム影響は効果による",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:53.name",
+   "jp": "ラウム",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:53.desc",
+   "jp": "共鳴による変化を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:53.effect",
+   "jp": "武器交換\n同系列武器に限る",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:54.name",
+   "jp": "Ｆ・Ｄ・Ｍ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:54.desc",
+   "jp": "時空の助力を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:54.effect",
+   "jp": "落下物攻撃／ダメージ追加\nバイオリズム影響、変化無し",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:55.name",
+   "jp": "マルファス",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:55.desc",
+   "jp": "沈黙する精神を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:55.effect",
+   "jp": "何も起きない",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:56.name",
+   "jp": "Ｒ・Ｗ・Ｓ",
+   "en": "",
+   "max": 7
+  },
+  {
+   "id": "sweapon:56.desc",
+   "jp": "荒ぶる覇気を得る事ができる",
+   "en": "",
+   "max": 19,
+   "cell": 19
+  },
+  {
+   "id": "sweapon:56.effect",
+   "jp": "大爆発攻撃\nバイオリズム影響、変化有り",
+   "en": "",
+   "max": 38,
+   "cell": 19
+  }
+ ]
+}
