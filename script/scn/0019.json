@@ -9,7 +9,7 @@
    "id": "s19:0020e",
    "op": "15",
    "jp": "目が覚めたからって\nまだ動いちゃ駄目だ！！",
-   "en": "",
+   "en": "Just 'cause you're awake doesn't mean you can move yet!!",
    "box": "17x3",
    "face": 12
   },
@@ -17,7 +17,7 @@
    "id": "s19:0025a",
    "op": "15",
    "jp": "ずっと眠ったままだったんだ！\n体がびっくりしちまうぜ！",
-   "en": "",
+   "en": "You've been asleep all this time! It'd be a shock to your body!",
    "box": "17x3",
    "face": 12
   },
@@ -25,7 +25,7 @@
    "id": "s19:002a2",
    "op": "15",
    "jp": "まったく・・・\nオマエは世話がかかる奴だ！",
-   "en": "",
+   "en": "Honestly... you're a lot of trouble!",
    "box": "17x3",
    "face": 12
   },
@@ -33,7 +33,7 @@
    "id": "s19:002de",
    "op": "15",
    "jp": "あの大きな落雷があった日・・・\nといっても覚えてねぇか・・・",
-   "en": "",
+   "en": "That day of the big lightning strike... not that you'd remember...",
    "box": "17x3",
    "face": 12
   },
@@ -41,7 +41,7 @@
    "id": "s19:0032e",
    "op": "15",
    "jp": "オマエはオレのために山へ入って、\n薬草を取りに行った。",
-   "en": "",
+   "en": "You went up into the mountains for my sake, to get herbs.",
    "box": "17x3",
    "face": 12
   },
@@ -49,7 +49,7 @@
    "id": "s19:00386",
    "op": "15",
    "jp": "何故医者に行かなかったかって？\nそれは・・・",
-   "en": "",
+   "en": "Why didn't I go to a doctor? Well...",
    "box": "17x3",
    "face": 12
   },
@@ -57,7 +57,7 @@
    "id": "s19:003d2",
    "op": "15",
    "jp": "ちょっとな！\n行けない事情があったんだよ！！",
-   "en": "",
+   "en": "Let's just say! There was a reason I couldn't go!!",
    "box": "17x3",
    "face": 12
   },
@@ -65,7 +65,7 @@
    "id": "s19:00412",
    "op": "15",
    "jp": "とにかく、山の奥へと入って行った\nオマエは、何かの事故に\n巻き込まれたみたいだ。",
-   "en": "",
+   "en": "Anyway, you went deep in the mountains and got caught up in some kind of accident, it seems.",
    "box": "17x3",
    "face": 12
   },
@@ -73,7 +73,7 @@
    "id": "s19:00476",
    "op": "15",
    "jp": "それはたぶん、\n大きな事故だったと思う。",
-   "en": "",
+   "en": "Probably a big accident, I'd say.",
    "box": "17x3",
    "face": 12
   },
@@ -81,7 +81,7 @@
    "id": "s19:00522",
    "op": "15",
    "jp": "だって、\nオレは見たんだ・・・",
-   "en": "",
+   "en": "'Cause I saw it...",
    "box": "17x3",
    "face": 12
   },
@@ -89,7 +89,7 @@
    "id": "s19:00552",
    "op": "15",
    "jp": "雨が止んだあの日、\nやっと動けるようになって\n入って行った山の中に・・・",
-   "en": "",
+   "en": "The day the rain stopped, I could finally move, and I went into the mountains...",
    "box": "17x3",
    "face": 12
   },
@@ -97,7 +97,7 @@
    "id": "s19:005ae",
    "op": "15",
    "jp": "オマエを囲むようにして倒れる\n大勢の兵士達の死体を・・・！！",
-   "en": "",
+   "en": "The bodies of a whole lot of soldiers, lying in a ring all around you...!!",
    "box": "17x3",
    "face": 12
   },
@@ -105,7 +105,7 @@
    "id": "s19:005fe",
    "op": "15",
    "jp": "かすかな息しかしていない\n血だらけのオマエを見たとき・・・",
-   "en": "",
+   "en": "When I saw you covered in blood, barely breathing...",
    "box": "17x3",
    "face": 12
   },
@@ -113,7 +113,7 @@
    "id": "s19:0065a",
    "op": "15",
    "jp": "（オレは・・・）",
-   "en": "",
+   "en": "(I...)",
    "box": "17x3",
    "face": 12
   },
@@ -129,7 +129,7 @@
    "id": "s19:0069e",
    "op": "15",
    "jp": "まあいいさ・・・\nとにかくこうして\n無事だったんだからな！",
-   "en": "",
+   "en": "Well, never mind... Point is, you came out of it alive!",
    "box": "17x3",
    "face": 12
   },
@@ -145,7 +145,7 @@
    "id": "s19:0076a",
    "op": "15",
    "jp": "フッ・・・\nもう休め！",
-   "en": "",
+   "en": "Heh... Go rest now!",
    "box": "17x3",
    "face": 12
   },
@@ -153,7 +153,7 @@
    "id": "s19:00792",
    "op": "15",
    "jp": "無理はしない方がいいぜ・・・！",
-   "en": "",
+   "en": "Don't push yourself...!",
    "box": "17x3",
    "face": 12
   },
@@ -161,7 +161,7 @@
    "id": "s19:007d2",
    "op": "15",
    "jp": "（早く元気になれよ・・・！）",
-   "en": "",
+   "en": "(Get well soon...!)",
    "box": "17x3",
    "face": 12
   },
@@ -169,7 +169,7 @@
    "id": "s19:00a42",
    "op": "15",
    "jp": "オマエが目を覚まさなかったとき、",
-   "en": "",
+   "en": "When you wouldn't wake up,",
    "box": "17x3",
    "face": 12
   },
@@ -177,7 +177,7 @@
    "id": "s19:00a76",
    "op": "15",
    "jp": "オレは本当は・・・\nえらく心細かったんだ・・・",
-   "en": "",
+   "en": "truth is, I was... damned lonely...",
    "box": "17x3",
    "face": 12
   },
@@ -185,7 +185,7 @@
    "id": "s19:00ac6",
    "op": "15",
    "jp": "オレは・・・\nオマエの瞳が好きなんだ・・・",
-   "en": "",
+   "en": "I... I like your eyes...",
    "box": "17x3",
    "face": 12
   },
@@ -193,7 +193,7 @@
    "id": "s19:00b02",
    "op": "15",
    "jp": "オマエを見ていると・・・",
-   "en": "",
+   "en": "When I look at you...",
    "box": "17x3",
    "face": 12
   },
@@ -201,7 +201,7 @@
    "id": "s19:00b2e",
    "op": "15",
    "jp": "忘れていた気持ちが・・・\nなんだかよみがえりそうで・・・！",
-   "en": "",
+   "en": "feelings I'd forgotten... seem to come back to life...!",
    "box": "17x3",
    "face": 12
   },
@@ -209,7 +209,7 @@
    "id": "s19:00b7a",
    "op": "15",
    "jp": "例え、オマエに\nどんなに嫌われようと・・・",
-   "en": "",
+   "en": "However much you might hate me...",
    "box": "17x3",
    "face": 12
   },
@@ -217,7 +217,7 @@
    "id": "s19:00bc6",
    "op": "15",
    "jp": "この気持ちだけは変わらない！",
-   "en": "",
+   "en": "this feeling won't change!",
    "box": "17x3",
    "face": 12
   },
@@ -225,7 +225,7 @@
    "id": "s19:00bf6",
    "op": "15",
    "jp": "ずっと・・・\nずっと一緒にいような・・・",
-   "en": "",
+   "en": "Always... let's always stay together...",
    "box": "17x3",
    "face": 12
   },
@@ -233,7 +233,7 @@
    "id": "s19:00fc2",
    "op": "15",
    "jp": "だっ・・大丈夫か！？",
-   "en": "",
+   "en": "A-are you okay!?",
    "box": "17x3",
    "face": 12
   },
@@ -241,7 +241,7 @@
    "id": "s19:00ff6",
    "op": "15",
    "jp": "目覚めてからまだ一週間しか経って\nないのに・・・！？",
-   "en": "",
+   "en": "It's only been a week since you woke up...!?",
    "box": "17x3",
    "face": 12
   },
@@ -249,7 +249,7 @@
    "id": "s19:0103e",
    "op": "15",
    "jp": "でも、無理はしない方がいいぜ、\nまだ本調子じゃないみたいだからな！",
-   "en": "",
+   "en": "But don't push yourself. You don't seem back to normal yet!",
    "box": "17x3",
    "face": 12
   },
@@ -265,7 +265,7 @@
    "id": "s19:010c2",
    "op": "15",
    "jp": "それと・・・\n一つだけ言っておく事がある！",
-   "en": "",
+   "en": "And... there's one thing I've gotta tell you!",
    "box": "17x3",
    "face": 12
   },
@@ -273,7 +273,7 @@
    "id": "s19:010fe",
    "op": "15",
    "jp": "これは重要な事だから\n絶対に忘れるなよ！！",
-   "en": "",
+   "en": "It's important, so don't you forget it!!",
    "box": "17x3",
    "face": 12
   },
@@ -281,7 +281,7 @@
    "id": "s19:0113a",
    "op": "15",
    "jp": "オマエはこの世界での記憶を\n無くしてしまっていて・・・",
-   "en": "",
+   "en": "You've lost your memories of this world...",
    "box": "17x3",
    "face": 12
   },
@@ -289,7 +289,7 @@
    "id": "s19:01182",
    "op": "15",
    "jp": "この世界の常識には、\n慣れてないはずだ・・・！",
-   "en": "",
+   "en": "so you can't be used to the way things are here...!",
    "box": "17x3",
    "face": 12
   },
@@ -297,7 +297,7 @@
    "id": "s19:011c2",
    "op": "15",
    "jp": "だからオレが安心してオマエを、\n家の外に送り出せるようになるまで、",
-   "en": "",
+   "en": "So until I feel safe sending you outside,",
    "box": "17x3",
    "face": 12
   },
@@ -305,7 +305,7 @@
    "id": "s19:01216",
    "op": "15",
    "jp": "勝手に家の柵の外には、\n出ないで欲しいんだ！！",
-   "en": "",
+   "en": "don't go past the fence on your own!!",
    "box": "17x3",
    "face": 12
   },
@@ -313,7 +313,7 @@
    "id": "s19:01256",
    "op": "15",
    "jp": "いいか？\n絶対に外に出ちゃだめだぞ！！",
-   "en": "",
+   "en": "Got it? You absolutely can't go outside!!",
    "box": "17x3",
    "face": 12
   },
@@ -329,7 +329,7 @@
    "id": "s19:012be",
    "op": "15",
    "jp": "しばらくは・・・\nちゃんとリハビリしなくっちゃな！！",
-   "en": "",
+   "en": "For a while... you'd better do your rehab right!!",
    "box": "17x3",
    "face": 12
   }

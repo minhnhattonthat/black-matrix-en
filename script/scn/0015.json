@@ -9,7 +9,7 @@
    "id": "s15:0020e",
    "op": "15",
    "jp": "目が覚めたからって\nまだ動いちゃダメだよぉ～！",
-   "en": "",
+   "en": "Just 'cause you woke up doesn't mean you can move yet, nooo!",
    "box": "17x3",
    "face": 8
   },
@@ -17,7 +17,7 @@
    "id": "s15:0024e",
    "op": "15",
    "jp": "ずっと眠ったままだったんだから\n体がひっくり返っちゃうよ！！",
-   "en": "",
+   "en": "You were asleep for sooo long, your body's gonna flip right over!!",
    "box": "17x3",
    "face": 8
   },
@@ -25,7 +25,7 @@
    "id": "s15:0029e",
    "op": "15",
    "jp": "もし退屈なようだったら、\nあたしがお話してあげるね！",
-   "en": "",
+   "en": "If you get bored, I'll tell you a story!",
    "box": "17x3",
    "face": 8
   },
@@ -33,7 +33,7 @@
    "id": "s15:002e6",
    "op": "15",
    "jp": "おにいちゃんが大ケガをしたあの日、",
-   "en": "",
+   "en": "That day you got all hurt, big brother,",
    "box": "17x3",
    "face": 8
   },
@@ -41,7 +41,7 @@
    "id": "s15:0031a",
    "op": "15",
    "jp": "あっ言っても覚えてないか！？\nゴメンネ・・・！",
-   "en": "",
+   "en": "Oh, you wouldn't remember even if I said!? Sorry...!",
    "box": "17x3",
    "face": 8
   },
@@ -49,7 +49,7 @@
    "id": "s15:0035a",
    "op": "15",
    "jp": "おにいちゃんは、\n病気になっちゃったあたしのために、山に薬草を採りに行ってくれたの！",
-   "en": "",
+   "en": "You went up the mountain to get herbs, big brother, 'cause I got sick!",
    "box": "17x3",
    "face": 8
   },
@@ -57,7 +57,7 @@
    "id": "s15:003c2",
    "op": "15",
    "jp": "何故医者に行かないのかって？",
-   "en": "",
+   "en": "Why didn't I go to a doctor?",
    "box": "17x3",
    "face": 8
   },
@@ -65,7 +65,7 @@
    "id": "s15:003f2",
    "op": "15",
    "jp": "そ・・それは・・・",
-   "en": "",
+   "en": "Th... that's...",
    "box": "17x3",
    "face": 8
   },
@@ -73,7 +73,7 @@
    "id": "s15:00416",
    "op": "15",
    "jp": "えっと・・・",
-   "en": "",
+   "en": "Ummm...",
    "box": "17x3",
    "face": 8
   },
@@ -81,7 +81,7 @@
    "id": "s15:00436",
    "op": "15",
    "jp": "あ・あたしそんなにお金・・・\n持って無いんだもん！！",
-   "en": "",
+   "en": "I-I don't have that much... money!!",
    "box": "17x3",
    "face": 8
   },
@@ -89,7 +89,7 @@
    "id": "s15:0048a",
    "op": "15",
    "jp": "エヘヘ・・・\n（ゴメンネおにいちゃん\n　うまく説明できないや！）",
-   "en": "",
+   "en": "Ehehe... (Sorry, big brother, I can't explain it right!)",
    "box": "17x3",
    "face": 8
   },
@@ -97,7 +97,7 @@
    "id": "s15:004ea",
    "op": "15",
    "jp": "とにかく、山の奥へと\n入って行ったおにいちゃんは、",
-   "en": "",
+   "en": "Anyway, you went way deep into the mountains, big brother,",
    "box": "17x3",
    "face": 8
   },
@@ -105,7 +105,7 @@
    "id": "s15:0052e",
    "op": "15",
    "jp": "何かの事故に\n巻き込まれたみたいなの・・・",
-   "en": "",
+   "en": "and it looks like you got caught in some kind of accident...",
    "box": "17x3",
    "face": 8
   },
@@ -113,7 +113,7 @@
    "id": "s15:0056a",
    "op": "15",
    "jp": "それは・・・",
-   "en": "",
+   "en": "It was...",
    "box": "17x3",
    "face": 8
   },
@@ -121,7 +121,7 @@
    "id": "s15:0058a",
    "op": "15",
    "jp": "それはとても大きな\n事故だったと思うよ・・・！",
-   "en": "",
+   "en": "I think it was a really, really big accident...!",
    "box": "17x3",
    "face": 8
   },
@@ -129,7 +129,7 @@
    "id": "s15:0063e",
    "op": "15",
    "jp": "（だって・・・\n　あたしほんとは見たんだもん！）",
-   "en": "",
+   "en": "(Because... I really did see it!)",
    "box": "17x3",
    "face": 8
   },
@@ -137,7 +137,7 @@
    "id": "s15:00682",
    "op": "15",
    "jp": "（雨が止んだあの日・・・）",
-   "en": "",
+   "en": "(That day, when the rain stopped...)",
    "box": "17x3",
    "face": 8
   },
@@ -145,7 +145,7 @@
    "id": "s15:006ae",
    "op": "15",
    "jp": "（あたしがやっと動けるようになって　入って行った山の中に・・・）",
-   "en": "",
+   "en": "(I could finally move, and I went into the mountains...)",
    "box": "17x3",
    "face": 8
   },
@@ -153,7 +153,7 @@
    "id": "s15:00702",
    "op": "15",
    "jp": "（おにいちゃんを\n　囲むようにして倒れてる、\n　大勢の兵隊さんの死体を・・・）",
-   "en": "",
+   "en": "(All around you, big brother, in a ring, the bodies of lots and lots of soldiers...)",
    "box": "17x3",
    "face": 8
   },
@@ -161,7 +161,7 @@
    "id": "s15:00762",
    "op": "15",
    "jp": "いまにも死にそうだった、\n血だらけのおにいちゃんを見たとき、",
-   "en": "",
+   "en": "When I saw you all bloody, big brother, and just about to die,",
    "box": "17x3",
    "face": 8
   },
@@ -169,7 +169,7 @@
    "id": "s15:007b2",
    "op": "15",
    "jp": "あたし、その場で５時間も\n泣いちゃったんだから・・・！",
-   "en": "",
+   "en": "I cried right there for five whole hours, you know...!",
    "box": "17x3",
    "face": 8
   },
@@ -177,7 +177,7 @@
    "id": "s15:007fa",
    "op": "15",
    "jp": "もしもおにいちゃんが\n先に死んじゃったら、\nあたし・・・",
-   "en": "",
+   "en": "If you went and died first, big brother, I...",
    "box": "17x3",
    "face": 8
   },
@@ -185,7 +185,7 @@
    "id": "s15:00846",
    "op": "15",
    "jp": "不安だし、心細いし・・・\nエッ・エッ・・・",
-   "en": "",
+   "en": "I'd be scared, and lonely... Wuh... wuh...",
    "box": "17x3",
    "face": 8
   },
@@ -193,7 +193,7 @@
    "id": "s15:00882",
    "op": "15",
    "jp": "ほっとかれたら泣きすぎで\n死んじゃうよぉおぉぉん・・・！",
-   "en": "",
+   "en": "If you leave me alone, I'll cry so much I'll diiiiie...!",
    "box": "17x3",
    "face": 8
   },
@@ -201,7 +201,7 @@
    "id": "s15:008ce",
    "op": "15",
    "jp": "ひっく・・ひっく・・・！！\nおにいちゃん・・・",
-   "en": "",
+   "en": "Hic... hic...!! Big brother...",
    "box": "17x3",
    "face": 8
   },
@@ -209,7 +209,7 @@
    "id": "s15:0096e",
    "op": "15",
    "jp": "もう、いっしょに寝よ？！\nあたしつかれちゃったよ・・・",
-   "en": "",
+   "en": "Let's take a nap now, okay?! I'm all tired out...",
    "box": "17x3",
    "face": 8
   },
@@ -217,7 +217,7 @@
    "id": "s15:009b6",
    "op": "15",
    "jp": "早く元気になってね！",
-   "en": "",
+   "en": "Get better soon!",
    "box": "17x3",
    "face": 8
   },
@@ -225,7 +225,7 @@
    "id": "s15:009de",
    "op": "15",
    "jp": "（おにいちゃん・・・\n　大好き・・・・）",
-   "en": "",
+   "en": "(Big brother... love you...)",
    "box": "17x3",
    "face": 8
   },
@@ -233,7 +233,7 @@
    "id": "s15:00c5a",
    "op": "15",
    "jp": "おにいちゃんが\n目を覚まさなかったとき・・・",
-   "en": "",
+   "en": "When you wouldn't wake up, big brother...",
    "box": "17x3",
    "face": 8
   },
@@ -241,7 +241,7 @@
    "id": "s15:00c9a",
    "op": "15",
    "jp": "あたし、ほんとはすっごく\n怖かったんだから。",
-   "en": "",
+   "en": "I was really, super scared, you know.",
    "box": "17x3",
    "face": 8
   },
@@ -249,7 +249,7 @@
    "id": "s15:00cda",
    "op": "15",
    "jp": "ほかの子たちみたいに\nあたしには両親もいないし・・・",
-   "en": "",
+   "en": "I don't have a mom and dad like the other kids...",
    "box": "17x3",
    "face": 8
   },
@@ -257,7 +257,7 @@
    "id": "s15:00d22",
    "op": "15",
    "jp": "みんなは、あたしの事\nおかしいってイジメるし・・・",
-   "en": "",
+   "en": "and everybody picks on me and says I'm weird...",
    "box": "17x3",
    "face": 8
   },
@@ -265,7 +265,7 @@
    "id": "s15:00d66",
    "op": "15",
    "jp": "おにいちゃんだけが・・・\nあたしの気持ちを分かって\nくれてたのに！？",
-   "en": "",
+   "en": "You were the only one who understood how I felt, big brother!?",
    "box": "17x3",
    "face": 8
   },
@@ -273,7 +273,7 @@
    "id": "s15:00dbe",
    "op": "15",
    "jp": "あたしね・・・",
-   "en": "",
+   "en": "You know what...",
    "box": "17x3",
    "face": 8
   },
@@ -281,7 +281,7 @@
    "id": "s15:00dde",
    "op": "15",
    "jp": "おにいちゃんの目が大好きなの！",
-   "en": "",
+   "en": "I really love your eyes, big brother!",
    "box": "17x3",
    "face": 8
   },
@@ -289,7 +289,7 @@
    "id": "s15:00e0e",
    "op": "15",
    "jp": "おにいちゃんに見つめられてると、",
-   "en": "",
+   "en": "When you look at me, big brother,",
    "box": "17x3",
    "face": 8
   },
@@ -297,7 +297,7 @@
    "id": "s15:00e42",
    "op": "15",
    "jp": "なんだか・・・",
-   "en": "",
+   "en": "it's kinda...",
    "box": "17x3",
    "face": 8
   },
@@ -305,7 +305,7 @@
    "id": "s15:00e62",
    "op": "15",
    "jp": "なんだかよく分かんないんだけど、",
-   "en": "",
+   "en": "it's kinda, I don't really get it, but...",
    "box": "17x3",
    "face": 8
   },
@@ -313,7 +313,7 @@
    "id": "s15:00e96",
    "op": "15",
    "jp": "胸のあたりがキュンてなるの！",
-   "en": "",
+   "en": "my chest goes all squeezy!",
    "box": "17x3",
    "face": 8
   },
@@ -321,7 +321,7 @@
    "id": "s15:00ed2",
    "op": "15",
    "jp": "おにいちゃんが・・・\nたとえあたしのことキライでも、",
-   "en": "",
+   "en": "Even if you... even if you don't like me, big brother,",
    "box": "17x3",
    "face": 8
   },
@@ -329,7 +329,7 @@
    "id": "s15:00f1a",
    "op": "15",
    "jp": "あたしはおにいちゃんのことが、",
-   "en": "",
+   "en": "I still love you, big brother,",
    "box": "17x3",
    "face": 8
   },
@@ -337,7 +337,7 @@
    "id": "s15:00f4a",
    "op": "15",
    "jp": "だあぁぁい好き！",
-   "en": "",
+   "en": "sooooo much!",
    "box": "17x3",
    "face": 8
   },
@@ -345,7 +345,7 @@
    "id": "s15:00f6e",
    "op": "15",
    "jp": "この気持ちは・・・変わらないよ！",
-   "en": "",
+   "en": "That won't ever... change!",
    "box": "17x3",
    "face": 8
   },
@@ -353,7 +353,7 @@
    "id": "s15:01332",
    "op": "15",
    "jp": "お、おにいちゃぁぁん！\nまだ寝てなくて平気！？",
-   "en": "",
+   "en": "B-big brotherrrr! Are you okay not lying down!?",
    "box": "17x3",
    "face": 8
   },
@@ -361,7 +361,7 @@
    "id": "s15:01382",
    "op": "15",
    "jp": "えぇ～～っつ！！\nもう平気なのぉぉお～～！？",
-   "en": "",
+   "en": "Whaaaaat!! You're okay alreadyyy!?",
    "box": "17x3",
    "face": 8
   },
@@ -369,7 +369,7 @@
    "id": "s15:013ce",
    "op": "15",
    "jp": "目がさめてから、\nまだ一週間しか経ってないのにぃ～！",
-   "en": "",
+   "en": "It's only been a week since you woke uuup!",
    "box": "17x3",
    "face": 8
   },
@@ -377,7 +377,7 @@
    "id": "s15:01416",
    "op": "15",
    "jp": "すごい！すごぉお～～い！！",
-   "en": "",
+   "en": "Wow! Wooooow!!",
    "box": "17x3",
    "face": 8
   },
@@ -385,7 +385,7 @@
    "id": "s15:01452",
    "op": "15",
    "jp": "だけど、なんかちょっと\nつまんないの・・・",
-   "en": "",
+   "en": "But it's kinda no fun...",
    "box": "17x3",
    "face": 8
   },
@@ -393,7 +393,7 @@
    "id": "s15:0148e",
    "op": "15",
    "jp": "だって、さっきまでは\nあたしがおにいちゃんの\nおくさんみたいだったのにぃ！",
-   "en": "",
+   "en": "'Cause up till now, I got to play house and take care of you, big brother!",
    "box": "17x3",
    "face": 8
   },
@@ -401,7 +401,7 @@
    "id": "s15:014fa",
    "op": "15",
    "jp": "まっいいか！",
-   "en": "",
+   "en": "Oh well!",
    "box": "17x3",
    "face": 8
   },
@@ -409,7 +409,7 @@
    "id": "s15:0151a",
    "op": "15",
    "jp": "そのうちそのうち！",
-   "en": "",
+   "en": "Some other time, some other time!",
    "box": "17x3",
    "face": 8
   },
@@ -417,7 +417,7 @@
    "id": "s15:0153e",
    "op": "15",
    "jp": "あっ、でも無理しちゃ\nダメだよ、おにいちゃん！\nゆっくり直せばいいんだからね！",
-   "en": "",
+   "en": "Oh, but don't overdo it, big brother! You can take your time getting better!",
    "box": "17x3",
    "face": 8
   },
@@ -433,7 +433,7 @@
    "id": "s15:015ce",
    "op": "15",
    "jp": "そ・それと・・・\n一つだけ大事なお願いがあるの、",
-   "en": "",
+   "en": "A-and... there's just one big favor I want to ask,",
    "box": "17x3",
    "face": 8
   },
@@ -441,7 +441,7 @@
    "id": "s15:01612",
    "op": "15",
    "jp": "おにいちゃん、聞いてくれる？",
-   "en": "",
+   "en": "Will you listen, big brother?",
    "box": "17x3",
    "face": 8
   },
@@ -449,7 +449,7 @@
    "id": "s15:01642",
    "op": "15",
    "jp": "これは重要な事だから\n絶対に忘れちゃダメだよ！！",
-   "en": "",
+   "en": "This is really important, so don't you ever forget it!!",
    "box": "17x3",
    "face": 8
   },
@@ -457,7 +457,7 @@
    "id": "s15:01686",
    "op": "15",
    "jp": "おにいちゃんは大ケガをしちゃって、",
-   "en": "",
+   "en": "You got all hurt, big brother,",
    "box": "17x3",
    "face": 8
   },
@@ -465,7 +465,7 @@
    "id": "s15:016ba",
    "op": "15",
    "jp": "この世界での思い出を\n全部無くしちゃってるんでしょ？！",
-   "en": "",
+   "en": "and you lost all your memories of this world, right?!",
    "box": "17x3",
    "face": 8
   },
@@ -473,7 +473,7 @@
    "id": "s15:01702",
    "op": "15",
    "jp": "だから、あたしがイイって言うまで、勝手に家の外に出ないで欲しいの！",
-   "en": "",
+   "en": "So until I say it's okay, don't go outside the house by yourself!",
    "box": "17x3",
    "face": 8
   },
@@ -481,7 +481,7 @@
    "id": "s15:01756",
    "op": "15",
    "jp": "ねぇ、おにいちゃん一生のお願い！",
-   "en": "",
+   "en": "Pleeease, big brother, I'll never ask for anything else ever!",
    "box": "17x3",
    "face": 8
   },
@@ -489,7 +489,7 @@
    "id": "s15:0178a",
    "op": "15",
    "jp": "あたしといっしょに\nちゃんとリハビリしよ！",
-   "en": "",
+   "en": "Let's do your rehab properly, together!",
    "box": "17x3",
    "face": 8
   }

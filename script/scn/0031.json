@@ -9,28 +9,28 @@
    "id": "s31:00030",
    "op": "14",
    "jp": "□月×日　晴れ",
-   "en": "",
+   "en": "Month ?, Day ? -- Sunny",
    "box": "19x3"
   },
   {
    "id": "s31:00046",
    "op": "14",
    "jp": "あの人が目覚めた・・・",
-   "en": "",
+   "en": "He has awoken...",
    "box": "19x3"
   },
   {
    "id": "s31:00064",
    "op": "14",
    "jp": "あの人が目覚めた・・・",
-   "en": "",
+   "en": "He has awoken...",
    "box": "19x3"
   },
   {
    "id": "s31:00082",
    "op": "14",
    "jp": "あの人が目覚めたあの人が目覚めた・・・",
-   "en": "",
+   "en": "He has awoken, he has awoken...",
    "box": "19x3"
   },
   {
@@ -44,63 +44,63 @@
    "id": "s31:000c4",
    "op": "14",
    "jp": "だけど過去の記憶が無いなんて・・・",
-   "en": "",
+   "en": "But to have no memory of the past...",
    "box": "19x3"
   },
   {
    "id": "s31:000ee",
    "op": "14",
    "jp": "これが罰？それとも罪の報い！？",
-   "en": "",
+   "en": "Is this punishment? Or the wages of sin!?",
    "box": "19x3"
   },
   {
    "id": "s31:00134",
    "op": "14",
    "jp": "△月○日　雨\nアタシは何度も罪を犯しては・・・",
-   "en": "",
+   "en": "Month ?, Day ? -- Rain\nI sin, again and again...",
    "box": "19x3"
   },
   {
    "id": "s31:0016a",
    "op": "14",
    "jp": "それを償う事もせず、\nまた罪を犯す・・・",
-   "en": "",
+   "en": "never atoning, and sinning once more...",
    "box": "19x3"
   },
   {
    "id": "s31:0019a",
    "op": "14",
    "jp": "嫌なアタシ",
-   "en": "",
+   "en": "Hateful me",
    "box": "19x3"
   },
   {
    "id": "s31:001ac",
    "op": "14",
    "jp": "恥知らずなアタシ・・・",
-   "en": "",
+   "en": "Shameless me...",
    "box": "19x3"
   },
   {
    "id": "s31:001ca",
    "op": "14",
    "jp": "アタシは有りもしない夢を見てる\nだけかもしれない・・・",
-   "en": "",
+   "en": "Perhaps I'm only dreaming a dream that doesn't exist...",
    "box": "19x3"
   },
   {
    "id": "s31:00208",
    "op": "14",
    "jp": "熱病に侵されてるだけ\nかも知れない・・・",
-   "en": "",
+   "en": "Perhaps I'm only sick with fever...",
    "box": "19x3"
   },
   {
    "id": "s31:00238",
    "op": "14",
    "jp": "怯えてるの　忘れたいの\nそれとも誰かに抱かれたいの・・・・",
-   "en": "",
+   "en": "Am I afraid? Do I want to forget? Or do I want someone to hold me....",
    "box": "19x3"
   },
   {
@@ -114,217 +114,217 @@
    "id": "s31:0028e",
    "op": "14",
    "jp": "嫌なアタシ",
-   "en": "",
+   "en": "Hateful me",
    "box": "19x3"
   },
   {
    "id": "s31:002a0",
    "op": "14",
    "jp": "恥知らずなアタシ・・・",
-   "en": "",
+   "en": "Shameless me...",
    "box": "19x3"
   },
   {
    "id": "s31:002dc",
    "op": "14",
    "jp": "◇月◎日　曇り",
-   "en": "",
+   "en": "Month ?, Day ? -- Cloudy",
    "box": "19x3"
   },
   {
    "id": "s31:002f2",
    "op": "14",
    "jp": "いつまでも目覚めないアンタを\n思い続ける事は・・・",
-   "en": "",
+   "en": "Going on thinking of you, who never wake...",
    "box": "19x3"
   },
   {
    "id": "s31:0032c",
    "op": "14",
    "jp": "口に出さなきゃ、\n誰にも非難されないアタシの秘め事・・・",
-   "en": "",
+   "en": "is my secret, which no one can condemn, so long as I don't say it aloud...",
    "box": "19x3"
   },
   {
    "id": "s31:0036c",
    "op": "14",
    "jp": "だけどアタシの心の中に・・・",
-   "en": "",
+   "en": "But in my heart...",
    "box": "19x3"
   },
   {
    "id": "s31:00390",
    "op": "14",
    "jp": "罪という名のナイフが刺さり、\n愛と言う血が涙を流す・・・",
-   "en": "",
+   "en": "a knife called sin is stuck, and blood called love sheds tears...",
    "box": "19x3"
   },
   {
    "id": "s31:003d0",
    "op": "14",
    "jp": "出会いが罪？",
-   "en": "",
+   "en": "Is meeting you a sin?",
    "box": "19x3"
   },
   {
    "id": "s31:003e4",
    "op": "14",
    "jp": "想いが罪・・・？",
-   "en": "",
+   "en": "Is longing a sin...?",
    "box": "19x3"
   },
   {
    "id": "s31:003fc",
    "op": "14",
    "jp": "だからアンタは目覚めない・・・？",
-   "en": "",
+   "en": "Is that why you don't wake...?",
    "box": "19x3"
   },
   {
    "id": "s31:00424",
    "op": "14",
    "jp": "今日で何日・・・",
-   "en": "",
+   "en": "How many days today...",
    "box": "19x3"
   },
   {
    "id": "s31:0043c",
    "op": "14",
    "jp": "明日は何日・・・？",
-   "en": "",
+   "en": "How many days tomorrow...?",
    "box": "19x3"
   },
   {
    "id": "s31:00456",
    "op": "14",
    "jp": "アタシの手首のためらい傷が、\nアンタの眠りの日付の証し・・・",
-   "en": "",
+   "en": "The hesitation scars on my wrist are the proof of the days you've slept...",
    "box": "19x3"
   },
   {
    "id": "s31:004b8",
    "op": "14",
    "jp": "○月×日　晴れ",
-   "en": "",
+   "en": "Month ?, Day ? -- Sunny",
    "box": "19x3"
   },
   {
    "id": "s31:004ce",
    "op": "14",
    "jp": "時が経っても・・・",
-   "en": "",
+   "en": "Even as time passes...",
    "box": "19x3"
   },
   {
    "id": "s31:004e8",
    "op": "14",
    "jp": "忘れられない痛みだって\nある・・・",
-   "en": "",
+   "en": "some pain can't be forgotten...",
    "box": "19x3"
   },
   {
    "id": "s31:00512",
    "op": "14",
    "jp": "泣きたいときに、",
-   "en": "",
+   "en": "When they want to cry,",
    "box": "19x3"
   },
   {
    "id": "s31:0052a",
    "op": "14",
    "jp": "泣けない人だっている・・・",
-   "en": "",
+   "en": "some people can't cry...",
    "box": "19x3"
   },
   {
    "id": "s31:0054c",
    "op": "14",
    "jp": "涙を流せば、忘れられるなんて、\nいい加減な嘘、",
-   "en": "",
+   "en": "That shedding tears lets you forget is a careless lie,",
    "box": "19x3"
   },
   {
    "id": "s31:00582",
    "op": "14",
    "jp": "その程度の思い・・・",
-   "en": "",
+   "en": "a feeling of that little worth...",
    "box": "19x3"
   },
   {
    "id": "s31:0059e",
    "op": "14",
    "jp": "所詮人は一人なんだと・・・",
-   "en": "",
+   "en": "That, in the end, people are alone...",
    "box": "19x3"
   },
   {
    "id": "s31:005c0",
    "op": "14",
    "jp": "言われてしまえば\nそれまでだけど・・・",
-   "en": "",
+   "en": "If that's said, then that's that, but...",
    "box": "19x3"
   },
   {
    "id": "s31:005ee",
    "op": "14",
    "jp": "それでもアンタの・・・",
-   "en": "",
+   "en": "Even so, your...",
    "box": "19x3"
   },
   {
    "id": "s31:0060c",
    "op": "14",
    "jp": "アンタの笑顔がもう一度見たい・・・",
-   "en": "",
+   "en": "I want to see your smile one more time...",
    "box": "19x3"
   },
   {
    "id": "s31:00654",
    "op": "14",
    "jp": "○月■日　晴れ",
-   "en": "",
+   "en": "Month ?, Day ? -- Sunny",
    "box": "19x3"
   },
   {
    "id": "s31:0066a",
    "op": "14",
    "jp": "夜が怖い・・・",
-   "en": "",
+   "en": "I fear the night...",
    "box": "19x3"
   },
   {
    "id": "s31:00680",
    "op": "14",
    "jp": "あの人が消える夢・・・",
-   "en": "",
+   "en": "The dream in which he vanishes...",
    "box": "19x3"
   },
   {
    "id": "s31:0069e",
    "op": "14",
    "jp": "望むほどに、探すほどに・・・",
-   "en": "",
+   "en": "The more I wish, the more I search...",
    "box": "19x3"
   },
   {
    "id": "s31:006c2",
    "op": "14",
    "jp": "あの人が消える夢・・・\n・・・・・",
-   "en": "",
+   "en": "The dream in which he vanishes... .....",
    "box": "19x3"
   },
   {
    "id": "s31:006ec",
    "op": "14",
    "jp": "あの人が消える・・・\nアタシの腕から消える・・・",
-   "en": "",
+   "en": "He vanishes... vanishes from my arms...",
    "box": "19x3"
   },
   {
    "id": "s31:00724",
    "op": "14",
    "jp": "夢で済むなら消えないで・・・",
-   "en": "",
+   "en": "If it's only a dream, then don't vanish...",
    "box": "19x3"
   }
  ]

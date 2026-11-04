@@ -292,7 +292,7 @@
    "id": "s11:00c12",
    "op": "15",
    "jp": "そう！その通り！！",
-   "en": "",
+   "en": "Yes! That's right!!",
    "box": "17x3",
    "face": 10
   },
@@ -300,7 +300,7 @@
    "id": "s11:00c36",
    "op": "15",
    "jp": "なぁんだ、えへへへ！\n肝心の事は覚えてるじゃん！",
-   "en": "",
+   "en": "Oh, see, ehehehe! You do remember the important stuff!",
    "box": "17x3",
    "face": 10
   },
@@ -316,7 +316,7 @@
    "id": "s11:00ca6",
    "op": "15",
    "jp": "じゃあいつものやつ、いくよ！",
-   "en": "",
+   "en": "Okay, here comes the usual!",
    "box": "17x3",
    "face": 10
   },
@@ -324,7 +324,7 @@
    "id": "s11:00ce2",
    "op": "15",
    "jp": "イェ～～ィ！！",
-   "en": "",
+   "en": "Yeaaaaah!!",
    "box": "17x3",
    "face": 10
   },
@@ -332,7 +332,7 @@
    "id": "s11:00d12",
    "op": "15",
    "jp": "ここは私と・・・\nヌイグルミさん達だけの家！",
-   "en": "",
+   "en": "This house is just for me... and my plushies!",
    "box": "17x3",
    "face": 10
   },
@@ -340,7 +340,7 @@
    "id": "s11:00d52",
    "op": "15",
    "jp": "他には誰～もいないこの世の\nパラダ～イス！",
-   "en": "",
+   "en": "Nooobody else around, a paradiiise on earth!",
    "box": "17x3",
    "face": 10
   },
@@ -348,7 +348,7 @@
    "id": "s11:00d8e",
    "op": "15",
    "jp": "キミは私が２番目に大切にしている\nヌイグルミさんなのに・・・",
-   "en": "",
+   "en": "You're my second most precious plushie, and yet...",
    "box": "17x3",
    "face": 10
   },
@@ -356,7 +356,7 @@
    "id": "s11:00dde",
    "op": "15",
    "jp": "壊れて・・・\n動かなくなっちゃったんだょぉ！？",
-   "en": "",
+   "en": "you broke... and stopped moving, you know!?",
    "box": "17x3",
    "face": 10
   },
@@ -364,7 +364,7 @@
    "id": "s11:00e1e",
    "op": "15",
    "jp": "雨の日に雷が落ちて・・・",
-   "en": "",
+   "en": "Lightning struck, on a rainy day...",
    "box": "17x3",
    "face": 10
   },
@@ -372,7 +372,7 @@
    "id": "s11:00e4a",
    "op": "15",
    "jp": "傷のほころびは手当したんだけど、\nずっと眠ったままなんだもん！",
-   "en": "",
+   "en": "I mended the rips in your wounds, but you just kept on sleeping!",
    "box": "17x3",
    "face": 10
   },
@@ -380,7 +380,7 @@
    "id": "s11:00e9a",
    "op": "15",
    "jp": "とっても心配しちゃったよ！",
-   "en": "",
+   "en": "I was sooo worried!",
    "box": "17x3",
    "face": 10
   },
@@ -388,7 +388,7 @@
    "id": "s11:00ec6",
    "op": "15",
    "jp": "ね～っ！カインく～ん！！",
-   "en": "",
+   "en": "Riiight! Cain-kuuun!!",
    "box": "17x3",
    "face": 10
   },
@@ -404,7 +404,7 @@
    "id": "s11:0100a",
    "op": "15",
    "jp": "えっ？何よ、\n人が喋ってんのに・・・",
-   "en": "",
+   "en": "Huh? What, I'm talking here...",
    "box": "17x3",
    "face": 10
   },
@@ -412,7 +412,7 @@
    "id": "s11:01042",
    "op": "15",
    "jp": "キミどこ見て・・・・",
-   "en": "",
+   "en": "Where are you looking....",
    "box": "17x3",
    "face": 10
   },
@@ -420,7 +420,7 @@
    "id": "s11:0106a",
    "op": "15",
    "jp": "ひょっとして・・・",
-   "en": "",
+   "en": "Could it be...",
    "box": "17x3",
    "face": 10
   },
@@ -428,7 +428,7 @@
    "id": "s11:0108e",
    "op": "15",
    "jp": "背中の・・・羽？！",
-   "en": "",
+   "en": "The... wings on your back?!",
    "box": "17x3",
    "face": 10
   },
@@ -436,7 +436,7 @@
    "id": "s11:010b2",
    "op": "15",
    "jp": "ふう～～ん！",
-   "en": "",
+   "en": "Hmmmmm!",
    "box": "17x3",
    "face": 10
   },
@@ -444,7 +444,7 @@
    "id": "s11:010d2",
    "op": "15",
    "jp": "本っ当～に・・・\n全部忘れちゃったんだぁ！？",
-   "en": "",
+   "en": "You really, reeeally forgot everything, huh!?",
    "box": "17x3",
    "face": 10
   },
@@ -452,7 +452,7 @@
    "id": "s11:01112",
    "op": "15",
    "jp": "この羽はねぇ！\n誰にでも生えてる物なの！",
-   "en": "",
+   "en": "These wings, see! Everybody's got them!",
    "box": "17x3",
    "face": 10
   },
@@ -460,7 +460,7 @@
    "id": "s11:0114e",
    "op": "15",
    "jp": "キミにも・・・私にも・・・！",
-   "en": "",
+   "en": "You do... and so do I...!",
    "box": "17x3",
    "face": 10
   },
@@ -476,7 +476,7 @@
    "id": "s11:011a6",
    "op": "15",
    "jp": "なっ、なによぉ・・・？\nさっきから黙ったまんまで・・・！",
-   "en": "",
+   "en": "Wh-what...? You've just been sitting there silent this whole time...!",
    "box": "17x3",
    "face": 10
   },
@@ -484,7 +484,7 @@
    "id": "s11:011f2",
    "op": "15",
    "jp": "ちょっとはなんか喋ったら・・・？",
-   "en": "",
+   "en": "Couldn't you say a little something...?",
    "box": "17x3",
    "face": 10
   },
@@ -492,7 +492,7 @@
    "id": "s11:01232",
    "op": "15",
    "jp": "ああ～んもうイイや！\n（ん、もう～！手間かかるなぁ）",
-   "en": "",
+   "en": "Aaah, forget it! (Geez! You're such a handful!)",
    "box": "17x3",
    "face": 10
   },
@@ -508,7 +508,7 @@
    "id": "s11:012a2",
    "op": "15",
    "jp": "ふん・・・！\nまぁ、しょうがないかぁ・・・！",
-   "en": "",
+   "en": "Hmph...! Well, guess it can't be helped...!",
    "box": "17x3",
    "face": 10
   },
@@ -516,7 +516,7 @@
    "id": "s11:012e2",
    "op": "15",
    "jp": "じゃあ、順番に思い出していこ！",
-   "en": "",
+   "en": "Okay, let's remember it one piece at a time!",
    "box": "17x3",
    "face": 10
   },
@@ -524,7 +524,7 @@
    "id": "s11:01322",
    "op": "15",
    "jp": "（この世界のこと・・・）",
-   "en": "",
+   "en": "(About this world...)",
    "box": "17x3",
    "face": 10
   },
@@ -532,7 +532,7 @@
    "id": "s11:0134e",
    "op": "15",
    "jp": "（そして、私達のこと・・・）",
-   "en": "",
+   "en": "(And about us...)",
    "box": "17x3",
    "face": 10
   },
@@ -540,14 +540,14 @@
    "id": "s11:013d2",
    "op": "1d",
    "jp": "１章を続ける！",
-   "en": "",
+   "en": "Continue with Chapter 1!",
    "max": 15
   },
   {
    "id": "s11:013e8",
    "op": "1d",
    "jp": "２章から始める！",
-   "en": "",
+   "en": "Start from Chapter 2!",
    "max": 15
   }
  ]

@@ -10,1140 +10,1140 @@
   {
    "id": "sweapon:0.name",
    "jp": "ダミー　　　　",
-   "en": "",
+   "en": "Dummy",
    "max": 7
   },
   {
    "id": "sweapon:0.desc",
    "jp": "ダミー",
-   "en": "",
+   "en": "Dummy",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:0.effect",
    "jp": "ダミー\n詳しいコメント",
-   "en": "",
+   "en": "Dummy\nDetailed comment",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:1.name",
    "jp": "ハボリュム",
-   "en": "",
+   "en": "Haborym",
    "max": 7
   },
   {
    "id": "sweapon:1.desc",
    "jp": "カージの小さな助力を得る事ができる",
-   "en": "",
+   "en": "Can draw a small aid from Kaji.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:1.effect",
    "jp": "カージ系小攻撃追加\nバイオリズム影響、変化無し",
-   "en": "",
+   "en": "Adds a small Kaji attack.\nNo biorhythm effect or change.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:2.name",
    "jp": "フォーカロル",
-   "en": "",
+   "en": "Focalor",
    "max": 7
   },
   {
    "id": "sweapon:2.desc",
    "jp": "フィキスの小さな助力を得る事ができる",
-   "en": "",
+   "en": "Can draw a small aid from Fikis.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:2.effect",
    "jp": "フィキス系小攻撃追加\nバイオリズム影響、変化無し",
-   "en": "",
+   "en": "Adds a small Fikis attack.\nNo biorhythm effect or change.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:3.name",
    "jp": "フルフル",
-   "en": "",
+   "en": "Furfur",
    "max": 7
   },
   {
    "id": "sweapon:3.desc",
    "jp": "ミュタの小さな助力を得る事ができる",
-   "en": "",
+   "en": "Can draw a small aid from Myuta.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:3.effect",
    "jp": "ミュタ系小攻撃追加\nバイオリズム影響、変化無し",
-   "en": "",
+   "en": "Adds a small Myuta attack.\nNo biorhythm effect or change.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:4.name",
    "jp": "パイモン",
-   "en": "",
+   "en": "Paimon",
    "max": 7
   },
   {
    "id": "sweapon:4.desc",
    "jp": "カージの助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from Kaji.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:4.effect",
    "jp": "カージ系大攻撃追加\nバイオリズム影響、変化有り",
-   "en": "",
+   "en": "Adds a big Kaji attack.\nHas biorhythm effect and change.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:5.name",
    "jp": "ヴィネ",
-   "en": "",
+   "en": "Vine",
    "max": 7
   },
   {
    "id": "sweapon:5.desc",
    "jp": "フィキスの助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from Fikis.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:5.effect",
    "jp": "フィキス系大攻撃追加\nバイオリズム影響、変化有り",
-   "en": "",
+   "en": "Adds a big Fikis attack.\nHas biorhythm effect and change.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:6.name",
    "jp": "バリデト",
-   "en": "",
+   "en": "Balidet",
    "max": 7
   },
   {
    "id": "sweapon:6.desc",
    "jp": "ミュタの助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from Myuta.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:6.effect",
    "jp": "ミュタ系大攻撃追加\nバイオリズム影響、変化有り",
-   "en": "",
+   "en": "Adds a big Myuta attack.\nHas biorhythm effect and change.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:7.name",
    "jp": "デーヴァ",
-   "en": "",
+   "en": "Deva",
    "max": 7
   },
   {
    "id": "sweapon:7.desc",
    "jp": "光の助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from light.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:7.effect",
    "jp": "午前のみ有効な追加攻撃\nバイオリズム影響有り",
-   "en": "",
+   "en": "Extra attack, mornings only.\nAffected by biorhythm.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:8.name",
    "jp": "リントラウ",
-   "en": "",
+   "en": "Rintrah",
    "max": 7
   },
   {
    "id": "sweapon:8.desc",
    "jp": "闇の助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from darkness.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:8.effect",
    "jp": "午後のみ有効な追加攻撃\nバイオリズム影響有り",
-   "en": "",
+   "en": "Extra attack, afternoons only.\nAffected by biorhythm.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:9.name",
    "jp": "ハウレス",
-   "en": "",
+   "en": "Haures",
    "max": 7
   },
   {
    "id": "sweapon:9.desc",
    "jp": "風の助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from the wind.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:9.effect",
    "jp": "上下４段目まで攻撃可能\n隣接マスに限る",
-   "en": "",
+   "en": "Attacks up to 4 levels up or down.\nAdjacent squares only.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:10.name",
    "jp": "アエシュマ",
-   "en": "",
+   "en": "Aeshma",
    "max": 7
   },
   {
    "id": "sweapon:10.desc",
    "jp": "猛き力でねじ伏せる事ができる",
-   "en": "",
+   "en": "Can crush foes with savage strength.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:10.effect",
    "jp": "全ての待機型に通常ダメージ\n回避型の回避行動不可",
-   "en": "",
+   "en": "Normal damage against all Stances.\nEvade Stance can't dodge it.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:11.name",
    "jp": "フォラス",
-   "en": "",
+   "en": "Foras",
    "max": 7
   },
   {
    "id": "sweapon:11.desc",
    "jp": "カージの助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from Kaji.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:11.effect",
    "jp": "ＨＰ吸収攻撃\nバイオリズムがカージの時は効果大",
-   "en": "",
+   "en": "HP-draining attack.\nStronger when biorhythm is Kaji.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:12.name",
    "jp": "アクラハイル",
-   "en": "",
+   "en": "Akrahail",
    "max": 7
   },
   {
    "id": "sweapon:12.desc",
    "jp": "フィキスの助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from Fikis.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:12.effect",
    "jp": "ＨＰ吸収攻撃\nバイオリズムがフィキスの時は効果大",
-   "en": "",
+   "en": "HP-draining attack.\nStronger when biorhythm is Fikis.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:13.name",
    "jp": "カラブ",
-   "en": "",
+   "en": "Karab",
    "max": 7
   },
   {
    "id": "sweapon:13.desc",
    "jp": "ミュタの助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from Myuta.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:13.effect",
    "jp": "ＨＰ吸収攻撃\nバイオリズムがミュタの時は効果大",
-   "en": "",
+   "en": "HP-draining attack.\nStronger when biorhythm is Myuta.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:14.name",
    "jp": "アイニ",
-   "en": "",
+   "en": "Aini",
    "max": 7
   },
   {
    "id": "sweapon:14.desc",
    "jp": "カージの助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from Kaji.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:14.effect",
    "jp": "ＢＰ吸収攻撃\nバイオリズムがカージの時は効果大",
-   "en": "",
+   "en": "BP-draining attack.\nStronger when biorhythm is Kaji.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:15.name",
    "jp": "タスクト",
-   "en": "",
+   "en": "Tasukut",
    "max": 7
   },
   {
    "id": "sweapon:15.desc",
    "jp": "フィキスの助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from Fikis.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:15.effect",
    "jp": "ＢＰ吸収攻撃\nバイオリズムがフィキスの時は効果大",
-   "en": "",
+   "en": "BP-draining attack.\nStronger when biorhythm is Fikis.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:16.name",
    "jp": "タラブ",
-   "en": "",
+   "en": "Tarab",
    "max": 7
   },
   {
    "id": "sweapon:16.desc",
    "jp": "ミュタの助力を得る事ができる",
-   "en": "",
+   "en": "Can draw aid from Myuta.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:16.effect",
    "jp": "ＢＰ吸収攻撃\nバイオリズムがミュタの時は効果大",
-   "en": "",
+   "en": "BP-draining attack.\nStronger when biorhythm is Myuta.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:17.name",
    "jp": "フルカス",
-   "en": "",
+   "en": "Furcas",
    "max": 7
   },
   {
    "id": "sweapon:17.desc",
    "jp": "堅固な信念を貫く事ができる",
-   "en": "",
+   "en": "Can pierce with unshakable conviction.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:17.effect",
    "jp": "貫通攻撃",
-   "en": "",
+   "en": "Piercing attack.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:18.name",
    "jp": "ザロビ",
-   "en": "",
+   "en": "Zarobi",
    "max": 7
   },
   {
    "id": "sweapon:18.desc",
    "jp": "自身の名誉を付加する事ができる",
-   "en": "",
+   "en": "Can add your own honor to the blow.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:18.effect",
    "jp": "レベル分ダメージ追加",
-   "en": "",
+   "en": "Adds damage equal to your level.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:19.name",
    "jp": "バリサルゴン",
-   "en": "",
+   "en": "Balisargon",
    "max": 7
   },
   {
    "id": "sweapon:19.desc",
    "jp": "窮地の援助が受ける事ができる",
-   "en": "",
+   "en": "Can receive aid in a desperate hour.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:19.effect",
    "jp": "ＨＰ最大値－現在値分ダメージ追加",
-   "en": "",
+   "en": "Adds damage equal to max HP minus current HP.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:20.name",
    "jp": "グシオン",
-   "en": "",
+   "en": "Gusion",
    "max": 7
   },
   {
    "id": "sweapon:20.desc",
    "jp": "堕落な精神を促す事ができる",
-   "en": "",
+   "en": "Can bring on a corrupted spirit.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:20.effect",
    "jp": "睡眠状態追加",
-   "en": "",
+   "en": "Adds Sleep.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:21.name",
    "jp": "シスラウ",
-   "en": "",
+   "en": "Sislau",
    "max": 7
   },
   {
    "id": "sweapon:21.desc",
    "jp": "一時の痛みを与える事ができる",
-   "en": "",
+   "en": "Can inflict a passing pain.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:21.effect",
    "jp": "毒状態追加",
-   "en": "",
+   "en": "Adds Poison.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:22.name",
    "jp": "ゼイルナ",
-   "en": "",
+   "en": "Zeirna",
    "max": 7
   },
   {
    "id": "sweapon:22.desc",
    "jp": "動けない苦しみを与える事ができる",
-   "en": "",
+   "en": "Can inflict the agony of immobility.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:22.effect",
    "jp": "麻ε状態追加",
-   "en": "",
+   "en": "Adds Paralysis.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:23.name",
    "jp": "シャクス",
-   "en": "",
+   "en": "Shax",
    "max": 7
   },
   {
    "id": "sweapon:23.desc",
    "jp": "黙する痛みを教える事ができる",
-   "en": "",
+   "en": "Can teach the pain of silence.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:23.effect",
    "jp": "凍結状態追加",
-   "en": "",
+   "en": "Adds BP Freeze.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:24.name",
    "jp": "バヴァニ",
-   "en": "",
+   "en": "Bavani",
    "max": 7
   },
   {
    "id": "sweapon:24.desc",
    "jp": "動けない呪縛を与える事ができる",
-   "en": "",
+   "en": "Can lay a curse of immobility.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:24.effect",
    "jp": "石化状態追加",
-   "en": "",
+   "en": "Adds Stone.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:25.name",
    "jp": "アンドラス",
-   "en": "",
+   "en": "Andras",
    "max": 7
   },
   {
    "id": "sweapon:25.desc",
    "jp": "永遠の休息を与える事ができる",
-   "en": "",
+   "en": "Can grant eternal rest.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:25.effect",
    "jp": "即死攻撃",
-   "en": "",
+   "en": "Instant-death attack.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:26.name",
    "jp": "ベレト",
-   "en": "",
+   "en": "Beleth",
    "max": 7
   },
   {
    "id": "sweapon:26.desc",
    "jp": "覇気をあてる事ができる",
-   "en": "",
+   "en": "Can hit with raw fighting spirit.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:26.effect",
    "jp": "吹っ飛ばし攻撃\n１マス後退させる",
-   "en": "",
+   "en": "Knockback attack\nPushes the target back 1 square",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:27.name",
    "jp": "ガープ",
-   "en": "",
+   "en": "Gaap",
    "max": 7
   },
   {
    "id": "sweapon:27.desc",
    "jp": "時空の共鳴を促す事ができる",
-   "en": "",
+   "en": "Can spur a resonance of space-time.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:27.effect",
    "jp": "場所交代攻撃",
-   "en": "",
+   "en": "Position-swap attack",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:28.name",
    "jp": "ダンタリオン",
-   "en": "",
+   "en": "Dantalion",
    "max": 7
   },
   {
    "id": "sweapon:28.desc",
    "jp": "険悪による離別を促す事ができる",
-   "en": "",
+   "en": "Can force parting through hostility.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:28.effect",
    "jp": "ゾック消去攻撃：２４ＣＴ継続\n期間中ゾックを無効化する",
-   "en": "",
+   "en": "ZOC-erase attack: lasts 24 CT\nNullifies ZOC for the duration",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:29.name",
    "jp": "ムルムル",
-   "en": "",
+   "en": "Murmur",
    "max": 7
   },
   {
    "id": "sweapon:29.desc",
    "jp": "蛮勇な恐怖を与える事ができる",
-   "en": "",
+   "en": "Can inflict a reckless terror.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:29.effect",
    "jp": "攻撃弱体化攻撃：２４ＣＴ継続\n期間中ＳＴＲを下げる",
-   "en": "",
+   "en": "Attack-weakening attack: lasts 24 CT\nLowers STR for the duration",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:30.name",
    "jp": "バラトロン",
-   "en": "",
+   "en": "Baratron",
    "max": 7
   },
   {
    "id": "sweapon:30.desc",
    "jp": "φχな畏怖を与える事ができる",
-   "en": "",
+   "en": "Can inflict tremendous awe.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:30.effect",
    "jp": "魔力弱体化攻撃：２４ＣＴ継続\n期間中ＩＮＴを下げる",
-   "en": "",
+   "en": "Magic-weakening attack: lasts 24 CT\nLowers INT for the duration",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:31.name",
    "jp": "バルマン",
-   "en": "",
+   "en": "Balman",
    "max": 7
   },
   {
    "id": "sweapon:31.desc",
    "jp": "蛮勇な守護を得る事ができる",
-   "en": "",
+   "en": "Can gain a reckless protection.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:31.effect",
    "jp": "物理攻撃回避：２４ＣＴ継続\n期間中一度だけ物理攻撃を防ぐ",
-   "en": "",
+   "en": "Physical evade: lasts 24 CT\nBlocks 1 physical attack in that time",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:32.name",
    "jp": "マレブランケ",
-   "en": "",
+   "en": "Malebranche",
    "max": 7
   },
   {
    "id": "sweapon:32.desc",
    "jp": "φχな守護を得る事ができる",
-   "en": "",
+   "en": "Can gain tremendous protection.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:32.effect",
    "jp": "魔法攻撃回避：２４ＣＴ継続\n期間中一度だけ魔法攻撃を防ぐ",
-   "en": "",
+   "en": "Magic evade: lasts 24 CT\nBlocks 1 magic attack in that time",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:33.name",
    "jp": "トゥキファト",
-   "en": "",
+   "en": "Tukiphat",
    "max": 7
   },
   {
    "id": "sweapon:33.desc",
    "jp": "偉大な守護を得る事ができる",
-   "en": "",
+   "en": "Can gain great protection.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:33.effect",
    "jp": "物理、魔法攻撃回避：２４ＣＴ\n期間中一度だけ物理、魔法攻撃を防ぐ",
-   "en": "",
+   "en": "Physical/magic evade: lasts 24 CT\nBlocks 1 physical or magic attack",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:34.name",
    "jp": "アガレス",
-   "en": "",
+   "en": "Agares",
    "max": 7
   },
   {
    "id": "sweapon:34.desc",
    "jp": "自然の力を制する事ができる",
-   "en": "",
+   "en": "Can master the power of nature.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:34.effect",
    "jp": "魔法バイオリズム維持：１２ＣＴ継続\n期間中バイオリズム維持",
-   "en": "",
+   "en": "Magic biorhythm hold: lasts 12 CT\nHolds the biorhythm for the duration",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:35.name",
    "jp": "ヴァサゴ",
-   "en": "",
+   "en": "Vassago",
    "max": 7
   },
   {
    "id": "sweapon:35.desc",
    "jp": "自然の力を制する事ができる",
-   "en": "",
+   "en": "Can master the power of nature.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:35.effect",
    "jp": "魔法バイオリズム反転：１２ＣＴ継続\n期間中バイオリズム効果反転",
-   "en": "",
+   "en": "Magic biorhythm flip: lasts 12 CT\nReverses its effects for the duration",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:36.name",
    "jp": "ルビカンテ",
-   "en": "",
+   "en": "Rubicante",
    "max": 7
   },
   {
    "id": "sweapon:36.desc",
    "jp": "カージの力を行使する事ができる",
-   "en": "",
+   "en": "Can wield the power of Kaji.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:36.effect",
    "jp": "魔法「ヘルゲイザー」が使用できる\nバイオリズム影響、変化有り",
-   "en": "",
+   "en": "Can cast the spell \"Hell Geyser\"\nBiorhythm effect and change: Yes",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:37.name",
    "jp": "ヘイグロト",
-   "en": "",
+   "en": "Heiglot",
    "max": 7
   },
   {
    "id": "sweapon:37.desc",
    "jp": "フィキスの力を行使する事ができる",
-   "en": "",
+   "en": "Can wield the power of Fikis.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:37.effect",
    "jp": "魔法「ノースレイス」が使用できる\nバイオリズム影響、変化有り",
-   "en": "",
+   "en": "Can cast the spell \"North Wraith\"\nBiorhythm effect and change: Yes",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:38.name",
    "jp": "ヘルレイカー",
-   "en": "",
+   "en": "Hell Raker",
    "max": 7
   },
   {
    "id": "sweapon:38.desc",
    "jp": "ミュタの力を行使する事ができる",
-   "en": "",
+   "en": "Can wield the power of Myuta.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:38.effect",
    "jp": "魔法「サナトス」が使用できる\nバイオリズム影響、変化有り",
-   "en": "",
+   "en": "Can cast the spell \"Thanatos\"\nBiorhythm effect and change: Yes",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:39.name",
    "jp": "Ｒ・Ｗ・Ｒ",
-   "en": "",
+   "en": "R.W.R",
    "max": 7
   },
   {
    "id": "sweapon:39.desc",
    "jp": "フィキスの力を行使する事ができる",
-   "en": "",
+   "en": "Can wield the power of Fikis.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:39.effect",
    "jp": "魔法「ネメシスブロウ」が使用できる\nバイオリズム影響、変化有り",
-   "en": "",
+   "en": "Can cast the spell \"Nemesis Blow\"\nBiorhythm effect and change: Yes",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:40.name",
    "jp": "ベアルファレス",
-   "en": "",
+   "en": "Bealphares",
    "max": 7
   },
   {
    "id": "sweapon:40.desc",
    "jp": "カージの加勢を受ける事ができる",
-   "en": "",
+   "en": "Can receive Kaji's support.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:40.effect",
    "jp": "小爆発攻撃\nバイオリズム影響、変化有り",
-   "en": "",
+   "en": "Small explosion attack\nBiorhythm effect and change: Yes",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:41.name",
    "jp": "ハルファス",
-   "en": "",
+   "en": "Halphas",
    "max": 7
   },
   {
    "id": "sweapon:41.desc",
    "jp": "大気の助力を得る事ができる",
-   "en": "",
+   "en": "Can gain the aid of the air.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:41.effect",
    "jp": "高所攻撃力強化\n高い所ほどＳＴＲが強化される",
-   "en": "",
+   "en": "Attack up on high ground\nHigher ground means higher STR",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:42.name",
    "jp": "パナルカルプ",
-   "en": "",
+   "en": "Panalcarp",
    "max": 7
   },
   {
    "id": "sweapon:42.desc",
    "jp": "大気の助力を得る事ができる",
-   "en": "",
+   "en": "Can gain the aid of the air.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:42.effect",
    "jp": "低所攻撃力強化\n低い所ほどＳＴＲが強化される",
-   "en": "",
+   "en": "Attack up on low ground\nLower ground means higher STR",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:43.name",
    "jp": "ザガン",
-   "en": "",
+   "en": "Zagan",
    "max": 7
   },
   {
    "id": "sweapon:43.desc",
    "jp": "φχな助力を受ける事ができる",
-   "en": "",
+   "en": "Can receive tremendous aid.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:43.effect",
    "jp": "消費ＢＰ抑制２／３\n魔法使用時の消費ＢＰが２／３になる",
-   "en": "",
+   "en": "BP cost reduced to 2/3\nSpells cost 2/3 of their usual BP",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:44.name",
    "jp": "ストラス",
-   "en": "",
+   "en": "Stolas",
    "max": 7
   },
   {
    "id": "sweapon:44.desc",
    "jp": "φχな救済を受ける事ができる",
-   "en": "",
+   "en": "Can receive tremendous salvation.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:44.effect",
    "jp": "消費ＢＰ抑制１／２\n魔法使用時の消費ＢＰが１／２になる",
-   "en": "",
+   "en": "BP cost reduced to 1/2\nSpells cost 1/2 of their usual BP",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:45.name",
    "jp": "バラム",
-   "en": "",
+   "en": "Balam",
    "max": 7
   },
   {
    "id": "sweapon:45.desc",
    "jp": "絶えない覇気を受ける事ができる",
-   "en": "",
+   "en": "Can receive unending fighting spirit.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:45.effect",
    "jp": "瀕死効果無効",
-   "en": "",
+   "en": "Negates near-death effects",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:46.name",
    "jp": "パプス",
-   "en": "",
+   "en": "Papus",
    "max": 7
   },
   {
    "id": "sweapon:46.desc",
    "jp": "絶えない蛮勇を受ける事ができる",
-   "en": "",
+   "en": "Can receive unending recklessness.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:46.effect",
    "jp": "常時反撃\n待機型に関わらず、必ず反撃する",
-   "en": "",
+   "en": "Constant counter\nAlways counters, whatever the Stance",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:47.name",
    "jp": "ザレン",
-   "en": "",
+   "en": "Zaren",
    "max": 7
   },
   {
    "id": "sweapon:47.desc",
    "jp": "快気の助力を受ける事ができる",
-   "en": "",
+   "en": "Can receive recovery's aid.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:47.effect",
    "jp": "ＨＰ回復（小）\n６ＣＴ毎にＨＰが３回復する",
-   "en": "",
+   "en": "HP recovery (small)\nRestores 3 HP every 6 CT",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:48.name",
    "jp": "サブルス",
-   "en": "",
+   "en": "Sabrus",
    "max": 7
   },
   {
    "id": "sweapon:48.desc",
    "jp": "快気の守護を受ける事ができる",
-   "en": "",
+   "en": "Can receive recovery's protection.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:48.effect",
    "jp": "ＨＰ回復（中）\n６ＣＴ毎にＨＰが６回復する",
-   "en": "",
+   "en": "HP recovery (medium)\nRestores 6 HP every 6 CT",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:49.name",
    "jp": "ザルブリス",
-   "en": "",
+   "en": "Zalburis",
    "max": 7
   },
   {
    "id": "sweapon:49.desc",
    "jp": "快気の救済を受ける事ができる",
-   "en": "",
+   "en": "Can receive recovery's salvation.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:49.effect",
    "jp": "ＨＰ回復（大）\n６ＣＴ毎にＨＰが９回復する",
-   "en": "",
+   "en": "HP recovery (large)\nRestores 9 HP every 6 CT",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:50.name",
    "jp": "テイロン",
-   "en": "",
+   "en": "Teiron",
    "max": 7
   },
   {
    "id": "sweapon:50.desc",
    "jp": "絶大な加護を得る事ができる",
-   "en": "",
+   "en": "Can gain a tremendous blessing.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:50.effect",
    "jp": "召喚魔法ダメージ減少\n召喚魔法ダメージを１／１０にする",
-   "en": "",
+   "en": "Summon magic damage reduced\nCuts summon magic damage to 1/10",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:51.name",
    "jp": "ハウェン",
-   "en": "",
+   "en": "Haven",
    "max": 7
   },
   {
    "id": "sweapon:51.desc",
    "jp": "大気の助力を受ける事ができる",
-   "en": "",
+   "en": "Can receive the aid of the air.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:51.effect",
    "jp": "射程＋２",
-   "en": "",
+   "en": "Range +2",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:52.name",
    "jp": "グラシャボラス",
-   "en": "",
+   "en": "Glasya-Labolas",
    "max": 7
   },
   {
    "id": "sweapon:52.desc",
    "jp": "混迷の助力を得る事ができる",
-   "en": "",
+   "en": "Can gain the aid of confusion.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:52.effect",
    "jp": "ランダム潜在攻撃\nバイオリズム影響は効果による",
-   "en": "",
+   "en": "Random Latent Power attack\nBiorhythm effect depends on the power",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:53.name",
    "jp": "ラウム",
-   "en": "",
+   "en": "Raum",
    "max": 7
   },
   {
    "id": "sweapon:53.desc",
    "jp": "共鳴による変化を得る事ができる",
-   "en": "",
+   "en": "Can gain change through resonance.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:53.effect",
    "jp": "武器交換\n同系列武器に限る",
-   "en": "",
+   "en": "Weapon swap\nSame weapon class only",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:54.name",
    "jp": "Ｆ・Ｄ・Ｍ",
-   "en": "",
+   "en": "F.D.M",
    "max": 7
   },
   {
    "id": "sweapon:54.desc",
    "jp": "時空の助力を得る事ができる",
-   "en": "",
+   "en": "Can gain the aid of space-time.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:54.effect",
    "jp": "落下物攻撃／ダメージ追加\nバイオリズム影響、変化無し",
-   "en": "",
+   "en": "Falling object attack/extra damage\nBiorhythm effect and change: No",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:55.name",
    "jp": "マルファス",
-   "en": "",
+   "en": "Malphas",
    "max": 7
   },
   {
    "id": "sweapon:55.desc",
    "jp": "沈黙する精神を得る事ができる",
-   "en": "",
+   "en": "Can gain a spirit of silence.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:55.effect",
    "jp": "何も起きない",
-   "en": "",
+   "en": "Nothing happens",
    "max": 38,
    "cell": 19
   },
   {
    "id": "sweapon:56.name",
    "jp": "Ｒ・Ｗ・Ｓ",
-   "en": "",
+   "en": "R.W.S",
    "max": 7
   },
   {
    "id": "sweapon:56.desc",
    "jp": "荒ぶる覇気を得る事ができる",
-   "en": "",
+   "en": "Can gain raging fighting spirit.",
    "max": 19,
    "cell": 19
   },
   {
    "id": "sweapon:56.effect",
    "jp": "大爆発攻撃\nバイオリズム影響、変化有り",
-   "en": "",
+   "en": "Large explosion attack\nBiorhythm effect and change: Yes",
    "max": 38,
    "cell": 19
   }

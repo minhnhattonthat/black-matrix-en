@@ -9,7 +9,7 @@
    "id": "s49:0007a",
    "op": "15",
    "jp": "あら、ど・どうしたの・・・？",
-   "en": "",
+   "en": "Oh, wh-what's the matter...?",
    "box": "17x3",
    "face": 11
   },
@@ -17,7 +17,7 @@
    "id": "s49:000b6",
    "op": "15",
    "jp": "体の具合が悪いんなら・・・\nちゃんとアタシに言いなさい！\n分かったの・・・？！",
-   "en": "",
+   "en": "If you're feeling ill... you tell me properly! Understood...?!",
    "box": "17x3",
    "face": 11
   },
@@ -25,7 +25,7 @@
    "id": "s49:0012e",
    "op": "15",
    "jp": "ふん！\n何を甘えてるのかしら・・・？",
-   "en": "",
+   "en": "Hmph! What are you being such a baby for, I wonder...?",
    "box": "17x3",
    "face": 11
   },
@@ -33,7 +33,7 @@
    "id": "s49:00172",
    "op": "15",
    "jp": "なまけずにリハビリしないと、\n別の意味で足腰立たなくなって\n貰うわよ！！",
-   "en": "",
+   "en": "Slack off on your rehab, and I'll see to it you can't stand up in a whole other way!!",
    "box": "17x3",
    "face": 11
   },
@@ -41,7 +41,7 @@
    "id": "s49:00222",
    "op": "15",
    "jp": "春はあけぼの・・・\nふん！アンタにいっても\nわからないでしょうね！",
-   "en": "",
+   "en": "\"In spring, it is the dawn...\" Hmph! No use saying it to you, you wouldn't understand!",
    "box": "17x3",
    "face": 11
   },
@@ -49,7 +49,7 @@
    "id": "s49:002a6",
    "op": "15",
    "jp": "おはよう。お返事は？\nふん！今日もちゃんと\nリハビリするのよ！",
-   "en": "",
+   "en": "Good morning. Well, where's your answer? Hmph! You'll do your rehab properly today too!",
    "box": "17x3",
    "face": 11
   },
@@ -57,7 +57,7 @@
    "id": "s49:00326",
    "op": "15",
    "jp": "おはよう。今日も暑くなりそうだから手際よく働きなさい・・・",
-   "en": "",
+   "en": "Good morning. It looks like another hot day, so work efficiently...",
    "box": "17x3",
    "face": 11
   },
@@ -65,7 +65,7 @@
    "id": "s49:00382",
    "op": "15",
    "jp": "わかったの？！",
-   "en": "",
+   "en": "Understood?!",
    "box": "17x3",
    "face": 11
   },
@@ -73,7 +73,7 @@
    "id": "s49:003d2",
    "op": "15",
    "jp": "お・は・よ・う・・・",
-   "en": "",
+   "en": "Good... morn... ing...",
    "box": "17x3",
    "face": 11
   },
@@ -81,7 +81,7 @@
    "id": "s49:003fa",
    "op": "15",
    "jp": "昨日は暑くるしくって、\nちゃんと眠れなかったわ・・・！",
-   "en": "",
+   "en": "It was so stifling yesterday, I couldn't sleep properly...!",
    "box": "17x3",
    "face": 11
   },
@@ -89,7 +89,7 @@
    "id": "s49:00452",
    "op": "15",
    "jp": "アンタ、聞いてるの？",
-   "en": "",
+   "en": "You. Are you listening?",
    "box": "17x3",
    "face": 11
   },
@@ -97,7 +97,7 @@
    "id": "s49:004a6",
    "op": "15",
    "jp": "やっとすずしくなってきたわ！\nいい季節ねぇ・・・",
-   "en": "",
+   "en": "At last it's cooling down! What a fine season...",
    "box": "17x3",
    "face": 11
   },
@@ -105,7 +105,7 @@
    "id": "s49:004f6",
    "op": "15",
    "jp": "べ、別にアンタに話しかけてる\nわけじゃないのよ！",
-   "en": "",
+   "en": "I-it's not as if I'm talking to you or anything!",
    "box": "17x3",
    "face": 11
   },
@@ -113,7 +113,7 @@
    "id": "s49:00566",
    "op": "15",
    "jp": "そろそろ寒くなるから・・・\n冬の支度を始めなさい！",
-   "en": "",
+   "en": "It'll be getting cold soon... Start the winter preparations!",
    "box": "17x3",
    "face": 11
   },
@@ -121,7 +121,7 @@
    "id": "s49:005ba",
    "op": "15",
    "jp": "いいわね！アタシの命令よ！！",
-   "en": "",
+   "en": "Got that! That's my order!!",
    "box": "17x3",
    "face": 11
   },
@@ -129,7 +129,7 @@
    "id": "s49:00616",
    "op": "15",
    "jp": "今日は雪でも降りそうな雰囲気ねぇ、",
-   "en": "",
+   "en": "It feels as if it might snow today, doesn't it,",
    "box": "17x3",
    "face": 11
   },
@@ -137,7 +137,7 @@
    "id": "s49:0065a",
    "op": "15",
    "jp": "ふん！いいこと？\nアンタは家でおとなしくしてるのよ！",
-   "en": "",
+   "en": "Hmph! Listen here, you stay in the house and behave!",
    "box": "17x3",
    "face": 11
   },
@@ -145,7 +145,7 @@
    "id": "s49:006a2",
    "op": "15",
    "jp": "また風邪でもひかれたら、\nこっちがたまらないわ・・・！",
-   "en": "",
+   "en": "If you catch another cold, I'm the one who has to put up with it...!",
    "box": "17x3",
    "face": 11
   },
@@ -153,7 +153,7 @@
    "id": "s49:0071a",
    "op": "15",
    "jp": "うううう・・・\nこ・こう寒くっちゃあ・・・",
-   "en": "",
+   "en": "Uuuuugh... W-with it this cold...",
    "box": "17x3",
    "face": 11
   },
@@ -161,7 +161,7 @@
    "id": "s49:00756",
    "op": "15",
    "jp": "外で仕事をする気になんか、\nなりゃしない・・・！",
-   "en": "",
+   "en": "I don't feel the least bit like working outside...!",
    "box": "17x3",
    "face": 11
   },
@@ -169,7 +169,7 @@
    "id": "s49:0079a",
    "op": "15",
    "jp": "アンタも今日は、家の中で・・・\nおとなしくしてなさい・・・！",
-   "en": "",
+   "en": "You stay in the house today too... and behave...!",
    "box": "17x3",
    "face": 11
   }

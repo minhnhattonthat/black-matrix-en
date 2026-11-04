@@ -8,854 +8,854 @@
   {
    "id": "help_shop:0.text",
    "jp": "装備品、回復アイテム等の購入、\n売却が出来ます",
-   "en": "",
+   "en": "Buy and sell equipment, healing items and more.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:1.text",
    "jp": "○ボタンを押すとアイテムの購入、\n□ボタンを押すとアイテムの売却が\n出来ます",
-   "en": "",
+   "en": "Press Circle to buy items, Square to sell them.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:2.text",
    "jp": "アイテムの購入時にＬ、Ｒボタンで\n各ユニットの状態を閲覧することが\n出来ます",
-   "en": "",
+   "en": "While buying, L and R show each unit's status.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:3.text",
    "jp": "装備できるユニットが表示されている\n場合、購入時に装備することが出来ます",
-   "en": "",
+   "en": "If units that can equip it are shown, you can equip it on purchase.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:4.text",
    "jp": "□ボタンを押すと所持しているアイテムを\n売ることが出来ます",
-   "en": "",
+   "en": "Press Square to sell items you're carrying.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:5.text",
    "jp": "各ユニットが装備しているアイテムは、\n売ることは出来ません\n一度、状態画面で装備を外して下さい",
-   "en": "",
+   "en": "Items equipped on a unit can't be sold. Unequip them on the Status screen first.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:6.text",
    "jp": "状態画面を表示し、パラメータ閲覧\n装備品変更等を行います",
-   "en": "",
+   "en": "Opens the Status screen to view stats, change equipment and so on.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:7.text",
    "jp": "Ｌ、Ｒボタンでユニット変更できます\n□ボタンで装備変更、△ボタンで修得\n得魔法の閲覧が出来ます",
-   "en": "",
+   "en": "L and R change units. Square changes equipment, Triangle shows learned magic.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:8.text",
    "jp": "所持しているアイテムの閲覧とアイテム\nを捨てることが出来ます",
-   "en": "",
+   "en": "View the items you're carrying, or discard them.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:9.text",
    "jp": "△ボタンを押すとアイテムを\n捨てることが出来ます",
-   "en": "",
+   "en": "Press Triangle to discard an item.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:10.text",
    "jp": "アイテムは戦闘中以外では\n使用することは出来ません",
-   "en": "",
+   "en": "Items can't be used outside of battle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:11.text",
    "jp": "ＢＰを消費して武器の潜在能力\n（特殊能力）を戦闘中に使用\n出来るようにします",
-   "en": "",
+   "en": "Spends BP so a weapon's Latent Power (special ability) can be used in battle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:12.text",
    "jp": "○ボタンで「剣血」\n□ボタンで「凝血」\nの儀式を行います",
-   "en": "",
+   "en": "Circle performs the \"Sword-Blood\" rite, Square the \"Clot\" rite.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:13.text",
    "jp": "「剣血」\n武器の潜在能力を１つだけ覚醒させます",
-   "en": "",
+   "en": "\"Sword-Blood\"\nAwakens just one of a weapon's Latent Powers.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:14.text",
    "jp": "剣血を行うと、覚醒させた\n潜在能力によって、武器パラメータが\n少し変化します",
-   "en": "",
+   "en": "Sword-Blood changes the weapon's stats slightly, depending on the Latent Power awakened.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:15.text",
    "jp": "武器を選択して覚醒させたい潜在能力に\nカーソルをあわせて○ボタンを\n押して下さい",
-   "en": "",
+   "en": "Choose a weapon, put the cursor on the Latent Power to awaken and press Circle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:16.text",
    "jp": "覚醒させた潜在能力には星マークが付きま\nす",
-   "en": "",
+   "en": "An awakened Latent Power gets a star mark.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:17.text",
    "jp": "「凝血」\n剣血によって潜在能力を全て覚醒させた\n武器のみが凝血出来ます",
-   "en": "",
+   "en": "\"Clot\"\nOnly for weapons with all Latent Powers awakened by Sword-Blood.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:18.text",
    "jp": "擬血は剣血よりも武器パラメータを大きく\n変化させることがあります",
-   "en": "",
+   "en": "Clot may change a weapon's stats more than Sword-Blood does.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:19.text",
    "jp": "ただし、一度擬血した武器はそれ以降、\n潜在能力を変化させることが\n出来なくなります",
-   "en": "",
+   "en": "But once Clotted, a weapon's Latent Powers can never be changed again.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:20.text",
    "jp": "覚醒させておきたい潜在能力にカーソルを\nあわせて、○ボタンを押して下さい",
-   "en": "",
+   "en": "Put the cursor on the Latent Power you want kept awakened and press Circle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:21.text",
    "jp": "装備武器に「剣血」「擬血」を\nしたいときは△ボタンを押して下さい\nリスト内容が装備武器になります",
-   "en": "",
+   "en": "To use \"Sword-Blood\" or \"Clot\" on equipped weapons, press Triangle. The list switches to equipped weapons.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:22.text",
    "jp": "自由行動を終了して\n次のイベントへ進みます",
-   "en": "",
+   "en": "End Free Time and go on to the next event.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:23.text",
    "jp": "ステージを終了して戦闘準備に移ります\n出撃選択後はステージへ戻ることが\nできないので注意して下さい",
-   "en": "",
+   "en": "End the stage and prepare for battle. Careful: after Sortie you can't return to the stage.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:24.text",
    "jp": "編成では戦闘に参加するユニットを\n選出します",
-   "en": "",
+   "en": "In Formation, you choose the units that will fight.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:25.text",
    "jp": "画面右上の数字の右側は、\n戦闘参加出来る最大人数です",
-   "en": "",
+   "en": "In the numbers at the upper right, the right one is the most units that can fight.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:26.text",
    "jp": "左側は現在、選択されている\nユニットの合計数です",
-   "en": "",
+   "en": "The left one is the number of units selected now.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:27.text",
    "jp": "剣のマークが付いてるユニットは、必ず\n戦闘に参加しなければならないユニット\nで、強制参加ユニットと呼びます",
-   "en": "",
+   "en": "Units with a sword mark must take part in the battle. These are called forced units.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:28.text",
    "jp": "参加ユニット以外は、しゃがんだ状態に\nなってます",
-   "en": "",
+   "en": "Units not taking part are shown crouching.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:29.text",
    "jp": "参加させるときはカーソルを合わせて、\n○ボタンを押して下さい",
-   "en": "",
+   "en": "To add one, put the cursor on it and press Circle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:30.text",
    "jp": "編成中は□ボタンでユニットの装備を\n変更することが出来ます",
-   "en": "",
+   "en": "In Formation, Square changes a unit's equipment.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:31.text",
    "jp": "また△ボタンを押すと、\n修得魔法の確認が出来ます",
-   "en": "",
+   "en": "Triangle checks the magic it has learned.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:32.text",
    "jp": "戦闘参加ユニットの人数が決まったら、\nＳＴＡＲＴボタンを押して下さい\n編成を終了します",
-   "en": "",
+   "en": "Once your battle units are set, press START to end Formation.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:33.text",
    "jp": "戦闘参加ユニットにＢＰを振り分けます",
-   "en": "",
+   "en": "Allot BP to the units taking part in battle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:34.text",
    "jp": "取得しているＢＰが戦闘参加ユニットの\nＢＰ最大値の合計より多いときは自動で\n振り分けられます",
-   "en": "",
+   "en": "If your BP exceeds the total max BP of your battle units, it's allotted automatically.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:35.text",
    "jp": "取得しているＢＰが少ないときや、\n各ユニットに振り分けられてるＢＰを\n変更したいときは手動で行います",
-   "en": "",
+   "en": "If you're short on BP or want to change how it's allotted, do it by hand.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:36.text",
    "jp": "カーソルでユニットを選択して、\n○ボタンを押して下さい\n手動モードになります",
-   "en": "",
+   "en": "Select a unit with the cursor and press Circle to enter manual mode.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:37.text",
    "jp": "方向ボタンの上下で１ずつ、\n方向ボタンの左右で１０ずつ\n増減できます",
-   "en": "",
+   "en": "Up/Down on the D-pad changes it by 1, Left/Right by 10.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:38.text",
    "jp": "○ボタンを押すとＢＰ量が決定されます\nＳＴＡＲＴボタンを押す\nとＢＰ振り分けを終了します",
-   "en": "",
+   "en": "Circle sets the BP amount. Press START to end BP allotment.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:39.text",
    "jp": "ユニットの初期配置が変更できます\n変更したいユニット○ボタンで選択\nして変更場所を指定してください",
-   "en": "",
+   "en": "Change your units' Deployment. Select a unit with Circle, then pick where it should go.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:40.text",
    "jp": "□ボタンを押すと、\nユニットの向きを変更することが\n出来ます",
-   "en": "",
+   "en": "Press Square to change a unit's facing.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:41.text",
    "jp": "ＳＴＡＲＴボタンを押すと、\n初期配置変更モードを終了します",
-   "en": "",
+   "en": "Press START to exit Deployment mode.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:42.text",
    "jp": "ユニットの移動を行います\n行動力を１消費します",
-   "en": "",
+   "en": "Moves a unit. Uses 1 AP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:43.text",
    "jp": "移動可能な範囲が青マスで表示されます",
-   "en": "",
+   "en": "Squares you can reach are shown in blue.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:44.text",
    "jp": "移動したい場所を方向キーで指定して、\n○ボタンを押すと移動を行います",
-   "en": "",
+   "en": "Pick a destination with the D-pad and press Circle to move.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:45.text",
    "jp": "攻撃は「通常攻撃」と「潜在発動」\nの２種類があり、各攻撃とも\n行動力を１消費します",
-   "en": "",
+   "en": "There are two kinds of attack, \"Normal Attack\" and \"Latent Burst\". Each uses 1 AP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:46.text",
    "jp": "「通常攻撃」\n装備している武器で物理攻撃を行います",
-   "en": "",
+   "en": "\"Normal Attack\"\nA physical attack with the equipped weapon.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:47.text",
    "jp": "「潜在発動」\nＢＰを消費して武器の潜在能力による\n特殊攻撃等を行います",
-   "en": "",
+   "en": "\"Latent Burst\"\nSpends BP on a special attack or the like, using the weapon's Latent Power.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:48.text",
    "jp": "方向キーの上下で、\n「通常」か「潜在」を\n選択します",
-   "en": "",
+   "en": "Use Up/Down on the D-pad to choose \"Normal\" or \"Latent\".",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:49.text",
    "jp": "選択後、攻撃、発動可能範囲が\n黄マスで表示されます",
-   "en": "",
+   "en": "After you choose, the attack or Burst range is shown in yellow squares.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:50.text",
    "jp": "対象を方向キーで指定して、\n○ボタンを押すと、\n「攻撃」「発動」を行います",
-   "en": "",
+   "en": "Pick a target with the D-pad and press Circle to \"Attack\" or \"Burst\".",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:51.text",
    "jp": "ＢＰを消費して魔法詠唱による\n「攻撃」「治療」等を行います\n行動力を１消費します",
-   "en": "",
+   "en": "Spends BP to chant magic for \"attacks\", \"healing\" and more. Uses 1 AP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:52.text",
    "jp": "魔法の効果は敵、味方に関係なく\n効果を発揮するので注意が必要です",
-   "en": "",
+   "en": "Magic takes effect on foe and ally alike, so be careful.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:53.text",
    "jp": "使用したい魔法を選択し、\n○ボタンで決定します",
-   "en": "",
+   "en": "Choose a spell and confirm with Circle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:54.text",
    "jp": "この時に□ボタンを押すと\n魔法効果内容が表示されます",
-   "en": "",
+   "en": "Press Square at this point to see what the spell does.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:55.text",
    "jp": "射程範囲が緑マスで表示され、\n効果範囲が赤マスで表示されます",
-   "en": "",
+   "en": "Its range is shown in green squares, its area of effect in red.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:56.text",
    "jp": "効果範囲を方向キーで指定して、\n○ボタンを押すと魔法詠唱を行います",
-   "en": "",
+   "en": "Pick the area with the D-pad and press Circle to chant the spell.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:57.text",
    "jp": "アイテムの「使う」「捨てる」\nを行います",
-   "en": "",
+   "en": "\"Use\" or \"Discard\" an item.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:58.text",
    "jp": "「道具」コマンドは、各ユニット\n１ターン中に１回使用できます",
-   "en": "",
+   "en": "Each unit can use the \"Item\" command once per turn.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:59.text",
    "jp": "アイテムを選択するときに\n□ボタンを押すと\nアイテムの効果内容が表示されます",
-   "en": "",
+   "en": "When choosing an item, press Square to see what it does.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:60.text",
    "jp": "「使う」\n○ボタンを押すと、\n使用可能範囲が赤マスで表示されます",
-   "en": "",
+   "en": "\"Use\"\nPress Circle and the squares it can reach are shown in red.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:61.text",
    "jp": "使用したい対象ユニットを方向キーで\n指定して○ボタンを押すと使います",
-   "en": "",
+   "en": "Pick the target unit with the D-pad and press Circle to use it.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:62.text",
    "jp": "「捨てる」\n「捨てる」は「使う」前なら何度でも\n捨てることが出来ます",
-   "en": "",
+   "en": "\"Discard\"\nBefore you \"Use\", you can \"Discard\" as many times as you like.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:63.text",
    "jp": "△ボタンを押すと捨てて良いか、\n「はい／いいえ」のメッセージが\n表示されます",
-   "en": "",
+   "en": "Press Triangle for a \"Yes/No\" message asking if it's OK to discard it.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:64.text",
    "jp": "現在、進行している戦闘で得た\nＢＰを消費して、ＢＰ補給を行います\n行動力を２消費します",
-   "en": "",
+   "en": "Refills a unit's BP using BP earned in the current battle. Uses 2 AP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:65.text",
    "jp": "「補血」コマンドの使用は\n「移動」「攻撃」「魔法」「鎧召喚」\nを行う前に限ります",
-   "en": "",
+   "en": "\"Refill\" can only be used before \"Move\", \"Attack\", \"Magic\" or \"Summon\".",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:66.text",
    "jp": "一度に補給できるＢＰ上限は\nコマンド時間が経過する度に上昇します",
-   "en": "",
+   "en": "The most BP you can refill at once goes up as Command Time passes.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:67.text",
    "jp": "方向キーで補給したいＢＰ量を\n決めます",
-   "en": "",
+   "en": "Set the amount of BP to refill with the D-pad.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:68.text",
    "jp": "方向ボタン上下で１０ずつ、\n左右で１ずつ入力できます",
-   "en": "",
+   "en": "Up/Down on the D-pad changes it by 10, Left/Right by 1.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:69.text",
    "jp": "攻撃を受けた時の行動を変更します\nこの待機型は何度でも変更することが\n出来ます",
-   "en": "",
+   "en": "Changes what a unit does when attacked. You can change Stance as often as you like.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:70.text",
    "jp": "敵ターン中でも×ボタンを押すことで\n待機型の変更が出来ます",
-   "en": "",
+   "en": "Press Cross even during the enemy turn to change Stance.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:71.text",
    "jp": "「防御」\n防御を行うことで、\n攻撃時に受けるダメージを軽減します",
-   "en": "",
+   "en": "\"Guard\"\nGuarding reduces the damage you take when attacked.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:72.text",
    "jp": "「反撃」\n攻撃を受けた後、\n通常攻撃で反撃を行います",
-   "en": "",
+   "en": "\"Strike\"\nAfter being attacked, counter with a normal attack.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:73.text",
    "jp": "「回避」\n回避が成功した場合、\nダメージは０となります",
-   "en": "",
+   "en": "\"Evade\"\nIf the dodge succeeds, damage is 0.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:74.text",
    "jp": "回避が失敗した場合、\nその他の待機型の時より\n大きなダメージを受けます",
-   "en": "",
+   "en": "If the dodge fails, you take more damage than in any other Stance.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:75.text",
    "jp": "方向キーで待機型を選択して、\n○ボタンを押すと変更決定します",
-   "en": "",
+   "en": "Choose a Stance with the D-pad and press Circle to confirm.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:76.text",
    "jp": "鎧の力を解放して攻撃を行います\n邪神・大邪神の鎧を装備している\nユニットに限り、使用できます",
-   "en": "",
+   "en": "Unleashes an armor's power to attack. Only units wearing evil god or Great Evil God armor can use it.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:77.text",
    "jp": "鎧召喚を行うには、発動ユニットと\n周辺４マス内の味方ユニットの\nＢＰと行動力を消費します",
-   "en": "",
+   "en": "Summon Armor spends the BP and AP of the summoner and of allies within 4 squares.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:78.text",
    "jp": "ＢＰの消費量は、発動ユニット毎に\n変わります\n行動力は６ポイント以上必要です",
-   "en": "",
+   "en": "BP cost depends on the summoner. At least 6 AP is needed.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:79.text",
    "jp": "注意点として周辺４マス内の\n味方ユニットの行動力は鎧召喚発動後\n全て０になります",
-   "en": "",
+   "en": "Note: after Summon Armor, allies within 4 squares drop to 0 AP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:80.text",
    "jp": "鎧召喚の効果範囲は発動ユニットを\n中心に広がり、魔法の効果範囲のように\n移動させることは出来ません",
-   "en": "",
+   "en": "Its area spreads out from the summoner, and can't be moved like a spell's area.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:81.text",
    "jp": "また、効果範囲は各発動ユニット毎に\n変わります",
-   "en": "",
+   "en": "The area also differs for each summoner.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:82.text",
    "jp": "鎧召喚の攻撃は魔法と違い、\n敵にのみ影響を及びます\n効果範囲内の味方には影響しません",
-   "en": "",
+   "en": "Unlike magic, Summon Armor hits only enemies. Allies in the area are unaffected.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:83.text",
    "jp": "鎧召喚には、\n「上位召喚」と「下位召喚」\nがあります",
-   "en": "",
+   "en": "Summon Armor comes in \"Greater Summon\" and \"Lesser Summon\".",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:84.text",
    "jp": "「上位召喚」\n効果範囲が広く、攻撃力も高いのですが、\n大量のＢＰが必要です",
-   "en": "",
+   "en": "\"Greater Summon\"\nWider area and higher attack power, but needs a large amount of BP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:85.text",
    "jp": "「下位召喚」\n効果範囲が狭く、攻撃力も低いのですが、\n少量のＢＰで発動出来ます",
-   "en": "",
+   "en": "\"Lesser Summon\"\nNarrower area and lower attack power, but works with a small amount of BP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:86.text",
    "jp": "「上位召喚」と「下位召喚」がある場合、\n方向キーで選択して、\n○ボタンで決定して下さい",
-   "en": "",
+   "en": "If there's both a Greater and a Lesser Summon, choose with the D-pad and confirm with Circle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:87.text",
    "jp": "発動ユニットから周辺４マスが、\n緑マスで表示されます",
-   "en": "",
+   "en": "The squares within 4 of the summoner are shown in green.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:88.text",
    "jp": "再度、○ボタンを押すと効果範囲が\n赤マスで表示されます\nこの時に○ボタンを押すと使用します",
-   "en": "",
+   "en": "Press Circle again to show the area in red. Press Circle then to use it.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:89.text",
    "jp": "今回の戦闘で得た各ポイントです\n各ポイントの内容は次の通りです",
-   "en": "",
+   "en": "These are the points earned in this battle. Each one means the following.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:90.text",
    "jp": "ＥＸＰ：経験値\nＭＯＮＥＹ：金額報酬\n＋ＢＯＮＵＳ：金額報酬のボーナス",
-   "en": "",
+   "en": "EXP: experience\nMONEY: money reward\n+BONUS: bonus to the money reward",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:91.text",
    "jp": "ＢＬＯＯＤ：戦闘終了時の取得ＢＰ\n＋ＢＯＮＵＳ：ＢＰのボーナス",
-   "en": "",
+   "en": "BLOOD: BP gained at the end of battle\n+BONUS: bonus to BP",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:92.text",
    "jp": "持ち越し：戦闘終了時の自軍ユニットの\n　　　　　残りＢＰ",
-   "en": "",
+   "en": "Carryover: BP your units still have left at the end of battle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:93.text",
    "jp": "各ボーナスは次に表示されるランクなどの\n評価によって変化します",
-   "en": "",
+   "en": "Each bonus changes with the rank and other ratings shown next.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:94.text",
    "jp": "今回の戦闘評価です\nＢＯＮＵＳ　ＩＴＥＭ：特別戦利品\nコマンド時間：今回の戦闘の経過時間",
-   "en": "",
+   "en": "This battle's rating.\nBONUS ITEM: special spoils\nCommand Time: time this battle took",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:95.text",
    "jp": "ターン数：今回の戦闘の経過ターン数\nＲＡＮＫ：今回の戦闘の総合評価",
-   "en": "",
+   "en": "Turns: turns this battle took\nRANK: this battle's overall rating",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:96.text",
    "jp": "ＲＡＮＫの評価は、\nＳ、Ａ、Ｂ、Ｃ\nの４段階があります",
-   "en": "",
+   "en": "RANK has 4 grades: S, A, B and C.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:97.text",
    "jp": "評価の判定は主に、\n経過コマンド時間と経過ターン数\nが影響します",
-   "en": "",
+   "en": "The rating depends mainly on Command Time and turns taken.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:98.text",
    "jp": "ＢＯＮＵＳ　ＩＴＥＭは、\nＲＡＮＫ評価によって変化します",
-   "en": "",
+   "en": "The BONUS ITEM changes with your RANK.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:99.text",
    "jp": "良い評価を得るには、\n効率の良い戦闘を心がける\n必要があります",
-   "en": "",
+   "en": "To get a good rating, aim to fight efficiently.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:100.text",
    "jp": "ＲＡＮＫによって、ストーリー展開が\n変化することはありません",
-   "en": "",
+   "en": "RANK doesn't change how the story unfolds.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:101.text",
    "jp": "難易度がＥＡＳＹの時は、\nＲＡＮＫの評価はありません",
-   "en": "",
+   "en": "On EASY difficulty there's no RANK.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:102.text",
    "jp": "今までに取得した経験値を\n各ユニットに振り分けて\nレベルアップを行います",
-   "en": "",
+   "en": "Spend the EXP earned so far on each unit to level it up.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:103.text",
    "jp": "レベルアップできるユニットは、今回の\n戦闘参加ユニットで、戦闘勝利時に\n死亡、死滅していないユニットのみです",
-   "en": "",
+   "en": "Only units that took part in this battle and weren't dead or obliterated at victory can level up.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:104.text",
    "jp": "また、一度に上げられる上限レベルは、\n戦闘参加ユニットの中の最高レベル\n＋３レベルです",
-   "en": "",
+   "en": "The level cap at one time is the highest level among this battle's units, +3.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:105.text",
    "jp": "レベルアップさせたいユニットに\nカーソルを合わせて、○ボタンを\n押すとレベルアップします",
-   "en": "",
+   "en": "Put the cursor on the unit to level up and press Circle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:106.text",
    "jp": "レベルアップしたユニットは、一定の\nボーナスポイントを取得し、そのポイント\nは自動で各パラメータに割り振られます",
-   "en": "",
+   "en": "A leveled-up unit gets some Bonus Points, which are divided among its stats automatically.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:107.text",
    "jp": "自動で割り振られたポイントを\n手動で割り振ることもできます",
-   "en": "",
+   "en": "You can also divide those points by hand.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:108.text",
    "jp": "レベルアップしたユニットを選択して、\n□ボタンを押して下さい",
-   "en": "",
+   "en": "Select a leveled-up unit and press Square.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:109.text",
    "jp": "方向キーの上下でパラメータの選択、\n方向キーの左右で割り振られたポイント\nの変更が出来ます",
-   "en": "",
+   "en": "Up/Down on the D-pad picks a stat, Left/Right changes the points given to it.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:110.text",
    "jp": "△ボタンを押すと割り振られたポイントを\n全て戻すことが出来ます",
-   "en": "",
+   "en": "Press Triangle to take back all the allotted points.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:111.text",
    "jp": "手動の割り振りは○ボタンで決定します\nポイントは全てパラメータに\n割り振るようにして下さい",
-   "en": "",
+   "en": "Circle confirms manual allotment. Be sure to allot all points to stats.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:112.text",
    "jp": "全てのポイントを割り振らないと、\nレベルアップを終了する事が出来ません",
-   "en": "",
+   "en": "You can't finish leveling up until all points are allotted.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:113.text",
    "jp": "ボーナスポイントが残ってる\nユニットは左下にマークが付きます",
-   "en": "",
+   "en": "Units with Bonus Points left get a mark at the lower left.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:114.text",
    "jp": "レベルアップの終了は、\nＳＴＡＲＴボタンを押して下さい",
-   "en": "",
+   "en": "Press START to finish leveling up.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:115.text",
    "jp": "残った経験値は次のレベルアップに\n持ち越されます",
-   "en": "",
+   "en": "Leftover EXP carries over to the next level-up.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:116.text",
    "jp": "状態画面を表示し、パラメータ閲覧、\n装備品変更等を行います",
-   "en": "",
+   "en": "Opens the Status screen to view stats, change equipment and so on.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:117.text",
    "jp": "「状態」コマンドは、\n何度でも使用する事が出来ます",
-   "en": "",
+   "en": "You can use \"Status\" as often as you like.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:118.text",
    "jp": "しかし攻撃終了後のユニットは\n装備品の変更と捨てる事が出来ません",
-   "en": "",
+   "en": "But a unit that has finished attacking can't change or discard equipment.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:119.text",
    "jp": "□ボタンを押すと装備品の変更と\n捨てる事が出来ます\n方向キーで装備品を選択します",
-   "en": "",
+   "en": "Press Square to change or discard equipment. Choose an item with the D-pad.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:120.text",
    "jp": "装備品の武器を外したユニットは、\n攻撃を行う事が出来なくなるので\n注意が必要です",
-   "en": "",
+   "en": "A unit with no weapon equipped can't attack, so be careful.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_shop:121.text",
    "jp": "△ボタンを押すと、そのユニットの\n使用可能な魔法が表示されます",
-   "en": "",
+   "en": "Press Triangle to see the magic that unit can use.",
    "max": 57,
    "cell": 19
   }

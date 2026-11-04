@@ -9,7 +9,7 @@
    "id": "s48:0007a",
    "op": "15",
    "jp": "キミィ、どうしたの・・・？",
-   "en": "",
+   "en": "Hey, you... What's wrong...?",
    "box": "17x3",
    "face": 10
   },
@@ -17,7 +17,7 @@
    "id": "s48:000b6",
    "op": "15",
    "jp": "ひょ・・ひょっとして、\n体の具合でも・・・悪いの？",
-   "en": "",
+   "en": "D-don't tell me... you're... feeling sick?",
    "box": "17x3",
    "face": 10
   },
@@ -25,7 +25,7 @@
    "id": "s48:00112",
    "op": "15",
    "jp": "なにを、キミは甘えているのかなぁ、",
-   "en": "",
+   "en": "What's this, you being a big baby,",
    "box": "17x3",
    "face": 10
   },
@@ -33,7 +33,7 @@
    "id": "s48:00156",
    "op": "15",
    "jp": "頑張ってリハビリしてきなね！\nもぅぅぅ・・・フンッ！！",
-   "en": "",
+   "en": "Go work hard at your rehab! Geez... Hmph!!",
    "box": "17x3",
    "face": 10
   },
@@ -41,7 +41,7 @@
    "id": "s48:001f2",
    "op": "15",
    "jp": "お・はよう・・・春はなんだか\nねむくなるよねぇ・・・",
-   "en": "",
+   "en": "G...mornin'... Spring just makes you sleepy, doesn't it...",
    "box": "17x3",
    "face": 10
   },
@@ -49,7 +49,7 @@
    "id": "s48:00266",
    "op": "15",
    "jp": "んーっ！春風が気持ちいい～！",
-   "en": "",
+   "en": "Mmm! This spring breeze feels so nice~!",
    "box": "17x3",
    "face": 10
   },
@@ -57,7 +57,7 @@
    "id": "s48:002a2",
    "op": "15",
    "jp": "今日も頑張って\nリハビリしなくっちゃね！",
-   "en": "",
+   "en": "You've got to work hard at your rehab today too!",
    "box": "17x3",
    "face": 10
   },
@@ -65,7 +65,7 @@
    "id": "s48:0030a",
    "op": "15",
    "jp": "おっはよ～！\nさあ、今日も頑張って・・・",
-   "en": "",
+   "en": "Mornin'~! All right, today I'll work hard at...",
    "box": "17x3",
    "face": 10
   },
@@ -73,7 +73,7 @@
    "id": "s48:00346",
    "op": "15",
    "jp": "お昼寝するぞ～！",
-   "en": "",
+   "en": "...taking a nap~!",
    "box": "17x3",
    "face": 10
   },
@@ -81,7 +81,7 @@
    "id": "s48:00396",
    "op": "15",
    "jp": "おはよ～！\n今日も暑くなりそぅ・・・！",
-   "en": "",
+   "en": "Mornin'~! Looks like it's gonna be hot again...!",
    "box": "17x3",
    "face": 10
   },
@@ -89,7 +89,7 @@
    "id": "s48:003ce",
    "op": "15",
    "jp": "木陰で居眠りでもしてようかなぁ！？",
-   "en": "",
+   "en": "Maybe I'll just doze under a tree in the shade!?",
    "box": "17x3",
    "face": 10
   },
@@ -97,7 +97,7 @@
    "id": "s48:00432",
    "op": "15",
    "jp": "お・は・よ・・・",
-   "en": "",
+   "en": "Mor...nin'...",
    "box": "17x3",
    "face": 10
   },
@@ -105,7 +105,7 @@
    "id": "s48:00456",
    "op": "15",
    "jp": "秋は、ついつい食べ過ぎちゃって、\nそのあとやっぱり\n眠くなっちゃうんだよねぇ・・・！",
-   "en": "",
+   "en": "In autumn you can't help eating too much, and then of course you get sleepy after, right...!",
    "box": "17x3",
    "face": 10
   },
@@ -113,7 +113,7 @@
    "id": "s48:004ea",
    "op": "15",
    "jp": "おはよ・・・！\nそろそろ寒くなるから、\n冬支度を始めてよね！！",
-   "en": "",
+   "en": "Mornin'...! It'll be getting cold soon, so start getting ready for winter, okay!!",
    "box": "17x3",
    "face": 10
   },
@@ -121,7 +121,7 @@
    "id": "s48:0056a",
    "op": "15",
    "jp": "おはよー！今日はなんかさ、\n雪でも降っちゃいそうな\n感じしなぁい？",
-   "en": "",
+   "en": "Mornin'! Doesn't it kinda feel like it might snow today?",
    "box": "17x3",
    "face": 10
   },
@@ -129,7 +129,7 @@
    "id": "s48:005be",
    "op": "15",
    "jp": "寒くってベッドから出たくないよ～！",
-   "en": "",
+   "en": "It's so cold I don't wanna get out of bed~!",
    "box": "17x3",
    "face": 10
   },
@@ -137,7 +137,7 @@
    "id": "s48:00622",
    "op": "15",
    "jp": "毎日毎日、なんか寒ーい！！",
-   "en": "",
+   "en": "Every single day, it's just so colllld!!",
    "box": "17x3",
    "face": 10
   },
@@ -145,7 +145,7 @@
    "id": "s48:0064e",
    "op": "15",
    "jp": "次の季節は春だけどぉ・・・\nいつくるのぉー！？\n待てなぁぁい！",
-   "en": "",
+   "en": "Next season's spring, but... when's it gonna come!? I can't waaaait!",
    "box": "17x3",
    "face": 10
   }

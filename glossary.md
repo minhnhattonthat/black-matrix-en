@@ -137,4 +137,31 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 偽善 / 偽善者 | hypocrisy / hypocrite | | the insult for kindness | |
 | 美徳 | virtue | | | |
 
+| 教団 / 呪法 / 射程 | the Order / hex / Range | | | |
+| 覇気 / 闘気 / 蛮勇 / 快気 | fighting spirit / battle spirit / recklessness / recovery | | | |
+| ゾック | ZOC | | zone of control | |
+| ヘルゲイザー / ノースレイス | Hell Geyser / North Wraith | | spells | |
+| バイオリズム影響、変化有り / 無し | Biorhythm effect and change: Yes / No | | sweapon effect rows | |
+| 友愛の剣 (item name) | Friendship Sword | | the 16-letter field; Sword of Friendship in prose | |
+| 胸当て / 血のボトル / 冥血 | Cuirass / Blood Vial / Netherblood | | | |
+| 盟約証 / 血の盟約証 / 冥血の盟約証 | Pact Seal / Blood Pact Seal / Nether Pact Seal | | | |
+| 天証 / 大天証 / 座天証 | Angel Seal / Archangel Seal / Throne Seal | | | |
+| 腕輪 / シラ / バルク | Armlet / Sirach / Baruch | | | |
+| ルリック | Ruric | | Ruric Heal, Ruric Guard | |
+| 方向キー / 方向ボタン | D-pad | | | |
+| 十字兵 / 十字兵見習い | Crusader / Squire | | | |
+| 警備兵 / 警備兵隊長 | Sentry / Sentry Chief | | | |
+| 強信者 / 強兵士 / 女剣闘士 | Zealot / Veteran / Gladiatrix | | | |
+| Ｄｒレッド / Ｄｒピンク | Dr. Red / Dr. Pink | | Dr. colours | |
+| リハビリ / 薬草 | rehab / herbs | | | |
+| ヌイグルミ | plushie | | | |
+| かいんおにいちゃん / カイン君 | big brother Cain / Cain-kun | | Michette's bear is Cain-kun | |
+| 奴隷認識票 / 商品購入・委任証明書 | slave ID tag / Purchase Authorization Certificate | | | |
+| 駕籠の鳥 / カゴの鳥 | caged bird | | | |
+
 ## Decisions from earlier batches
+- Diary dates with symbols (○月■日): `Month ?, Day ? -- Sunny` etc.
+- `神様` where it can't mean the evil God: "some god", not "God".
+- Purica, Michette and Kurreshes get no sexual content, in anyone's mouth (translator brief, Style). Purica is a child; the other two have no stated age.
+- Summons and weapon sets: as in `work/tl/b008.out.tsv`, `b007.out.tsv`. Armor names are `X Armor` in the item table (`Metatron Armor`), "Metatron's armor" in prose.
+- Enemy names shortened by the 12-letter field, candidates for engine room in phase 7: Heretic (Heretic Knight), Red Heretic, Inquisitor (Chief Inquisitor), Inspector (Dissent Inspector), Crusade Lord.

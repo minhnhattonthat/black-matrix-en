@@ -17,7 +17,7 @@
    "id": "s66:0039e",
    "op": "15",
    "jp": "最近は顔色もいいし、\n食欲もバッチリだね！",
-   "en": "",
+   "en": "You've got good color lately, and your appetite's spot-on!",
    "box": "17x3",
    "face": 9
   },
@@ -25,7 +25,7 @@
    "id": "s66:003da",
    "op": "15",
    "jp": "すっかり元気になって・・・！",
-   "en": "",
+   "en": "You're totally better...!",
    "box": "17x3",
    "face": 9
   },
@@ -33,7 +33,7 @@
    "id": "s66:0040a",
    "op": "15",
    "jp": "ボクもうれしいよ！",
-   "en": "",
+   "en": "I'm so happy too!",
    "box": "17x3",
    "face": 9
   },
@@ -41,7 +41,7 @@
    "id": "s66:0042e",
    "op": "15",
    "jp": "だけど・・・\nいつかはキミが\n言い出すんじゃないかと・・・",
-   "en": "",
+   "en": "But... I figured someday you'd bring it up...",
    "box": "17x3",
    "face": 9
   },
@@ -49,7 +49,7 @@
    "id": "s66:0047a",
    "op": "15",
    "jp": "そう思ってはいたんだけど・・・",
-   "en": "",
+   "en": "I did figure that, but...",
    "box": "17x3",
    "face": 9
   },
@@ -57,7 +57,7 @@
    "id": "s66:004aa",
    "op": "15",
    "jp": "やっぱり・・・\nそろそろ外へ出たい？",
-   "en": "",
+   "en": "So I guess... you're about ready to go out?",
    "box": "17x3",
    "face": 9
   },
@@ -65,7 +65,7 @@
    "id": "s66:004ee",
    "op": "15",
    "jp": "（でも、ボクの気持ちも・・・）",
-   "en": "",
+   "en": "(But my feelings...)",
    "box": "17x3",
    "face": 9
   },
@@ -73,7 +73,7 @@
    "id": "s66:0052e",
    "op": "15",
    "jp": "ご免！！",
-   "en": "",
+   "en": "Sorry!!",
    "box": "17x3",
    "face": 9
   },
@@ -81,7 +81,7 @@
    "id": "s66:0054a",
    "op": "15",
    "jp": "キミを縛ることなんて\n誰にもできないもんね・・・",
-   "en": "",
+   "en": "Nobody can tie you down, after all...",
    "box": "17x3",
    "face": 9
   },
@@ -89,7 +89,7 @@
    "id": "s66:0058e",
    "op": "15",
    "jp": "本当に外に出たい！？",
-   "en": "",
+   "en": "You really want to go out!?",
    "box": "17x3",
    "face": 9
   },
@@ -97,21 +97,21 @@
    "id": "s66:005c2",
    "op": "1d",
    "jp": "外へ出たい！",
-   "en": "",
+   "en": "I want to go out!",
    "max": 15
   },
   {
    "id": "s66:005d8",
    "op": "1d",
    "jp": "外へ出たくない！",
-   "en": "",
+   "en": "I don't want to go out!",
    "max": 15
   },
   {
    "id": "s66:0060e",
    "op": "15",
    "jp": "そ、そうだよね・・・\nキミが記憶を早く取り戻すためにも、",
-   "en": "",
+   "en": "Y-yeah, right... So you can get your memory back soon,",
    "box": "17x3",
    "face": 9
   },
@@ -119,7 +119,7 @@
    "id": "s66:0065a",
    "op": "15",
    "jp": "それに・・・\nキミはボクの駕ρの鳥なんかじゃ、",
-   "en": "",
+   "en": "And besides... You're no caged bird of mine,",
    "box": "17x3",
    "face": 9
   },
@@ -127,7 +127,7 @@
    "id": "s66:0069a",
    "op": "15",
    "jp": "無いもんね・・・",
-   "en": "",
+   "en": "after all...",
    "box": "17x3",
    "face": 9
   },
@@ -143,7 +143,7 @@
    "id": "s66:006ea",
    "op": "15",
    "jp": "で、でもね！\n外に出るんなら・・・\nこれだけは覚えておいてね・・・",
-   "en": "",
+   "en": "B-but hey! If you go out... remember this one thing, okay...",
    "box": "17x3",
    "face": 9
   },
@@ -151,7 +151,7 @@
    "id": "s66:0073e",
    "op": "15",
    "jp": "街にはいろんな人達が居るけど、\n羽の色が黒い人達には乱暴な人が\n多いから・・・",
-   "en": "",
+   "en": "There's all kinds of people in town, but lots of the ones with black wings are rough...",
    "box": "17x3",
    "face": 9
   },
@@ -159,7 +159,7 @@
    "id": "s66:0079e",
    "op": "15",
    "jp": "くれぐれも気を付けて・・・",
-   "en": "",
+   "en": "So be really careful...",
    "box": "17x3",
    "face": 9
   },
@@ -175,7 +175,7 @@
    "id": "s66:007fa",
    "op": "15",
    "jp": "それから・・・",
-   "en": "",
+   "en": "And also...",
    "box": "17x3",
    "face": 9
   },
@@ -183,7 +183,7 @@
    "id": "s66:0081a",
    "op": "15",
    "jp": "このネックレスはボクからの\nお守りだと思って・・・",
-   "en": "",
+   "en": "Think of this necklace as a good-luck charm from me...",
    "box": "17x3",
    "face": 9
   },
@@ -191,7 +191,7 @@
    "id": "s66:0085e",
    "op": "15",
    "jp": "必ず身に着けておいて！",
-   "en": "",
+   "en": "and wear it, no matter what!",
    "box": "17x3",
    "face": 9
   },
@@ -199,7 +199,7 @@
    "id": "s66:008b2",
    "op": "15",
    "jp": "そ・・そうだよね！\nまだ早いよね。",
-   "en": "",
+   "en": "R-right! It's still too soon.",
    "box": "17x3",
    "face": 9
   },
@@ -207,7 +207,7 @@
    "id": "s66:008e6",
    "op": "15",
    "jp": "まったく～！！",
-   "en": "",
+   "en": "Geez~!!",
    "box": "17x3",
    "face": 9
   },
@@ -215,7 +215,7 @@
    "id": "s66:00906",
    "op": "15",
    "jp": "もう・・・\n心配させちゃやだよぉ～！",
-   "en": "",
+   "en": "Come on... don't make me worry like that~!",
    "box": "17x3",
    "face": 9
   },
@@ -223,7 +223,7 @@
    "id": "s66:0093e",
    "op": "15",
    "jp": "ああよかった・・・！",
-   "en": "",
+   "en": "Oh, good...!",
    "box": "17x3",
    "face": 9
   },
@@ -231,7 +231,7 @@
    "id": "s66:00966",
    "op": "15",
    "jp": "なんだかキミと離ればなれに\nなりそうな、悪い予感がして・・・",
-   "en": "",
+   "en": "I had this bad feeling you and I might get separated...",
    "box": "17x3",
    "face": 9
   },
@@ -239,7 +239,7 @@
    "id": "s66:009b6",
    "op": "15",
    "jp": "ちょっと心配だったんだ・・・！",
-   "en": "",
+   "en": "so I was kinda worried...!",
    "box": "17x3",
    "face": 9
   },
@@ -247,7 +247,7 @@
    "id": "s66:009e6",
    "op": "15",
    "jp": "でも、\nもしも外に出たくなったら・・・",
-   "en": "",
+   "en": "But if you ever do want to go out...",
    "box": "17x3",
    "face": 9
   }

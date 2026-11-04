@@ -9,7 +9,7 @@
    "id": "s14:0020e",
    "op": "15",
    "jp": "目が覚めたからって、\nまだ動いちゃダメよ！",
-   "en": "",
+   "en": "Just because you've woken up doesn't mean you can move yet!",
    "box": "17x3",
    "face": 7
   },
@@ -17,7 +17,7 @@
    "id": "s14:0024a",
    "op": "15",
    "jp": "ずっと眠ったままだったんだもん、\n体がびっくりしちゃうから。",
-   "en": "",
+   "en": "You've been asleep all this time. It would give your body a shock.",
    "box": "17x3",
    "face": 7
   },
@@ -25,7 +25,7 @@
    "id": "s14:0029a",
    "op": "15",
    "jp": "退屈しないように、\n私がお話をしてあげるね。",
-   "en": "",
+   "en": "So you won't get bored, I'll tell you a story.",
    "box": "17x3",
    "face": 7
   },
@@ -33,7 +33,7 @@
    "id": "s14:002da",
    "op": "15",
    "jp": "あの大きな落雷があった日・・・\nあ、といっても覚えてないよね。",
-   "en": "",
+   "en": "That day of the great lightning strike... Oh, but you wouldn't remember it, would you.",
    "box": "17x3",
    "face": 7
   },
@@ -41,7 +41,7 @@
    "id": "s14:0032a",
    "op": "15",
    "jp": "アナタは私のために山へ入って、\n薬草を取ってくれていたの。",
-   "en": "",
+   "en": "You went up into the mountains for my sake, to gather herbs.",
    "box": "17x3",
    "face": 7
   },
@@ -49,7 +49,7 @@
    "id": "s14:00386",
    "op": "15",
    "jp": "何故医者にいかなかったのかって？\nそれは・・・",
-   "en": "",
+   "en": "Why didn't we go to a doctor, you ask? Well...",
    "box": "17x3",
    "face": 7
   },
@@ -57,7 +57,7 @@
    "id": "s14:003d6",
    "op": "15",
    "jp": "ちょっとね、\nいけない事情があったの・・・",
-   "en": "",
+   "en": "There was a reason, you see, why we couldn't...",
    "box": "17x3",
    "face": 7
   },
@@ -65,7 +65,7 @@
    "id": "s14:00412",
    "op": "15",
    "jp": "とにかく・・・\n山の奥へと入っていったアナタは、",
-   "en": "",
+   "en": "In any case... you went deep into the mountains,",
    "box": "17x3",
    "face": 7
   },
@@ -73,7 +73,7 @@
    "id": "s14:00456",
    "op": "15",
    "jp": "何かの事故に\n巻き込まれたみたいなの。",
-   "en": "",
+   "en": "and it seems you got caught up in some kind of accident.",
    "box": "17x3",
    "face": 7
   },
@@ -81,7 +81,7 @@
    "id": "s14:0048e",
    "op": "15",
    "jp": "それはとても\n大きな事故だったと思うわ。",
-   "en": "",
+   "en": "I think it must have been a very big accident.",
    "box": "17x3",
    "face": 7
   },
@@ -89,7 +89,7 @@
    "id": "s14:0053a",
    "op": "15",
    "jp": "（だって、私は見たんだもの。）",
-   "en": "",
+   "en": "(Because I saw it, you see.)",
    "box": "17x3",
    "face": 7
   },
@@ -97,7 +97,7 @@
    "id": "s14:0056a",
    "op": "15",
    "jp": "（雨が止んだあの日、\n　やっと動けるようになって\n　入っていった山の中に、）",
-   "en": "",
+   "en": "(That day, when the rain stopped, I could finally move, and I went into the mountains...)",
    "box": "17x3",
    "face": 7
   },
@@ -105,7 +105,7 @@
    "id": "s14:005ca",
    "op": "15",
    "jp": "（アナタを囲むようにして倒れる\n　大勢の人の死体を！！）",
-   "en": "",
+   "en": "(There, all around you, in a ring, lay the bodies of so many people!!)",
    "box": "17x3",
    "face": 7
   },
@@ -113,7 +113,7 @@
    "id": "s14:00622",
    "op": "15",
    "jp": "かすかな息しかしていない、\n血だらけのアナタを見たとき、",
-   "en": "",
+   "en": "When I saw you, covered in blood, barely breathing,",
    "box": "17x3",
    "face": 7
   },
@@ -121,7 +121,7 @@
    "id": "s14:0066e",
    "op": "15",
    "jp": "私、絶望で・・・\nもう何も考えられなかった。",
-   "en": "",
+   "en": "I was in despair... I couldn't think of anything anymore.",
    "box": "17x3",
    "face": 7
   },
@@ -129,7 +129,7 @@
    "id": "s14:006ba",
    "op": "15",
    "jp": "（この世界に一人で残されたら、\n　私・・・）",
-   "en": "",
+   "en": "(If I were left alone in this world, I...)",
    "box": "17x3",
    "face": 7
   },
@@ -137,7 +137,7 @@
    "id": "s14:006fa",
    "op": "15",
    "jp": "（不安で、心細くて・・・）",
-   "en": "",
+   "en": "(I'd be so afraid, so lonely...)",
    "box": "17x3",
    "face": 7
   },
@@ -145,7 +145,7 @@
    "id": "s14:00726",
    "op": "15",
    "jp": "グスッ・・・",
-   "en": "",
+   "en": "Sniff...",
    "box": "17x3",
    "face": 7
   },
@@ -153,7 +153,7 @@
    "id": "s14:007a2",
    "op": "15",
    "jp": "さあ、もう休んで！",
-   "en": "",
+   "en": "Now, get some rest!",
    "box": "17x3",
    "face": 7
   },
@@ -161,7 +161,7 @@
    "id": "s14:007c6",
    "op": "15",
    "jp": "無理はしない方がいいと思うの。",
-   "en": "",
+   "en": "I don't think you should push yourself.",
    "box": "17x3",
    "face": 7
   },
@@ -169,7 +169,7 @@
    "id": "s14:00806",
    "op": "15",
    "jp": "早く元気になってね。",
-   "en": "",
+   "en": "Please get well soon.",
    "box": "17x3",
    "face": 7
   },
@@ -177,7 +177,7 @@
    "id": "s14:00a6e",
    "op": "15",
    "jp": "私ね・・・\nアナタが目を覚まさなかったとき、\nとっても心細かったのよ。",
-   "en": "",
+   "en": "You know... while you weren't waking up, I was so very lonely.",
    "box": "17x3",
    "face": 7
   },
@@ -185,7 +185,7 @@
    "id": "s14:00ad6",
    "op": "15",
    "jp": "だって私、\nアナタの瞳が大好きなの。",
-   "en": "",
+   "en": "Because I love your eyes.",
    "box": "17x3",
    "face": 7
   },
@@ -193,7 +193,7 @@
    "id": "s14:00b0e",
    "op": "15",
    "jp": "アナタに見つめられると・・・",
-   "en": "",
+   "en": "When you look at me...",
    "box": "17x3",
    "face": 7
   },
@@ -201,7 +201,7 @@
    "id": "s14:00b3e",
    "op": "15",
    "jp": "忘れていた気持ちが、\nなんだかよみがえりそうで！",
-   "en": "",
+   "en": "feelings I'd forgotten seem to come back to life!",
    "box": "17x3",
    "face": 7
   },
@@ -209,7 +209,7 @@
    "id": "s14:00b82",
    "op": "15",
    "jp": "例えどんなに嫌われようと・・・\nこの気持ちは変わらないわ。",
-   "en": "",
+   "en": "No matter how much you might hate me... these feelings won't change.",
    "box": "17x3",
    "face": 7
   },
@@ -217,7 +217,7 @@
    "id": "s14:00f5e",
    "op": "15",
    "jp": "だっ大丈夫！？目が覚めてから、\nまだ一週間しか経ってないのに\n起きたりして。",
-   "en": "",
+   "en": "A-are you all right!? It's only been a week since you woke up, and here you are, out of bed.",
    "box": "17x3",
    "face": 7
   },
@@ -225,7 +225,7 @@
    "id": "s14:00fbe",
    "op": "15",
    "jp": "でも無理はしない方がいいわ、\nまだ本調子じゃないみたいだもの。",
-   "en": "",
+   "en": "But you shouldn't push yourself. You don't seem to be quite yourself yet.",
    "box": "17x3",
    "face": 7
   },
@@ -241,7 +241,7 @@
    "id": "s14:0103e",
    "op": "15",
    "jp": "それと、\n一つだけ大事なお願いがあるの。",
-   "en": "",
+   "en": "And there's just one important thing I must ask of you.",
    "box": "17x3",
    "face": 7
   },
@@ -249,7 +249,7 @@
    "id": "s14:0107a",
    "op": "15",
    "jp": "これは重要な事だから、\n絶対に忘れないでね。",
-   "en": "",
+   "en": "It matters very much, so please don't ever forget it.",
    "box": "17x3",
    "face": 7
   },
@@ -257,7 +257,7 @@
    "id": "s14:010ba",
    "op": "15",
    "jp": "アナタはこの世界での記憶を\n無くしてしまっていて、",
-   "en": "",
+   "en": "You've lost your memories of this world,",
    "box": "17x3",
    "face": 7
   },
@@ -265,7 +265,7 @@
    "id": "s14:010fe",
    "op": "15",
    "jp": "この世界の常識に、\n慣れてないはずでしょ？！",
-   "en": "",
+   "en": "so you can't be used to the way things are here, can you?!",
    "box": "17x3",
    "face": 7
   },
@@ -273,7 +273,7 @@
    "id": "s14:0113e",
    "op": "15",
    "jp": "だから私が安心してアナタを、\n家の外に送り出せるようになるまで、",
-   "en": "",
+   "en": "So until I feel safe sending you outside,",
    "box": "17x3",
    "face": 7
   },
@@ -281,7 +281,7 @@
    "id": "s14:01192",
    "op": "15",
    "jp": "勝手に家の柵の外には、\n出ないで欲しいの。",
-   "en": "",
+   "en": "please don't go beyond the fence around the house on your own.",
    "box": "17x3",
    "face": 7
   },
@@ -289,7 +289,7 @@
    "id": "s14:011ce",
    "op": "15",
    "jp": "いい？\n外に出ちゃダメよ！",
-   "en": "",
+   "en": "All right? You mustn't go outside!",
    "box": "17x3",
    "face": 7
   },
@@ -297,7 +297,7 @@
    "id": "s14:011fa",
    "op": "15",
    "jp": "二人だけの約束。",
-   "en": "",
+   "en": "A promise, just between the two of us.",
    "box": "17x3",
    "face": 7
   },
@@ -305,7 +305,7 @@
    "id": "s14:0122a",
    "op": "15",
    "jp": "しばらくは、\nちゃんとリハビリしなくっちゃね！",
-   "en": "",
+   "en": "For a while, you really must do your rehabilitation properly!",
    "box": "17x3",
    "face": 7
   }

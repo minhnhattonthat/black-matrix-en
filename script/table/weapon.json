@@ -10,1885 +10,1885 @@
   {
    "id": "weapon:0.name",
    "jp": "ナイフ",
-   "en": "",
+   "en": "Knife",
    "max": 8
   },
   {
    "id": "weapon:0.desc",
    "jp": "どこにでもある短剣",
-   "en": "",
+   "en": "A dagger you can find anywhere.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:1.name",
    "jp": "ダガー",
-   "en": "",
+   "en": "Dagger",
    "max": 8
   },
   {
    "id": "weapon:1.desc",
    "jp": "ナイフより攻撃力のある短剣",
-   "en": "",
+   "en": "A dagger stronger than a Knife.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:2.name",
    "jp": "マーシーナイフ",
-   "en": "",
+   "en": "Mercy Knife",
    "max": 8
   },
   {
    "id": "weapon:2.desc",
    "jp": "呪法の刻まれた短剣\n刃の色が青い",
-   "en": "",
+   "en": "A dagger engraved with a hex.\nThe blade is blue.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:3.name",
    "jp": "キドニーダガー",
-   "en": "",
+   "en": "Kidney Dagger",
    "max": 8
   },
   {
    "id": "weapon:3.desc",
    "jp": "息の根を止める時だけに使用した短剣",
-   "en": "",
+   "en": "A dagger used only to finish someone off.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:4.name",
    "jp": "バゼラード",
-   "en": "",
+   "en": "Baselard",
    "max": 8
   },
   {
    "id": "weapon:4.desc",
    "jp": "ツバを持った短剣",
-   "en": "",
+   "en": "A dagger with a guard.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:5.name",
    "jp": "カタール",
-   "en": "",
+   "en": "Katar",
    "max": 8
   },
   {
    "id": "weapon:5.desc",
    "jp": "葉を模した刃を持っている短剣",
-   "en": "",
+   "en": "A dagger with a leaf-shaped blade.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:6.name",
    "jp": "シェイドダガー",
-   "en": "",
+   "en": "Shade Dagger",
    "max": 8
   },
   {
    "id": "weapon:6.desc",
    "jp": "主に暗殺に使用された短剣\n全体が黒く塗られている",
-   "en": "",
+   "en": "A dagger used mainly to assassinate.\nPainted black all over.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:7.name",
    "jp": "ダーマナイフ",
-   "en": "",
+   "en": "Dharma Knife",
    "max": 8
   },
   {
    "id": "weapon:7.desc",
    "jp": "名前らしきものが刻まれている短剣\n刃が非常に薄い",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nA dagger with a very thin blade.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:8.name",
    "jp": "インピディナイフ",
-   "en": "",
+   "en": "Impidi Knife",
    "max": 8
   },
   {
    "id": "weapon:8.desc",
    "jp": "名前らしきものが刻まれている短剣\n不思議な輝きを持っている",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nA dagger with a strange gleam.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:9.name",
    "jp": "ジョギリ",
-   "en": "",
+   "en": "Jogiri",
    "max": 8
   },
   {
    "id": "weapon:9.desc",
    "jp": "両刃の短剣\n見た目からは想像できないほど重い",
-   "en": "",
+   "en": "A double-edged dagger.\nFar heavier than it looks.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:10.name",
    "jp": "木の棒",
-   "en": "",
+   "en": "Wooden Stick",
    "max": 8
   },
   {
    "id": "weapon:10.desc",
    "jp": "棒きれ",
-   "en": "",
+   "en": "A mere stick.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:11.name",
    "jp": "木の棒",
-   "en": "",
+   "en": "Wooden Stick",
    "max": 8
   },
   {
    "id": "weapon:11.desc",
    "jp": "棒きれ",
-   "en": "",
+   "en": "A mere stick.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:12.name",
    "jp": "ショートソード",
-   "en": "",
+   "en": "Short Sword",
    "max": 8
   },
   {
    "id": "weapon:12.desc",
    "jp": "刃の短い剣\n先が細く、柄に近くなるほど刃が広い",
-   "en": "",
+   "en": "A sword with a short blade.\nNarrow tip, widening toward the hilt.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:13.name",
    "jp": "グラディウス",
-   "en": "",
+   "en": "Gladius",
    "max": 8
   },
   {
    "id": "weapon:13.desc",
    "jp": "ショートソードより幅の広い刃を持つ\n握りの部分が骨で作られている",
-   "en": "",
+   "en": "A broader blade than the Short Sword.\nThe grip is made of bone.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:14.name",
    "jp": "カトラス",
-   "en": "",
+   "en": "Cutlass",
    "max": 8
   },
   {
    "id": "weapon:14.desc",
    "jp": "片刃で刃が短い剣\n激しい打ち込みにも耐えられる",
-   "en": "",
+   "en": "A short, single-edged sword.\nWithstands even fierce blows.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:15.name",
    "jp": "ガービーシミター",
-   "en": "",
+   "en": "Garby Scimitar",
    "max": 8
   },
   {
    "id": "weapon:15.desc",
    "jp": "名前らしきものが刻まれている剣\n刃はゆるやかにカーブしている",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nA sword with a gently curved blade.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:16.name",
    "jp": "ファルシオン",
-   "en": "",
+   "en": "Falchion",
    "max": 8
   },
   {
    "id": "weapon:16.desc",
    "jp": "片刃の曲刀\n刃は広く、見た目よりも重い剣",
-   "en": "",
+   "en": "A single-edged curved sword.\nWide blade, heavier than it looks.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:17.name",
    "jp": "ピローソード",
-   "en": "",
+   "en": "Pillow Sword",
    "max": 8
   },
   {
    "id": "weapon:17.desc",
    "jp": "細身で軽い剣\n本来は護身用として使用されていた",
-   "en": "",
+   "en": "A slim, light sword.\nOriginally carried for self-defense.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:18.name",
    "jp": "ブロードソード",
-   "en": "",
+   "en": "Broadsword",
    "max": 8
   },
   {
    "id": "weapon:18.desc",
    "jp": "それほど刃は広くない\n見た目よりも軽く作られている剣",
-   "en": "",
+   "en": "The blade isn't all that broad.\nMade lighter than it looks.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:19.name",
    "jp": "マンドウ",
-   "en": "",
+   "en": "Mandau",
    "max": 8
   },
   {
    "id": "weapon:19.desc",
    "jp": "首狩りと呼ばれる剣\nやや湾曲した刃を持つ",
-   "en": "",
+   "en": "Known as the headhunter's sword.\nThe blade curves slightly.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:20.name",
    "jp": "ドレスソード",
-   "en": "",
+   "en": "Dress Sword",
    "max": 8
   },
   {
    "id": "weapon:20.desc",
    "jp": "宝飾がちりばめられた剣\n細身で軽く作られている",
-   "en": "",
+   "en": "A sword studded with jewels.\nSlim and lightly made.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:21.name",
    "jp": "パラッシュ",
-   "en": "",
+   "en": "Pallasch",
    "max": 8
   },
   {
    "id": "weapon:21.desc",
    "jp": "まっすぐな刃を持つ剣\n振るより突く方が効果的にみえる",
-   "en": "",
+   "en": "A sword with a straight blade.\nSeems better for thrusts than swings.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:22.name",
    "jp": "シンクレア",
-   "en": "",
+   "en": "Sinclair",
    "max": 8
   },
   {
    "id": "weapon:22.desc",
    "jp": "握り部分を保護している剣\n刃は長く、ゆるやかにカーブしている",
-   "en": "",
+   "en": "A sword with a guarded grip.\nLong blade with a gentle curve.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:23.name",
    "jp": "ダマスカスソード",
-   "en": "",
+   "en": "Damascus Sword",
    "max": 8
   },
   {
    "id": "weapon:23.desc",
    "jp": "特殊な鉱石で作られた剣\n耐久力が非常に高い",
-   "en": "",
+   "en": "A sword made of a special ore.\nExtremely durable.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:24.name",
    "jp": "バックソード",
-   "en": "",
+   "en": "Backsword",
    "max": 8
   },
   {
    "id": "weapon:24.desc",
    "jp": "片刃の剣\n握りの保護により防御力が高い",
-   "en": "",
+   "en": "A single-edged sword.\nIts guarded grip gives high defense.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:25.name",
    "jp": "フランベルジェ",
-   "en": "",
+   "en": "Flamberge",
    "max": 8
   },
   {
    "id": "weapon:25.desc",
    "jp": "刃が波状の美しい両手剣\n波状の刃が攻撃力を高めている",
-   "en": "",
+   "en": "A beautiful wave-bladed two-hander.\nThe wavy blade raises its attack.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:26.name",
    "jp": "カツバルゲル",
-   "en": "",
+   "en": "Katzbalger",
    "max": 8
   },
   {
    "id": "weapon:26.desc",
    "jp": "シンプルな両刃の剣\n使い勝手が非常に良い",
-   "en": "",
+   "en": "A simple double-edged sword.\nExtremely easy to use.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:27.name",
    "jp": "デールソード",
-   "en": "",
+   "en": "Dale Sword",
    "max": 8
   },
   {
    "id": "weapon:27.desc",
    "jp": "名前らしきものが刻まれている剣\n虹色の刃を持つ両刃の剣",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nA double-edged rainbow blade.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:28.name",
    "jp": "ツバイハンダー",
-   "en": "",
+   "en": "Zweihander",
    "max": 8
   },
   {
    "id": "weapon:28.desc",
    "jp": "両手で持つことが基本の剣\nツバの部分が非常に長い",
-   "en": "",
+   "en": "A sword meant to be held in two hands.\nThe guard is extremely long.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:29.name",
    "jp": "クレイモアー",
-   "en": "",
+   "en": "Claymore",
    "max": 8
   },
   {
    "id": "weapon:29.desc",
    "jp": "大ぶりな剣で片手で扱えない\nツバの先に輪型の装飾が施されている",
-   "en": "",
+   "en": "A big sword, too big for one hand.\nRing ornaments on the guard's tips.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:30.name",
    "jp": "ダルシーソード",
-   "en": "",
+   "en": "Dulcie Sword",
    "max": 8
   },
   {
    "id": "weapon:30.desc",
    "jp": "名前らしきものが刻まれている\n不思議な色の刃を持つ片刃の剣",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nOne-edged, the blade a strange color.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:31.name",
    "jp": "ルーンソード",
-   "en": "",
+   "en": "Rune Sword",
    "max": 8
   },
   {
    "id": "weapon:31.desc",
    "jp": "刃に文字が刻まれている剣",
-   "en": "",
+   "en": "A sword with letters on the blade.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:32.name",
    "jp": "クロルソード",
-   "en": "",
+   "en": "Chlor Sword",
    "max": 8
   },
   {
    "id": "weapon:32.desc",
    "jp": "名前らしきものが刻まれている剣\n非常に軽い両刃の剣",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nA very light double-edged sword.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:33.name",
    "jp": "シルバーソード",
-   "en": "",
+   "en": "Silver Sword",
    "max": 8
   },
   {
    "id": "weapon:33.desc",
    "jp": "教団禁制の鉱石で作られた剣",
-   "en": "",
+   "en": "A sword made of ore the Order bans.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:34.name",
    "jp": "刀",
-   "en": "",
+   "en": "Katana",
    "max": 8
   },
   {
    "id": "weapon:34.desc",
    "jp": "不思議な片刃の剣\n刃はゆるやかにカーブしている",
-   "en": "",
+   "en": "A strange single-edged sword.\nThe blade curves gently.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:35.name",
    "jp": "漆黒の剣",
-   "en": "",
+   "en": "Jet-Black Sword",
    "max": 8
   },
   {
    "id": "weapon:35.desc",
    "jp": "片刃で軽く作られている剣\nくすんだ黒い鉱石で作られている",
-   "en": "",
+   "en": "A light, single-edged sword.\nMade of a dull black ore.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:36.name",
    "jp": "深淵の剣",
-   "en": "",
+   "en": "Abyss Sword",
    "max": 8
   },
   {
    "id": "weapon:36.desc",
    "jp": "両刃で握り部分が少し長い剣\n光沢のある黒い鉱石で作られている",
-   "en": "",
+   "en": "Double-edged; the grip is a bit long.\nMade of a glossy black ore.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:37.name",
    "jp": "ダンビラ",
-   "en": "",
+   "en": "Danbira",
    "max": 8
   },
   {
    "id": "weapon:37.desc",
    "jp": "巨大な剣\n常人には持ち上げることができない",
-   "en": "",
+   "en": "A gigantic sword.\nNo ordinary person can lift it.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:38.name",
    "jp": "友愛の剣",
-   "en": "",
+   "en": "Friendship Sword",
    "max": 8
   },
   {
    "id": "weapon:38.desc",
    "jp": "禁断の剣とも呼ばれている\n純白の美しい刃を持っている",
-   "en": "",
+   "en": "Also called the Forbidden Sword.\nIts beautiful blade is pure white.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:39.name",
    "jp": "覇王の剣",
-   "en": "",
+   "en": "Overlord's Sword",
    "max": 8
   },
   {
    "id": "weapon:39.desc",
    "jp": "握り部分がさびている古い両刃の剣\n触れると刃が青く光る",
-   "en": "",
+   "en": "Old two-edged sword with a rusty grip.\nThe blade glows blue when touched.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:40.name",
    "jp": "アクス",
-   "en": "",
+   "en": "Axe",
    "max": 8
   },
   {
    "id": "weapon:40.desc",
    "jp": "片刃の斧\n素朴な作りをしている",
-   "en": "",
+   "en": "A single-edged axe.\nPlain in make.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:41.name",
    "jp": "フランシスカ",
-   "en": "",
+   "en": "Francisca",
    "max": 8
   },
   {
    "id": "weapon:41.desc",
    "jp": "片刃の斧でアクスより柄が長い",
-   "en": "",
+   "en": "A single-edged axe.\nIts haft is longer than an Axe's.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:42.name",
    "jp": "ビリオンアクス",
-   "en": "",
+   "en": "Billion Axe",
    "max": 8
   },
   {
    "id": "weapon:42.desc",
    "jp": "片刃の斧で刃が重くなっている\n殴打時に威力が高い作りとなっている",
-   "en": "",
+   "en": "A single-edged axe with a heavy blade.\nBuilt to hit hard when it strikes.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:43.name",
    "jp": "バトルアクス",
-   "en": "",
+   "en": "Battle Axe",
    "max": 8
   },
   {
    "id": "weapon:43.desc",
    "jp": "戦闘向けに作られた両刃の斧",
-   "en": "",
+   "en": "A double-edged axe made for combat.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:44.name",
    "jp": "ヘッドアクス",
-   "en": "",
+   "en": "Head Axe",
    "max": 8
   },
   {
    "id": "weapon:44.desc",
    "jp": "殴打に向いている斧\n逆の刃にピックがついている",
-   "en": "",
+   "en": "An axe suited to bludgeoning.\nA pick sits opposite the blade.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:45.name",
    "jp": "カリンガ",
-   "en": "",
+   "en": "Karinga",
    "max": 8
   },
   {
    "id": "weapon:45.desc",
    "jp": "ヘッドアクスの原型\n素朴な作りで数が少ない",
-   "en": "",
+   "en": "Prototype of the Head Axe.\nPlainly made, and few exist.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:46.name",
    "jp": "スロウターアクス",
-   "en": "",
+   "en": "Slaughter Axe",
    "max": 8
   },
   {
    "id": "weapon:46.desc",
    "jp": "大ぶりな片刃の斧\n振り下ろしの威力が高い",
-   "en": "",
+   "en": "A big single-edged axe.\nHits hardest on the downswing.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:47.name",
    "jp": "デルフィナアクス",
-   "en": "",
+   "en": "Delphina Axe",
    "max": 8
   },
   {
    "id": "weapon:47.desc",
    "jp": "名前らしきものが刻まれている斧\n刃に穴が３つ空いている",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nThree holes bored in the blade.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:48.name",
    "jp": "ムジョルニア",
-   "en": "",
+   "en": "Mjolnir",
    "max": 8
   },
   {
    "id": "weapon:48.desc",
    "jp": "青い刃を持つ両刃の斧\n触ると感電する感覚におそわれる",
-   "en": "",
+   "en": "A double-edged axe with a blue blade.\nA touch feels like an electric shock.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:49.name",
    "jp": "タバルアクス",
-   "en": "",
+   "en": "Tabar Axe",
    "max": 8
   },
   {
    "id": "weapon:49.desc",
    "jp": "柄も金属で作られている片刃の斧\n刃に装飾が施されている",
-   "en": "",
+   "en": "Single-edged; even the haft is metal.\nThe blade is decorated.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:50.name",
    "jp": "ルーンアクス",
-   "en": "",
+   "en": "Rune Axe",
    "max": 8
   },
   {
    "id": "weapon:50.desc",
    "jp": "文字が刻まれている両刃の斧",
-   "en": "",
+   "en": "A double-edged axe\nengraved with letters.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:51.name",
    "jp": "ヴァンアクス",
-   "en": "",
+   "en": "Van Axe",
    "max": 8
   },
   {
    "id": "weapon:51.desc",
    "jp": "刃が波状になっている片刃の斧",
-   "en": "",
+   "en": "A single-edged axe with a wavy blade.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:52.name",
    "jp": "バンディアクス",
-   "en": "",
+   "en": "Bandy Axe",
    "max": 8
   },
   {
    "id": "weapon:52.desc",
    "jp": "名前らしきものが刻まれている斧\n嫌な匂いがする",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nIt has a foul smell.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:53.name",
    "jp": "シルバーアクス",
-   "en": "",
+   "en": "Silver Axe",
    "max": 8
   },
   {
    "id": "weapon:53.desc",
    "jp": "教団禁制の鉱石で作られている片刃の斧",
-   "en": "",
+   "en": "A single-edged axe\nmade of ore the Order bans.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:54.name",
    "jp": "コロナアクス",
-   "en": "",
+   "en": "Corona Axe",
    "max": 8
   },
   {
    "id": "weapon:54.desc",
    "jp": "両刃の斧\n刃の先がのこぎり状になっている",
-   "en": "",
+   "en": "A double-edged axe.\nThe blade's edge is saw-toothed.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:55.name",
    "jp": "ミトラアクス",
-   "en": "",
+   "en": "Mitra Axe",
    "max": 8
   },
   {
    "id": "weapon:55.desc",
    "jp": "邪教の呪法が刻まれている斧",
-   "en": "",
+   "en": "An axe engraved with\na hex of the wicked faith.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:56.name",
    "jp": "狂皇の戦斧",
-   "en": "",
+   "en": "Mad Emperor Axe",
    "max": 8
   },
   {
    "id": "weapon:56.desc",
    "jp": "深紅の刃を持つ両刃の斧\n持つ者は脱力感を受ける",
-   "en": "",
+   "en": "A double-edged axe, its blade crimson.\nIts wielder feels drained.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:57.name",
    "jp": "レイピア",
-   "en": "",
+   "en": "Rapier",
    "max": 8
   },
   {
    "id": "weapon:57.desc",
    "jp": "突き専用の細身の剣\n刃はなく、先端が鋭くなっている",
-   "en": "",
+   "en": "A slim sword made only for thrusting.\nNo edge, just a sharp point.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:58.name",
    "jp": "フルーレ",
-   "en": "",
+   "en": "Fleuret",
    "max": 8
   },
   {
    "id": "weapon:58.desc",
    "jp": "突き専用の細身の剣\n刀身が長く、非常に軽い",
-   "en": "",
+   "en": "A slim sword made only for thrusting.\nLong blade, extremely light.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:59.name",
    "jp": "デールレイピア",
-   "en": "",
+   "en": "Dale Rapier",
    "max": 8
   },
   {
    "id": "weapon:59.desc",
    "jp": "名前らしきものが刻まれている細身の剣\n柄の部分にドクロの彫刻が施されている",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nThe hilt bears a carved skull.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:60.name",
    "jp": "エストック",
-   "en": "",
+   "en": "Estoc",
    "max": 8
   },
   {
    "id": "weapon:60.desc",
    "jp": "突き専用の細身の剣\n薄い鎧なら突き通せる強力な剣",
-   "en": "",
+   "en": "A slim sword made only for thrusting.\nStrong enough to pierce thin armor.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:61.name",
    "jp": "フランベルク",
-   "en": "",
+   "en": "Flamberg",
    "max": 8
   },
   {
    "id": "weapon:61.desc",
    "jp": "刃が波状になっている突き専用の剣\n波状の刃が破壊力を高めている",
-   "en": "",
+   "en": "A wave-bladed thrusting sword.\nThe wavy blade raises its power.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:62.name",
    "jp": "ボアレイピア",
-   "en": "",
+   "en": "Boar Rapier",
    "max": 8
   },
   {
    "id": "weapon:62.desc",
    "jp": "先端がふくらんでいる突き専用の剣\nえぐることで攻撃力が増す",
-   "en": "",
+   "en": "A thrusting sword with a swollen tip.\nGouging adds to its attack.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:63.name",
    "jp": "コリシュマルド",
-   "en": "",
+   "en": "Colichemarde",
    "max": 8
   },
   {
    "id": "weapon:63.desc",
    "jp": "突き専用の剣\n握りが短く、片手で扱える",
-   "en": "",
+   "en": "A thrusting sword.\nShort grip, usable in one hand.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:64.name",
    "jp": "バーダーレイピア",
-   "en": "",
+   "en": "Bader Rapier",
    "max": 8
   },
   {
    "id": "weapon:64.desc",
    "jp": "名前らしきものが刻まれている細身の剣\n刀身が常にぬれている",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nThe blade is always wet.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:65.name",
    "jp": "スピア",
-   "en": "",
+   "en": "Spear",
    "max": 8
   },
   {
    "id": "weapon:65.desc",
    "jp": "木の棒の先に鉄の穂先がついている",
-   "en": "",
+   "en": "A wooden pole with an iron spearhead.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:66.name",
    "jp": "グレイブ",
-   "en": "",
+   "en": "Glaive",
    "max": 8
   },
   {
    "id": "weapon:66.desc",
    "jp": "穂先に刃がついている槍",
-   "en": "",
+   "en": "A spear with a blade for a head.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:67.name",
    "jp": "メルビンスピア",
-   "en": "",
+   "en": "Melvin Spear",
    "max": 8
   },
   {
    "id": "weapon:67.desc",
    "jp": "名前らしきものが刻まれている槍\n穂先が２つに分かれている",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nThe head splits in two.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:68.name",
    "jp": "パルチザン",
-   "en": "",
+   "en": "Partisan",
    "max": 8
   },
   {
    "id": "weapon:68.desc",
    "jp": "穂先が大きな槍\n重いので扱いにくい",
-   "en": "",
+   "en": "A spear with a large head.\nHeavy and hard to handle.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:69.name",
    "jp": "コルセスカ",
-   "en": "",
+   "en": "Corsesca",
    "max": 8
   },
   {
    "id": "weapon:69.desc",
    "jp": "穂先に小さな刃が２枚ついた槍",
-   "en": "",
+   "en": "A spear whose head has 2 small blades.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:70.name",
    "jp": "トライデント",
-   "en": "",
+   "en": "Trident",
    "max": 8
   },
   {
    "id": "weapon:70.desc",
    "jp": "穂先が３つに分かれている槍",
-   "en": "",
+   "en": "A spear with a head split in three.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:71.name",
    "jp": "ウィングスピア",
-   "en": "",
+   "en": "Wing Spear",
    "max": 8
   },
   {
    "id": "weapon:71.desc",
    "jp": "翼のレリーフが施された槍",
-   "en": "",
+   "en": "A spear with a relief of wings.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:72.name",
    "jp": "スコーピオン",
-   "en": "",
+   "en": "Scorpion",
    "max": 8
   },
   {
    "id": "weapon:72.desc",
    "jp": "両端に穂先がついている槍\n非常に軽く作られている",
-   "en": "",
+   "en": "A spear with a head at either end.\nMade to be extremely light.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:73.name",
    "jp": "ハルバード",
-   "en": "",
+   "en": "Halberd",
    "max": 8
   },
   {
    "id": "weapon:73.desc",
    "jp": "斧の刃を持った槍",
-   "en": "",
+   "en": "A spear with an axe blade.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:74.name",
    "jp": "ソリスハルバード",
-   "en": "",
+   "en": "Solis Halberd",
    "max": 8
   },
   {
    "id": "weapon:74.desc",
    "jp": "名前らしきものが刻まれている槍\n穂先に深紅の羽根飾りがついている",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nCrimson feathers adorn the head.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:75.name",
    "jp": "ルーンスピア",
-   "en": "",
+   "en": "Rune Spear",
    "max": 8
   },
   {
    "id": "weapon:75.desc",
    "jp": "穂先に文字が刻まれている槍",
-   "en": "",
+   "en": "A spear with letters on its head.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:76.name",
    "jp": "ニーブハルバード",
-   "en": "",
+   "en": "Neave Halberd",
    "max": 8
   },
   {
    "id": "weapon:76.desc",
    "jp": "名前らしきものが刻まれている槍\n全て金属製で作られているため重い",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nHeavy, since it's all metal.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:77.name",
    "jp": "ジャベリン",
-   "en": "",
+   "en": "Javelin",
    "max": 8
   },
   {
    "id": "weapon:77.desc",
    "jp": "軽くできている槍\n本来は投げて使用する",
-   "en": "",
+   "en": "A light spear.\nOriginally meant for throwing.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:78.name",
    "jp": "シルバースピア",
-   "en": "",
+   "en": "Silver Spear",
    "max": 8
   },
   {
    "id": "weapon:78.desc",
    "jp": "教団禁制の鉱石で作られた槍",
-   "en": "",
+   "en": "A spear made of ore the Order bans.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:79.name",
    "jp": "キアニーグレイブ",
-   "en": "",
+   "en": "Kiani Glaive",
    "max": 8
   },
   {
    "id": "weapon:79.desc",
    "jp": "穂先の刃が紅い槍",
-   "en": "",
+   "en": "A spear with a crimson blade.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:80.name",
    "jp": "ミトラスピア",
-   "en": "",
+   "en": "Mitra Spear",
    "max": 8
   },
   {
    "id": "weapon:80.desc",
    "jp": "邪教の呪法が刻まれている槍",
-   "en": "",
+   "en": "A spear engraved with\na hex of the wicked faith.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:81.name",
    "jp": "冥王の戦槍",
-   "en": "",
+   "en": "Dark King Spear",
    "max": 8
   },
   {
    "id": "weapon:81.desc",
    "jp": "常に冷気を帯びている槍",
-   "en": "",
+   "en": "A spear forever wreathed in cold.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:82.name",
    "jp": "杖",
-   "en": "",
+   "en": "Staff",
    "max": 8
   },
   {
    "id": "weapon:82.desc",
    "jp": "木で作られた杖",
-   "en": "",
+   "en": "A staff made of wood.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:83.name",
    "jp": "骨の杖",
-   "en": "",
+   "en": "Bone Staff",
    "max": 8
   },
   {
    "id": "weapon:83.desc",
    "jp": "骨で作られた杖",
-   "en": "",
+   "en": "A staff made of bone.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:84.name",
    "jp": "クリスタルロッド",
-   "en": "",
+   "en": "Crystal Rod",
    "max": 8
   },
   {
    "id": "weapon:84.desc",
    "jp": "先端に水晶の飾りがついているロッド",
-   "en": "",
+   "en": "A rod tipped with a crystal ornament.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:85.name",
    "jp": "カバラの杖",
-   "en": "",
+   "en": "Kabbalah Staff",
    "max": 8
   },
   {
    "id": "weapon:85.desc",
    "jp": "呪法が刻まれている杖",
-   "en": "",
+   "en": "A staff engraved with a hex.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:86.name",
    "jp": "蛇眼の杖",
-   "en": "",
+   "en": "Snake-Eye Staff",
    "max": 8
   },
   {
    "id": "weapon:86.desc",
    "jp": "眼のレリーフが無数に施されている杖",
-   "en": "",
+   "en": "A staff covered in reliefs of eyes.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:87.name",
    "jp": "ジュエルロッド",
-   "en": "",
+   "en": "Jewel Rod",
    "max": 8
   },
   {
    "id": "weapon:87.desc",
    "jp": "宝飾の施されたロッド",
-   "en": "",
+   "en": "A rod set with jewels.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:88.name",
    "jp": "馬頭の杖",
-   "en": "",
+   "en": "Horse-Head Staff",
    "max": 8
   },
   {
    "id": "weapon:88.desc",
    "jp": "細身の杖",
-   "en": "",
+   "en": "A slender staff.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:89.name",
    "jp": "蛇鱗のロッド",
-   "en": "",
+   "en": "Snakescale Rod",
    "max": 8
   },
   {
    "id": "weapon:89.desc",
    "jp": "全体が蛇の鱗で装飾されたロッド",
-   "en": "",
+   "en": "A rod covered in snake scales.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:90.name",
    "jp": "司祭のロッド",
-   "en": "",
+   "en": "Priest's Rod",
    "max": 8
   },
   {
    "id": "weapon:90.desc",
    "jp": "教団御用達の一品",
-   "en": "",
+   "en": "A fine piece favored by the Order.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:91.name",
    "jp": "黄金の杖",
-   "en": "",
+   "en": "Golden Staff",
    "max": 8
   },
   {
    "id": "weapon:91.desc",
    "jp": "金色に輝くロッド",
-   "en": "",
+   "en": "A rod that shines gold.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:92.name",
    "jp": "ウィングロッド",
-   "en": "",
+   "en": "Wing Rod",
    "max": 8
   },
   {
    "id": "weapon:92.desc",
    "jp": "翼のレリーフが施されたロッド",
-   "en": "",
+   "en": "A rod with a relief of wings.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:93.name",
    "jp": "漆黒の杖",
-   "en": "",
+   "en": "Jet-Black Staff",
    "max": 8
   },
   {
    "id": "weapon:93.desc",
    "jp": "冷気を帯びた杖",
-   "en": "",
+   "en": "A staff wreathed in cold.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:94.name",
    "jp": "ルーンの杖",
-   "en": "",
+   "en": "Rune Staff",
    "max": 8
   },
   {
    "id": "weapon:94.desc",
    "jp": "握り部分に文字の刻まれているロッド",
-   "en": "",
+   "en": "A rod with letters carved on the grip.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:95.name",
    "jp": "フレイジャロッド",
-   "en": "",
+   "en": "Freija Rod",
    "max": 8
   },
   {
    "id": "weapon:95.desc",
    "jp": "名前らしきものが刻まれているロッド\n鉛で作られているため重い",
-   "en": "",
+   "en": "Engraved with what seems to be a name.\nHeavy, since it's made of lead.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:96.name",
    "jp": "ムーンロッド",
-   "en": "",
+   "en": "Moon Rod",
    "max": 8
   },
   {
    "id": "weapon:96.desc",
    "jp": "三日月のレリーフが施されているロッド",
-   "en": "",
+   "en": "A rod with a crescent moon relief.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:97.name",
    "jp": "シルバーロッド",
-   "en": "",
+   "en": "Silver Rod",
    "max": 8
   },
   {
    "id": "weapon:97.desc",
    "jp": "教団禁制の鉱石で作られたロッド",
-   "en": "",
+   "en": "A rod made of ore the Order bans.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:98.name",
    "jp": "隠者の杖",
-   "en": "",
+   "en": "Hermit's Staff",
    "max": 8
   },
   {
    "id": "weapon:98.desc",
    "jp": "忘れられた杖\n色とりどりの布飾りがついている",
-   "en": "",
+   "en": "A forgotten staff.\nHung with colorful cloth ornaments.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:99.name",
    "jp": "錫杖",
-   "en": "",
+   "en": "Ringed Staff",
    "max": 8
   },
   {
    "id": "weapon:99.desc",
    "jp": "熱気を帯びた杖",
-   "en": "",
+   "en": "A staff wreathed in heat.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:100.name",
    "jp": "龍鱗の杖",
-   "en": "",
+   "en": "Dragonscale Rod",
    "max": 8
   },
   {
    "id": "weapon:100.desc",
    "jp": "大きな鱗で装飾されたロッド",
-   "en": "",
+   "en": "A rod decorated with large scales.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:101.name",
    "jp": "モーニングスター",
-   "en": "",
+   "en": "Morning Star",
    "max": 8
   },
   {
    "id": "weapon:101.desc",
    "jp": "鉄球のついた殴打武器",
-   "en": "",
+   "en": "A blunt weapon with an iron ball.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:102.name",
    "jp": "ヒッター",
-   "en": "",
+   "en": "Hitter",
    "max": 8
   },
   {
    "id": "weapon:102.desc",
    "jp": "軽い殴打武器\nトゲつきのリングが先についている",
-   "en": "",
+   "en": "A light blunt weapon.\nTipped with a spiked ring.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:103.name",
    "jp": "トゥテイルズ",
-   "en": "",
+   "en": "Two Tails",
    "max": 8
   },
   {
    "id": "weapon:103.desc",
    "jp": "鉄球が２個ついた殴打武器",
-   "en": "",
+   "en": "A blunt weapon with 2 iron balls.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:104.name",
    "jp": "ラトルテイルズ",
-   "en": "",
+   "en": "Rattle Tails",
    "max": 8
   },
   {
    "id": "weapon:104.desc",
    "jp": "ガラガラと音のでる殴打武器",
-   "en": "",
+   "en": "A blunt weapon that rattles loudly.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:105.name",
    "jp": "スリーテイルズ",
-   "en": "",
+   "en": "Three Tails",
    "max": 8
   },
   {
    "id": "weapon:105.desc",
    "jp": "鉄球が３個ついた殴打武器",
-   "en": "",
+   "en": "A blunt weapon with 3 iron balls.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:106.name",
    "jp": "アペルフレイル",
-   "en": "",
+   "en": "Apel Flail",
    "max": 8
   },
   {
    "id": "weapon:106.desc",
    "jp": "名前らしきものが刻まれている殴打武器",
-   "en": "",
+   "en": "A blunt weapon engraved with\nwhat seems to be a name.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:107.name",
    "jp": "ルーンフレイル",
-   "en": "",
+   "en": "Rune Flail",
    "max": 8
   },
   {
    "id": "weapon:107.desc",
    "jp": "柄に文字が刻まれている殴打武器",
-   "en": "",
+   "en": "A blunt weapon\nwith letters carved on the haft.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:108.name",
    "jp": "パイパーテイルズ",
-   "en": "",
+   "en": "Piper Tails",
    "max": 8
   },
   {
    "id": "weapon:108.desc",
    "jp": "振るとかん高い音のでる殴打武器\n風をきる音らしい",
-   "en": "",
+   "en": "A blunt weapon; shrieks when swung.\nApparently the sound of cutting air.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:109.name",
    "jp": "シルバーフレイル",
-   "en": "",
+   "en": "Silver Flail",
    "max": 8
   },
   {
    "id": "weapon:109.desc",
    "jp": "教団禁制の鉱石で作られた殴打武器",
-   "en": "",
+   "en": "A blunt weapon of ore the Order bans.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:110.name",
    "jp": "レーノスフレイル",
-   "en": "",
+   "en": "Renos Flail",
    "max": 8
   },
   {
    "id": "weapon:110.desc",
    "jp": "闘気に満ちた殴打武器",
-   "en": "",
+   "en": "A blunt weapon full of battle spirit.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:111.name",
    "jp": "ウィップ",
-   "en": "",
+   "en": "Whip",
    "max": 8
   },
   {
    "id": "weapon:111.desc",
    "jp": "革で作られた鞭",
-   "en": "",
+   "en": "A whip made of leather.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:112.name",
    "jp": "ローズウィップ",
-   "en": "",
+   "en": "Rose Whip",
    "max": 8
   },
   {
    "id": "weapon:112.desc",
    "jp": "トゲのついた鞭",
-   "en": "",
+   "en": "A whip with thorns.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:113.name",
    "jp": "キャットウィップ",
-   "en": "",
+   "en": "Cat Whip",
    "max": 8
   },
   {
    "id": "weapon:113.desc",
    "jp": "先がたくさん分かれている鞭",
-   "en": "",
+   "en": "A whip split into many tails.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:114.name",
    "jp": "チェインウィップ",
-   "en": "",
+   "en": "Chain Whip",
    "max": 8
   },
   {
    "id": "weapon:114.desc",
    "jp": "鉄の鎖で作られた鞭",
-   "en": "",
+   "en": "A whip made of iron chain.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:115.name",
    "jp": "血染めの戦鞭",
-   "en": "",
+   "en": "Blood-Dyed Whip",
    "max": 8
   },
   {
    "id": "weapon:115.desc",
    "jp": "血で染められた鞭",
-   "en": "",
+   "en": "A whip dyed with blood.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:116.name",
    "jp": "司祭の戦鞭",
-   "en": "",
+   "en": "Priest's Whip",
    "max": 8
   },
   {
    "id": "weapon:116.desc",
    "jp": "教団御用達の鞭",
-   "en": "",
+   "en": "A whip favored by the Order.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:117.name",
    "jp": "蛇腹の戦鞭",
-   "en": "",
+   "en": "Snake-Belly Whip",
    "max": 8
   },
   {
    "id": "weapon:117.desc",
    "jp": "溝の彫り込まれた鞭",
-   "en": "",
+   "en": "A whip carved with grooves.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:118.name",
    "jp": "ヴィヌスウィップ",
-   "en": "",
+   "en": "Venus Whip",
    "max": 8
   },
   {
    "id": "weapon:118.desc",
    "jp": "柄に女性のレリーフが入っている鞭",
-   "en": "",
+   "en": "A woman in relief adorns the grip.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:119.name",
    "jp": "月桂樹の戦鞭",
-   "en": "",
+   "en": "Laurel Whip",
    "max": 8
   },
   {
    "id": "weapon:119.desc",
    "jp": "月光に照らすと輝きを増す鞭",
-   "en": "",
+   "en": "It shines brighter under moonlight.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:120.name",
    "jp": "失墜の戦鞭",
-   "en": "",
+   "en": "Downfall Whip",
    "max": 8
   },
   {
    "id": "weapon:120.desc",
    "jp": "失意にかられる鞭",
-   "en": "",
+   "en": "A whip that drives one to despair.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:121.name",
    "jp": "スターウィップ",
-   "en": "",
+   "en": "Star Whip",
    "max": 8
   },
   {
    "id": "weapon:121.desc",
    "jp": "トゲのついた鉄球を先端に持つ鎖の鞭",
-   "en": "",
+   "en": "A chain whip\ntipped with a spiked iron ball.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:122.name",
    "jp": "黒革の戦鞭",
-   "en": "",
+   "en": "Blackhide Whip",
    "max": 8
   },
   {
    "id": "weapon:122.desc",
    "jp": "不思議な革で作られた鞭",
-   "en": "",
+   "en": "A whip made of strange leather.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:123.name",
    "jp": "ルーンウィップ",
-   "en": "",
+   "en": "Rune Whip",
    "max": 8
   },
   {
    "id": "weapon:123.desc",
    "jp": "柄に文字の刻まれている鞭",
-   "en": "",
+   "en": "A whip with letters on its grip.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:124.name",
    "jp": "魅惑の戦鞭",
-   "en": "",
+   "en": "Bewitching Whip",
    "max": 8
   },
   {
    "id": "weapon:124.desc",
    "jp": "きらびやかな色を放つ鞭",
-   "en": "",
+   "en": "A whip that gives off dazzling colors.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:125.name",
    "jp": "冥姫の戦鞭",
-   "en": "",
+   "en": "Dark Lady Whip",
    "max": 8
   },
   {
    "id": "weapon:125.desc",
    "jp": "ひんやりした鞭\n持つ者は安らぎを感じる",
-   "en": "",
+   "en": "A whip, cool to the touch.\nIts wielder feels at peace.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:126.name",
    "jp": "シルバーウィップ",
-   "en": "",
+   "en": "Silver Whip",
    "max": 8
   },
   {
    "id": "weapon:126.desc",
    "jp": "教団禁制の鉱石で作られた鞭",
-   "en": "",
+   "en": "A whip made of ore the Order bans.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:127.name",
    "jp": "妖妃の戦鞭",
-   "en": "",
+   "en": "Witch Queen Whip",
    "max": 8
   },
   {
    "id": "weapon:127.desc",
    "jp": "妖しい色を放つ鞭",
-   "en": "",
+   "en": "A whip that gives off an eerie color.",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:128.name",
    "jp": "ショートボウ",
-   "en": "",
+   "en": "Short Bow",
    "max": 8
   },
   {
    "id": "weapon:128.desc",
    "jp": "小さな弓\n　　　　　　　　　　　　　　　　射程４",
-   "en": "",
+   "en": "A small bow.\nRange 4",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:129.name",
    "jp": "ロングボウ",
-   "en": "",
+   "en": "Long Bow",
    "max": 8
   },
   {
    "id": "weapon:129.desc",
    "jp": "ショートボウよりも大きな弓\n　　　　　　　　　　　　　　　　射程５",
-   "en": "",
+   "en": "Bigger than a Short Bow.\nRange 5",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:130.name",
    "jp": "コルルボウ",
-   "en": "",
+   "en": "Koruru Bow",
    "max": 8
   },
   {
    "id": "weapon:130.desc",
    "jp": "弦がゆるくなっている弓\n　　　　　　　　　　　　　　　　射程３",
-   "en": "",
+   "en": "A bow with a slack string.\nRange 3",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:131.name",
    "jp": "クロスボウ",
-   "en": "",
+   "en": "Crossbow",
    "max": 8
   },
   {
    "id": "weapon:131.desc",
    "jp": "機械式の弓\n　　　　　　　　　　　　　　　　射程５",
-   "en": "",
+   "en": "A mechanical bow.\nRange 5",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:132.name",
    "jp": "トリニダードボウ",
-   "en": "",
+   "en": "Trinidad Bow",
    "max": 8
   },
   {
    "id": "weapon:132.desc",
    "jp": "弓を射ることしか考えなくなる弓\n　　　　　　　　　　　　　　　　射程６",
-   "en": "",
+   "en": "Makes one think only of firing it.\nRange 6",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:133.name",
    "jp": "蛇鱗の戦弓",
-   "en": "",
+   "en": "Snakescale Bow",
    "max": 8
   },
   {
    "id": "weapon:133.desc",
    "jp": "蛇の鱗で装飾された弓\n　　　　　　　　　　　　　　　　射程５",
-   "en": "",
+   "en": "A bow decorated with snake scales.\nRange 5",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:134.name",
    "jp": "ガストラフェテン",
-   "en": "",
+   "en": "Gastraphetes",
    "max": 8
   },
   {
    "id": "weapon:134.desc",
    "jp": "機械式の弓で非常に扱いやすい\n　　　　　　　　　　　　　　　　射程６",
-   "en": "",
+   "en": "A mechanical bow, very easy to handle.\nRange 6",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:135.name",
    "jp": "コンポジットボウ",
-   "en": "",
+   "en": "Composite Bow",
    "max": 8
   },
   {
    "id": "weapon:135.desc",
    "jp": "木材を何枚も張り合わせてある大きな弓\n　　　　　　　　　　　　　　　　射程５",
-   "en": "",
+   "en": "A big bow of many layers of wood.\nRange 5",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:136.name",
    "jp": "ウィンドラクロス",
-   "en": "",
+   "en": "Windlass Cross",
    "max": 8
   },
   {
    "id": "weapon:136.desc",
    "jp": "機械式の弓で矢を射ると音が出る\n　　　　　　　　　　　　　　　　射程５",
-   "en": "",
+   "en": "A mechanical bow; it sounds on firing.\nRange 5",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:137.name",
    "jp": "アーバレスト",
-   "en": "",
+   "en": "Arbalest",
    "max": 8
   },
   {
    "id": "weapon:137.desc",
    "jp": "大型で機械式の弓\n　　　　　　　　　　　　　　　　射程４",
-   "en": "",
+   "en": "A large mechanical bow.\nRange 4",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:138.name",
    "jp": "ダブスロウラー",
-   "en": "",
+   "en": "Dub Thrower",
    "max": 8
   },
   {
    "id": "weapon:138.desc",
    "jp": "弦が２本ある弓\n　　　　　　　　　　　　　　　　射程３",
-   "en": "",
+   "en": "A bow with 2 strings.\nRange 3",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:139.name",
    "jp": "タランティア",
-   "en": "",
+   "en": "Tarantia",
    "max": 8
   },
   {
    "id": "weapon:139.desc",
    "jp": "クモを模した弓\n　　　　　　　　　　　　　　　　射程６",
-   "en": "",
+   "en": "A bow modeled on a spider.\nRange 6",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:140.name",
    "jp": "ルーンボウ",
-   "en": "",
+   "en": "Rune Bow",
    "max": 8
   },
   {
    "id": "weapon:140.desc",
    "jp": "文字が刻まれている弓\n　　　　　　　　　　　　　　　　射程５",
-   "en": "",
+   "en": "A bow engraved with letters.\nRange 5",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:141.name",
    "jp": "プロパカンディ",
-   "en": "",
+   "en": "Propacandi",
    "max": 8
   },
   {
    "id": "weapon:141.desc",
    "jp": "何かしら強い意志が感じられる弓\n　　　　　　　　　　　　　　　　射程６",
-   "en": "",
+   "en": "You sense a strong will of some kind.\nRange 6",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:142.name",
    "jp": "シルバーボウ",
-   "en": "",
+   "en": "Silver Bow",
    "max": 8
   },
   {
    "id": "weapon:142.desc",
    "jp": "教団禁制の鉱石で作られた弓\n　　　　　　　　　　　　　　　　射程５",
-   "en": "",
+   "en": "A bow made of ore the Order bans.\nRange 5",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:143.name",
    "jp": "龍鱗の戦弓",
-   "en": "",
+   "en": "Dragonscale Bow",
    "max": 8
   },
   {
    "id": "weapon:143.desc",
    "jp": "大きな鱗で装飾された弓\n　　　　　　　　　　　　　　　　射程２",
-   "en": "",
+   "en": "A bow decorated with large scales.\nRange 2",
    "max": 38,
    "cell": 19
   },
   {
    "id": "weapon:144.name",
    "jp": "魔帝の戦弓",
-   "en": "",
+   "en": "Dark Emperor Bow",
    "max": 8
   },
   {
    "id": "weapon:144.desc",
    "jp": "黒く塗装された弓\n　　　　　　　　　　　　　　　　射程７",
-   "en": "",
+   "en": "A bow painted black.\nRange 7",
    "max": 38,
    "cell": 19
   }

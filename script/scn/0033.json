@@ -9,7 +9,7 @@
    "id": "s33:00696",
    "op": "14",
    "jp": "何だ・・・！？",
-   "en": "",
+   "en": "What...!?",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s33:006ac",
    "op": "14",
    "jp": "奴隷のくせに・・・\n立ったまま話しかけるんじゃねぇ！",
-   "en": "",
+   "en": "You're just a slave... Don't you talk to me standin' up!",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s33:006e8",
    "op": "14",
    "jp": "なに一人でうろついてんだ？\nまさか野良奴隷じゃあるまいな！",
-   "en": "",
+   "en": "What're you doin' wandering around alone? Don't tell me you're a stray slave!",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s33:00776",
    "op": "14",
    "jp": "なにを話しかけているの！！",
-   "en": "",
+   "en": "What do you think you're doing, talking to me!!",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s33:00798",
    "op": "14",
    "jp": "私は、アナタが簡単に\n話しかけてもいいような・・・",
-   "en": "",
+   "en": "You may not simply speak, you know, to someone...",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s33:007d2",
    "op": "14",
    "jp": "身分じゃないのよ！！",
-   "en": "",
+   "en": "...of my standing!!",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s33:0082a",
    "op": "14",
    "jp": "ごめんなさい、\n急いでるの・・・",
-   "en": "",
+   "en": "I'm sorry, I'm in a hurry...",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s33:00852",
    "op": "14",
    "jp": "遅くなるとご主人様に\nひどくぶたれるのよ！",
-   "en": "",
+   "en": "If I'm late, my master will beat me terribly!",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s33:008be",
    "op": "14",
    "jp": "何だよ、話しかけるなよ！\nさぼってると思われるだろう！？",
-   "en": "",
+   "en": "What, don't talk to me! They'll think I'm slacking off, won't they!?",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s33:008fe",
    "op": "14",
    "jp": "（あいついいなぁ・・・！）",
-   "en": "",
+   "en": "(Lucky guy...!)",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s33:00920",
    "op": "14",
    "jp": "（立って歩いても\n　怒られないのかぁ・・・！）",
-   "en": "",
+   "en": "(He can walk around on his feet and not get yelled at...!)",
    "box": "17x3",
    "face": 104
   },
@@ -137,7 +137,7 @@
    "id": "s33:00a4c",
    "op": "14",
    "jp": "こちとら腐っても\nてめえら相手には商売しねえぞ！",
-   "en": "",
+   "en": "I may've gone to seed, but I ain't doin' business with the likes of you!",
    "box": "17x3",
    "face": 104
   },
@@ -145,7 +145,7 @@
    "id": "s33:00abe",
    "op": "14",
    "jp": "へい、らっしゃ！？",
-   "en": "",
+   "en": "Hey, welc--!?",
    "box": "17x3",
    "face": 104
   },
@@ -153,7 +153,7 @@
    "id": "s33:00ad8",
    "op": "14",
    "jp": "なんでえ白い羽か、\n何だお使いか？",
-   "en": "",
+   "en": "Aw, just a White Wing, huh. What, an errand?",
    "box": "17x3",
    "face": 104
   },
@@ -161,7 +161,7 @@
    "id": "s33:00b02",
    "op": "14",
    "jp": "なにが欲しいんだ。",
-   "en": "",
+   "en": "Whaddaya want.",
    "box": "17x3",
    "face": 104
   },
@@ -169,7 +169,7 @@
    "id": "s33:00b1c",
    "op": "14",
    "jp": "おっとその前に、\nお前が飼い主から預かってきた",
-   "en": "",
+   "en": "Whoa, hold on. First, what your owner gave you to bring...",
    "box": "17x3",
    "face": 104
   },
@@ -177,7 +177,7 @@
    "id": "s33:00b52",
    "op": "14",
    "jp": "商品購入・委任証明書を\n見せてもらおうか！？",
-   "en": "",
+   "en": "Your Purchase Authorization Certificate. Let's see it, huh!?",
    "box": "17x3",
    "face": 104
   },
@@ -185,7 +185,7 @@
    "id": "s33:00b86",
    "op": "14",
    "jp": "バカ野郎！！\nさっさと貰ってこい！",
-   "en": "",
+   "en": "You idiot!! Go get one, and make it quick!",
    "box": "17x3",
    "face": 104
   },
@@ -193,7 +193,7 @@
    "id": "s33:00bea",
    "op": "14",
    "jp": "ふむ・・・",
-   "en": "",
+   "en": "Hmm...",
    "box": "17x3",
    "face": 104
   },
@@ -201,7 +201,7 @@
    "id": "s33:00bfc",
    "op": "14",
    "jp": "やはり奴隷にしては\nちょっと変わっておるのぅ！",
-   "en": "",
+   "en": "You are a bit of an odd one for a slave, I daresay!",
    "box": "17x3",
    "face": 104
   },
@@ -209,7 +209,7 @@
    "id": "s33:00c32",
    "op": "14",
    "jp": "かなり邪悪な面構えをしておる！",
-   "en": "",
+   "en": "Quite a wicked face you have there, my boy!",
    "box": "17x3",
    "face": 104
   },
@@ -217,7 +217,7 @@
    "id": "s33:00c92",
    "op": "14",
    "jp": "何だ、貴様は！？",
-   "en": "",
+   "en": "What the hell are you!?",
    "box": "17x3",
    "face": 104
   },
@@ -225,7 +225,7 @@
    "id": "s33:00cda",
    "op": "14",
    "jp": "飼い主はどうした？",
-   "en": "",
+   "en": "Where's your owner?",
    "box": "17x3",
    "face": 104
   },
@@ -233,7 +233,7 @@
    "id": "s33:00cf4",
    "op": "14",
    "jp": "いいから貴様の・・・\n奴隷認識票を出せ！！",
-   "en": "",
+   "en": "Never mind that, just... hand over your slave ID tag!!",
    "box": "17x3",
    "face": 104
   },
@@ -249,7 +249,7 @@
    "id": "s33:00d52",
    "op": "14",
    "jp": "さては貴様\n逃亡奴隷じゃ！？",
-   "en": "",
+   "en": "Why, you must be a runaway sla--!?",
    "box": "17x3",
    "face": 104
   },
@@ -257,7 +257,7 @@
    "id": "s33:00d76",
    "op": "14",
    "jp": "・・・なんだ！",
-   "en": "",
+   "en": "...Oh!",
    "box": "17x3",
    "face": 104
   },
@@ -265,7 +265,7 @@
    "id": "s33:00d8c",
    "op": "14",
    "jp": "ちゃんと持ってるじゃねえか！！",
-   "en": "",
+   "en": "So you got one after all!!",
    "box": "17x3",
    "face": 104
   },
@@ -273,7 +273,7 @@
    "id": "s33:00db2",
    "op": "14",
    "jp": "なになに予防注射は・・・\n済ませてるっと！",
-   "en": "",
+   "en": "Let's see here, vaccinations... all done, huh!",
    "box": "17x3",
    "face": 104
   },
@@ -281,7 +281,7 @@
    "id": "s33:00de4",
    "op": "14",
    "jp": "なるほど・・・！！",
-   "en": "",
+   "en": "I see...!!",
    "box": "17x3",
    "face": 104
   },
@@ -289,7 +289,7 @@
    "id": "s33:00dfe",
    "op": "14",
    "jp": "貴様は、あの丘の上に住む\nオカルトマニアの変人が、\n飼っている奴隷なのか！！",
-   "en": "",
+   "en": "So you're the slave kept by that occult-crazy weirdo who lives up on the hill!!",
    "box": "17x3",
    "face": 104
   },
@@ -305,7 +305,7 @@
    "id": "s33:00e76",
    "op": "14",
    "jp": "どうりで服なんか着て\nおかしな奴隷だと思ったぜ！",
-   "en": "",
+   "en": "No wonder! A slave in clothes -- I knew you were a strange one!",
    "box": "17x3",
    "face": 104
   },
@@ -313,27 +313,27 @@
    "id": "s33:00efa",
    "op": "1d",
    "jp": "は　い",
-   "en": "",
+   "en": "Yes",
    "max": 15
   },
   {
    "id": "s33:00f08",
    "op": "1d",
    "jp": "いいえ",
-   "en": "",
+   "en": "No",
    "max": 15
   },
   {
    "id": "s33:00f18",
    "op": "20",
    "jp": "街を出ますか？",
-   "en": ""
+   "en": "Leave town?"
   },
   {
    "id": "s33:00f46",
    "op": "14",
    "jp": "お前奴隷のくせに\nなんで服を着てるんだ！？",
-   "en": "",
+   "en": "You're a slave, so why're you wearing clothes!?",
    "box": "17x3",
    "face": 104
   },
@@ -341,7 +341,7 @@
    "id": "s33:00f78",
    "op": "14",
    "jp": "だいたいお前のご主人様は・・・\nどっか、おかしいって噂だぞ！？",
-   "en": "",
+   "en": "And word is your master's... not right somehow, y'know!?",
    "box": "17x3",
    "face": 104
   },
@@ -349,7 +349,7 @@
    "id": "s33:00fbe",
    "op": "14",
    "jp": "噂だと、一緒のテーブルで\n奴隷と食事をしたり・・・",
-   "en": "",
+   "en": "Word is your master eats with a slave, at the same table...",
    "box": "17x3",
    "face": 104
   },
@@ -357,7 +357,7 @@
    "id": "s33:00ff8",
    "op": "14",
    "jp": "一緒に働いたり\nするらしいじゃないか！？",
-   "en": "",
+   "en": "...and works right alongside him too, ain't that so!?",
    "box": "17x3",
    "face": 104
   },
@@ -381,7 +381,7 @@
    "id": "s33:0106a",
    "op": "14",
    "jp": "だけどオレは正直、\nお前のご主人様がうらやましいよ。",
-   "en": "",
+   "en": "But honestly, I envy you that master of yours.",
    "box": "17x3",
    "face": 104
   },
@@ -389,7 +389,7 @@
    "id": "s33:010a6",
    "op": "14",
    "jp": "だって俺達のご主人様のように\nいきなり殴り倒したり",
-   "en": "",
+   "en": "I mean, masters like ours'll knock you flat out of nowhere,",
    "box": "17x3",
    "face": 104
   },
@@ -397,7 +397,7 @@
    "id": "s33:010e0",
    "op": "14",
    "jp": "死ぬまで働かせて・・・",
-   "en": "",
+   "en": "Work you till you drop dead...",
    "box": "17x3",
    "face": 104
   },
@@ -405,7 +405,7 @@
    "id": "s33:010fe",
    "op": "14",
    "jp": "そこいら辺に、\nてきとうに埋めちまったり\nするような事は・・・",
-   "en": "",
+   "en": "And just bury you any old place around here...",
    "box": "17x3",
    "face": 104
   },
@@ -413,7 +413,7 @@
    "id": "s33:01144",
    "op": "14",
    "jp": "お前には無いんだろ！？",
-   "en": "",
+   "en": "None of that happens to you, right!?",
    "box": "17x3",
    "face": 104
   },
@@ -421,7 +421,7 @@
    "id": "s33:01162",
    "op": "14",
    "jp": "気をつけろよ・・・！",
-   "en": "",
+   "en": "Watch yourself...!",
    "box": "17x3",
    "face": 104
   },
@@ -429,7 +429,7 @@
    "id": "s33:0117e",
    "op": "14",
    "jp": "俺達奴隷が、\nご主人様を連れずに・・・",
-   "en": "",
+   "en": "If a slave like us, without his master along...",
    "box": "17x3",
    "face": 104
   },
@@ -437,7 +437,7 @@
    "id": "s33:011ac",
    "op": "14",
    "jp": "しかも、首輪も着けずに\n街を歩いているのが見つかったら",
-   "en": "",
+   "en": "...and with no collar on, gets caught walking through town,",
    "box": "17x3",
    "face": 104
   },
@@ -445,7 +445,7 @@
    "id": "s33:011ea",
    "op": "14",
    "jp": "すぐに異端審問官達に\nとっつかまって、",
-   "en": "",
+   "en": "The Inquisitors'll nab you right away,",
    "box": "17x3",
    "face": 104
   },
@@ -453,7 +453,7 @@
    "id": "s33:01218",
    "op": "14",
    "jp": "お前だけじゃなく\nお前のご主人様まで、",
-   "en": "",
+   "en": "And not just you, your master too,",
    "box": "17x3",
    "face": 104
   },
@@ -461,7 +461,7 @@
    "id": "s33:01246",
    "op": "14",
    "jp": "ひどい罰を受ける事になるぞ！！",
-   "en": "",
+   "en": "Will get a terrible punishment!!",
    "box": "17x3",
    "face": 104
   }

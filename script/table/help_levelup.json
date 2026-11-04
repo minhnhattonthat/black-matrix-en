@@ -8,189 +8,189 @@
   {
    "id": "help_levelup:0.text",
    "jp": "今回の戦闘で得た各ポイントです\n各ポイントの内容は次の通りです",
-   "en": "",
+   "en": "These are the points earned in this battle. Each one means the following.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:1.text",
    "jp": "ＥＸＰ：経験値\nＭＯＮＥＹ：金額報酬\n＋ＢＯＮＵＳ：金額報酬のボーナス",
-   "en": "",
+   "en": "EXP: experience\nMONEY: money reward\n+BONUS: bonus to the money reward",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:2.text",
    "jp": "ＢＬＯＯＤ：戦闘終了時の取得ＢＰ\n＋ＢＯＮＵＳ：ＢＰのボーナス",
-   "en": "",
+   "en": "BLOOD: BP gained at the end of battle\n+BONUS: bonus to BP",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:3.text",
    "jp": "持ち越し：戦闘終了時の自軍ユニットの\n　　　　　残りＢＰ",
-   "en": "",
+   "en": "Carryover: BP your units still have left at the end of battle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:4.text",
    "jp": "各ボーナスは次に表示されるランクなどの\n評価によって変化します",
-   "en": "",
+   "en": "Each bonus changes with the rank and other ratings shown next.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:5.text",
    "jp": "今回の戦闘評価です\nＢＯＮＵＳ　ＩＴＥＭ：特別戦利品\nコマンド時間：今回の戦闘の経過時間",
-   "en": "",
+   "en": "This battle's rating.\nBONUS ITEM: special spoils\nCommand Time: time this battle took",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:6.text",
    "jp": "ターン数：今回の戦闘の経過ターン数\nＲＡＮＫ：今回の戦闘の総合評価",
-   "en": "",
+   "en": "Turns: turns this battle took\nRANK: this battle's overall rating",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:7.text",
    "jp": "ＲＡＮＫの評価は、\nＳ、Ａ、Ｂ、Ｃ\nの４段階があります",
-   "en": "",
+   "en": "RANK has 4 grades: S, A, B and C.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:8.text",
    "jp": "評価の判定は主に、\n経過コマンド時間と経過ターン数\nが影響します",
-   "en": "",
+   "en": "The rating depends mainly on Command Time and turns taken.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:9.text",
    "jp": "ＢＯＮＵＳ　ＩＴＥＭは、\nＲＡＮＫ評価によって変化します",
-   "en": "",
+   "en": "The BONUS ITEM changes with your RANK.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:10.text",
    "jp": "良い評価を得るには、\n効率の良い戦闘を心がける\n必要があります",
-   "en": "",
+   "en": "To get a good rating, aim to fight efficiently.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:11.text",
    "jp": "ＲＡＮＫによって、ストーリー展開が\n変化することはありません",
-   "en": "",
+   "en": "RANK doesn't change how the story unfolds.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:12.text",
    "jp": "自由戦闘の時は、\nＲＡＮＫの評価はありません",
-   "en": "",
+   "en": "Free battles have no RANK.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:13.text",
    "jp": "今までに取得した経験値を\n各ユニットに振り分けて\nレベルアップを行います",
-   "en": "",
+   "en": "Spend the EXP earned so far on each unit to level it up.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:14.text",
    "jp": "レベルアップできるユニットは、今回の\n戦闘参加ユニットで、戦闘勝利時に\n死亡、死滅していないユニットのみです",
-   "en": "",
+   "en": "Only units that took part in this battle and weren't dead or obliterated at victory can level up.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:15.text",
    "jp": "また、一度に上げられる上限レベルは、\n戦闘参加ユニットの中の最高レベル\n＋３レベルです",
-   "en": "",
+   "en": "The level cap at one time is the highest level among this battle's units, +3.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:16.text",
    "jp": "レベルアップさせたいユニットに\nカーソルを合わせて、○ボタンを\n押すとレベルアップします",
-   "en": "",
+   "en": "Put the cursor on the unit to level up and press Circle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:17.text",
    "jp": "レベルアップしたユニットは、一定の\nボーナスポイントを取得し、そのポイント\nは自動で各パラメータに割り振られます",
-   "en": "",
+   "en": "A leveled-up unit gets some Bonus Points, which are divided among its stats automatically.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:18.text",
    "jp": "自動で割り振られたポイントを\n手動で割り振ることもできます",
-   "en": "",
+   "en": "You can also divide those points by hand.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:19.text",
    "jp": "レベルアップしたユニットを選択して、\n□ボタンを押して下さい",
-   "en": "",
+   "en": "Select a leveled-up unit and press Square.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:20.text",
    "jp": "方向キーの上下でパラメータの選択、\n方向キーの左右で割り振られたポイント\nの変更が出来ます",
-   "en": "",
+   "en": "Up/Down on the D-pad picks a stat, Left/Right changes the points given to it.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:21.text",
    "jp": "△ボタンを押すと割り振られたポイントを\n全て戻すことが出来ます",
-   "en": "",
+   "en": "Press Triangle to take back all the allotted points.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:22.text",
    "jp": "手動の割り振りは○ボタンで決定します\nポイントは全てパラメータに\n割り振るようにして下さい",
-   "en": "",
+   "en": "Circle confirms manual allotment. Be sure to allot all points to stats.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:23.text",
    "jp": "全てのポイントを割り振らないと、\nレベルアップを終了する事が出来ません",
-   "en": "",
+   "en": "You can't finish leveling up until all points are allotted.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:24.text",
    "jp": "ボーナスポイントが残ってる\nユニットは左下にマークが付きます",
-   "en": "",
+   "en": "Units with Bonus Points left get a mark at the lower left.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:25.text",
    "jp": "レベルアップの終了は、\nＳＴＡＲＴボタンを押して下さい",
-   "en": "",
+   "en": "Press START to finish leveling up.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_levelup:26.text",
    "jp": "残った経験値は次のレベルアップに\n持ち越されます",
-   "en": "",
+   "en": "Leftover EXP carries over to the next level-up.",
    "max": 57,
    "cell": 19
   }

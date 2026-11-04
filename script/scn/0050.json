@@ -9,7 +9,7 @@
    "id": "s50:0007a",
    "op": "15",
    "jp": "どうしたんだ・・・？",
-   "en": "",
+   "en": "What's wrong...?",
    "box": "17x3",
    "face": 12
   },
@@ -17,7 +17,7 @@
    "id": "s50:000a2",
    "op": "15",
    "jp": "ひょっとして、また・・・\n体の具合でも悪いのか？",
-   "en": "",
+   "en": "Don't tell me... you feeling sick again?",
    "box": "17x3",
    "face": 12
   },
@@ -25,7 +25,7 @@
    "id": "s50:000fa",
    "op": "15",
    "jp": "ほら、どうしたんだ・・・？",
-   "en": "",
+   "en": "Hey, what's wrong...?",
    "box": "17x3",
    "face": 12
   },
@@ -33,7 +33,7 @@
    "id": "s50:00126",
    "op": "15",
    "jp": "なに甘えてるんだよ！？\nしっかりリハビリしろよ！",
-   "en": "",
+   "en": "What're you acting like a baby for!? Do your rehab properly!",
    "box": "17x3",
    "face": 12
   },
@@ -41,7 +41,7 @@
    "id": "s50:001be",
    "op": "15",
    "jp": "おはよう！\nどうだい！？\n気分の方は・・・",
-   "en": "",
+   "en": "Morning! How's it going!? How you feeling...",
    "box": "17x3",
    "face": 12
   },
@@ -49,7 +49,7 @@
    "id": "s50:0022a",
    "op": "15",
    "jp": "そよ風が気持ちいい朝だ・・・\n今日も頑張って\nリハビリしなくちゃな！",
-   "en": "",
+   "en": "Nice breeze this morning... Gotta work hard at your rehab again today!",
    "box": "17x3",
    "face": 12
   },
@@ -57,7 +57,7 @@
    "id": "s50:002ae",
    "op": "15",
    "jp": "おはようっ！\nさってと、\n今日も朝からがんばろーぜ！！",
-   "en": "",
+   "en": "Morning! All right, let's get to it, first thing, today too!!",
    "box": "17x3",
    "face": 12
   },
@@ -65,7 +65,7 @@
    "id": "s50:00326",
    "op": "15",
    "jp": "おはよう！\n今日も昼間は暑くなりそうだなぁ！",
-   "en": "",
+   "en": "Morning! Gonna get hot again this afternoon!",
    "box": "17x3",
    "face": 12
   },
@@ -73,7 +73,7 @@
    "id": "s50:00392",
    "op": "15",
    "jp": "そろそろ過ごしやすい季節に\nなってきたな・・・",
-   "en": "",
+   "en": "It's getting to be a comfortable season...",
    "box": "17x3",
    "face": 12
   },
@@ -81,7 +81,7 @@
    "id": "s50:003d2",
    "op": "15",
    "jp": "もたもたしてると、\n冬がそこまでやって来ちまうよ！！",
-   "en": "",
+   "en": "Dawdle and winter'll be right on top of us!!",
    "box": "17x3",
    "face": 12
   },
@@ -89,7 +89,7 @@
    "id": "s50:00446",
    "op": "15",
    "jp": "おはよう。\nそろそろ寒くなるから・・・\n冬支度を始めようなっ！",
-   "en": "",
+   "en": "Morning. It'll be getting cold soon... Let's start getting ready for winter!",
    "box": "17x3",
    "face": 12
   },
@@ -97,7 +97,7 @@
    "id": "s50:004c6",
    "op": "15",
    "jp": "おはようっ！今日はなんだか、\n雪でも降りそうだ・・・\nなんか楽しみだぜ！",
-   "en": "",
+   "en": "Morning! Looks like it might snow today... Kinda looking forward to it!",
    "box": "17x3",
    "face": 12
   },
@@ -105,7 +105,7 @@
    "id": "s50:0054e",
    "op": "15",
    "jp": "冬来たりなば、春遠からじ\n・・・って言ってさ、\n春も、もうすぐそこだよな！",
-   "en": "",
+   "en": "\"If winter comes, can spring be far behind\" -- that's what they say. Spring's right around the corner, too!",
    "box": "17x3",
    "face": 12
   }

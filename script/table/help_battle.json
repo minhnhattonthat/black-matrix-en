@@ -8,413 +8,413 @@
   {
    "id": "help_battle:0.text",
    "jp": "所持しているアイテムの閲覧とアイテム\nを捨てることが出来ます",
-   "en": "",
+   "en": "View the items you're carrying, or discard them.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:1.text",
    "jp": "△ボタンを押すとアイテムを\n捨てることが出来ます",
-   "en": "",
+   "en": "Press Triangle to discard an item.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:2.text",
    "jp": "アイテムは戦闘中以外では\n使用することは出来ません",
-   "en": "",
+   "en": "Items can't be used outside of battle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:3.text",
    "jp": "ユニットの初期配置が変更できます\n変更したいユニットを○ボタンで選択\nして変更場所を指定してください",
-   "en": "",
+   "en": "Change your units' Deployment. Select a unit with Circle, then pick where it should go.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:4.text",
    "jp": "□ボタンを押すと、\nユニットの向きを変更することが\n出来ます",
-   "en": "",
+   "en": "Press Square to change a unit's facing.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:5.text",
    "jp": "ＳＴＡＲＴボタンを押すと、\n初期配置変更モードを終了します",
-   "en": "",
+   "en": "Press START to exit Deployment mode.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:6.text",
    "jp": "ユニットの移動を行います\n行動力を１消費します",
-   "en": "",
+   "en": "Moves a unit. Uses 1 AP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:7.text",
    "jp": "移動可能な範囲が青マスで表示されます",
-   "en": "",
+   "en": "Squares you can reach are shown in blue.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:8.text",
    "jp": "移動したい場所を方向キーで指定して、\n○ボタンを押すと移動を行います",
-   "en": "",
+   "en": "Pick a destination with the D-pad and press Circle to move.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:9.text",
    "jp": "攻撃は「通常攻撃」と「潜在発動」\nの２種類があり、各攻撃とも\n行動力を１消費します",
-   "en": "",
+   "en": "There are two kinds of attack, \"Normal Attack\" and \"Latent Burst\". Each uses 1 AP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:10.text",
    "jp": "「通常攻撃」\n装備している武器で物理攻撃を行います",
-   "en": "",
+   "en": "\"Normal Attack\"\nA physical attack with the equipped weapon.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:11.text",
    "jp": "「潜在発動」\nＢＰを消費して武器の潜在能力による\n特殊攻撃等を行います",
-   "en": "",
+   "en": "\"Latent Burst\"\nSpends BP on a special attack or the like, using the weapon's Latent Power.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:12.text",
    "jp": "方向キーの上下で、\n「通常」か「潜在」を\n選択します",
-   "en": "",
+   "en": "Use Up/Down on the D-pad to choose \"Normal\" or \"Latent\".",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:13.text",
    "jp": "選択後、攻撃、発動可能範囲が\n赤マスで表示されます",
-   "en": "",
+   "en": "After you choose, the attack or Burst range is shown in red squares.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:14.text",
    "jp": "対象を方向キーで指定して、\n○ボタンを押すと、\n「攻撃」「発動」を行います",
-   "en": "",
+   "en": "Pick a target with the D-pad and press Circle to \"Attack\" or \"Burst\".",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:15.text",
    "jp": "ＢＰを消費して魔法詠唱による\n「攻撃」「治療」等を行います\n行動力を１消費します",
-   "en": "",
+   "en": "Spends BP to chant magic for \"attacks\", \"healing\" and more. Uses 1 AP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:16.text",
    "jp": "魔法の効果は敵、味方に関係なく\n効果を発揮するので注意が必要です",
-   "en": "",
+   "en": "Magic takes effect on foe and ally alike, so be careful.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:17.text",
    "jp": "使用したい魔法を選択し、\n○ボタンで決定します",
-   "en": "",
+   "en": "Choose a spell and confirm with Circle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:18.text",
    "jp": "この時に□ボタンを押すと\n魔法効果内容が表示されます",
-   "en": "",
+   "en": "Press Square at this point to see what the spell does.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:19.text",
    "jp": "射程範囲が緑マスで表示され、\n効果範囲が黄マスで表示されます",
-   "en": "",
+   "en": "Its range is shown in green squares, its area of effect in yellow.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:20.text",
    "jp": "効果範囲を方向キーで指定して、\n○ボタンを押すと魔法詠唱を行います",
-   "en": "",
+   "en": "Pick the area with the D-pad and press Circle to chant the spell.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:21.text",
    "jp": "アイテムの「使う」「捨てる」\nを行います",
-   "en": "",
+   "en": "\"Use\" or \"Discard\" an item.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:22.text",
    "jp": "「道具」コマンドは、各ユニット\n１ターン中に１回使用できます",
-   "en": "",
+   "en": "Each unit can use the \"Item\" command once per turn.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:23.text",
    "jp": "アイテムを選択するときに\n□ボタンを押すと\nアイテムの効果内容が表示されます",
-   "en": "",
+   "en": "When choosing an item, press Square to see what it does.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:24.text",
    "jp": "「使う」\n○ボタンを押すと、\n使用可能範囲が黄マスで表示されます",
-   "en": "",
+   "en": "\"Use\"\nPress Circle and the squares it can reach are shown in yellow.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:25.text",
    "jp": "使用したい対象ユニットを方向キーで\n指定して○ボタンを押すと使います",
-   "en": "",
+   "en": "Pick the target unit with the D-pad and press Circle to use it.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:26.text",
    "jp": "「捨てる」\n「捨てる」は「使う」前なら何度でも\n捨てることが出来ます",
-   "en": "",
+   "en": "\"Discard\"\nBefore you \"Use\", you can \"Discard\" as many times as you like.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:27.text",
    "jp": "△ボタンを押すと捨てて良いか、\n「はい／いいえ」のメッセージが\n表示されます",
-   "en": "",
+   "en": "Press Triangle for a \"Yes/No\" message asking if it's OK to discard it.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:28.text",
    "jp": "現在、進行している戦闘で得た\nＢＰを消費して、ＢＰ補給を行います\n行動力を２消費します",
-   "en": "",
+   "en": "Refills a unit's BP using BP earned in the current battle. Uses 2 AP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:29.text",
    "jp": "「補血」コマンドの使用は\n「移動」「攻撃」「魔法」「鎧召喚」\nを行う前に限ります",
-   "en": "",
+   "en": "\"Refill\" can only be used before \"Move\", \"Attack\", \"Magic\" or \"Summon\".",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:30.text",
    "jp": "一度に補給できるＢＰ上限は\nコマンド時間が経過する度に上昇します",
-   "en": "",
+   "en": "The most BP you can refill at once goes up as Command Time passes.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:31.text",
    "jp": "方向キーで補給したいＢＰ量を\n決めます",
-   "en": "",
+   "en": "Set the amount of BP to refill with the D-pad.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:32.text",
    "jp": "方向キー上下で１０ずつ、\n左右で１ずつ入力できます",
-   "en": "",
+   "en": "Up/Down on the D-pad changes it by 10, Left/Right by 1.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:33.text",
    "jp": "攻撃を受けた時の行動を変更します\nこの待機型は何度でも変更することが\n出来ます",
-   "en": "",
+   "en": "Changes what a unit does when attacked. You can change Stance as often as you like.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:34.text",
    "jp": "敵ターン中でも×ボタンを押すことで\n待機型の変更が出来ます",
-   "en": "",
+   "en": "Press Cross even during the enemy turn to change Stance.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:35.text",
    "jp": "「防御」\n防御を行うことで、\n攻撃時に受けるダメージを軽減します",
-   "en": "",
+   "en": "\"Guard\"\nGuarding reduces the damage you take when attacked.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:36.text",
    "jp": "「反撃」\n攻撃を受けた後、\n通常攻撃で反撃を行います",
-   "en": "",
+   "en": "\"Strike\"\nAfter being attacked, counter with a normal attack.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:37.text",
    "jp": "「回避」\n回避が成功した場合、\nダメージは０となります",
-   "en": "",
+   "en": "\"Evade\"\nIf the dodge succeeds, damage is 0.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:38.text",
    "jp": "回避が失敗した場合、\nその他の待機型の時より\n大きなダメージを受けます",
-   "en": "",
+   "en": "If the dodge fails, you take more damage than in any other Stance.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:39.text",
    "jp": "方向キーで待機型を選択して、\n○ボタンを押すと変更決定します",
-   "en": "",
+   "en": "Choose a Stance with the D-pad and press Circle to confirm.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:40.text",
    "jp": "鎧の力を解放して攻撃を行います\n邪神・大邪神の鎧を装備している\nユニットに限り、使用できます",
-   "en": "",
+   "en": "Unleashes an armor's power to attack. Only units wearing evil god or Great Evil God armor can use it.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:41.text",
    "jp": "鎧召喚を行うには、発動ユニットと\n周辺４マス内の味方ユニットの\nＢＰと行動力を消費します",
-   "en": "",
+   "en": "Summon Armor spends the BP and AP of the summoner and of allies within 4 squares.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:42.text",
    "jp": "ＢＰの消費量は、発動ユニット毎に\n変わります\n行動力は６ポイント以上必要です",
-   "en": "",
+   "en": "BP cost depends on the summoner. At least 6 AP is needed.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:43.text",
    "jp": "注意点として周辺４マス内の\n味方ユニットの行動力は鎧召喚発動後\n全て０になります",
-   "en": "",
+   "en": "Note: after Summon Armor, allies within 4 squares drop to 0 AP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:44.text",
    "jp": "鎧召喚の効果範囲は発動ユニットを\n中心に広がり、魔法の効果範囲のように\n移動させることは出来ません",
-   "en": "",
+   "en": "Its area spreads out from the summoner, and can't be moved like a spell's area.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:45.text",
    "jp": "また、効果範囲は各発動ユニット毎に\n変わります",
-   "en": "",
+   "en": "The area also differs for each summoner.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:46.text",
    "jp": "鎧召喚の攻撃は魔法と違い、\n敵にのみ影響を及びます\n効果範囲内の味方には影響しません",
-   "en": "",
+   "en": "Unlike magic, Summon Armor hits only enemies. Allies in the area are unaffected.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:47.text",
    "jp": "鎧召喚には、\n「上位召喚」と「下位召喚」\nがあります",
-   "en": "",
+   "en": "Summon Armor comes in \"Greater Summon\" and \"Lesser Summon\".",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:48.text",
    "jp": "「上位召喚」\n効果範囲が広く、攻撃力も高いのですが、\n大量のＢＰが必要です",
-   "en": "",
+   "en": "\"Greater Summon\"\nWider area and higher attack power, but needs a large amount of BP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:49.text",
    "jp": "「下位召喚」\n効果範囲が狭く、攻撃力も低いのですが、\n少量のＢＰで発動出来ます",
-   "en": "",
+   "en": "\"Lesser Summon\"\nNarrower area and lower attack power, but works with a small amount of BP.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:50.text",
    "jp": "「上位召喚」と「下位召喚」がある場合、\n方向キーで選択して、\n○ボタンで決定して下さい",
-   "en": "",
+   "en": "If there's both a Greater and a Lesser Summon, choose with the D-pad and confirm with Circle.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:51.text",
    "jp": "発動ユニットから周辺４マスが、\n緑マスで表示されます",
-   "en": "",
+   "en": "The squares within 4 of the summoner are shown in green.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:52.text",
    "jp": "再度、○ボタンを押すと効果範囲が\n黄マスで表示されます\nこの時に○ボタンを押すと使用します",
-   "en": "",
+   "en": "Press Circle again to show the area in yellow. Press Circle then to use it.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:53.text",
    "jp": "状態画面を表示し、パラメータ閲覧、\n装備品変更等を行います",
-   "en": "",
+   "en": "Opens the Status screen to view stats, change equipment and so on.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:54.text",
    "jp": "「状態」コマンドは、\n何度でも使用する事が出来ます",
-   "en": "",
+   "en": "You can use \"Status\" as often as you like.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:55.text",
    "jp": "しかし攻撃終了後のユニットは\n装備品の変更と捨てる事が出来ません",
-   "en": "",
+   "en": "But a unit that has finished attacking can't change or discard equipment.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:56.text",
    "jp": "□ボタンを押すと装備品の変更と\n捨てる事が出来ます\n方向キーで装備品を選択します",
-   "en": "",
+   "en": "Press Square to change or discard equipment. Choose an item with the D-pad.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:57.text",
    "jp": "装備品の武器を外したユニットは、\n攻撃を行う事が出来なくなるので\n注意が必要です",
-   "en": "",
+   "en": "A unit with no weapon equipped can't attack, so be careful.",
    "max": 57,
    "cell": 19
   },
   {
    "id": "help_battle:58.text",
    "jp": "△ボタンを押すと、そのユニットの\n使用可能な魔法が表示されます",
-   "en": "",
+   "en": "Press Triangle to see the magic that unit can use.",
    "max": 57,
    "cell": 19
   }

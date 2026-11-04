@@ -9,7 +9,7 @@
    "id": "s18:0020e",
    "op": "15",
    "jp": "目が覚めたからって、\nまだ動くんじゃないよ！",
-   "en": "",
+   "en": "Just because you've woken up doesn't mean you may move yet!",
    "box": "17x3",
    "face": 11
   },
@@ -17,7 +17,7 @@
    "id": "s18:0024e",
    "op": "15",
    "jp": "いい！？アンタはアタシの奴隷なの、アタシの言うことは絶対なのよ！",
-   "en": "",
+   "en": "Understood!? You are my slave, and my word is absolute!",
    "box": "17x3",
    "face": 11
   },
@@ -25,7 +25,7 @@
    "id": "s18:002ae",
    "op": "15",
    "jp": "そうね、あのときのことでも\n話してあげるわ！",
-   "en": "",
+   "en": "Let's see, I'll tell you about what happened back then!",
    "box": "17x3",
    "face": 11
   },
@@ -33,7 +33,7 @@
    "id": "s18:002ee",
    "op": "15",
    "jp": "あの大きな落雷があった日、\nといっても覚えていないのね、\n全く・・・",
-   "en": "",
+   "en": "That day of the great lightning strike... Not that you remember it, honestly...",
    "box": "17x3",
    "face": 11
   },
@@ -41,7 +41,7 @@
    "id": "s18:00346",
    "op": "15",
    "jp": "アンタはアタシの言いつけ通りに\n山に入って、薬草を取りにいった。",
-   "en": "",
+   "en": "As I ordered, you went into the mountains to fetch herbs.",
    "box": "17x3",
    "face": 11
   },
@@ -49,7 +49,7 @@
    "id": "s18:0039a",
    "op": "15",
    "jp": "何故医者に行かなかったのかって？",
-   "en": "",
+   "en": "Why didn't we go to a doctor, you ask?",
    "box": "17x3",
    "face": 11
   },
@@ -57,7 +57,7 @@
    "id": "s18:003da",
    "op": "15",
    "jp": "ふん！\n奴隷のくせにアタシに質問？",
-   "en": "",
+   "en": "Hmph! You, a slave, question me?",
    "box": "17x3",
    "face": 11
   },
@@ -65,7 +65,7 @@
    "id": "s18:0041e",
    "op": "15",
    "jp": "（あ、アタシ以外のものに\n　アンタの体を・・・）",
-   "en": "",
+   "en": "(A-anyone other than me, touching your body...)",
    "box": "17x3",
    "face": 11
   },
@@ -73,7 +73,7 @@
    "id": "s18:0046e",
    "op": "15",
    "jp": "と、とにかく山の奥へ\n入って行ったアンタは、\n何かの事故に巻き込まれたようね！",
-   "en": "",
+   "en": "A-anyway, you went deep into the mountains, and seem to have got caught up in some accident!",
    "box": "17x3",
    "face": 11
   },
@@ -81,7 +81,7 @@
    "id": "s18:004ce",
    "op": "15",
    "jp": "それはたぶん、\nとても大きな事故だったと思う・・・",
-   "en": "",
+   "en": "It was probably a very big accident...",
    "box": "17x3",
    "face": 11
   },
@@ -89,7 +89,7 @@
    "id": "s18:00586",
    "op": "15",
    "jp": "（だって、アタシは見たのよ！）",
-   "en": "",
+   "en": "(Because I saw it!)",
    "box": "17x3",
    "face": 11
   },
@@ -97,7 +97,7 @@
    "id": "s18:005b6",
    "op": "15",
    "jp": "（雨が止んだあの日・・・）",
-   "en": "",
+   "en": "(That day, when the rain stopped...)",
    "box": "17x3",
    "face": 11
   },
@@ -105,7 +105,7 @@
    "id": "s18:005e2",
    "op": "15",
    "jp": "（やっと動けるようになって\n　入って行った山の中に・・・）",
-   "en": "",
+   "en": "(I could finally move, and I went into the mountains...)",
    "box": "17x3",
    "face": 11
   },
@@ -113,7 +113,7 @@
    "id": "s18:0062e",
    "op": "15",
    "jp": "（アンタを囲むようにして倒れている　大勢の人の死体を・・・！！）",
-   "en": "",
+   "en": "(All around you, in a ring, the bodies of so many people...!!)",
    "box": "17x3",
    "face": 11
   },
@@ -121,7 +121,7 @@
    "id": "s18:00682",
    "op": "15",
    "jp": "（かすかな息しかしていない、\n　血だらけのアンタを見たとき、）",
-   "en": "",
+   "en": "(When I saw you, covered in blood, barely breathing,)",
    "box": "17x3",
    "face": 11
   },
@@ -129,7 +129,7 @@
    "id": "s18:006d2",
    "op": "15",
    "jp": "（アタシには一体何がおきたのか\n　分からなかった・・・）",
-   "en": "",
+   "en": "(I couldn't understand what had happened...)",
    "box": "17x3",
    "face": 11
   },
@@ -137,7 +137,7 @@
    "id": "s18:0071e",
    "op": "15",
    "jp": "（この世界から・・・\n　アンタがいなくなったら\n　アタシは・・・）",
-   "en": "",
+   "en": "(If you were gone from this world... I...)",
    "box": "17x3",
    "face": 11
   },
@@ -145,7 +145,7 @@
    "id": "s18:00782",
    "op": "15",
    "jp": "べ、別にアンタのことなんか、\n心配してないわよ！！",
-   "en": "",
+   "en": "N-not that I'm worried about you or anything!!",
    "box": "17x3",
    "face": 11
   },
@@ -153,7 +153,7 @@
    "id": "s18:007d6",
    "op": "15",
    "jp": "グスッ・・・",
-   "en": "",
+   "en": "Sniff...",
    "box": "17x3",
    "face": 11
   },
@@ -161,7 +161,7 @@
    "id": "s18:00852",
    "op": "15",
    "jp": "ふん！\nちょっと喋りすぎたようね！",
-   "en": "",
+   "en": "Hmph! It seems I've talked too much!",
    "box": "17x3",
    "face": 11
   },
@@ -169,7 +169,7 @@
    "id": "s18:00886",
    "op": "15",
    "jp": "早く元気になることね！",
-   "en": "",
+   "en": "Get well quickly!",
    "box": "17x3",
    "face": 11
   },
@@ -177,7 +177,7 @@
    "id": "s18:008be",
    "op": "15",
    "jp": "アタシはアンタのことを・・・",
-   "en": "",
+   "en": "As for you, I...",
    "box": "17x3",
    "face": 11
   },
@@ -185,7 +185,7 @@
    "id": "s18:00b2e",
    "op": "15",
    "jp": "アンタが目を覚まさなかったとき、",
-   "en": "",
+   "en": "When you wouldn't wake up,",
    "box": "17x3",
    "face": 11
   },
@@ -193,7 +193,7 @@
    "id": "s18:00b62",
    "op": "15",
    "jp": "アタシ、気付いちゃったのよ・・・",
-   "en": "",
+   "en": "I realized it...",
    "box": "17x3",
    "face": 11
   },
@@ -201,7 +201,7 @@
    "id": "s18:00b96",
    "op": "15",
    "jp": "本当の自分の気持ちに・・・",
-   "en": "",
+   "en": "How I truly feel...",
    "box": "17x3",
    "face": 11
   },
@@ -209,7 +209,7 @@
    "id": "s18:00bc2",
    "op": "15",
    "jp": "アンタの瞳に・・・\nとっても惹かれるの・・・",
-   "en": "",
+   "en": "I'm so very drawn to your eyes...",
    "box": "17x3",
    "face": 11
   },
@@ -217,7 +217,7 @@
    "id": "s18:00c02",
    "op": "15",
    "jp": "アンタに見つめられると、\n忘れていた暖かい感情が・・・\nなんだかよみがえるようで！",
-   "en": "",
+   "en": "When you look at me, warm feelings I'd forgotten... seem to come back to life!",
    "box": "17x3",
    "face": 11
   },
@@ -225,7 +225,7 @@
    "id": "s18:00c66",
    "op": "15",
    "jp": "嫌われてるに決まってる・・・\n・・・でも！",
-   "en": "",
+   "en": "Of course you hate me... But...!",
    "box": "17x3",
    "face": 11
   },
@@ -233,7 +233,7 @@
    "id": "s18:00ca2",
    "op": "15",
    "jp": "アンタに対するアタシの\nこの気持ちだけは・・・",
-   "en": "",
+   "en": "What I feel for you, this alone...",
    "box": "17x3",
    "face": 11
   },
@@ -241,7 +241,7 @@
    "id": "s18:00ce2",
    "op": "15",
    "jp": "永遠に変わらない・・・",
-   "en": "",
+   "en": "will never change...",
    "box": "17x3",
    "face": 11
   },
@@ -249,7 +249,7 @@
    "id": "s18:0109a",
    "op": "15",
    "jp": "ふん！やっと動ける\nようになったようね。\nこの一週間大変だったわ！",
-   "en": "",
+   "en": "Hmph! It seems you can finally move. What a hard week this has been!",
    "box": "17x3",
    "face": 11
   },
@@ -257,7 +257,7 @@
    "id": "s18:010fe",
    "op": "15",
    "jp": "だ、だけどまさか無理してるんじゃ\nないでしょうねぇ～？",
-   "en": "",
+   "en": "B-but you're not straining yourself, I trust?",
    "box": "17x3",
    "face": 11
   },
@@ -265,7 +265,7 @@
    "id": "s18:01156",
    "op": "15",
    "jp": "また、倒れられたりしたら、\nかえって面倒だわ！",
-   "en": "",
+   "en": "If you collapse on me again, it'll just be more trouble!",
    "box": "17x3",
    "face": 11
   },
@@ -273,7 +273,7 @@
    "id": "s18:011a6",
    "op": "15",
    "jp": "どうやら・・・大丈夫なようね。",
-   "en": "",
+   "en": "It seems... you're fine.",
    "box": "17x3",
    "face": 11
   },
@@ -289,7 +289,7 @@
    "id": "s18:01206",
    "op": "15",
    "jp": "そういえば一つだけ、\n大事なことがあるわ！",
-   "en": "",
+   "en": "That reminds me, there's just one important thing!",
    "box": "17x3",
    "face": 11
   },
@@ -297,7 +297,7 @@
    "id": "s18:01242",
    "op": "15",
    "jp": "これは重要な事だから、\n絶対に忘れないで！",
-   "en": "",
+   "en": "It matters a great deal, so don't you dare forget it!",
    "box": "17x3",
    "face": 11
   },
@@ -305,7 +305,7 @@
    "id": "s18:0127e",
    "op": "15",
    "jp": "アンタはこの世界での記憶を\n無くしてしまって、",
-   "en": "",
+   "en": "You've lost your memories of this world,",
    "box": "17x3",
    "face": 11
   },
@@ -313,7 +313,7 @@
    "id": "s18:012be",
    "op": "15",
    "jp": "この世界の常識に\n慣れてないはずだわ。",
-   "en": "",
+   "en": "so you can't be used to the way things are here.",
    "box": "17x3",
    "face": 11
   },
@@ -321,7 +321,7 @@
    "id": "s18:012f6",
    "op": "15",
    "jp": "だから私が安心してアンタを、\n家の外に送り出せるようになるまで、",
-   "en": "",
+   "en": "So until I feel safe sending you outside,",
    "box": "17x3",
    "face": 11
   },
@@ -329,7 +329,7 @@
    "id": "s18:0134a",
    "op": "15",
    "jp": "私の断り無しに、\n家の柵の外には出ない事！！",
-   "en": "",
+   "en": "you will not go past the fence without my permission!!",
    "box": "17x3",
    "face": 11
   },
@@ -337,7 +337,7 @@
    "id": "s18:01396",
    "op": "15",
    "jp": "いい！？\n勝手に外に出たら、\nただじゃ済まさないわよ！",
-   "en": "",
+   "en": "Understood!? If you go out on your own, you'll pay for it!",
    "box": "17x3",
    "face": 11
   },
@@ -345,7 +345,7 @@
    "id": "s18:013ee",
    "op": "15",
    "jp": "しばらくは・・・\nこの家でリハビリでもしてなさい！！",
-   "en": "",
+   "en": "For a while... just do your rehab here in this house!!",
    "box": "17x3",
    "face": 11
   }

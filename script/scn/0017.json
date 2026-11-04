@@ -9,7 +9,7 @@
    "id": "s17:0020e",
    "op": "15",
    "jp": "目が覚めたからってまだ、\n動いちゃダメーー！",
-   "en": "",
+   "en": "Just 'cause you're awake doesn't mean you can move yet! Noooo!",
    "box": "17x3",
    "face": 10
   },
@@ -17,7 +17,7 @@
    "id": "s17:0024e",
    "op": "15",
    "jp": "ずっと眠ったままだったんだから、\n体がビキビキッ！\nてなっちゃうよぉ？！",
-   "en": "",
+   "en": "You've been asleep this whole time, your body's gonna go all creak-crack, you know?!",
    "box": "17x3",
    "face": 10
   },
@@ -25,7 +25,7 @@
    "id": "s17:002aa",
    "op": "15",
    "jp": "ま、安心して眠ってなさいよ！",
-   "en": "",
+   "en": "Anyway, just lie there and sleep easy, why don't you!",
    "box": "17x3",
    "face": 10
   },
@@ -33,7 +33,7 @@
    "id": "s17:002da",
    "op": "15",
    "jp": "退屈しないように・・・\n私がお話でもしてあげるからさ！",
-   "en": "",
+   "en": "So you don't get bored... I'll tell you a story or whatever!",
    "box": "17x3",
    "face": 10
   },
@@ -41,7 +41,7 @@
    "id": "s17:00322",
    "op": "15",
    "jp": "あの大きな落雷があった日・・・",
-   "en": "",
+   "en": "That day of the big lightning strike...",
    "box": "17x3",
    "face": 10
   },
@@ -49,7 +49,7 @@
    "id": "s17:00352",
    "op": "15",
    "jp": "あ、といっても\n覚えてないかぁ！？",
-   "en": "",
+   "en": "Oh, not that you'd remember, huh!?",
    "box": "17x3",
    "face": 10
   },
@@ -57,7 +57,7 @@
    "id": "s17:00386",
    "op": "15",
    "jp": "キミは風邪をひいた私のために、\n一人で山に薬草を取りに\n行ってくれたんだぁ・・・！",
-   "en": "",
+   "en": "I had a cold, so you went up into the mountains all by yourself, to get herbs for me...!",
    "box": "17x3",
    "face": 10
   },
@@ -65,7 +65,7 @@
    "id": "s17:003ea",
    "op": "15",
    "jp": "何故医者に連れて\n行かなかったのかって・・・？",
-   "en": "",
+   "en": "Why didn't you take me to a doctor, you ask...?",
    "box": "17x3",
    "face": 10
   },
@@ -73,7 +73,7 @@
    "id": "s17:0042a",
    "op": "15",
    "jp": "そっ、それは・・・",
-   "en": "",
+   "en": "W-well...",
    "box": "17x3",
    "face": 10
   },
@@ -81,7 +81,7 @@
    "id": "s17:0044e",
    "op": "15",
    "jp": "い、イイじゃんそんな事ぉ！",
-   "en": "",
+   "en": "W-who cares about that stuff!",
    "box": "17x3",
    "face": 10
   },
@@ -89,7 +89,7 @@
    "id": "s17:0047a",
    "op": "15",
    "jp": "ちょっとね！\n行けない事情があったの！！\nはい、理由おしまい！！",
-   "en": "",
+   "en": "Let's just say! There was a reason I couldn't go!! There, that's the reason, the end!!",
    "box": "17x3",
    "face": 10
   },
@@ -97,7 +97,7 @@
    "id": "s17:004ce",
    "op": "15",
    "jp": "まぁ、それは置いておくとして、",
-   "en": "",
+   "en": "Anyway, moving on from that,",
    "box": "17x3",
    "face": 10
   },
@@ -105,7 +105,7 @@
    "id": "s17:004fe",
    "op": "15",
    "jp": "とにかく、山奥へと入って行った\nキミは、何かの事故に巻き込まれて\nしまったらしいの・・・！",
-   "en": "",
+   "en": "you went deep into the mountains, and it looks like you got caught up in some kind of accident...!",
    "box": "17x3",
    "face": 10
   },
@@ -113,7 +113,7 @@
    "id": "s17:0056a",
    "op": "15",
    "jp": "それはとっても\n大きな事故だったと思うよ・・・",
-   "en": "",
+   "en": "I think it was a really, really big accident...",
    "box": "17x3",
    "face": 10
   },
@@ -121,7 +121,7 @@
    "id": "s17:0061e",
    "op": "15",
    "jp": "（だって・・・\n　私見ちゃったんだもん・・・）",
-   "en": "",
+   "en": "(Because... I went and saw it...)",
    "box": "17x3",
    "face": 10
   },
@@ -129,7 +129,7 @@
    "id": "s17:0065e",
    "op": "15",
    "jp": "（雨が止んだあの日・・・）",
-   "en": "",
+   "en": "(That day, when the rain stopped...)",
    "box": "17x3",
    "face": 10
   },
@@ -137,7 +137,7 @@
    "id": "s17:0068a",
    "op": "15",
    "jp": "（私がやっと動けるようになって\n　入って行った山の中に・・・）",
-   "en": "",
+   "en": "(I could finally move, and I went into the mountains...)",
    "box": "17x3",
    "face": 10
   },
@@ -145,7 +145,7 @@
    "id": "s17:006da",
    "op": "15",
    "jp": "（キミを囲むようにして倒れている\n　大勢の兵士達の死体を・・！！）",
-   "en": "",
+   "en": "(All around you, in a ring, the bodies of so many soldiers...!!)",
    "box": "17x3",
    "face": 10
   },
@@ -161,7 +161,7 @@
    "id": "s17:00742",
    "op": "15",
    "jp": "かすかな息しかしていない、\n血だらけのキミを見たとき・・・",
-   "en": "",
+   "en": "When I saw you covered in blood, barely breathing...",
    "box": "17x3",
    "face": 10
   },
@@ -169,7 +169,7 @@
    "id": "s17:0078e",
    "op": "15",
    "jp": "私は・・・",
-   "en": "",
+   "en": "I...",
    "box": "17x3",
    "face": 10
   },
@@ -177,7 +177,7 @@
    "id": "s17:007aa",
    "op": "15",
    "jp": "一瞬何も考えられなく\nなっちゃったんだ・・・",
-   "en": "",
+   "en": "For a moment, I couldn't think at all...",
    "box": "17x3",
    "face": 10
   },
@@ -185,7 +185,7 @@
    "id": "s17:007ea",
    "op": "15",
    "jp": "（だって、私のたくさんのお友達の\n　中で、ちゃんとお話が出来るのは\n　キミだけだったんだもん・・・）",
-   "en": "",
+   "en": "(I mean, of all my many friends, you were the only one who could really talk to me...)",
    "box": "17x3",
    "face": 10
   },
@@ -193,7 +193,7 @@
    "id": "s17:00862",
    "op": "15",
    "jp": "グスッ・・・・",
-   "en": "",
+   "en": "Sniff....",
    "box": "17x3",
    "face": 10
   },
@@ -201,7 +201,7 @@
    "id": "s17:00882",
    "op": "15",
    "jp": "あ、あれ・・・？\nいま私何喋ってたんだろぉ・・・",
-   "en": "",
+   "en": "Uh, huh...? What was I just saying...?",
    "box": "17x3",
    "face": 10
   },
@@ -209,7 +209,7 @@
    "id": "s17:008c6",
    "op": "15",
    "jp": "ひょっとして、っていうか\nキミ・・・今の話・・・",
-   "en": "",
+   "en": "Could it be, I mean, you... what I just said...",
    "box": "17x3",
    "face": 10
   },
@@ -225,7 +225,7 @@
    "id": "s17:00986",
    "op": "15",
    "jp": "あーっ！あーっ！\n忘れて忘れて！！",
-   "en": "",
+   "en": "Aaah! Aaah! Forget it, forget it!!",
    "box": "17x3",
    "face": 10
   },
@@ -233,7 +233,7 @@
    "id": "s17:009ba",
    "op": "15",
    "jp": "いまのぜーんぶ忘れて！！",
-   "en": "",
+   "en": "Forget every bit of that!!",
    "box": "17x3",
    "face": 10
   },
@@ -241,7 +241,7 @@
    "id": "s17:009e6",
    "op": "15",
    "jp": "って、もともとキミは、\n記憶喪失だったっけか・・・\nアハハハハハハハ・ハ・・・",
-   "en": "",
+   "en": "Wait, you've got amnesia to begin with, huh... Ahahahahahaha, ha, ha...",
    "box": "17x3",
    "face": 10
   },
@@ -249,7 +249,7 @@
    "id": "s17:00a46",
    "op": "15",
    "jp": "じゃっ！\nバイバイっ！！",
-   "en": "",
+   "en": "Okay! Bye-bye!!",
    "box": "17x3",
    "face": 10
   },
@@ -257,7 +257,7 @@
    "id": "s17:00cb2",
    "op": "15",
    "jp": "私さぁ・・・\nなぁんかキミに・・・",
-   "en": "",
+   "en": "You know... it kinda seems like I...",
    "box": "17x3",
    "face": 10
   },
@@ -265,7 +265,7 @@
    "id": "s17:00ce6",
    "op": "15",
    "jp": "文句ばっかりいってるじゃん・・",
-   "en": "",
+   "en": "do nothing but complain at you..",
    "box": "17x3",
    "face": 10
   },
@@ -273,7 +273,7 @@
    "id": "s17:00d16",
    "op": "15",
    "jp": "やっぱ・・・\n嫌われちゃってるのかなぁ・・・？",
-   "en": "",
+   "en": "I bet... you hate me after all, huh...?",
    "box": "17x3",
    "face": 10
   },
@@ -281,7 +281,7 @@
    "id": "s17:00d56",
    "op": "15",
    "jp": "キミは覚えてないかも知れないけど、今までだって、ずうぅ～っとワガママばっかり言ってきたもんねぇ・・・",
-   "en": "",
+   "en": "You might not remember, but all this time, I've been nothing but selfish, for a looooong time, haven't I...",
    "box": "17x3",
    "face": 10
   },
@@ -289,7 +289,7 @@
    "id": "s17:00dce",
    "op": "15",
    "jp": "い・いまだって・・あんまり・・\nその・・や、優しくないし・・・",
-   "en": "",
+   "en": "E-even now... I'm not all that... um... k-kind...",
    "box": "17x3",
    "face": 10
   },
@@ -297,7 +297,7 @@
    "id": "s17:00e1e",
    "op": "15",
    "jp": "で・・でもさ！\nキミが・・・\n眼を覚まさなかったとき・・・",
-   "en": "",
+   "en": "B-but, you know! When you... wouldn't wake up...",
    "box": "17x3",
    "face": 10
   },
@@ -305,7 +305,7 @@
    "id": "s17:00e7a",
    "op": "15",
    "jp": "私これでも、\nちょっとは不安だったんだよ！",
-   "en": "",
+   "en": "even I was a little worried, you know!",
    "box": "17x3",
    "face": 10
   },
@@ -313,7 +313,7 @@
    "id": "s17:00eb6",
    "op": "15",
    "jp": "だ、だってほら・・・\n私の身の回りのことは・・・\nキミが全部やってたわけじゃない！",
-   "en": "",
+   "en": "I-I mean, look... you were the one who did everything around the house for me, weren't you!",
    "box": "17x3",
    "face": 10
   },
@@ -321,7 +321,7 @@
    "id": "s17:00f1a",
    "op": "15",
    "jp": "そ・・それが全部、\n自分に降りかかってくると・・・",
-   "en": "",
+   "en": "A-and all that falling on my shoulders...",
    "box": "17x3",
    "face": 10
   },
@@ -329,7 +329,7 @@
    "id": "s17:00f5e",
    "op": "15",
    "jp": "そ・・それって超メンドくさいなぁ、なぁ～んて・・・！",
-   "en": "",
+   "en": "th-that'd be a super-huge pain, or, like, whatever...!",
    "box": "17x3",
    "face": 10
   },
@@ -337,7 +337,7 @@
    "id": "s17:00fb2",
    "op": "15",
    "jp": "やっぱ、こんな私じゃあ・・\n嫌われちゃって当然かぁ・・・！",
-   "en": "",
+   "en": "I guess it's only natural... you'd hate a girl like me...!",
    "box": "17x3",
    "face": 10
   },
@@ -345,7 +345,7 @@
    "id": "s17:0100e",
    "op": "15",
    "jp": "ねぇ・・起きなよ・・・！",
-   "en": "",
+   "en": "Hey... wake up...!",
    "box": "17x3",
    "face": 10
   },
@@ -353,7 +353,7 @@
    "id": "s17:0103a",
    "op": "15",
    "jp": "ねぇ・・ねぇったら！！",
-   "en": "",
+   "en": "Hey... hey, come on!!",
    "box": "17x3",
    "face": 10
   },
@@ -361,7 +361,7 @@
    "id": "s17:01062",
    "op": "15",
    "jp": "キミに言いたいことが\nあるのよ！！",
-   "en": "",
+   "en": "There's something I wanna say to you!!",
    "box": "17x3",
    "face": 10
   },
@@ -377,7 +377,7 @@
    "id": "s17:010ba",
    "op": "15",
    "jp": "私・・・キミの瞳が好きなの・・・",
-   "en": "",
+   "en": "I... I like your eyes...",
    "box": "17x3",
    "face": 10
   },
@@ -385,7 +385,7 @@
    "id": "s17:010ee",
    "op": "15",
    "jp": "その瞳に見つめられてると・・・\nなんだか・・忘れていた記憶が\nよみがえってきそうで・・・",
-   "en": "",
+   "en": "When those eyes look at me... somehow, it's like forgotten memories might come back...",
    "box": "17x3",
    "face": 10
   },
@@ -393,7 +393,7 @@
    "id": "s17:0115a",
    "op": "15",
    "jp": "だから・・だからつい\n素直じゃなくなっちゃうのよぉ・・・",
-   "en": "",
+   "en": "And so... so I end up acting all prickly...",
    "box": "17x3",
    "face": 10
   },
@@ -409,7 +409,7 @@
    "id": "s17:011d2",
    "op": "15",
    "jp": "いつもの私は・・・\nホントの私じゃないの・・・！",
-   "en": "",
+   "en": "The usual me... isn't the real me...!",
    "box": "17x3",
    "face": 10
   },
@@ -417,7 +417,7 @@
    "id": "s17:01216",
    "op": "15",
    "jp": "ねぇ・・・\nホントは気づいてるんでしょ？",
-   "en": "",
+   "en": "Hey... you've really noticed, haven't you?",
    "box": "17x3",
    "face": 10
   },
@@ -425,7 +425,7 @@
    "id": "s17:01252",
    "op": "15",
    "jp": "私がイジワルしたから・・・\n仕返ししてるだけなんでしょ？",
-   "en": "",
+   "en": "You're just getting back at me because I was mean... right?",
    "box": "17x3",
    "face": 10
   },
@@ -433,7 +433,7 @@
    "id": "s17:0129e",
    "op": "15",
    "jp": "私の気持ちに・・気づいてるって、\n私を嫌ってないって言ってよ！！",
-   "en": "",
+   "en": "Tell me you've noticed how I feel... tell me you don't hate me!!",
    "box": "17x3",
    "face": 10
   },
@@ -441,7 +441,7 @@
    "id": "s17:01682",
    "op": "15",
    "jp": "だっ、大丈夫！？",
-   "en": "",
+   "en": "A-are you okay!?",
    "box": "17x3",
    "face": 10
   },
@@ -449,7 +449,7 @@
    "id": "s17:016a6",
    "op": "15",
    "jp": "まだ目覚めてから、一週間しか\n経ってないのに起きたりして・・・",
-   "en": "",
+   "en": "It's only been a week since you woke up, and you're out of bed...",
    "box": "17x3",
    "face": 10
   },
@@ -457,7 +457,7 @@
    "id": "s17:016f6",
    "op": "15",
    "jp": "でも無理はしない方がいいよぉ・・・まだ本調子じゃないみたいだもの。",
-   "en": "",
+   "en": "But you shouldn't overdo it... You don't seem quite back to normal yet.",
    "box": "17x3",
    "face": 10
   },
@@ -473,7 +473,7 @@
    "id": "s17:0177a",
    "op": "15",
    "jp": "そ・・・それと、\nキミに一つだけ大事なお願いが・・・",
-   "en": "",
+   "en": "A-and... there's just one important thing I want to ask you...",
    "box": "17x3",
    "face": 10
   },
@@ -481,7 +481,7 @@
    "id": "s17:017c2",
    "op": "15",
    "jp": "これは重要な事だから、\n絶対に忘れないでね・・・！！",
-   "en": "",
+   "en": "It's really important, so don't you forget it...!!",
    "box": "17x3",
    "face": 10
   },
@@ -489,7 +489,7 @@
    "id": "s17:0180a",
    "op": "15",
    "jp": "キミはこの世界での記憶を無くして\nしまっていて・・・",
-   "en": "",
+   "en": "You've lost your memories of this world...",
    "box": "17x3",
    "face": 10
   },
@@ -497,7 +497,7 @@
    "id": "s17:01852",
    "op": "15",
    "jp": "この世界の常識には、\nまだ慣れてないでしょ・・・？！",
-   "en": "",
+   "en": "so you're still not used to how things work here, right...?!",
    "box": "17x3",
    "face": 10
   },
@@ -505,7 +505,7 @@
    "id": "s17:0189a",
    "op": "15",
    "jp": "だから私が安心してキミを、\n家の外に送り出せるようになるまで、",
-   "en": "",
+   "en": "So until I feel safe sending you outside,",
    "box": "17x3",
    "face": 10
   },
@@ -513,7 +513,7 @@
    "id": "s17:018ea",
    "op": "15",
    "jp": "勝手に家の柵の外には、\n絶対に出ないで欲しいの・・・！！",
-   "en": "",
+   "en": "don't you dare go past the fence on your own...!!",
    "box": "17x3",
    "face": 10
   },
@@ -521,7 +521,7 @@
    "id": "s17:01936",
    "op": "15",
    "jp": "いい？絶対に勝手に外に出ちゃ、\nダメだからね！！",
-   "en": "",
+   "en": "Okay? You absolutely can't go out on your own!!",
    "box": "17x3",
    "face": 10
   },
@@ -529,7 +529,7 @@
    "id": "s17:0197a",
    "op": "15",
    "jp": "私とキミと・・・\nカインくんだけの約束だよ！！",
-   "en": "",
+   "en": "It's a promise between you and me... and Cain-kun only!!",
    "box": "17x3",
    "face": 10
   }

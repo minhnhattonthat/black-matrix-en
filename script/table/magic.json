@@ -10,416 +10,416 @@
   {
    "id": "magic:0.name",
    "jp": "ヒール",
-   "en": "",
+   "en": "Heal",
    "max": 8
   },
   {
    "id": "magic:0.desc",
    "jp": "ＨＰを回復する",
-   "en": "",
+   "en": "Restores HP.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:1.name",
    "jp": "リリム",
-   "en": "",
+   "en": "Lilim",
    "max": 8
   },
   {
    "id": "magic:1.desc",
    "jp": "ＨＰを回復する",
-   "en": "",
+   "en": "Restores HP.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:2.name",
    "jp": "ルリックヒール",
-   "en": "",
+   "en": "Ruric Heal",
    "max": 8
   },
   {
    "id": "magic:2.desc",
    "jp": "ＨＰを回復する",
-   "en": "",
+   "en": "Restores HP.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:3.name",
    "jp": "レイキュアー",
-   "en": "",
+   "en": "Ray Cure",
    "max": 8
   },
   {
    "id": "magic:3.desc",
    "jp": "パラメータ異常の回復",
-   "en": "",
+   "en": "Cures stat ailments.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:4.name",
    "jp": "ゾンビ化",
-   "en": "",
+   "en": "Zombify",
    "max": 8
   },
   {
    "id": "magic:4.desc",
    "jp": "死亡ユニットをゾンビにする",
-   "en": "",
+   "en": "Turns a dead unit into a zombie.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:5.name",
    "jp": "ゾンビ爆",
-   "en": "",
+   "en": "Zombie Blast",
    "max": 8
   },
   {
    "id": "magic:5.desc",
    "jp": "ゾンビを自爆させて攻撃を行う",
-   "en": "",
+   "en": "Blows up a zombie to attack.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:6.name",
    "jp": "ネクロコマンド",
-   "en": "",
+   "en": "Necro Command",
    "max": 8
   },
   {
    "id": "magic:6.desc",
    "jp": "ゾンビを発狂させて攻撃を行う　　　　　単体攻撃魔法",
-   "en": "",
+   "en": "Attacks by driving a zombie mad.      Single-target",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:7.name",
    "jp": "エラー",
-   "en": "",
+   "en": "Error",
    "max": 8
   },
   {
    "id": "magic:7.desc",
    "jp": "存在しない　ＭＡＧ　ＮＯ　７　　　　　二行目",
-   "en": "",
+   "en": "Does not exist. MAG NO 7              Second row",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:8.name",
    "jp": "ストーンペトラ",
-   "en": "",
+   "en": "Stone Petra",
    "max": 8
   },
   {
    "id": "magic:8.desc",
    "jp": "石化状態にする　　　　　　　　　　　　１８ＣＴ継続",
-   "en": "",
+   "en": "Turns the target to stone.            Lasts 18 CT",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:9.name",
    "jp": "ブラディカース",
-   "en": "",
+   "en": "Bloody Curse",
    "max": 8
   },
   {
    "id": "magic:9.desc",
    "jp": "ＢＰを凍結させ魔法を封じる　　　　　　４０ＣＴ継続",
-   "en": "",
+   "en": "Freezes BP, sealing off magic.        Lasts 40 CT",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:10.name",
    "jp": "パラライスカル",
-   "en": "",
+   "en": "Paralyze Skull",
    "max": 8
   },
   {
    "id": "magic:10.desc",
    "jp": "麻ε状態にする　　　　　　　　　　　　２４ＣＴ継続",
-   "en": "",
+   "en": "Paralyzes the target.                 Lasts 24 CT",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:11.name",
    "jp": "ポイゾクラウド",
-   "en": "",
+   "en": "Poison Cloud",
    "max": 8
   },
   {
    "id": "magic:11.desc",
    "jp": "毒状態にする　　　　　　　　　　　　　４０ＣＴ継続",
-   "en": "",
+   "en": "Poisons the target.                   Lasts 40 CT",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:12.name",
    "jp": "サンドマン",
-   "en": "",
+   "en": "Sandman",
    "max": 8
   },
   {
    "id": "magic:12.desc",
    "jp": "睡眠状態にする　　　　　　　　　　　　４０ＣＴ継続",
-   "en": "",
+   "en": "Puts the target to sleep.             Lasts 40 CT",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:13.name",
    "jp": "アストラル",
-   "en": "",
+   "en": "Astral",
    "max": 8
   },
   {
    "id": "magic:13.desc",
    "jp": "パラメータを２５％アップさせる　　　　４０ＣＴ継続",
-   "en": "",
+   "en": "Raises stats by 25%.                  Lasts 40 CT",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:14.name",
    "jp": "レジィゴースト",
-   "en": "",
+   "en": "Regi Ghost",
    "max": 8
   },
   {
    "id": "magic:14.desc",
    "jp": "パラメータを２５％ダウンさせる　　　　４０ＣＴ継続",
-   "en": "",
+   "en": "Lowers stats by 25%.                  Lasts 40 CT",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:15.name",
    "jp": "エラー",
-   "en": "",
+   "en": "Error",
    "max": 8
   },
   {
    "id": "magic:15.desc",
    "jp": "存在しない　ＭＡＧ　ＮＯ　１５　　　　二行目",
-   "en": "",
+   "en": "Does not exist. MAG NO 15             Second row",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:16.name",
    "jp": "リッチ",
-   "en": "",
+   "en": "Lich",
    "max": 8
   },
   {
    "id": "magic:16.desc",
    "jp": "ＢＰ吸収を行う",
-   "en": "",
+   "en": "Drains BP.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:17.name",
    "jp": "ルリックガード",
-   "en": "",
+   "en": "Ruric Guard",
    "max": 8
   },
   {
    "id": "magic:17.desc",
    "jp": "魔法攻撃を一度だけ防ぐ　　　　　　　　４０ＣＴ継続",
-   "en": "",
+   "en": "Blocks a magic attack once.           Lasts 40 CT",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:18.name",
    "jp": "ルリックソード",
-   "en": "",
+   "en": "Ruric Sword",
    "max": 8
   },
   {
    "id": "magic:18.desc",
    "jp": "ＨＰを１／４にする",
-   "en": "",
+   "en": "Reduces HP to 1/4.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:19.name",
    "jp": "エラー",
-   "en": "",
+   "en": "Error",
    "max": 8
   },
   {
    "id": "magic:19.desc",
    "jp": "存在しない　ＭＡＧ　ＮＯ　１９　　　　二行目",
-   "en": "",
+   "en": "Does not exist. MAG NO 19             Second row",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:20.name",
    "jp": "メテオフォース",
-   "en": "",
+   "en": "Meteor Force",
    "max": 8
   },
   {
    "id": "magic:20.desc",
    "jp": "τ石からの光弾による攻撃を行う",
-   "en": "",
+   "en": "Attacks with meteorite light bolts.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:21.name",
    "jp": "ルリックレイ",
-   "en": "",
+   "en": "Ruric Ray",
    "max": 8
   },
   {
    "id": "magic:21.desc",
    "jp": "光柱による攻撃を行う",
-   "en": "",
+   "en": "Attacks with a pillar of light.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:22.name",
    "jp": "ルミナクロス",
-   "en": "",
+   "en": "Lumina Cross",
    "max": 8
   },
   {
    "id": "magic:22.desc",
    "jp": "光弾による攻撃を行う",
-   "en": "",
+   "en": "Attacks with a bolt of light.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:23.name",
    "jp": "ヴァンクラウド",
-   "en": "",
+   "en": "Van Cloud",
    "max": 8
   },
   {
    "id": "magic:23.desc",
    "jp": "毒の雲による攻撃を行う",
-   "en": "",
+   "en": "Attacks with a poison cloud.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:24.name",
    "jp": "ヘルゲイザー",
-   "en": "",
+   "en": "Hell Geyser",
    "max": 8
   },
   {
    "id": "magic:24.desc",
    "jp": "火柱による攻撃を行う",
-   "en": "",
+   "en": "Attacks with a pillar of fire.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:25.name",
    "jp": "ノースレイス",
-   "en": "",
+   "en": "North Wraith",
    "max": 8
   },
   {
    "id": "magic:25.desc",
    "jp": "氷柱による攻撃を行う",
-   "en": "",
+   "en": "Attacks with a pillar of ice.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:26.name",
    "jp": "アシドストーム",
-   "en": "",
+   "en": "Acid Storm",
    "max": 8
   },
   {
    "id": "magic:26.desc",
    "jp": "竜巻による攻撃を行う",
-   "en": "",
+   "en": "Attacks with a tornado.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:27.name",
    "jp": "サナトス",
-   "en": "",
+   "en": "Thanatos",
    "max": 8
   },
   {
    "id": "magic:27.desc",
    "jp": "雷弾による攻撃を行う",
-   "en": "",
+   "en": "Attacks with a bolt of lightning.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:28.name",
    "jp": "ネメシスブロウ",
-   "en": "",
+   "en": "Nemesis Blow",
    "max": 8
   },
   {
    "id": "magic:28.desc",
    "jp": "光の爆発による攻撃を行う",
-   "en": "",
+   "en": "Attacks with an explosion of light.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:29.name",
    "jp": "サナトマグス",
-   "en": "",
+   "en": "Thanato Magus",
    "max": 8
   },
   {
    "id": "magic:29.desc",
    "jp": "爆雷による攻撃を行う",
-   "en": "",
+   "en": "Attacks with explosive lightning.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:30.name",
    "jp": "ドラゴネル",
-   "en": "",
+   "en": "Dragonel",
    "max": 8
   },
   {
    "id": "magic:30.desc",
    "jp": "爆炎による攻撃を行う",
-   "en": "",
+   "en": "Attacks with an explosive blaze.",
    "max": 28,
    "cell": 28
   },
   {
    "id": "magic:31.name",
    "jp": "エラー",
-   "en": "",
+   "en": "Error",
    "max": 8
   },
   {
    "id": "magic:31.desc",
    "jp": "存在しない　ＭＡＧ　ＮＯ　３１　　　　二行目",
-   "en": "",
+   "en": "Does not exist. MAG NO 31             Second row",
    "max": 28,
    "cell": 28
   }

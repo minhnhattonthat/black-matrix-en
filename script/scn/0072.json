@@ -9,7 +9,7 @@
    "id": "s72:003a2",
    "op": "15",
    "jp": "おおっと！\n問題の奴隷が、\n帰ってきたようですね！？",
-   "en": "",
+   "en": "Oh-ho! It appears the slave in question has come back!?",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s72:0044e",
    "op": "15",
    "jp": "か・・・彼を・・・\n彼の手を離して！！",
-   "en": "",
+   "en": "L-let go of him... Let go of his hand!!",
    "box": "17x3",
    "face": 9
   },
@@ -25,7 +25,7 @@
    "id": "s72:00496",
    "op": "15",
    "jp": "我々とて同じ黒い羽のアナタに\n手荒な真似などしたくはない\nのですよ！",
-   "en": "",
+   "en": "We would rather not be rough with you, a fellow Black Wing, you see!",
    "box": "17x3",
    "face": 97
   },
@@ -33,7 +33,7 @@
    "id": "s72:004ee",
    "op": "15",
    "jp": "お嬢さん！",
-   "en": "",
+   "en": "Young lady!",
    "box": "17x3",
    "face": 97
   },
@@ -41,7 +41,7 @@
    "id": "s72:0050a",
    "op": "15",
    "jp": "ただ・・・\nアナタがどうしても奴隷を、\n奴隷らしく扱わず・・・",
-   "en": "",
+   "en": "However... if you absolutely insist on not treating a slave like a slave...",
    "box": "17x3",
    "face": 97
   },
@@ -49,7 +49,7 @@
    "id": "s72:0055a",
    "op": "15",
    "jp": "首輪もつけずに、\n放し飼いにし続けると\nいうのであれば・・・",
-   "en": "",
+   "en": "...and go on letting him roam loose, without even a collar...",
    "box": "17x3",
    "face": 97
   },
@@ -57,7 +57,7 @@
    "id": "s72:005aa",
    "op": "15",
    "jp": "彼には死んでもらう事に\nなりますねぇ！！",
-   "en": "",
+   "en": "...then we'll just have to have him die, won't we!!",
    "box": "17x3",
    "face": 97
   },
@@ -73,7 +73,7 @@
    "id": "s72:00616",
    "op": "15",
    "jp": "だいいち周りに聞いた噂によると、\n奴隷をペットとして\n猫っ可愛がりするにしても、",
-   "en": "",
+   "en": "Besides, from the rumors around here, even for doting on a slave as a pet,",
    "box": "17x3",
    "face": 97
   },
@@ -81,7 +81,7 @@
    "id": "s72:0067a",
    "op": "15",
    "jp": "服まで着せるなんて\nやりすぎじゃあないんですか！？",
-   "en": "",
+   "en": "Dressing him in clothes is going too far, is it not!?",
    "box": "17x3",
    "face": 97
   },
@@ -89,7 +89,7 @@
    "id": "s72:006ce",
    "op": "15",
    "jp": "奴隷・・・？！\nぺ・・・ペット？！",
-   "en": "",
+   "en": "A s-slave...?! A p... pet?!",
    "box": "17x3",
    "face": 9
   },
@@ -97,7 +97,7 @@
    "id": "s72:00712",
    "op": "15",
    "jp": "か・・・彼は\nそんなんじゃないよ！！",
-   "en": "",
+   "en": "H-he's... not like that!!",
    "box": "17x3",
    "face": 9
   },
@@ -105,7 +105,7 @@
    "id": "s72:00756",
    "op": "15",
    "jp": "そりゃ自分の奴隷に\n執着心を持つのは勝手だが！",
-   "en": "",
+   "en": "Sure, get as attached to your own slave as you damn well please, but!",
    "box": "17x3",
    "face": 43
   },
@@ -113,7 +113,7 @@
    "id": "s72:007a6",
    "op": "15",
    "jp": "なるほど！！",
-   "en": "",
+   "en": "I see!!",
    "box": "17x3",
    "face": 97
   },
@@ -121,7 +121,7 @@
    "id": "s72:007c6",
    "op": "15",
    "jp": "人から貰った時には\n気にいらなかったコップが、",
-   "en": "",
+   "en": "A cup you disliked when someone gave it to you,",
    "box": "17x3",
    "face": 97
   },
@@ -129,7 +129,7 @@
    "id": "s72:00806",
    "op": "15",
    "jp": "毎日使っているうちに、\nだんだん良い物に思えてくるという\nアレですか！！",
-   "en": "",
+   "en": "but with daily use it gradually starts to seem like a fine thing -- that sort of thing, is it!!",
    "box": "17x3",
    "face": 97
   },
@@ -137,7 +137,7 @@
    "id": "s72:0086e",
    "op": "15",
    "jp": "ちがうっ！！",
-   "en": "",
+   "en": "No!!",
    "box": "17x3",
    "face": 9
   },
@@ -145,7 +145,7 @@
    "id": "s72:0088e",
    "op": "15",
    "jp": "ボ・・ボクは・・・\nボクは彼を・・愛・・・・",
-   "en": "",
+   "en": "I-I... him, I... lo...",
    "box": "17x3",
    "face": 9
   },
@@ -153,7 +153,7 @@
    "id": "s72:008da",
    "op": "15",
    "jp": "あっ！！",
-   "en": "",
+   "en": "Wha!!",
    "box": "17x3",
    "face": 43
   },
@@ -169,7 +169,7 @@
    "id": "s72:0091a",
    "op": "15",
    "jp": "愛だとぉ～！",
-   "en": "",
+   "en": "Love, ya say~!",
    "box": "17x3",
    "face": 43
   },
@@ -185,7 +185,7 @@
    "id": "s72:00956",
    "op": "15",
    "jp": "それは俗に、\nこの世界でも恋と呼ばれる\n人間の発情期の勘違いですよ！",
-   "en": "",
+   "en": "That, commonly, even in this world, is called a childish fancy: a silly human misunderstanding!",
    "box": "17x3",
    "face": 97
   },
@@ -201,7 +201,7 @@
    "id": "s72:009da",
    "op": "15",
    "jp": "発情期に入るとどんな動物でも\n動ξが激しくなって\n頭に血が上り・・・",
-   "en": "",
+   "en": "Any creature that grows attached gets a racing heart, and blood rushes to its head...",
    "box": "17x3",
    "face": 97
   },
@@ -209,7 +209,7 @@
    "id": "s72:00a32",
    "op": "15",
    "jp": "ときおり訳の分からない事を\n叫んで見たりするものです。",
-   "en": "",
+   "en": "and now and then it shouts nonsense.",
    "box": "17x3",
    "face": 97
   },
@@ -217,7 +217,7 @@
    "id": "s72:00a7a",
    "op": "15",
    "jp": "だったらそれこそ、\nアナタが彼を\n好きにすればいいんです！！",
-   "en": "",
+   "en": "Then by all means, keep him as a pet as you please!!",
    "box": "17x3",
    "face": 97
   },
@@ -233,7 +233,7 @@
    "id": "s72:00af6",
    "op": "15",
    "jp": "自分が奴隷に対して\n欲情した事を\n恥じてはいけませんよ！",
-   "en": "",
+   "en": "You needn't be ashamed of growing fond of a slave!",
    "box": "17x3",
    "face": 97
   },
@@ -241,7 +241,7 @@
    "id": "s72:00b42",
    "op": "15",
    "jp": "誰かに欲情するという事は・・・",
-   "en": "",
+   "en": "Growing attached to something...",
    "box": "17x3",
    "face": 97
   },
@@ -249,7 +249,7 @@
    "id": "s72:00b72",
    "op": "15",
    "jp": "全ての動物にとって\n種族の保存に繋がる\n根元的な行為なのです！",
-   "en": "",
+   "en": "is, for every animal, a root instinct that keeps its kind alive!",
    "box": "17x3",
    "face": 97
   },
@@ -257,7 +257,7 @@
    "id": "s72:00bc2",
    "op": "15",
    "jp": "だいいちそんな・・・",
-   "en": "",
+   "en": "Besides, such...",
    "box": "17x3",
    "face": 97
   },
@@ -265,7 +265,7 @@
    "id": "s72:00bea",
    "op": "15",
    "jp": "愛などという、\n実際にはこの世にはありもしない\n妄想を口にすることが、",
-   "en": "",
+   "en": "To speak of a delusion called love, which does not even exist in this world,",
    "box": "17x3",
    "face": 97
   },
@@ -273,7 +273,7 @@
    "id": "s72:00c42",
    "op": "15",
    "jp": "七つの大罪の一つである事を\nアナタはご存じないんですか！？",
-   "en": "",
+   "en": "is one of the Seven Deadly Sins. Did you not know that!?",
    "box": "17x3",
    "face": 97
   },
@@ -281,7 +281,7 @@
    "id": "s72:00c9e",
    "op": "15",
    "jp": "あ・・貴方達の言うように・・・\nボクの想いは",
-   "en": "",
+   "en": "L-like you say... what I feel...",
    "box": "17x3",
    "face": 9
   },
@@ -289,7 +289,7 @@
    "id": "s72:00cde",
    "op": "15",
    "jp": "一方的な物なのかもしれない・・・",
-   "en": "",
+   "en": "might just be one-sided...",
    "box": "17x3",
    "face": 9
   },
@@ -297,7 +297,7 @@
    "id": "s72:00d12",
    "op": "15",
    "jp": "でも・・・！",
-   "en": "",
+   "en": "But...!",
    "box": "17x3",
    "face": 9
   },
@@ -305,7 +305,7 @@
    "id": "s72:00d32",
    "op": "15",
    "jp": "それが・・どんなに罪深くても・・・",
-   "en": "",
+   "en": "N-no matter how sinful it is...",
    "box": "17x3",
    "face": 9
   },
@@ -313,7 +313,7 @@
    "id": "s72:00d66",
    "op": "15",
    "jp": "ボ・・ボクは・・・",
-   "en": "",
+   "en": "I-I...",
    "box": "17x3",
    "face": 9
   },
@@ -321,7 +321,7 @@
    "id": "s72:00d9a",
    "op": "15",
    "jp": "ボクは彼を・・・\n愛しているんだ～！！",
-   "en": "",
+   "en": "I... love him~!!",
    "box": "17x3",
    "face": 9
   }

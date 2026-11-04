@@ -17,7 +17,7 @@
    "id": "s68:0039e",
    "op": "15",
    "jp": "どうやら体の方は・・・\nもう大丈夫のようね！",
-   "en": "",
+   "en": "It seems your body... is fine now!",
    "box": "17x3",
    "face": 11
   },
@@ -25,7 +25,7 @@
    "id": "s68:003de",
    "op": "15",
    "jp": "頭の方はどうだか分からないけど、\nふふふっ・・・",
-   "en": "",
+   "en": "As for your head, who can say, heh heh...",
    "box": "17x3",
    "face": 11
   },
@@ -41,7 +41,7 @@
    "id": "s68:00446",
    "op": "15",
    "jp": "いつかは\n言い出すんじゃないかって\n思ってたんだけど・・・",
-   "en": "",
+   "en": "I thought you'd bring it up someday...",
    "box": "17x3",
    "face": 11
   },
@@ -49,7 +49,7 @@
    "id": "s68:00492",
    "op": "15",
    "jp": "どう、アンタはこの家から出て、\n外や街へ行ってみたい・・・？",
-   "en": "",
+   "en": "Well, do you want to leave this house and try going outside, into town...?",
    "box": "17x3",
    "face": 11
   },
@@ -57,7 +57,7 @@
    "id": "s68:004e2",
    "op": "15",
    "jp": "そう・・・",
-   "en": "",
+   "en": "I see...",
    "box": "17x3",
    "face": 11
   },
@@ -65,7 +65,7 @@
    "id": "s68:004fe",
    "op": "15",
    "jp": "でも、少しは\n私の気持ちも・・・・！",
-   "en": "",
+   "en": "But you might spare a thought for my feelings...!",
    "box": "17x3",
    "face": 11
   },
@@ -73,7 +73,7 @@
    "id": "s68:00542",
    "op": "15",
    "jp": "な、なんでもない！",
-   "en": "",
+   "en": "N-never mind!",
    "box": "17x3",
    "face": 11
   },
@@ -81,7 +81,7 @@
    "id": "s68:00566",
    "op": "15",
    "jp": "どうする・・・\nやっぱり出てみる・・・？",
-   "en": "",
+   "en": "Well? Do you want to try going out after all...?",
    "box": "17x3",
    "face": 11
   },
@@ -89,21 +89,21 @@
    "id": "s68:005ae",
    "op": "1d",
    "jp": "外へ出たい！",
-   "en": "",
+   "en": "I want to go out!",
    "max": 15
   },
   {
    "id": "s68:005c4",
    "op": "1d",
    "jp": "外へ出たくない！",
-   "en": "",
+   "en": "I don't want to go out!",
    "max": 15
   },
   {
    "id": "s68:005fa",
    "op": "15",
    "jp": "そう・・・・\n分かったわ！",
-   "en": "",
+   "en": "I see.... Very well!",
    "box": "17x3",
    "face": 11
   },
@@ -111,7 +111,7 @@
    "id": "s68:00626",
    "op": "15",
    "jp": "アンタが記憶を早く取り戻す為には、そのほうがいいのかもしれない。",
-   "en": "",
+   "en": "That might be better, if you're to get your memory back soon.",
    "box": "17x3",
    "face": 11
   },
@@ -127,7 +127,7 @@
    "id": "s68:006a6",
    "op": "15",
    "jp": "でも外に出るんなら、\nこれだけは覚えておきなさい！！",
-   "en": "",
+   "en": "But if you go out, remember this one thing!!",
    "box": "17x3",
    "face": 11
   },
@@ -135,7 +135,7 @@
    "id": "s68:006ee",
    "op": "15",
    "jp": "街には色んな人が居るけど、\n羽の色が黒い奴等には気をつける事！",
-   "en": "",
+   "en": "There are all kinds of people in town, but beware of the black-winged lot!",
    "box": "17x3",
    "face": 11
   },
@@ -143,7 +143,7 @@
    "id": "s68:0073e",
    "op": "15",
    "jp": "わかった・・・？",
-   "en": "",
+   "en": "Understood...?",
    "box": "17x3",
    "face": 11
   },
@@ -159,7 +159,7 @@
    "id": "s68:0078e",
    "op": "15",
    "jp": "それから、\nこのネックレスを渡しておくわ、\nかならず身に着けてるのよ！",
-   "en": "",
+   "en": "And I'll hand you this necklace. Make sure you keep it on!",
    "box": "17x3",
    "face": 11
   },
@@ -167,7 +167,7 @@
    "id": "s68:00812",
    "op": "15",
    "jp": "そ、そう・・・\nそれならいいわ・・・！",
-   "en": "",
+   "en": "I-I see... Then that's fine...!",
    "box": "17x3",
    "face": 11
   },
@@ -175,7 +175,7 @@
    "id": "s68:0084a",
    "op": "15",
    "jp": "いい！\nアンタは私だけに尽くす為の\n奴隷なのよ！",
-   "en": "",
+   "en": "Listen! You are a slave who exists to serve me alone!",
    "box": "17x3",
    "face": 11
   },
@@ -183,7 +183,7 @@
    "id": "s68:0088e",
    "op": "15",
    "jp": "私のいう事だけを聞いていれば・・・何も問題はないわ！",
-   "en": "",
+   "en": "As long as you obey only me... there won't be any problem!",
    "box": "17x3",
    "face": 11
   },
@@ -191,7 +191,7 @@
    "id": "s68:008d6",
    "op": "15",
    "jp": "でも、もしも・・・\n外に出たくなったら・・・",
-   "en": "",
+   "en": "But if, by some chance... you want to go out...",
    "box": "17x3",
    "face": 11
   }

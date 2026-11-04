@@ -8,1015 +8,1015 @@
   {
    "id": "enemy6:0.name",
    "jp": "筋肉質の男",
-   "en": "",
+   "en": "Muscular Man",
    "max": 6
   },
   {
    "id": "enemy6:20.name",
    "jp": "看守長",
-   "en": "",
+   "en": "Head Guard",
    "max": 6
   },
   {
    "id": "enemy6:21.name",
    "jp": "看守",
-   "en": "",
+   "en": "Guard",
    "max": 6
   },
   {
    "id": "enemy6:22.name",
    "jp": "看守",
-   "en": "",
+   "en": "Guard",
    "max": 6
   },
   {
    "id": "enemy6:23.name",
    "jp": "看守",
-   "en": "",
+   "en": "Guard",
    "max": 6
   },
   {
    "id": "enemy6:24.name",
    "jp": "看守",
-   "en": "",
+   "en": "Guard",
    "max": 6
   },
   {
    "id": "enemy6:25.name",
    "jp": "看守",
-   "en": "",
+   "en": "Guard",
    "max": 6
   },
   {
    "id": "enemy6:40.name",
    "jp": "カロン",
-   "en": "",
+   "en": "Charon",
    "max": 6
   },
   {
    "id": "enemy6:41.name",
    "jp": "プラハ",
-   "en": "",
+   "en": "Prague",
    "max": 6
   },
   {
    "id": "enemy6:42.name",
    "jp": "看守",
-   "en": "",
+   "en": "Guard",
    "max": 6
   },
   {
    "id": "enemy6:43.name",
    "jp": "看守",
-   "en": "",
+   "en": "Guard",
    "max": 6
   },
   {
    "id": "enemy6:44.name",
    "jp": "看守",
-   "en": "",
+   "en": "Guard",
    "max": 6
   },
   {
    "id": "enemy6:45.name",
    "jp": "看守",
-   "en": "",
+   "en": "Guard",
    "max": 6
   },
   {
    "id": "enemy6:46.name",
    "jp": "囚人",
-   "en": "",
+   "en": "Prisoner",
    "max": 6
   },
   {
    "id": "enemy6:47.name",
    "jp": "囚人",
-   "en": "",
+   "en": "Prisoner",
    "max": 6
   },
   {
    "id": "enemy6:48.name",
    "jp": "囚人",
-   "en": "",
+   "en": "Prisoner",
    "max": 6
   },
   {
    "id": "enemy6:49.name",
    "jp": "囚人",
-   "en": "",
+   "en": "Prisoner",
    "max": 6
   },
   {
    "id": "enemy6:50.name",
    "jp": "囚人",
-   "en": "",
+   "en": "Prisoner",
    "max": 6
   },
   {
    "id": "enemy6:60.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:61.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:62.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:63.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:64.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:65.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:80.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:81.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:82.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:83.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:84.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:85.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:86.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:87.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:88.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:100.name",
    "jp": "強信者",
-   "en": "",
+   "en": "Zealot",
    "max": 6
   },
   {
    "id": "enemy6:101.name",
    "jp": "ヒーラー　　",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:102.name",
    "jp": "ヒーラー　　",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:103.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:104.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:105.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:106.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:107.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:108.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:109.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:120.name",
    "jp": "強信者",
-   "en": "",
+   "en": "Zealot",
    "max": 6
   },
   {
    "id": "enemy6:121.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:122.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:123.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:124.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:125.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:126.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:127.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:128.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:140.name",
    "jp": "ユダ",
-   "en": "",
+   "en": "Judas",
    "max": 6
   },
   {
    "id": "enemy6:141.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:142.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:143.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:144.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:145.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:146.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:147.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:148.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:149.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:160.name",
    "jp": "ユダ",
-   "en": "",
+   "en": "Judas",
    "max": 6
   },
   {
    "id": "enemy6:161.name",
    "jp": "Ｄサマナー　",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:162.name",
    "jp": "Ｄサマナー　",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:163.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:164.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:165.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:166.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:167.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:168.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:169.name",
    "jp": "愛人",
-   "en": "",
+   "en": "Lover",
    "max": 6
   },
   {
    "id": "enemy6:180.name",
    "jp": "強信者",
-   "en": "",
+   "en": "Zealot",
    "max": 6
   },
   {
    "id": "enemy6:181.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:182.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:183.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:184.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:185.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:186.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:187.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:188.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:200.name",
    "jp": "盗賊団親分",
-   "en": "",
+   "en": "Bandit Boss",
    "max": 6
   },
   {
    "id": "enemy6:201.name",
    "jp": "盗賊団子分",
-   "en": "",
+   "en": "Bandit Thug",
    "max": 6
   },
   {
    "id": "enemy6:202.name",
    "jp": "盗賊団子分",
-   "en": "",
+   "en": "Bandit Thug",
    "max": 6
   },
   {
    "id": "enemy6:203.name",
    "jp": "盗賊団子分",
-   "en": "",
+   "en": "Bandit Thug",
    "max": 6
   },
   {
    "id": "enemy6:204.name",
    "jp": "盗賊団子分",
-   "en": "",
+   "en": "Bandit Thug",
    "max": 6
   },
   {
    "id": "enemy6:205.name",
    "jp": "盗賊団子分",
-   "en": "",
+   "en": "Bandit Thug",
    "max": 6
   },
   {
    "id": "enemy6:206.name",
    "jp": "盗賊団子分",
-   "en": "",
+   "en": "Bandit Thug",
    "max": 6
   },
   {
    "id": "enemy6:207.name",
    "jp": "盗賊団子分",
-   "en": "",
+   "en": "Bandit Thug",
    "max": 6
   },
   {
    "id": "enemy6:208.name",
    "jp": "盗賊団子分",
-   "en": "",
+   "en": "Bandit Thug",
    "max": 6
   },
   {
    "id": "enemy6:209.name",
    "jp": "奴隷",
-   "en": "",
+   "en": "Slave",
    "max": 6
   },
   {
    "id": "enemy6:210.name",
    "jp": "奴隷",
-   "en": "",
+   "en": "Slave",
    "max": 6
   },
   {
    "id": "enemy6:211.name",
    "jp": "奴隷",
-   "en": "",
+   "en": "Slave",
    "max": 6
   },
   {
    "id": "enemy6:212.name",
    "jp": "奴隷",
-   "en": "",
+   "en": "Slave",
    "max": 6
   },
   {
    "id": "enemy6:213.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:220.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:221.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:222.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:223.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:224.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:225.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:226.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:227.name",
    "jp": "信者",
-   "en": "",
+   "en": "Believer",
    "max": 6
   },
   {
    "id": "enemy6:240.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:241.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:242.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:243.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:244.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:260.name",
    "jp": "女剣闘士",
-   "en": "",
+   "en": "Gladiatrix",
    "max": 6
   },
   {
    "id": "enemy6:261.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:262.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:263.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:264.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:280.name",
    "jp": "ゼロ",
-   "en": "",
+   "en": "Zero",
    "max": 6
   },
   {
    "id": "enemy6:281.name",
    "jp": "ゼファル",
-   "en": "",
+   "en": "Zephar",
    "max": 6
   },
   {
    "id": "enemy6:282.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:283.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:284.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:285.name",
    "jp": "剣闘士",
-   "en": "",
+   "en": "Gladiator",
    "max": 6
   },
   {
    "id": "enemy6:300.name",
    "jp": "マステマ",
-   "en": "",
+   "en": "Mastema",
    "max": 6
   },
   {
    "id": "enemy6:301.name",
    "jp": "老兵",
-   "en": "",
+   "en": "Old Soldier",
    "max": 6
   },
   {
    "id": "enemy6:302.name",
    "jp": "老兵",
-   "en": "",
+   "en": "Old Soldier",
    "max": 6
   },
   {
    "id": "enemy6:303.name",
    "jp": "老兵",
-   "en": "",
+   "en": "Old Soldier",
    "max": 6
   },
   {
    "id": "enemy6:304.name",
    "jp": "老兵",
-   "en": "",
+   "en": "Old Soldier",
    "max": 6
   },
   {
    "id": "enemy6:305.name",
    "jp": "老兵",
-   "en": "",
+   "en": "Old Soldier",
    "max": 6
   },
   {
    "id": "enemy6:306.name",
    "jp": "老兵",
-   "en": "",
+   "en": "Old Soldier",
    "max": 6
   },
   {
    "id": "enemy6:307.name",
    "jp": "老兵",
-   "en": "",
+   "en": "Old Soldier",
    "max": 6
   },
   {
    "id": "enemy6:308.name",
    "jp": "老兵",
-   "en": "",
+   "en": "Old Soldier",
    "max": 6
   },
   {
    "id": "enemy6:309.name",
    "jp": "老兵",
-   "en": "",
+   "en": "Old Soldier",
    "max": 6
   },
   {
    "id": "enemy6:310.name",
    "jp": "老兵",
-   "en": "",
+   "en": "Old Soldier",
    "max": 6
   },
   {
    "id": "enemy6:320.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:321.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:322.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:323.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:324.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:325.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:326.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:327.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:340.name",
    "jp": "Ｄｒレッド",
-   "en": "",
+   "en": "Dr. Red",
    "max": 6
   },
   {
    "id": "enemy6:341.name",
    "jp": "Ｄｒグリーン",
-   "en": "",
+   "en": "Dr. Green",
    "max": 6
   },
   {
    "id": "enemy6:342.name",
    "jp": "Ｄｒブルー",
-   "en": "",
+   "en": "Dr. Blue",
    "max": 6
   },
   {
    "id": "enemy6:343.name",
    "jp": "Ｄｒイエロー",
-   "en": "",
+   "en": "Dr. Yellow",
    "max": 6
   },
   {
    "id": "enemy6:344.name",
    "jp": "Ｄｒブラック",
-   "en": "",
+   "en": "Dr. Black",
    "max": 6
   },
   {
    "id": "enemy6:345.name",
    "jp": "門番",
-   "en": "",
+   "en": "Gatekeeper",
    "max": 6
   },
   {
    "id": "enemy6:346.name",
    "jp": "ミシェット",
-   "en": "",
+   "en": "Michette",
    "max": 6
   },
   {
    "id": "enemy6:347.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:348.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:349.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:350.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:351.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:360.name",
    "jp": "警備兵隊長",
-   "en": "",
+   "en": "Sentry Chief",
    "max": 6
   },
   {
    "id": "enemy6:361.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:362.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:363.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:364.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:365.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:366.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:367.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:368.name",
    "jp": "十字兵見習い",
-   "en": "",
+   "en": "Squire",
    "max": 6
   },
   {
    "id": "enemy6:369.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:380.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:381.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:382.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:383.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:384.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:385.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:386.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:387.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:388.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
@@ -1028,913 +1028,913 @@
   {
    "id": "enemy6:400.name",
    "jp": "マモン",
-   "en": "",
+   "en": "Mammon",
    "max": 6
   },
   {
    "id": "enemy6:401.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:402.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:403.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:404.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:405.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:406.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:407.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:408.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:409.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:410.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:411.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:420.name",
    "jp": "マモン",
-   "en": "",
+   "en": "Mammon",
    "max": 6
   },
   {
    "id": "enemy6:421.name",
    "jp": "警備兵隊長",
-   "en": "",
+   "en": "Sentry Chief",
    "max": 6
   },
   {
    "id": "enemy6:422.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:423.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:424.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:425.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:426.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:427.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:428.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:429.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:430.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:431.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:440.name",
    "jp": "異審十字軍長",
-   "en": "",
+   "en": "Crusade Lord",
    "max": 6
   },
   {
    "id": "enemy6:441.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:442.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:443.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:444.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:445.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:446.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:447.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:448.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:449.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:450.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:460.name",
    "jp": "警備兵隊長",
-   "en": "",
+   "en": "Sentry Chief",
    "max": 6
   },
   {
    "id": "enemy6:461.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:462.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:463.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:464.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:465.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:466.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:467.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:468.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:469.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:470.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:480.name",
    "jp": "警備兵隊長",
-   "en": "",
+   "en": "Sentry Chief",
    "max": 6
   },
   {
    "id": "enemy6:481.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:482.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:483.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:484.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:485.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:486.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:487.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:488.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:489.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:490.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:500.name",
    "jp": "コック長",
-   "en": "",
+   "en": "Head Cook",
    "max": 6
   },
   {
    "id": "enemy6:501.name",
    "jp": "コック",
-   "en": "",
+   "en": "Cook",
    "max": 6
   },
   {
    "id": "enemy6:502.name",
    "jp": "コック",
-   "en": "",
+   "en": "Cook",
    "max": 6
   },
   {
    "id": "enemy6:503.name",
    "jp": "コック",
-   "en": "",
+   "en": "Cook",
    "max": 6
   },
   {
    "id": "enemy6:504.name",
    "jp": "コック",
-   "en": "",
+   "en": "Cook",
    "max": 6
   },
   {
    "id": "enemy6:505.name",
    "jp": "コック",
-   "en": "",
+   "en": "Cook",
    "max": 6
   },
   {
    "id": "enemy6:506.name",
    "jp": "コック",
-   "en": "",
+   "en": "Cook",
    "max": 6
   },
   {
    "id": "enemy6:507.name",
    "jp": "コック",
-   "en": "",
+   "en": "Cook",
    "max": 6
   },
   {
    "id": "enemy6:508.name",
    "jp": "コック",
-   "en": "",
+   "en": "Cook",
    "max": 6
   },
   {
    "id": "enemy6:520.name",
    "jp": "バアル",
-   "en": "",
+   "en": "Baal",
    "max": 6
   },
   {
    "id": "enemy6:521.name",
    "jp": "執事",
-   "en": "",
+   "en": "Butler",
    "max": 6
   },
   {
    "id": "enemy6:522.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:523.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:524.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:525.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:526.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:527.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:528.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:529.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:530.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:531.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:532.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:540.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:541.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:542.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:543.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:544.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:545.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:546.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:547.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:548.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:560.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:561.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:562.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:563.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:564.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:565.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:566.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:567.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:568.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:580.name",
    "jp": "バアル",
-   "en": "",
+   "en": "Baal",
    "max": 6
   },
   {
    "id": "enemy6:581.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:582.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:583.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:584.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:585.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:586.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:587.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:588.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:589.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:590.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:591.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:592.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:600.name",
    "jp": "異端審問官長",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:601.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:602.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:603.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:604.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:605.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:606.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:607.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:608.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:609.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:620.name",
    "jp": "異端審問官長",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:621.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:622.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:623.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:624.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:625.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:626.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:627.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:628.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:629.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:640.name",
    "jp": "異端審問官長",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:641.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:642.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:643.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:644.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:645.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:646.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:647.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:648.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:649.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:660.name",
    "jp": "異端審問官長",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:661.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:662.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:663.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:664.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:665.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:666.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:667.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:668.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:669.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:670.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:671.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
@@ -1946,1549 +1946,1549 @@
   {
    "id": "enemy6:680.name",
    "jp": "グザファン",
-   "en": "",
+   "en": "Xaphan",
    "max": 6
   },
   {
    "id": "enemy6:681.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:682.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:683.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:684.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:685.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:686.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:687.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:688.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:689.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:700.name",
    "jp": "異端審問官長",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:701.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:702.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:703.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:704.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:705.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:706.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:707.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:708.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:709.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:710.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:720.name",
    "jp": "異端審問官長",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:721.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:722.name",
    "jp": "Ｄサマナー",
-   "en": "",
+   "en": "D Summoner",
    "max": 6
   },
   {
    "id": "enemy6:723.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:724.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:725.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:726.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:727.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:728.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:729.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:730.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:740.name",
    "jp": "スタン",
-   "en": "",
+   "en": "Stan",
    "max": 6
   },
   {
    "id": "enemy6:741.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:742.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:743.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:744.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:745.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:746.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:747.name",
    "jp": "志願兵",
-   "en": "",
+   "en": "Volunteer",
    "max": 6
   },
   {
    "id": "enemy6:748.name",
    "jp": "志願兵",
-   "en": "",
+   "en": "Volunteer",
    "max": 6
   },
   {
    "id": "enemy6:749.name",
    "jp": "志願兵",
-   "en": "",
+   "en": "Volunteer",
    "max": 6
   },
   {
    "id": "enemy6:750.name",
    "jp": "志願兵",
-   "en": "",
+   "en": "Volunteer",
    "max": 6
   },
   {
    "id": "enemy6:751.name",
    "jp": "志願兵",
-   "en": "",
+   "en": "Volunteer",
    "max": 6
   },
   {
    "id": "enemy6:752.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:753.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:754.name",
    "jp": "十字兵",
-   "en": "",
+   "en": "Crusader",
    "max": 6
   },
   {
    "id": "enemy6:760.name",
    "jp": "ベルフェ",
-   "en": "",
+   "en": "Belphe",
    "max": 6
   },
   {
    "id": "enemy6:761.name",
    "jp": "不平監査官",
-   "en": "",
+   "en": "Inspector",
    "max": 6
   },
   {
    "id": "enemy6:762.name",
    "jp": "不平監査官",
-   "en": "",
+   "en": "Inspector",
    "max": 6
   },
   {
    "id": "enemy6:763.name",
    "jp": "不平監査官",
-   "en": "",
+   "en": "Inspector",
    "max": 6
   },
   {
    "id": "enemy6:764.name",
    "jp": "不平監査官",
-   "en": "",
+   "en": "Inspector",
    "max": 6
   },
   {
    "id": "enemy6:765.name",
    "jp": "不平監査官",
-   "en": "",
+   "en": "Inspector",
    "max": 6
   },
   {
    "id": "enemy6:766.name",
    "jp": "動員兵",
-   "en": "",
+   "en": "Conscript",
    "max": 6
   },
   {
    "id": "enemy6:767.name",
    "jp": "動員兵",
-   "en": "",
+   "en": "Conscript",
    "max": 6
   },
   {
    "id": "enemy6:768.name",
    "jp": "動員兵",
-   "en": "",
+   "en": "Conscript",
    "max": 6
   },
   {
    "id": "enemy6:769.name",
    "jp": "動員兵",
-   "en": "",
+   "en": "Conscript",
    "max": 6
   },
   {
    "id": "enemy6:770.name",
    "jp": "動員兵",
-   "en": "",
+   "en": "Conscript",
    "max": 6
   },
   {
    "id": "enemy6:771.name",
    "jp": "動員兵",
-   "en": "",
+   "en": "Conscript",
    "max": 6
   },
   {
    "id": "enemy6:772.name",
    "jp": "動員兵",
-   "en": "",
+   "en": "Conscript",
    "max": 6
   },
   {
    "id": "enemy6:780.name",
    "jp": "異端審問官長",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:781.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:782.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:783.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:784.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:785.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:786.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:787.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:788.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:789.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:800.name",
    "jp": "異端審問官長",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:801.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:802.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:803.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:804.name",
    "jp": "ヒーラー",
-   "en": "",
+   "en": "Healer",
    "max": 6
   },
   {
    "id": "enemy6:805.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:806.name",
    "jp": "ポイゾニスト",
-   "en": "",
+   "en": "Poisonist",
    "max": 6
   },
   {
    "id": "enemy6:807.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:808.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:809.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:810.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:820.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:821.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:822.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:823.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:824.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:825.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:826.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:827.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:828.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:829.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:830.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:831.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:840.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:841.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:842.name",
    "jp": "強兵士",
-   "en": "",
+   "en": "Veteran",
    "max": 6
   },
   {
    "id": "enemy6:843.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:844.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:845.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:846.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:847.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:848.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:849.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:850.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:851.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:852.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:853.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:854.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:860.name",
    "jp": "若者",
-   "en": "",
+   "en": "Youth",
    "max": 6
   },
   {
    "id": "enemy6:861.name",
    "jp": "若者",
-   "en": "",
+   "en": "Youth",
    "max": 6
   },
   {
    "id": "enemy6:862.name",
    "jp": "若者",
-   "en": "",
+   "en": "Youth",
    "max": 6
   },
   {
    "id": "enemy6:863.name",
    "jp": "市民",
-   "en": "",
+   "en": "Citizen",
    "max": 6
   },
   {
    "id": "enemy6:864.name",
    "jp": "市民",
-   "en": "",
+   "en": "Citizen",
    "max": 6
   },
   {
    "id": "enemy6:865.name",
    "jp": "女性市民",
-   "en": "",
+   "en": "Townswoman",
    "max": 6
   },
   {
    "id": "enemy6:866.name",
    "jp": "女性市民",
-   "en": "",
+   "en": "Townswoman",
    "max": 6
   },
   {
    "id": "enemy6:867.name",
    "jp": "女性市民",
-   "en": "",
+   "en": "Townswoman",
    "max": 6
   },
   {
    "id": "enemy6:868.name",
    "jp": "女性市民",
-   "en": "",
+   "en": "Townswoman",
    "max": 6
   },
   {
    "id": "enemy6:869.name",
    "jp": "老人",
-   "en": "",
+   "en": "Old Man",
    "max": 6
   },
   {
    "id": "enemy6:870.name",
    "jp": "老人",
-   "en": "",
+   "en": "Old Man",
    "max": 6
   },
   {
    "id": "enemy6:871.name",
    "jp": "子供",
-   "en": "",
+   "en": "Child",
    "max": 6
   },
   {
    "id": "enemy6:872.name",
    "jp": "子供",
-   "en": "",
+   "en": "Child",
    "max": 6
   },
   {
    "id": "enemy6:873.name",
    "jp": "子供",
-   "en": "",
+   "en": "Child",
    "max": 6
   },
   {
    "id": "enemy6:874.name",
    "jp": "子供",
-   "en": "",
+   "en": "Child",
    "max": 6
   },
   {
    "id": "enemy6:880.name",
    "jp": "Ｇデーモン",
-   "en": "",
+   "en": "Great Demon",
    "max": 6
   },
   {
    "id": "enemy6:881.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:882.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:883.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:884.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:885.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:886.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:887.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:888.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:889.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:890.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:891.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:900.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:901.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:902.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:903.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:904.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:905.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:906.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:907.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:908.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:909.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:910.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:911.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:912.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:913.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:914.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:920.name",
    "jp": "Ｇデーモン",
-   "en": "",
+   "en": "Great Demon",
    "max": 6
   },
   {
    "id": "enemy6:921.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:922.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:923.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:924.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:925.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:926.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:927.name",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "max": 6
   },
   {
    "id": "enemy6:940.name",
    "jp": "ヴァリエル",
-   "en": "",
+   "en": "Variel",
    "max": 6
   },
   {
    "id": "enemy6:941.name",
    "jp": "Ｄパラディン",
-   "en": "",
+   "en": "D Paladin",
    "max": 6
   },
   {
    "id": "enemy6:942.name",
    "jp": "Ｄパラディン",
-   "en": "",
+   "en": "D Paladin",
    "max": 6
   },
   {
    "id": "enemy6:943.name",
    "jp": "Ｐパラディン",
-   "en": "",
+   "en": "P Paladin",
    "max": 6
   },
   {
    "id": "enemy6:944.name",
    "jp": "Ｐパラディン",
-   "en": "",
+   "en": "P Paladin",
    "max": 6
   },
   {
    "id": "enemy6:945.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:946.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:947.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:948.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:949.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:950.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:951.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:952.name",
    "jp": "警備兵",
-   "en": "",
+   "en": "Sentry",
    "max": 6
   },
   {
    "id": "enemy6:953.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:954.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:960.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:961.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:962.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:963.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:964.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:965.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:966.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:967.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:968.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:969.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:970.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:971.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:972.name",
    "jp": "Ｈパラディン",
-   "en": "",
+   "en": "H Paladin",
    "max": 6
   },
   {
    "id": "enemy6:973.name",
    "jp": "Ｈパラディン",
-   "en": "",
+   "en": "H Paladin",
    "max": 6
   },
   {
    "id": "enemy6:974.name",
    "jp": "Ｐパラディン",
-   "en": "",
+   "en": "P Paladin",
    "max": 6
   },
   {
    "id": "enemy6:975.name",
    "jp": "Ｐパラディン",
-   "en": "",
+   "en": "P Paladin",
    "max": 6
   },
   {
    "id": "enemy6:976.name",
    "jp": "僧兵",
-   "en": "",
+   "en": "Warrior Monk",
    "max": 6
   },
   {
    "id": "enemy6:977.name",
    "jp": "僧兵",
-   "en": "",
+   "en": "Warrior Monk",
    "max": 6
   },
   {
    "id": "enemy6:980.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:981.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:982.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:983.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:984.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:985.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:986.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:987.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:988.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:989.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:990.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:991.name",
    "jp": "Ｈパラディン",
-   "en": "",
+   "en": "H Paladin",
    "max": 6
   },
   {
    "id": "enemy6:992.name",
    "jp": "Ｈパラディン",
-   "en": "",
+   "en": "H Paladin",
    "max": 6
   },
   {
    "id": "enemy6:993.name",
    "jp": "Ｈパラディン",
-   "en": "",
+   "en": "H Paladin",
    "max": 6
   },
   {
    "id": "enemy6:994.name",
    "jp": "Ｄパラディン",
-   "en": "",
+   "en": "D Paladin",
    "max": 6
   },
   {
    "id": "enemy6:995.name",
    "jp": "Ｄパラディン",
-   "en": "",
+   "en": "D Paladin",
    "max": 6
   },
   {
    "id": "enemy6:996.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:997.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:998.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:999.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:1000.name",
    "jp": "ファウスト",
-   "en": "",
+   "en": "Faust",
    "max": 6
   },
   {
    "id": "enemy6:1001.name",
    "jp": "紅邪道騎士",
-   "en": "",
+   "en": "Red Heretic",
    "max": 6
   },
   {
    "id": "enemy6:1002.name",
    "jp": "紅邪道騎士",
-   "en": "",
+   "en": "Red Heretic",
    "max": 6
   },
   {
    "id": "enemy6:1003.name",
    "jp": "紅邪道騎士",
-   "en": "",
+   "en": "Red Heretic",
    "max": 6
   },
   {
    "id": "enemy6:1004.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:1005.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:1006.name",
    "jp": "邪道騎士",
-   "en": "",
+   "en": "Heretic",
    "max": 6
   },
   {
    "id": "enemy6:1007.name",
    "jp": "Ｈパラディン",
-   "en": "",
+   "en": "H Paladin",
    "max": 6
   },
   {
    "id": "enemy6:1008.name",
    "jp": "Ｈパラディン",
-   "en": "",
+   "en": "H Paladin",
    "max": 6
   },
   {
    "id": "enemy6:1009.name",
    "jp": "Ｄパラディン",
-   "en": "",
+   "en": "D Paladin",
    "max": 6
   },
   {
    "id": "enemy6:1010.name",
    "jp": "Ｄパラディン",
-   "en": "",
+   "en": "D Paladin",
    "max": 6
   },
   {
    "id": "enemy6:1011.name",
    "jp": "Ｄパラディン",
-   "en": "",
+   "en": "D Paladin",
    "max": 6
   },
   {
    "id": "enemy6:1012.name",
    "jp": "Ｄパラディン",
-   "en": "",
+   "en": "D Paladin",
    "max": 6
   },
   {
    "id": "enemy6:1013.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:1014.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:1015.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:1016.name",
    "jp": "異端審問官",
-   "en": "",
+   "en": "Inquisitor",
    "max": 6
   },
   {
    "id": "enemy6:1020.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:1021.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:1022.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:1023.name",
    "jp": "デーモン",
-   "en": "",
+   "en": "Demon",
    "max": 6
   },
   {
    "id": "enemy6:1024.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:1025.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:1026.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:1027.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:1028.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:1029.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:1030.name",
    "jp": "堕天使",
-   "en": "",
+   "en": "Fallen Angel",
    "max": 6
   },
   {
    "id": "enemy6:1040.name",
    "jp": "ユダ",
-   "en": "",
+   "en": "Judas",
    "max": 6
   },
   {
    "id": "enemy6:1041.name",
    "jp": "マモン",
-   "en": "",
+   "en": "Mammon",
    "max": 6
   },
   {
    "id": "enemy6:1042.name",
    "jp": "バアル",
-   "en": "",
+   "en": "Baal",
    "max": 6
   },
   {
    "id": "enemy6:1043.name",
    "jp": "ケルビム",
-   "en": "",
+   "en": "Cherubim",
    "max": 6
   },
   {
    "id": "enemy6:1044.name",
    "jp": "アスタルテ",
-   "en": "",
+   "en": "Astarte",
    "max": 6
   },
   {
    "id": "enemy6:1060.name",
    "jp": "ルカ",
-   "en": "",
+   "en": "Luca",
    "max": 6
   },
   {
    "id": "enemy6:1061.name",
    "jp": "ベリアル",
-   "en": "",
+   "en": "Belial",
    "max": 6
   },
   {
    "id": "enemy6:1062.name",
    "jp": "パイモン",
-   "en": "",
+   "en": "Paimon",
    "max": 6
   },
   {
    "id": "enemy6:1080.name",
    "jp": "教皇",
-   "en": "",
+   "en": "The Pope",
    "max": 6
   },
   {
    "id": "enemy6:1081.name",
    "jp": "ユダ",
-   "en": "",
+   "en": "Judas",
    "max": 6
   },
   {
    "id": "enemy6:1082.name",
    "jp": "マモン",
-   "en": "",
+   "en": "Mammon",
    "max": 6
   },
   {
    "id": "enemy6:1083.name",
    "jp": "バアル",
-   "en": "",
+   "en": "Baal",
    "max": 6
   },
   {
    "id": "enemy6:1084.name",
    "jp": "ケルビム",
-   "en": "",
+   "en": "Cherubim",
    "max": 6
   },
   {
    "id": "enemy6:1085.name",
    "jp": "アスタルテ",
-   "en": "",
+   "en": "Astarte",
    "max": 6
   },
   {
    "id": "enemy6:1100.name",
    "jp": "ウリエル",
-   "en": "",
+   "en": "Uriel",
    "max": 6
   },
   {
    "id": "enemy6:1101.name",
    "jp": "サリエル",
-   "en": "",
+   "en": "Sariel",
    "max": 6
   },
   {
    "id": "enemy6:1102.name",
    "jp": "ラグエル",
-   "en": "",
+   "en": "Raguel",
    "max": 6
   },
   {
    "id": "enemy6:1103.name",
    "jp": "ラファエル",
-   "en": "",
+   "en": "Raphael",
    "max": 6
   },
   {
    "id": "enemy6:1104.name",
    "jp": "ミカエル",
-   "en": "",
+   "en": "Michael",
    "max": 6
   }
  ]

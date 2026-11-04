@@ -9,56 +9,56 @@
    "id": "s32:00030",
    "op": "14",
    "jp": "○月×日　雨",
-   "en": "",
+   "en": "Month ?, Day ? -- Rain",
    "box": "19x3"
   },
   {
    "id": "s32:00044",
    "op": "14",
    "jp": "冷たい雨が降っている・・・",
-   "en": "",
+   "en": "A cold rain is falling...",
    "box": "19x3"
   },
   {
    "id": "s32:00066",
    "op": "14",
    "jp": "今日で５ヶ月・・・\nまだお前は目覚めない・・・",
-   "en": "",
+   "en": "Five months today... and you still don't wake...",
    "box": "19x3"
   },
   {
    "id": "s32:0009c",
    "op": "14",
    "jp": "お前の体を拭くたびに、\n浮き出た鎖骨が、俺の目をつく・・・",
-   "en": "",
+   "en": "Each time I wipe your body, your jutting collarbones catch my eye...",
    "box": "19x3"
   },
   {
    "id": "s32:000de",
    "op": "14",
    "jp": "俺と一緒に過ごした日々は・・・\nお前にとって幸せだったのか・・・？",
-   "en": "",
+   "en": "The days you spent with me... were they happy ones for you...?",
    "box": "19x3"
   },
   {
    "id": "s32:00128",
    "op": "14",
    "jp": "俺の声は届いているのか・・・",
-   "en": "",
+   "en": "Is my voice reaching you...",
    "box": "19x3"
   },
   {
    "id": "s32:0014c",
    "op": "14",
    "jp": "お前に想いは届いているのか・・・",
-   "en": "",
+   "en": "Are my feelings reaching you...",
    "box": "19x3"
   },
   {
    "id": "s32:00174",
    "op": "14",
    "jp": "お前と過ごした幾多の日々が、\n凍てつくような雨を、\n今夜も降らせる・・・",
-   "en": "",
+   "en": "All the days I've spent with you bring down this freezing rain again tonight...",
    "box": "19x3"
   },
   {
@@ -72,56 +72,56 @@
    "id": "s32:001f8",
    "op": "14",
    "jp": "△月○日　雨",
-   "en": "",
+   "en": "Month ?, Day ? -- Rain",
    "box": "19x3"
   },
   {
    "id": "s32:0020c",
    "op": "14",
    "jp": "昨夜から続いた熱は、\nなんとかおさまったようだ・・・",
-   "en": "",
+   "en": "The fever that's lasted since last night seems to have finally settled...",
    "box": "19x3"
   },
   {
    "id": "s32:00248",
    "op": "14",
    "jp": "俺の口の中にも、苦い薬が広がる・・・",
-   "en": "",
+   "en": "The bitter medicine spreads through my mouth, too...",
    "box": "19x3"
   },
   {
    "id": "s32:00274",
    "op": "14",
    "jp": "後で知ったら、お前は嫌がるのかも\nしれないな・・・",
-   "en": "",
+   "en": "If you found out later, you might hate it...",
    "box": "19x3"
   },
   {
    "id": "s32:002ae",
    "op": "14",
    "jp": "暖炉で暖めても、どうにもならない程に\n冷え切ったお前の体とは裏腹に・・・",
-   "en": "",
+   "en": "Your body was chilled so deep that warming you by the fire did no good at all, and yet...",
    "box": "19x3"
   },
   {
    "id": "s32:002fe",
    "op": "14",
    "jp": "額の熱さは、お前の瞳のようだった・・・",
-   "en": "",
+   "en": "The heat of your forehead was like your eyes...",
    "box": "19x3"
   },
   {
    "id": "s32:0032c",
    "op": "14",
    "jp": "お前の虚ろな瞳の中には、\n俺しか映っていなくて・・・・",
-   "en": "",
+   "en": "In your hollow eyes, I alone was reflected....",
    "box": "19x3"
   },
   {
    "id": "s32:0036a",
    "op": "14",
    "jp": "いや、むしろ俺の姿は\n写っていなかったのかも知れない・・・",
-   "en": "",
+   "en": "No, maybe my figure wasn't reflected there at all...",
    "box": "19x3"
   },
   {
@@ -135,133 +135,133 @@
    "id": "s32:003c0",
    "op": "14",
    "jp": "本当に・・・",
-   "en": "",
+   "en": "Really...",
    "box": "19x3"
   },
   {
    "id": "s32:003d4",
    "op": "14",
    "jp": "いつまでこんな日が続けば\nお前は目覚めるんだ・・・",
-   "en": "",
+   "en": "How long must days like this go on before you wake...",
    "box": "19x3"
   },
   {
    "id": "s32:0042c",
    "op": "14",
    "jp": "◇月◎日　曇り",
-   "en": "",
+   "en": "Month ?, Day ? -- Cloudy",
    "box": "19x3"
   },
   {
    "id": "s32:00442",
    "op": "14",
    "jp": "ここ１ヶ月も降り続いた雨が、\nようやくあがった・・・",
-   "en": "",
+   "en": "The rain that's fallen for a whole month has finally stopped...",
    "box": "19x3"
   },
   {
    "id": "s32:0047e",
    "op": "14",
    "jp": "お前の病状も、\nようやく落ち着きを取り戻し、\n安定した日々が続いている。",
-   "en": "",
+   "en": "Your condition has finally calmed down too, and the days go on, stable.",
    "box": "19x3"
   },
   {
    "id": "s32:004ce",
    "op": "14",
    "jp": "だがそれでもお前の目には\n俺の姿は写っていない・・・・",
-   "en": "",
+   "en": "But even so, your eyes don't show me....",
    "box": "19x3"
   },
   {
    "id": "s32:0050c",
    "op": "14",
    "jp": "薄暗い部屋の中で、\n息を殺したように眠るお前には・・・",
-   "en": "",
+   "en": "Sleeping in this dim room as if holding your breath, you...",
    "box": "19x3"
   },
   {
    "id": "s32:0054a",
    "op": "14",
    "jp": "この日常が、\nどんな意味を持っているかなんて・・・",
-   "en": "",
+   "en": "What these everyday days mean...",
    "box": "19x3"
   },
   {
    "id": "s32:00584",
    "op": "14",
    "jp": "きっと分かりはしないだろう・・・",
-   "en": "",
+   "en": "I'm sure you couldn't know...",
    "box": "19x3"
   },
   {
    "id": "s32:005ac",
    "op": "14",
    "jp": "だが、そのほうがかえって俺も、\n気が楽かもしれないな・・・？！",
-   "en": "",
+   "en": "But maybe that's easier on me, too...?!",
    "box": "19x3"
   },
   {
    "id": "s32:005f2",
    "op": "14",
    "jp": "もしもお前が覚えていて、\n俺に・・・",
-   "en": "",
+   "en": "If you did remember, and you were to... to me...",
    "box": "19x3"
   },
   {
    "id": "s32:0061e",
    "op": "14",
    "jp": "バカバカしい！なにを考えてるんだ\n俺は・・・・！！",
-   "en": "",
+   "en": "This is stupid! What am I even thinking....!!",
    "box": "19x3"
   },
   {
    "id": "s32:00678",
    "op": "14",
    "jp": "□月×日　晴れ",
-   "en": "",
+   "en": "Month ?, Day ? -- Clear",
    "box": "19x3"
   },
   {
    "id": "s32:0068e",
    "op": "14",
    "jp": "最近のお前は・・・",
-   "en": "",
+   "en": "Lately, you...",
    "box": "19x3"
   },
   {
    "id": "s32:006a8",
    "op": "14",
    "jp": "すっかり元気に\nなってきたみたいだ・・・",
-   "en": "",
+   "en": "...seem to have gotten really well...",
    "box": "19x3"
   },
   {
    "id": "s32:006d8",
    "op": "14",
    "jp": "今日は久しぶりの快晴だったので、\n溜まっていた洗濯物を干すことも、\n出来たし、晴れやかな気分だ・・・！！",
-   "en": "",
+   "en": "Today was the first clear sky in ages, so I could hang out the laundry that piled up, and I feel bright...!!",
    "box": "19x3"
   },
   {
    "id": "s32:00748",
    "op": "14",
    "jp": "今日はお前も洗い立てのシャツに、\n太陽の匂いがするシーツで、\n気分がいいんじゃないのか・・・？",
-   "en": "",
+   "en": "You must feel pretty good today too, in a fresh-washed shirt, on sheets that smell of the sun...?",
    "box": "19x3"
   },
   {
    "id": "s32:007ae",
    "op": "14",
    "jp": "夏はすぐそこだし",
-   "en": "",
+   "en": "Summer's right around the corner, and",
    "box": "19x3"
   },
   {
    "id": "s32:007c6",
    "op": "14",
    "jp": "なぁ・・・",
-   "en": "",
+   "en": "Hey...",
    "box": "19x3"
   },
   {
@@ -275,77 +275,77 @@
    "id": "s32:007ec",
    "op": "14",
    "jp": "そろそろ起きてもいいころだぜ！？",
-   "en": "",
+   "en": "It's about time you got up, you know!?",
    "box": "19x3"
   },
   {
    "id": "s32:00834",
    "op": "14",
    "jp": "○月■日　晴れ",
-   "en": "",
+   "en": "Month ?, Day ? -- Clear",
    "box": "19x3"
   },
   {
    "id": "s32:0084a",
    "op": "14",
    "jp": "ここのところ、",
-   "en": "",
+   "en": "These days,",
    "box": "19x3"
   },
   {
    "id": "s32:00860",
    "op": "14",
    "jp": "お前が寝返りをうつほどまでに、\n回復してきているから・・・",
-   "en": "",
+   "en": "You've recovered enough to roll over in your sleep, so...",
    "box": "19x3"
   },
   {
    "id": "s32:008a2",
    "op": "14",
    "jp": "かえって俺は夜も寝れない・・・！",
-   "en": "",
+   "en": "...I'm the one who can't sleep at night...!",
    "box": "19x3"
   },
   {
    "id": "s32:008ca",
    "op": "14",
    "jp": "俺が寝てる間にお前が眼を\n覚ますんじゃないかと思って・・・",
-   "en": "",
+   "en": "Afraid you'll open your eyes while I'm asleep...",
    "box": "19x3"
   },
   {
    "id": "s32:0090c",
    "op": "14",
    "jp": "バカみたいだろ！？",
-   "en": "",
+   "en": "Stupid, isn't it!?",
    "box": "19x3"
   },
   {
    "id": "s32:00926",
    "op": "14",
    "jp": "毎日同じ事の繰り返しさ・・・",
-   "en": "",
+   "en": "The same thing, over and over, every day...",
    "box": "19x3"
   },
   {
    "id": "s32:0094a",
    "op": "14",
    "jp": "それでも・・・\n俺は結構楽しんでるんだぜ・・・！？",
-   "en": "",
+   "en": "Even so... I'm kind of enjoying it, you know...!?",
    "box": "19x3"
   },
   {
    "id": "s32:00984",
    "op": "14",
    "jp": "お前の顔色が良くなるたびに・・・",
-   "en": "",
+   "en": "Every time your color gets better...",
    "box": "19x3"
   },
   {
    "id": "s32:009ac",
    "op": "14",
    "jp": "あしたこそお前の声を\n聞けるんじゃないかと思って・・・！",
-   "en": "",
+   "en": "I think tomorrow, for sure, I'll get to hear your voice...!",
    "box": "19x3"
   }
  ]
