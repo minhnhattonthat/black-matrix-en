@@ -423,7 +423,7 @@
    "id": "s207:01dfa",
    "op": "15",
    "jp": "そんな領主、この俺様が\nまたぶっ殺してやるぜ！！",
-   "en": "A lord like that? I'll kill him again myself!!",
+   "en": "A lord like that? I'll kill this one too!!",
    "box": "17x3",
    "face": 2
   },
@@ -758,7 +758,7 @@
    "id": "s207:03230",
    "op": "1d",
    "jp": "仲間にしない",
-   "en": "Don't let her join",
+   "en": "Don't recruit",
    "max": 15
   },
   {
@@ -821,7 +821,7 @@
    "id": "s207:0346a",
    "op": "15",
    "jp": "私は長いこと盗賊をやっていたんで、戦闘には自信があるんですよ！",
-   "en": "I was a thief for a long time, so I'm quite confident in a fight!",
+   "en": "I was a bandit for a long time, so I'm quite confident in a fight!",
    "box": "17x3",
    "face": 20
   },

@@ -201,14 +201,14 @@
    "id": "s143:00d3e",
    "op": "1d",
    "jp": "仲間にする",
-   "en": "Let her join",
+   "en": "Recruit",
    "max": 15
   },
   {
    "id": "s143:00d50",
    "op": "1d",
    "jp": "仲間にしない",
-   "en": "Don't let her join",
+   "en": "Don't recruit",
    "max": 15
   },
   {

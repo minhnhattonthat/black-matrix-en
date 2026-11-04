@@ -1420,7 +1420,7 @@
   {
    "id": "armor:108.desc",
    "jp": "午前のバイオリズム効果逆転",
-   "en": "Reverses morning biorhythm effects.",
+   "en": "Reverses AM biorhythm effects.",
    "max": 38,
    "cell": 19
   },
@@ -1433,7 +1433,7 @@
   {
    "id": "armor:109.desc",
    "jp": "午後のバイオリズム効果逆転",
-   "en": "Reverses afternoon biorhythm effects.",
+   "en": "Reverses PM biorhythm effects.",
    "max": 38,
    "cell": 19
   },

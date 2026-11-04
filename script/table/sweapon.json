@@ -163,7 +163,7 @@
   {
    "id": "sweapon:7.effect",
    "jp": "午前のみ有効な追加攻撃\nバイオリズム影響有り",
-   "en": "Extra attack, mornings only.\nAffected by biorhythm.",
+   "en": "Extra attack, AM only.\nAffected by biorhythm.",
    "max": 38,
    "cell": 19
   },
@@ -183,7 +183,7 @@
   {
    "id": "sweapon:8.effect",
    "jp": "午後のみ有効な追加攻撃\nバイオリズム影響有り",
-   "en": "Extra attack, afternoons only.\nAffected by biorhythm.",
+   "en": "Extra attack, PM only.\nAffected by biorhythm.",
    "max": 38,
    "cell": 19
   },

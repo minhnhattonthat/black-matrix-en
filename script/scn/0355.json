@@ -505,14 +505,14 @@
    "id": "s355:04272",
    "op": "1d",
    "jp": "仲間にする！！",
-   "en": "Let her join!!",
+   "en": "Recruit!!",
    "max": 15
   },
   {
    "id": "s355:04288",
    "op": "1d",
    "jp": "仲間にしない！",
-   "en": "Don't let her join!",
+   "en": "Don't recruit!",
    "max": 15
   },
   {
