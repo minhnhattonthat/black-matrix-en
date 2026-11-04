@@ -6,6 +6,8 @@
 
 **Verified 2026-11-04:** all 166 scenes are `ok` in `report.tsv`: 163 on one `--all` run, then the 3 fixed battles rerun cold, plus 9 of the passing scenes rerun cold for new proof frames. No single `--all` run has passed all 166 yet. Independent Codex read of `warp_sheets.py --max 40` sheets, verdicts in [warp-review.txt](warp-review.txt): 165 OK, 1 UNSURE (`home_sweep`, tile too small; `▶:メニュー` confirmed on `proof.png` at 4x).
 
+**Limit:** a warped story scene (`pilot_s*`, `dlg_portrait`, `name_typed`) draws the dialogue portrait as a solid green box, on the Japanese disc too (`pilot_s9` run on both, 2026-11-04). The status screen's portrait draws correctly. So portraits in dialogue aren't checked by these scenes; a real one needs a run from NEW GAME.
+
 **Limit:** a warp has only Abel in the party, not the story cast at that point. Battle fields, cards and menus are real; rosters are not. Scripts 298 and 506 allow only units that haven't joined (formation shows `0/0` and won't sortie), so their rows patch one `08/27` and one `08/19` operand to unit 0.
 
 ## How the jump works (verified: every scene reaches its target)

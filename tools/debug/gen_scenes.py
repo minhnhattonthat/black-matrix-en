@@ -63,6 +63,13 @@ add('disc_swap', 321, 'e8', frames=400, d=1, every=60, note='Disc 1 asks for Dis
 add('save_prompt', 144, frames=240, note='save prompt text choice')
 add('save_screen', 144, '7c', route='120 -', frames=1500, every=120, note='save screen (SYSTEM/3), card check')
 add('name_entry', 8, '872', vars='a18=1', frames=900, every=90, note='09/04: name entry, kana grid (0x8002BA00), first name')
+# Clear the default name with Back, type Zz on the Latin page, Start jumps to Done, confirm: the name as a dialogue line shows it
+add('name_typed', 8, '872', vars='a18=1', frames=2700, every=60, mash=0,
+    route='60 -;' + ';'.join(f'6 {k};24 -' for k in ['right'] * 10 + ['down'] * 3 + ['circle'] * 2 + ['left'] * 10 + ['down'] * 2 + ['circle']
+                   + ['right'] * 5 + ['circle', 'start'] + ['circle'] * 6),
+    note='09/04 typed name reaches the dialogue macro')
+for s in (8, 9, 10, 11):
+    add(f'pilot_s{s}', s, '10', stub=EVENT, vars='a18=1', mash=30, frames=2400, every=30, note='translation pilot, opening dialogue')
 add('dlg_portrait', 64, '37a', stub=EVENT, vars='a18=1', mash=40, frames=900, every=30, note='16 (#0) dialogue box with portrait, 17 cols, voiced lines')
 
 # Chapter opening cards: the real cold-boot flow for chapter 1, stubbed entry for the others

@@ -1,4 +1,4 @@
-"""check.py: the repo's one-command check (the pre-commit hook runs it). Add the text lint here once script/ exists."""
+"""check.py: the repo's one-command check (the pre-commit hook runs it). The text lint and the build's byte checks run in tests/test_build.py."""
 import subprocess
 import sys
 from pathlib import Path

@@ -41,7 +41,7 @@ and remapping the pointer (phase 5).
 
 | File | Load | Strings | Holds |
 |---|---|---|---|
-| `SLPS_029.62` | 0x80010000 (header) | 99 | Config help, memory-card messages, unit menu. **Big-endian, no count:** name-entry grid (0x800111DC, 142 words), `かなカナ英字戻る終了` (0x800113FC), 7 default names (0x80011414, every 16 bytes, 6 words padded with `＿`) |
+| `SLPS_029.62` | 0x80010000 (header) | 99 | Config help, memory-card messages, unit menu. **Big-endian, no count:** name-entry grid (0x800111DC, 270 words: three pages of 90. Hiragana, katakana, then Latin in the original; the page number just indexes them, so the English build stores Latin first), `かなカナ英字戻る終了` (0x800113FC), 7 default names (0x80011414, every 16 bytes, 6 words padded with `＿`) |
 | `3RD.BIN` | 0x80110800 | 56 | Shops: greetings by shopkeeper, buy/sell, camp menu, blood rituals |
 | `2ND.BIN` | 0x800EB000 | 19 | Battle menus, status names |
 | `5TH.BIN` | 0x800EB000 | 7 | Level-up |

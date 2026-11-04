@@ -19,24 +19,33 @@ def width(row):
     return w
 
 
+def _greedy(para, cols, page, first, limit):
+    """Rows of one paragraph starting at row number `first`: at most `limit` letters, a page's last row (every `page`th) short of the arrow."""
+    rows, cur = [], ''
+    for word in para.split(' '):
+        t = f'{cur} {word}' if cur else word
+        room = min(limit, cols * 2 - (ARROW_LETTERS if page and (first + len(rows) + 1) % page == 0 else 0))
+        if width(t) <= room or not cur:
+            cur = t
+        else:
+            rows.append(cur)
+            cur = word
+    return rows + [cur]
+
+
 def wrap(text, cols, page=None):
-    """Greedy wrap at spaces into rows of at most cols cells, a page's last row (every `page`th) short of the arrow.
-    A word longer than a row stays alone on it (check() then fails it)."""
+    """Wrap at spaces. A box (`page` given) is balanced: the narrowest rows that take no more rows than greedy, so no last row holds one orphaned
+    word. A word longer than a row stays alone on it (check() then fails it)."""
     rows = []
-
-    def room():
-        return cols * 2 - (ARROW_LETTERS if page and (len(rows) + 1) % page == 0 else 0)
-
     for para in text.split('\n'):
-        cur = ''
-        for word in para.split(' '):
-            t = f'{cur} {word}' if cur else word
-            if width(t) <= room() or not cur:
-                cur = t
-            else:
-                rows.append(cur)
-                cur = word
-        rows.append(cur)
+        best = _greedy(para, cols, page, len(rows), cols * 2)
+        if page and len(best) > 1:
+            for limit in range(cols * 2 - 1, 0, -1):
+                t = _greedy(para, cols, page, len(rows), limit)
+                if len(t) > len(best):
+                    break
+                best = t
+        rows += best
     return rows
 
 

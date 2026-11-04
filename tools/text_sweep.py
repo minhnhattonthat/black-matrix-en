@@ -67,7 +67,7 @@ def all_locations():
     _, data = extract.locate()
     for disc in (1, 2):
         for p in sorted((extract.ORIG / f'd{disc}').iterdir()):
-            if p.suffix in ('.BIN',) or p.name in extract.EXE.values():
+            if p.suffix == '.BIN' or p.name in extract.EXE.values():
                 data[f'd{disc}:{p.name}'] = p.read_bytes()
     return data
 

@@ -9,8 +9,8 @@ ARMIPS = ROOT / 'tools/armips/armips.exe'
 WORK = ROOT / 'work/engine'
 BASE = 0x8000F800  # RAM address - BASE = EXE file offset
 FREE = [(0x80073AE8, 0x80074202), (0x80073788, 0x8007385A)]  # must be zero before the patch: index-table codes no glyph uses
-RANGES = FREE + [(0x8002A66C, 0x8002A670), (0x80028490, 0x8002849C), (0x8002CC1C, 0x8002CC20), (0x8002CC2C, 0x8002CC30),
-                 (0x8004F2F8, 0x8004F2FC)]  # the only bytes the patch may change
+RANGES = FREE + [(0x8002A66C, 0x8002A670), (0x80028490, 0x8002849C), (0x8002CA80, 0x8002CA8C), (0x8002CC1C, 0x8002CC20),
+                 (0x8002CC2C, 0x8002CC30), (0x8004F2F8, 0x8004F2FC)]  # the only bytes the patch may change
 LONG_FIRST, LONG_LAST = 0x30, 0xFF  # control words free for long strings; the game uses 0x10 and 0x20-0x2F
 # The long table replaces the font's last 365 glyphs (kanji, unused once the text is English; a Japanese string left in a build may garble).
 FONT_RAM = 0x801A2800  # leaf SYSTEM/0.0, 0xCCE0 bytes, font.md

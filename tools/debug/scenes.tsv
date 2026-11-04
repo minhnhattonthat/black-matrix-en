@@ -13,6 +13,11 @@ disc_swap	1	321	e8	-	-	1	a18=7	-	-	-	0	400	60	-	-	Disc 1 asks for Disc 2 (SYSTEM
 save_prompt	1	144	-	-	-	1	a18=3	-	-	-	0	240	60	-	-	save prompt text choice
 save_screen	1	144	7c	-	-	1	a18=3	-	-	120 -	0	1500	120	-	-	save screen (SYSTEM/3), card check
 name_entry	1	8	872	-	-	1	a18=1,a18=1	-	-	-	0	900	90	-	-	09/04: name entry, kana grid (0x8002BA00), first name
+name_typed	1	8	872	-	-	1	a18=1,a18=1	-	-	60 -;6 right;24 -;6 right;24 -;6 right;24 -;6 right;24 -;6 right;24 -;6 right;24 -;6 right;24 -;6 right;24 -;6 right;24 -;6 right;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 circle;24 -;6 circle;24 -;6 left;24 -;6 left;24 -;6 left;24 -;6 left;24 -;6 left;24 -;6 left;24 -;6 left;24 -;6 left;24 -;6 left;24 -;6 left;24 -;6 down;24 -;6 down;24 -;6 circle;24 -;6 right;24 -;6 right;24 -;6 right;24 -;6 right;24 -;6 right;24 -;6 circle;24 -;6 start;24 -;6 circle;24 -;6 circle;24 -;6 circle;24 -;6 circle;24 -;6 circle;24 -;6 circle;24 -	0	2700	60	-	-	09/04 typed name reaches the dialogue macro
+pilot_s8	1	8	10	09/17,09/09	-	1	a18=1,a18=1	-	-	-	30	2400	30	-	-	translation pilot, opening dialogue
+pilot_s9	1	9	10	09/17,09/09	-	1	a18=1,a18=1	-	-	-	30	2400	30	-	-	translation pilot, opening dialogue
+pilot_s10	1	10	10	09/17,09/09	-	1	a18=1,a18=1	-	-	-	30	2400	30	-	-	translation pilot, opening dialogue
+pilot_s11	1	11	10	09/17,09/09	-	1	a18=1,a18=1	-	-	-	30	2400	30	-	-	translation pilot, opening dialogue
 dlg_portrait	1	64	37a	09/17,09/09	-	1	a18=1,a18=1	-	-	-	40	900	30	-	-	16 (#0) dialogue box with portrait, 17 cols, voiced lines
 ch01_flow	1	5	-	-	-	1	a18=1	-	-	-	30	2400	120	-	-	NEW GAME flow: PROLOGUE movie, chapter 1 card; mash skips
 ch02_card	1	121	cd2	09/17,09/09	-	1	a18=2	-	-	-	0	240	60	-	-	chapter 2 title card

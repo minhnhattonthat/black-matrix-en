@@ -21,7 +21,7 @@ A window is C cells of 14 px by R rows. In English each cell holds two letters (
 | Name-entry names | 6 words | as typed | `name_entry` |
 
 ## Paging (verified)
-A text with more rows than its window **pages by itself**: it waits at the arrow, clears, and goes on, with or without `0x0010` in it (`dp2.png`: nine rows in three pages; a text with no break in two). So rows aren't a hard limit. A full row wraps by itself, and a `0x0010` right after one leaves a blank row, so `extract.box_words` drops it. The wrap in `fit.py` works at spaces and keeps a page's last row clear of the arrow. The checker allows two pages and rejects a stub second page.
+A text with more rows than its window **pages by itself**: it waits at the arrow, clears, and goes on, with or without `0x0010` in it (`dp2.png`: nine rows in three pages; a text with no break in two). So rows aren't a hard limit. A full row wraps by itself, and a `0x0010` right after one leaves a blank row, so `extract.box_words` drops it. The wrap in `fit.py` works at spaces, keeps a page's last row clear of the arrow, and balances a box's rows (narrowest rows that take no more rows than greedy), so no last row holds one orphaned word. The checker allows two pages and rejects a stub second page.
 
 ## Glyphs (verified)
 Torture line (every ASCII glyph, `dp.png`) reads in the portrait box, no missing glyph, nothing touching. `7×14` is 7 px wide in a 7 px half cell: no shadow is drawn in this font, so nothing overlaps.
@@ -32,8 +32,8 @@ Torture line (every ASCII glyph, `dp.png`) reads in the portrait box, no missing
 - **Run-time names:** a default name's cell spacing drops from 18 to 14 px (0x8002CC1C), so pairs read as a word: `Abel ____` in the name row. Letters typed on the grid are squeezed to pairs by `hw_setmacro`.
 
 ## Non-text strings found by the marker build
-`slps:800111dc` (the name-entry grid, `kind: grid`), `slps:800113fc` (its menu), `slps:80011414..` (default names): real text, not marked. They take hand-placed English in phase 7, with the Latin page first if it can go there.
+`slps:800111dc` (the name-entry grid, `kind: grid`), `slps:800113fc` (its menu), `slps:80011414..` (default names): real text, not marked. Hand-placed English since phase 7: Latin page first (page 0 is what the screen opens on, `0x8002B994`), labels `ABC Hira Kana Back Done`, default names per the glossary. Kana pages stay, for players who type kana names. A typed letter takes one 14-px cell, so a typed name holds 6 letters, as in Japanese; a default name holds 12.
 
 ## Not covered
-- **Marker tour on the current build:** 45 of 168 scenes (the tour was stopped by the system for low memory). Earlier marker build: the 43 menu, home and system scenes (`work/qa/p5/tour1.log`, sheets `a*.png`, `bui*.png`, `m_*.png`). So battle windows after `battle_157_b16` and the story scenes past chapter 12's card aren't seen with markers on this build.
+- **Marker tour on the current build:** 45 of 168 scenes (the tour was stopped by the system for low memory). Earlier marker build: the 43 menu, home and system scenes (`work/qa/p5/tour1.log`, sheets `a*.png`, `bui*.png`, `m_*.png`). So battle windows after `battle_157_b16` and the story scenes past chapter 12's card weren't seen with markers. Not rerun: phase 8's tour of the English build covers the same windows with the real text.
 - `LV 1 縦` on the status screen, the 武器/鎧/アクセサリ/消耗品 labels and the Japanese buttons in `w1.png` didn't take markers: expected to be pictures (`graphics.md`), to confirm in phase 8.

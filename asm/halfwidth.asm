@@ -26,6 +26,12 @@
 .org 0x8002CC2C
     addiu s2, s2, 14
 
+; Name entry: its side menu's two cells of a label (0x8002CA38) sit 14 px apart too, so "Hi" "ra" reads as a word. Original: v1 = (s1 & 1) * 18.
+.org 0x8002CA80
+    sll   v1, v0, 4
+    sll   v0, v0, 1
+    subu  v1, v1, v0
+
 ; Setting a run-time macro (the player's name, an item's name): original `jal 0x80029D2C`. Delay slot stays.
 .org 0x8004F2F8
     jal   hw_setmacro
