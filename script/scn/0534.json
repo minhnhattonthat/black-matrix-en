@@ -329,7 +329,7 @@
    "id": "s534:00c1a",
    "op": "15",
    "jp": "アタシの妹が、\n教皇の娘だって\n話を聞いて・・・",
-   "en": "I heard the talk, that my little sister is the Pope's daughter...",
+   "en": "When you heard my little sister was the Pope's daughter...",
    "box": "17x3",
    "face": 11
   },
@@ -337,7 +337,7 @@
    "id": "s534:00c62",
    "op": "15",
    "jp": "アタシの弟が、\n教皇の息子だって\n話を聞いて・・・",
-   "en": "I heard the talk, that my little brother is the Pope's son...",
+   "en": "When you heard my little brother was the Pope's son...",
    "box": "17x3",
    "face": 11
   },
@@ -489,7 +489,7 @@
    "id": "s534:011b6",
    "op": "15",
    "jp": "やっぱりアンタが\n私の幼なじみで・・・",
-   "en": "I knew it! My childhood friend...",
+   "en": "So you're the little brother who killed...",
    "box": "17x3",
    "face": 10
   },
@@ -497,7 +497,7 @@
    "id": "s534:011ee",
    "op": "15",
    "jp": "しかもずっと憧れの人だった\nおにいちゃんを・・・",
-   "en": "the big brother I always looked up to...",
+   "en": "my childhood friend, the big brother I always looked up to...",
    "box": "17x3",
    "face": 10
   },
@@ -505,7 +505,7 @@
    "id": "s534:01232",
    "op": "15",
    "jp": "あのカイン君を殺したっていう\n弟だったのねぇ～～っつ！！",
-   "en": "You're the little brother who killed him, that Cain-kun, aren't youuu!!",
+   "en": "You killed Cain-kun, didn't youuu!!",
    "box": "17x3",
    "face": 10
   },

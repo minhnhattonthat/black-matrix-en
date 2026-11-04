@@ -120,7 +120,7 @@
   {
    "id": "armor:8.desc",
    "jp": "魔除けの呪法を施したローブ",
-   "en": "A robe laid with a charm against demons.",
+   "en": "A robe with a hex that wards off demons.",
    "max": 38,
    "cell": 19
   },
@@ -263,7 +263,7 @@
   {
    "id": "armor:19.desc",
    "jp": "自然の呪法を施したローブ",
-   "en": "A robe laid with a charm of nature.",
+   "en": "A robe enchanted with a nature hex.",
    "max": 38,
    "cell": 19
   },

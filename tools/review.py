@@ -14,7 +14,7 @@ SIZE = 4
 # one line: codex.cmd goes through cmd.exe, which cuts an argument at its first newline
 PROMPT = ('Follow docs/reviewer-brief.md for the pairs file {pairs}. Read glossary.md, docs/style-reference.md and docs/synopsis.md first. '
           'The file is in story order, so each entry\'s neighbours are its context. Greek letters in the Japanese are kanji the font lacks: see docs/translator-brief.md. '
-          'Ruling: Purica is a child and Michette and Kurreshes have no stated age, so sexual lines about them are deliberately rendered as non-sexual: never flag that as an error. '
+          'Ruling: Purica is a child and Michette, Kurreshes, Laila and Abel have no stated age, so sexual lines about them are deliberately rendered as non-sexual: never flag that as an error. '
           'A box holds about 95 letters a page, and English must stay near the length of the original, so do not ask for additions the box cannot hold. '
           'Do not edit anything. Your final message is the report in the format the brief gives. End with the line DONE.')
 

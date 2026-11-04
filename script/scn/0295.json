@@ -41,7 +41,7 @@
    "id": "s295:00d2a",
    "op": "15",
    "jp": "お尋ね者のわし等を\n自ら食事に招くとは、",
-   "en": "Inviting wanted men like us to dine, in person...",
+   "en": "To invite wanted men like us to dine of your own accord...",
    "box": "17x3",
    "face": 5
   },
@@ -129,7 +129,7 @@
    "id": "s295:0104e",
    "op": "15",
    "jp": "つね日頃から、\n罪人は神の前で平等に\n裁かれるべきと考えておりました。",
-   "en": "and I have long held that sinners should be judged equally before God.",
+   "en": "and I have long held that sinners should be judged equally before our god.",
    "box": "17x3",
    "face": 15
   },
@@ -633,7 +633,7 @@
    "id": "s295:0227e",
    "op": "15",
    "jp": "いいぜ、お前が決めちまってもよ！",
-   "en": "Fine, you go ahead and decide, I don't care!",
+   "en": "Fine, you go ahead and decide!",
    "box": "17x3",
    "face": 2
   },
