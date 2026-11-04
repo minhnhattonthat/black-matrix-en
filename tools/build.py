@@ -45,7 +45,8 @@ def unpack(disc):
 def make_image(disc, files, out):
     """Build one disc to out (.bin, .cue beside it). files: {base name: new bytes}; the rest come from the dump."""
     text = unpack(disc).read_text(encoding='utf-8')
-    tree = ROOT / f'work/tree/d{disc}'
+    # work/tree is the real build's, read by warp.py and release.py: a test's image must not wipe it
+    tree = ROOT / f'work/tree/d{disc}' if out == output(disc) else out.with_suffix('.tree')
     shutil.rmtree(tree, ignore_errors=True)
     tree.mkdir(parents=True)
     for name, data in files.items():

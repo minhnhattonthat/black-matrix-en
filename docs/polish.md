@@ -516,3 +516,16 @@ Minor findings, ticked `[x]` when fixed or `waived: reason`.
 - [x] s320:024aa - 「私もあなた達に付いて行っちゃダメかなぁ！？」: Parity wheedles permission to accompany them - “Would it be no good if” is a stiff calque that weakens her playful delivery - Suggested EN: “Couldn't I tag along with you guys~!?” - waived: already covered by a fix in this pass, or the current line reads fine
 - [x] s335:014f2, s335:0158e - 「大邪神の鎧とはおそろいの、いわくつきの、古の鎧なんえ」: their ancient armor matches the party's and has a history - “is a set with” followed by “ancient armor... it is” makes Luca's reveal cumbersome - Suggested EN, respectively: “Our armor and your Great Evil God's armor are a matching set,” / “ancient armor with quite a story behind it, darlin'!!” - waived: already covered by a fix in this pass, or the current line reads fine
 - [x] s335:0206e - 「はたして計算どおりに、そう、うまくいくかな！？」: Gaius mocks Luca's confidence in her calculations - “will it really go so nicely, just as you calculated” sounds translated and blunts the taunt - Suggested EN: “Fuhahaha... Think it'll all work out just as you planned!?”
+
+## Story pass Minors
+- [x] s33:010e0, 010fe, 011ea, 01218, 01246 - continuation boxes started with a capital - lowercased.
+- [x] s70:00676 and its five copies - continuation box started with a capital - lowercased.
+- [x] s128:008a2, 00c1e, 00da2, 0574a, s362:01d32, s383:00aae - Gaius dropped g's and said "ain't" against his style row - standard spellings.
+- [x] s169:01b7e - comma splice after 01b3e - "and managed to break the seal, then tried...".
+- [x] s175:00b92 - 喧嘩するほど仲が悪い: Phillipo mangles the proverb - "The more you fight, the worse friends you are".
+- [x] s295:01266 - "the girl you call his master" on the Zero route - waived: the Japanese says 娘 on every route.
+- [x] s346:0133e, 0137a - singular possessive - "White Wings'", "Black Wings'".
+- [x] s478:01d6e - stray capital after a comma - lowercased.
+- [x] s537:02fba - Phillipo agreed with himself - "o-or at least, that's what I think...!".
+- [x] s534:03cc2 - Rin's Leburobus-san against -sama - waived: the Japanese has both.
+- [x] 36 lines, s17:00ce6 to s549:00446 - two-dot ellipses read as typos - three dots.

@@ -78,6 +78,7 @@ def test_a_changed_file_only_touches_its_own_sectors():
 def test_a_grown_file_moves_the_rest_and_keeps_their_bytes():
     orig = (build.ORIG / 'd1/2ND.BIN').read_bytes()
     out = build.make_image(1, {'2ND.BIN': orig + bytes(2048 * 5)}, OUT / 'grown1.bin')
+    assert (OUT / 'grown1.tree/2ND.BIN').exists()  # not in work/tree, which the real build's readers use
     a, b = files(build.rom(1)), files(out)
     assert b['/2ND.BIN'][1] == a['/2ND.BIN'][1] + 2048 * 5
     moved = [p for p in a if a[p][0] > a['/2ND.BIN'][0]]

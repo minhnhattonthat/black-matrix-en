@@ -1,4 +1,5 @@
-"""release.py: the release gate (references/pipeline.md, Release), stops at the first failure: build, tests, smoke, jp_left, qa_gate on every manifest, polish.md all ticked, patches, re-apply and compare, zip.
+"""release.py: the release gate (references/pipeline.md, Release), stops at the first failure: build, tests, smoke, jp_left, screen tour, qa_gate on every manifest, polish.md all ticked, patches, re-apply and compare, zip.
+A changed build stops at qa_gate with its changed sheets: read them (qa_review.py or by hand), write verdicts, run this again.
 Debug off: the warp tool only pokes RAM from Lua (docs/re/debug-tool.md) and this script builds with no --marker or --qa, so nothing of it is on the disc.
 Publishing is the owner's call: this ends at release/<zip>. The playable images stay in build/.
 usage: release.py [--version 1.0] [--force]   --force overwrites that version's files"""
@@ -44,6 +45,19 @@ def unticked(text):
     return [line for line in text.splitlines() if line.startswith('- [ ]')]
 
 
+def tour():
+    """The screen tour, once per build: a rerun after reading its sheets keeps them, a changed disc shoots them again."""
+    stamp = ROOT / 'work/qa/tour.stamp'
+    built = ' '.join(hashes(build.output(disc))[3] for disc in build.DISCS)
+    if stamp.exists() and stamp.read_text(encoding='utf-8') == built:
+        print('== tour: current for this build', flush=True)
+        return
+    step('tour', *PY, ROOT / 'tools/debug/warp.py', '--all', '--jobs', '3', '--build')
+    step('tour sheets', *PY, ROOT / 'tools/qa_tour.py')
+    step('qa_gate init', *PY, TOOLS / 'qa_gate.py', 'init', 'work/qa/manifest.tsv', 'work/qa/tour', '--glob', '*.png')
+    stamp.write_text(built, encoding='utf-8')
+
+
 def gates():
     step('build', *PY, ROOT / 'tools/build.py')
     step('tests', *PY, ROOT / 'tools/check.py')
@@ -53,6 +67,7 @@ def gates():
         tree = ROOT / f'work/tree/d{disc}'
         for f in sorted(p for p in tree.iterdir() if p.suffix == '.BIN' or p.name.startswith('SLPS')):
             step(f'jp_left d{disc} {f.name}', *PY, TOOLS / 'jp_left.py', f, '--sjis', '--min', '4', '--orig', ROOT / f'work/orig/d{disc}' / f.name, '--known', KNOWN)
+    tour()
     for manifest in sorted((ROOT / 'work/qa').rglob('manifest.tsv')):
         step(f'qa_gate {manifest.parent.name}', *PY, TOOLS / 'qa_gate.py', 'check', manifest, manifest.parent / 'verdicts')
     left = unticked((ROOT / 'docs/polish.md').read_text(encoding='utf-8'))
