@@ -13,7 +13,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | File | Covers | State |
 |---|---|---|
 | [prior-work.md](prior-work.md) | Earlier patches and sources | Searches only, no patch found |
-| [disc-layout.md](disc-layout.md) | Discs, DAT and nested containers, RAM map, overlay loads, free-space candidates | Verified, free space not trap-tested |
+| [disc-layout.md](disc-layout.md) | Discs, rebuild, DAT and nested containers, RAM map, overlay loads, free-space candidates | Verified (identity and moved-file tests), free space not trap-tested |
 | [script-format.md](script-format.md) | PSI22.00 VM, operands, text ops, control words | Tokenizer verified on 524 of 524 |
 | [text.md](text.md) | Tables, EXE and overlay strings, pointer format, compression | Encoding and pointers verified, record layouts for phase 4 |
 | [font.md](font.md) | 14×14 font, index table, glyph cache | Verified from code |

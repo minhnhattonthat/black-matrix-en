@@ -16,14 +16,23 @@ Files: `2ND.BIN 3RD.BIN 4TH.BIN 5TH.BIN` (overlays), `BATTLE.DAT EVENT.DAT SCENA
 **verified** (`tools/recon_dat.py`): 2ND-5TH, BATTLE, SCENARIO, SOUND, SYSTEM are byte-identical across discs. Only
 `EVENT.DAT`, `SYSTEM.CNF`, the EXE's name and the movies/XA differ. Disc 1 EVENT has 247 entries, Disc 2 has 310.
 
-The EXE holds file names (`\SYSTEM.DAT;1`, `\MOVIE\0101.STR;1`, offsets 0xBDC-0xD00 and 0x177C-0x19D8). **guess**: it
-looks files up by name at boot, so a rebuilt disc may move them; the identity build and a moved-file build test this.
+The EXE holds every file's name (`\SYSTEM.DAT;1`, `\MOVIE\0101.STR;1`, offsets 0xBDC-0xD00 and 0x177C-0x19D8) and finds
+files by name, so any file can grow and move. **verified** by `tools/debug/moved_check.py`, which grows `2ND.BIN` by 5
+sectors and compares CD reads (`tools/lua/cdlog.lua`) with the original: 11 scenes on both discs, no read left at an old LBA.
+Reads covered 2ND, 3RD, 4TH, all five DATs, PCMSE, PCM12, OPENING, PROLOGUE and 1207; the other files share the name
+tables. Boot reads the directory (LBA 16-22), then each DAT's header. No LBA of a DAT, XA or movie appears as a word in the EXE.
+
+## Rebuild (`tools/build.py`)
+
+`dumpsxiso` + `mkpsxiso` 2.30 give both discs back byte for byte, and `tests/test_identity.py` keeps that true on every
+commit. The layout keeps the disc's order and dates, plus the 150 dummy sectors at the end. A changed file only touches its
+own sectors; a grown one shifts later files and the MOVIE directory record (LBA 141,526 on Disc 1) and nothing else (same test).
 
 ## .DAT archive (`tools/dat.py`)
 
 `u32 count, u32 11, count × (u16 sector offset, u16 sector count)`, 2048-byte sectors, padded to whole sectors.
 **verified** by `recon_dat.py`: every non-empty entry chains and the last one ends at the file's size on all five DATs of
-both discs. Empty entries (size 0) keep a stored offset, so a repack must keep them byte-exact.
+both discs. Empty entries (size 0) store the running offset, so `dat.pack` derives them. **verified**: `dat.pack(dat.unpack(x)) == x` on all ten DATs.
 
 | DAT | Disc 1 entries (non-empty) | Disc 2 |
 |---|---|---|
@@ -38,8 +47,10 @@ u16 limits: an archive can hold 0xFFFF sectors (~134 MB), far more than needed.
 ## Nested containers (`tools/pak.py`)
 
 Same shape with `shift 4` (16-byte units): `u32 count, u32 4, count × (u16 off, u16 size)`. They nest. **verified**: the
-walker's chain check accepts them and produces leaves that start with known magics (below). Whether the game needs
-the padding bytes between entries is **unknown**: treat offsets as fixed until the identity repack passes.
+walker's chain check accepts them and produces leaves that start with known magics (below). **verified**: `pak.rebuild`
+repacks all 1,525 nested containers byte for byte from one rule: header padded to the next unit, entries chained, empty
+entries at the running offset, zero padding up to the parent's unit. So a leaf can change size. A table field past u16
+(about 1 MiB for `shift 4`) raises. Whether the game's load buffers accept a bigger container is a separate limit (below).
 
 ## Leaf types (`work/recon/leaves_d*.tsv`, `tools/recon_text.py`)
 

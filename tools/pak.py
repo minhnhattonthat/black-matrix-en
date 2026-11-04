@@ -26,6 +26,30 @@ def parse(d):
     return [(o << shift, s << shift) for o, s in ents]
 
 
+def pack(children, shift, align=None):
+    """Inverse of parse: a container from its children, each padded with zeros to the unit, the whole to align.
+    Holds for every container on both discs (tests/test_identity.py): the header pads to the next unit, an empty
+    entry stores the running offset, padding is zero. A table field past u16 raises struct.error."""
+    unit = 1 << shift
+    up = lambda n, u: -(-n // u) * u
+    out = bytearray(up(8 + 4 * len(children), unit))
+    struct.pack_into('<II', out, 0, len(children), shift)
+    for i, c in enumerate(children):
+        size = up(len(c), unit)
+        struct.pack_into('<HH', out, 8 + 4 * i, len(out) >> shift, size >> shift)
+        out += c + bytes(size - len(c))
+    return bytes(out) + bytes(up(len(out), align or unit) - len(out))
+
+
+def rebuild(d, align=2048):
+    """Unpack and repack every level of d. align: the unit of the container d sits in."""
+    ents = parse(d)
+    if ents is None:
+        return d
+    shift = 11 if d[4] == 11 else 4
+    return pack([rebuild(d[o:o + s], 1 << shift) for o, s in ents], shift, align)
+
+
 def walk(d, path=''):
     """Yield (path, base offset within d, bytes) for each leaf."""
     def rec(b, base, p):
