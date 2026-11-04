@@ -35,8 +35,10 @@ def test_script5_anchors(leaves):
 
 
 def test_stub_room(leaves):
-    """The stub at 0x7000 must clear every script; the font starts at 0x780C."""
-    assert max(0x10 + struct.unpack_from('<I', b, 12)[0] for b in leaves if b) < 0x7000
+    """The stub at 0x7780 must clear every script; the font block starts at 0x7800. The build holds English to the same bound."""
+    import extract
+    assert extract.SCRIPT_MAX + 0x10 == 0x7780
+    assert max(0x10 + struct.unpack_from('<I', b, 12)[0] for b in leaves if b) < 0x7780
 
 
 def test_scene_list(leaves):

@@ -15,6 +15,7 @@ import sys
 from pathlib import Path
 
 import dat
+import fit
 import psi
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -50,12 +51,20 @@ TABLES = {
 CODE = {
     'slps': (EXE[1], 0x80010000, 0x800, [(0x80011484, 0x800114B0), (0x80072D7C, 0x80073640), (0x80075EF0, 0x800763D0),
                                          (0x80076DE8, 0x80076FA0)],
-             [(0x800111DC, 142, 'grid'), (0x800113FC, 10, 'menu')] + [(0x80011414 + 16 * i, 6, 'name') for i in range(7)]),
+             [(0x800111DC, 180, 'grid'), (0x800113FC, 10, 'menu')] + [(0x80011414 + 16 * i, 6, 'name') for i in range(7)]),
     '2nd': ('2ND.BIN', 0x800EB000, 0, [(0x8012E768, 0x8012E7C0), (0x8012ED48, 0x8012F090)], []),
     '3rd': ('3RD.BIN', 0x80110800, 0, [(0x80111420, 0x80111440), (0x8011B250, 0x8011B870)], []),
     '4th': ('4TH.BIN', 0x800EB000, 0, [(0x800FD564, 0x800FD5C0)], []),
     '5th': ('5TH.BIN', 0x800EB000, 0, [(0x800F16DC, 0x800F17C0)], []),
 }
+# Code strings the game indexes by a fixed cell width (a menu's labels in one string), or that fill a window of that many columns.
+CELLS = {'slps:8001149c': 3, 'slps:80075ef0': 11, 'slps:80075f20': 4, 'slps:80075f34': 4, 'slps:80076e2c': 3, 'slps:80076f80': 3,
+         '2nd:8012ed48': 3, '2nd:8012ed7c': 3, '2nd:8012ed90': 4, '2nd:8012eda4': 6, '2nd:8012ede4': 6,
+         '3rd:8011b25c': 3, '3rd:8011b26c': 5, '3rd:8011b694': 4, '3rd:8011b6d0': 5, '4th:800fd564': 4, '4th:800fd5a0': 5}
+# Script text windows, by the `16 (#n)` op open when the text runs (0x80050728 -> templates at 0x8004DB18): columns x rows.
+BOXES = {0: '17x3', 1: '19x3', 2: '19x3', 3: '19x2'}
+DEFAULT_BOX = '17x3'  # a text whose window isn't set in the same script: the narrowest
+SCRIPT_MAX = 0x7780 - 0x10  # code bytes: the buffer ends at the font, 0x7780 up holds the warp's stub (warp.lua)
 
 
 def _cells(words, cell):
@@ -126,39 +135,77 @@ def code_strings(name, x):
         area = x[lo - base + skip:hi - base + skip]
         for off, words in psi.walk(area):
             if any(w != BLANK for w in words):
-                out.append({'id': tag(lo + off), 'jp': psi.decode(words), 'en': '', 'max': len(words)})
+                s = {'id': tag(lo + off), 'jp': psi.decode(words), 'en': '', 'max': len(words)}
+                if s['id'] in CELLS:
+                    s['cell'] = CELLS[s['id']]
+                    s['jp'] = _cells(words, s['cell'])
+                out.append(s)
     return out
 
 
-def code_apply(name, x, strings, field, enc):
+def code_apply(name, x, strings, field, enc, long=None):
+    """long: engine.Long for strings that outgrow their place, which then hold one word naming the long string."""
     _, base, skip, _, _ = CODE[name]
     b = bytearray(x)
     for s in strings:
         p = int(s['id'].split(':')[1], 16) - base + skip
-        words = enc(s[field])
+        words = _uncells(s[field], s['cell'], s['max'], enc) if s.get('cell') else enc(s[field])
         if len(words) > s['max']:
-            raise ValueError(f'{s["id"]}: {len(words)} words, the field holds {s["max"]}')
+            if long is None or s.get('order') == 'be':
+                raise ValueError(f'{s["id"]}: {len(words)} words, the field holds {s["max"]}')
+            words = [long.add(words)]
         if s.get('order') == 'be':
             struct.pack_into(f'>{s["max"]}H', b, p, *words, *[BLANK] * (s['max'] - len(words)))
         else:
-            struct.pack_into(f'<H{len(words)}H', b, p, len(words), *words)
+            # Pad, don't shrink the count: some strings are only reached by walking from the one before (text.md)
+            struct.pack_into(f'<H{s["max"]}H', b, p, s['max'], *words, *[BLANK] * (s['max'] - len(words)))
     return bytes(b)
 
 
 def script_strings(tag, x):
-    out = []
+    out, window, face = [], None, None
     for t in psi.tokenize(x)[0]:
+        if t.op == 0x16 or (t.op == 0x0A and t.sub == 0x11):
+            imm = [v for k, v in t.parts if k == 'a']  # a constant operand: the one aligned imm32
+            v = struct.unpack('<I', imm[0])[0] if len(imm) == 1 else None
+            if t.op == 0x16:
+                window = v
+            else:
+                face = v
+        if t.op == 0x0A and t.sub == 0x12:
+            face = None
         if t.words is not None:
             op = f'{t.op:02x}' if t.sub is None else f'{t.op:02x}/{t.sub:02x}'
             s = {'id': f'{tag}:{t.off:05x}', 'op': op, 'jp': psi.decode(t.words), 'en': ''}
             if t.op == 0x1D:
                 s['max'] = 15  # script-format.md: choice labels past 15 words are dropped
+            if t.op in (0x14, 0x15):
+                s['box'] = BOXES.get(window, DEFAULT_BOX)
+                if face is not None:
+                    s['face'] = face  # the portrait in the box: 0a/11 sets it, 0a/12 clears it. It names the speaker for translators.
             out.append(s)
     return out
 
 
+def box_words(text, box, enc):
+    """Text words for a dialogue box: a full row wraps by itself, so a break right after one would leave a blank row (font.md) and is dropped."""
+    cols, page = map(int, box.split('x'))
+    rows, words = fit.wrap(text, cols, page), []
+    for i, row in enumerate(rows):
+        r = enc(row)
+        words += r
+        if i < len(rows) - 1 and not (r and len(r) % cols == 0):
+            words.append(0x10)
+    return words
+
+
 def script_apply(x, strings, field, enc):
-    return psi.rebuild(x, {int(s['id'].split(':')[1], 16): enc(s[field]) for s in strings})
+    def words(s):
+        return enc(s[field]) if field == 'jp' or 'box' not in s else box_words(s[field], s['box'], enc)
+    new = psi.rebuild(x, {int(s['id'].split(':')[1], 16): words(s) for s in strings})
+    if psi.header(new) > SCRIPT_MAX:
+        raise ValueError(f'{strings[0]["id"]}: script is {psi.header(new)} bytes, the buffer holds {SCRIPT_MAX}')
+    return new
 
 
 def dat_leaves(disc):
@@ -207,7 +254,7 @@ def load():
     return {p.relative_to(OUT).as_posix(): json.loads(p.read_text(encoding='utf-8')) for p in sorted(OUT.rglob('*.json'))}
 
 
-def text_files(disc, field='jp', enc=psi.encode, docs=None):
+def text_files(disc, field='jp', enc=psi.encode, docs=None, long=None):
     """Disc files rebuilt from script/ with `field` as the text: {file name: bytes}. Field 'jp' gives the original."""
     docs = docs or load()
     pre = f'd{disc}:'
@@ -221,13 +268,15 @@ def text_files(disc, field='jp', enc=psi.encode, docs=None):
             continue
         if group == 'code':
             x = (ORIG / f'd{disc}/{here[0]}').read_bytes()
-            files[here[0]] = code_apply(stem[:-5], x, doc['strings'], field, enc)
+            files[here[0]] = code_apply(stem[:-5], x, doc['strings'], field, enc, long)
             continue
         x = leaves[here[0].split('/')[0]][here[0]]
         new = (script_apply(x, doc['strings'], field, enc) if group == 'scn'
                else table_apply(stem[:-5], x, doc['strings'], field, enc))
         for p in here:
             repl[p.split('/')[0]][p] = new
+    if long and long.items:
+        repl['SYSTEM']['SYSTEM/0.0'] = long.into_font(leaves['SYSTEM']['SYSTEM/0.0'])
     for n in DATS:
         files[f'{n}.DAT'] = dat.rebuild((ORIG / f'd{disc}/{n}.DAT').read_bytes(), n, repl[n])
     return files

@@ -4,4 +4,5 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-sys.exit(subprocess.run([sys.executable, "-X", "utf8", "-m", "pytest", "-q", "tests"], cwd=ROOT).returncode)
+# no:faulthandler: unicorn's JIT takes access violations it handles itself, and pytest would print each as a fatal exception
+sys.exit(subprocess.run([sys.executable, "-X", "utf8", "-m", "pytest", "-q", "-p", "no:faulthandler", "tests"], cwd=ROOT).returncode)

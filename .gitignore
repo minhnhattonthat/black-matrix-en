@@ -16,6 +16,7 @@ tools/*/
 *.nds
 *.iso
 *.bin
+!asm/*.bin
 *.cue
 *.sav
 *.srm

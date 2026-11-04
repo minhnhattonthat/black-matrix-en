@@ -62,6 +62,8 @@ add('special_room', 5, 'd52', '08/3d', frames=600, every=120, note='SPECIAL ROOM
 add('disc_swap', 321, 'e8', frames=400, d=1, every=60, note='Disc 1 asks for Disc 2 (SYSTEM/29)')
 add('save_prompt', 144, frames=240, note='save prompt text choice')
 add('save_screen', 144, '7c', route='120 -', frames=1500, every=120, note='save screen (SYSTEM/3), card check')
+add('name_entry', 8, '872', vars='a18=1', frames=900, every=90, note='09/04: name entry, kana grid (0x8002BA00), first name')
+add('dlg_portrait', 64, '37a', stub=EVENT, vars='a18=1', mash=40, frames=900, every=30, note='16 (#0) dialogue box with portrait, 17 cols, voiced lines')
 
 # Chapter opening cards: the real cold-boot flow for chapter 1, stubbed entry for the others
 add('ch01_flow', 5, mash=30, frames=2400, every=120, note='NEW GAME flow: PROLOGUE movie, chapter 1 card; mash skips')

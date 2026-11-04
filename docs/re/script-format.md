@@ -65,4 +65,5 @@ Scripts have **no string pointers**: text is inline, and only jumps (`L`, u32 fr
 
 - **Choice labels: 15 words.** Words past 15 are read and dropped (0x80050ADC), so half-width pairs give 30 letters.
 - **Script size: 30,732 bytes** ([disc-layout.md](disc-layout.md)).
-- **Text buffer 0x800B5538:** size not measured. Neighbours start at 0x800B5108/5248 below it; find the top in phase 5.
+- **Text buffer 0x800B5538:** size not measured. Neighbours start at 0x800B5108/5248 below it. A 9-row, 150-word stress text showed no damage in `dlg_portrait` (`windows.md`); the checker keeps English to 2 pages, about 57 words.
+- **Portrait:** `0a/11 (#n)` puts portrait n in the box, `0a/12` takes it out (`extract.script_strings` records it as `face`). n is the part number in `SYSTEM/50+` (48×56 pictures); playable units carry theirs at byte 2 of their `SYSTEM/10` row. Names in `tools/faces.json`.

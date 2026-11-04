@@ -22,9 +22,8 @@ nothing, which is weak evidence that nothing else uses the BIOS font.
 
 Menu labels and many titles are **pictures**, drawn from sheets ([graphics.md](graphics.md)), including their kanji.
 
-## Engine notes for phase 5
+## English: half-width pairs (`asm/halfwidth.asm`, `tools/engine.py`; verified in game, `windows.md`)
 
-Black/Matrix 00 shipped half-width by drawing a two-ASCII-letter word as 6×12 glyphs in one 12×12 cell; that code
-(`H:\translation\black-matrix-00\asm\halfwidth.asm`, its docs) is a guide only: addresses and cell size differ here. A word
-with a high byte below 0x81 passes straight to the index math at 0x8002A8DC today, so that's the natural hook. 14 px
-cells fit two 7-px letters, roomier than 00's 6.
+A text word 0x2000-0x7FFF is two ASCII letters in one 14-px cell, 7 px each (`asm/font7x14.bin`, X11 7x14, `docs/fonts.md`), drawn by hooking the cache miss at 0x8002A66C. Cells stay cells, so menus keep their columns. Same idea as Black/Matrix 00's patch, at other addresses and sizes. The code and font sit in two zero runs of the index table (0x80073788, 0x80073AE8), checked empty by `engine.apply`; `tests/test_engine.py` runs the hook under unicorn with exact-PC checks. An odd run pads a space, so an odd-length name leaves half a cell before the next word.
+
+**Decision:** half-width over VWF. It needs no change to the cell grid every window and menu uses, and 2 letters a cell gives 38 a row, enough for English with paging.

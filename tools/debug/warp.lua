@@ -21,6 +21,7 @@ local function getvar(k, i)
   return r16(VARS[k] + i * 2)
 end
 local PC, SCRIPT, DISC, BUF, CODE = 0x8007EB1C, 17, 0x8007E8B4, 0x8019B000, 0x8019B010
+local STUB = 0x7780
 
 -- scene row
 local function tsv_path()
@@ -112,7 +113,7 @@ L.on_frame(function(n)
   if TRACE and n % TRACE == 0 then
     L.log(string.format("trace %d stage %s a17=%d b70=%d pc=%x op=%x sub=%x state=%x main=%x disc=%d stub=%x %x %x %x", n, stage, getvar("a", SCRIPT), getvar("b", 70),
       r32(PC) - BUF, r16(0x8007EB3E), r16(0x8007EB40), r32(0x8007EB18), r32(0x8007E8D4), r32(DISC),
-      r32(BUF + 0x7000), r32(BUF + 0x7004), r32(BUF + 0x7008), r32(BUF + 0x700C)))
+      r32(BUF + STUB), r32(BUF + STUB + 4), r32(BUF + STUB + 8), r32(BUF + STUB + 12)))
   end
   if stage == "boot" then
     if getvar("a", SCRIPT) == 5 and has_psi() and r32(BUF + 0xB4E) == 0x00040008 then -- that op is 08/04 of script 5, so it's loaded
@@ -148,8 +149,8 @@ L.on_frame(function(n)
         for o, v in (S.patch or ""):gmatch("(%x+):(%x+)") do w16(BUF + tonumber(o, 16), tonumber(v, 16)) end
         if AT then
           -- Jumping past the script's own overlay and picture setup hangs the VM, so run those ops first from a stub in
-          -- the buffer tail (largest script ends at 0x6B9C, the font starts at 0x780C)
-          local p = 0x7000
+          -- the buffer tail, above the build's script limit (extract.SCRIPT_MAX); the font block starts at 0x7800
+          local p = STUB
           -- stub items: 09/17 or 08/2a(28) (one constant operand)
           for op, sub, arg in (S.stub or ""):gmatch("(%x+)/(%x+)%(?(%d*)%)?") do
             w16(BUF + p, tonumber(op, 16)); w16(BUF + p + 2, tonumber(sub, 16)); p = p + 4
@@ -163,7 +164,7 @@ L.on_frame(function(n)
           patch_jmp(p, AT)
           -- A frame can land between an op's fetch and its operands: make the fetched op a no-op, or it eats the stub
           w16(0x8007EB3E, 0); w16(0x8007EB16, 1)
-          w32(PC, BUF + 0x7000)
+          w32(PC, BUF + STUB)
         end
         arrived = n
         stage = UNTIL and "until" or "scene"
@@ -175,7 +176,7 @@ L.on_frame(function(n)
     if n > 12000 then L.fail("never reached script " .. TARGET) end
   elseif stage == "until" then
     local pc = r32(PC) - BUF
-    if getvar("a", SCRIPT) == TARGET and pc >= UNTIL and pc < 0x7000 then
+    if getvar("a", SCRIPT) == TARGET and pc >= UNTIL and pc < STUB then
       L.log(string.format("UNTIL frame %d pc %x", n, pc))
       arrived, stage = n, "scene"
       press_route(S.route)
