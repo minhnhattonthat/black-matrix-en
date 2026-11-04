@@ -9,7 +9,7 @@
    "id": "s532:002c2",
    "op": "15",
    "jp": "さあ・・・\n貴方自身の答えは・・・・\n見つかりましたか！？",
-   "en": "",
+   "en": "Now then... your own answer... have you found it!?",
    "box": "17x3",
    "face": 19
   },
@@ -17,7 +17,7 @@
    "id": "s532:00312",
    "op": "14",
    "jp": "この世界の全てを崩壊させ、\n自分が新たなるゴッドとなって、\nご主人様を生き返らせる！",
-   "en": "",
+   "en": "Destroy this whole world, become the new God myself, and revive my master!",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s532:0036e",
    "op": "14",
    "jp": "それとも",
-   "en": "",
+   "en": "Or",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s532:0037e",
    "op": "14",
    "jp": "この世界を崩壊から救う為に、\nハ・サタンとなって仲間を殺し、\nご主人様を生き返らせる！",
-   "en": "",
+   "en": "To save this world from collapse, become Ha-Satan, kill my comrades, and revive my master!",
    "box": "17x3",
    "face": 104
   },
@@ -41,28 +41,28 @@
    "id": "s532:003f6",
    "op": "1d",
    "jp": "ゴッドになる！",
-   "en": "",
+   "en": "Become God!",
    "max": 15
   },
   {
    "id": "s532:0040c",
    "op": "1d",
    "jp": "サタンになる！",
-   "en": "",
+   "en": "Become Satan!",
    "max": 15
   },
   {
    "id": "s532:00424",
    "op": "1d",
    "jp": "どちらもいやだ！！",
-   "en": "",
+   "en": "I refuse both!!",
    "max": 15
   },
   {
    "id": "s532:00496",
    "op": "15",
    "jp": "そのどちらもいやだ！！\nというのは、\nどういう意味なのですか！？",
-   "en": "",
+   "en": "\"I refuse both!!\" And what, exactly, do you mean by that!?",
    "box": "17x3",
    "face": 19
   },
@@ -70,7 +70,7 @@
    "id": "s532:004ea",
    "op": "14",
    "jp": "この世界を崩壊させるのも、\n仲間やご主人様を犠牲にするのも\nイヤなので、自分が腹を切る！！",
-   "en": "",
+   "en": "I won't destroy this world or sacrifice my comrades or master, so I'll slit my own belly!!",
    "box": "17x3",
    "face": 104
   },
@@ -78,7 +78,7 @@
    "id": "s532:0054c",
    "op": "14",
    "jp": "それとも・・・",
-   "en": "",
+   "en": "Or...",
    "box": "17x3",
    "face": 104
   },
@@ -86,7 +86,7 @@
    "id": "s532:00562",
    "op": "14",
    "jp": "この世界を崩壊から救い、\n他の仲間達をも助けるために、\nご主人様を助ける事を諦める！",
-   "en": "",
+   "en": "To save this world from collapse and spare my other comrades too, give up on saving my master!",
    "box": "17x3",
    "face": 104
   },
@@ -94,21 +94,21 @@
    "id": "s532:005d6",
    "op": "1d",
    "jp": "自分が腹を切る！",
-   "en": "",
+   "en": "Slit my own belly!",
    "max": 15
   },
   {
    "id": "s532:005f0",
    "op": "1d",
    "jp": "ご主人様を諦める！",
-   "en": "",
+   "en": "Give up my master!",
    "max": 15
   },
   {
    "id": "s532:00646",
    "op": "15",
    "jp": "諦めてどうしようと\nいうのですか！？",
-   "en": "",
+   "en": "And having given up, what do you mean to do!?",
    "box": "17x3",
    "face": 19
   },
@@ -116,7 +116,7 @@
    "id": "s532:0067e",
    "op": "14",
    "jp": "新しいご主人様でも見つけて、\nこれからは平凡に暮らす！",
-   "en": "",
+   "en": "Find a new master or something, and live an ordinary life from now on!",
    "box": "17x3",
    "face": 104
   },
@@ -124,7 +124,7 @@
    "id": "s532:006bc",
    "op": "14",
    "jp": "それとも・・・",
-   "en": "",
+   "en": "Or...",
    "box": "17x3",
    "face": 104
   },
@@ -132,7 +132,7 @@
    "id": "s532:006d2",
    "op": "14",
    "jp": "教皇を倒して、黒き羽と白き羽が\n平等な世界を創る！",
-   "en": "",
+   "en": "Defeat the Pope, and create a world where Black Wing and White Wing are equal!",
    "box": "17x3",
    "face": 104
   },
@@ -140,14 +140,14 @@
    "id": "s532:00726",
    "op": "1d",
    "jp": "平凡に暮らす！",
-   "en": "",
+   "en": "Live an ordinary life!",
    "max": 15
   },
   {
    "id": "s532:0073c",
    "op": "1d",
    "jp": "平等な世界を創る",
-   "en": "",
+   "en": "Create an equal world",
    "max": 15
   }
  ]

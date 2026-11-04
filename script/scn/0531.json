@@ -9,7 +9,7 @@
    "id": "s531:00046",
    "op": "15",
    "jp": "本当に・・・\nそれでいいのですね・・・？",
-   "en": "",
+   "en": "Are you truly... content with that...?",
    "box": "17x3",
    "face": 19
   },
@@ -17,14 +17,14 @@
    "id": "s531:0008e",
    "op": "1d",
    "jp": "ＹＥＳ",
-   "en": "",
+   "en": "YES",
    "max": 15
   },
   {
    "id": "s531:0009c",
    "op": "1d",
    "jp": "ＮＯ",
-   "en": "",
+   "en": "NO",
    "max": 15
   },
   {
@@ -71,7 +71,7 @@
    "id": "s531:003e2",
    "op": "15",
    "jp": "確かに、それも\n一つの真理ですからね・・・",
-   "en": "",
+   "en": "Indeed, that too is one truth, after all...",
    "box": "17x3",
    "face": 4
   }

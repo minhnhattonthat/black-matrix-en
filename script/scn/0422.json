@@ -9,7 +9,7 @@
    "id": "s422:00bb2",
    "op": "15",
    "jp": "えっ？",
-   "en": "",
+   "en": "Huh?",
    "box": "17x3",
    "face": 4
   },
@@ -17,7 +17,7 @@
    "id": "s422:00bca",
    "op": "15",
    "jp": "あれだけの攻撃を受けて、\nどこにも\n怪我をしてないなんて？",
-   "en": "",
+   "en": "After taking an attack like that, there isn't a wound on any of us?",
    "box": "17x3",
    "face": 4
   },
@@ -25,7 +25,7 @@
    "id": "s422:00c36",
    "op": "15",
    "jp": "素晴らしい！！",
-   "en": "",
+   "en": "Magnificent!!",
    "box": "17x3",
    "face": 121
   },
@@ -33,7 +33,7 @@
    "id": "s422:00c56",
    "op": "15",
    "jp": "今までの戦闘は、\nすべて私が作りだした\n幻覚だったのです！",
-   "en": "",
+   "en": "All the battles thus far were illusions of my own making!",
    "box": "17x3",
    "face": 121
   },
@@ -41,7 +41,7 @@
    "id": "s422:00ca2",
    "op": "15",
    "jp": "ヨハネ殿、\nアナタはすでに\nお気付きなのでしょう？",
-   "en": "",
+   "en": "Johannes-dono, you have surely noticed already, have you not?",
    "box": "17x3",
    "face": 121
   },
@@ -49,7 +49,7 @@
    "id": "s422:00ce6",
    "op": "15",
    "jp": "彼ら大邪神の鎧を着た者達が、\nどれほど風変わりであるのかを",
-   "en": "",
+   "en": "Just how eccentric they are, these wearers of the Great Evil God's armor.",
    "box": "17x3",
    "face": 121
   },
@@ -65,7 +65,7 @@
    "id": "s422:00d62",
    "op": "15",
    "jp": "弱肉強食が常のこの世界で、",
-   "en": "",
+   "en": "In this world, where the strong eat the weak as a matter of course,",
    "box": "17x3",
    "face": 121
   },
@@ -73,7 +73,7 @@
    "id": "s422:00d8e",
    "op": "15",
    "jp": "弱者に言われるがまま\n殺されるなど、彼らの判断力は\n全くマヒしています。",
-   "en": "",
+   "en": "to let themselves be killed at the word of the weak... their judgment is utterly paralyzed.",
    "box": "17x3",
    "face": 121
   },
@@ -89,7 +89,7 @@
    "id": "s422:00e12",
    "op": "15",
    "jp": "その非理性的な判断能力こそ、",
-   "en": "",
+   "en": "And that very irrational judgment",
    "box": "17x3",
    "face": 121
   },
@@ -97,7 +97,7 @@
    "id": "s422:00e42",
    "op": "15",
    "jp": "まさにこの世界の大悪神\nゴッドの使徒たる\n救世主の証！！",
-   "en": "",
+   "en": "is the mark of the Savior, apostle of this world's Great Evil God, God!!",
    "box": "17x3",
    "face": 121
   },
@@ -113,7 +113,7 @@
    "id": "s422:00eba",
    "op": "15",
    "jp": "ご同行ください。",
-   "en": "",
+   "en": "Please come with me.",
    "box": "17x3",
    "face": 121
   },
@@ -121,7 +121,7 @@
    "id": "s422:00ede",
    "op": "15",
    "jp": "この身、その知識の全てを\nアナタ方に捧げましょう。",
-   "en": "",
+   "en": "This body, and all its knowledge, I offer to you.",
    "box": "17x3",
    "face": 121
   },
@@ -137,7 +137,7 @@
    "id": "s422:00f4e",
    "op": "15",
    "jp": "隷属の地・ノアへ！！",
-   "en": "",
+   "en": "To the Land of Bondage, Noah!!",
    "box": "17x3",
    "face": 121
   },
@@ -169,7 +169,7 @@
    "id": "s422:010ae",
    "op": "15",
    "jp": "お前さんの言いたい事は\n分かるぜ・・・",
-   "en": "",
+   "en": "I get what you're trying to say...",
    "box": "17x3",
    "face": 1
   },
@@ -177,7 +177,7 @@
    "id": "s422:010e6",
    "op": "15",
    "jp": "だがこの爺さんの言うことを\n真に受けるなら・・・",
-   "en": "",
+   "en": "But if we take what this old man says at face value...",
    "box": "17x3",
    "face": 1
   },
@@ -185,7 +185,7 @@
    "id": "s422:0112a",
    "op": "15",
    "jp": "この場であの爺さんを信じて・・・",
-   "en": "",
+   "en": "then trusting the old man here and now...",
    "box": "17x3",
    "face": 1
   },
@@ -193,7 +193,7 @@
    "id": "s422:0115e",
    "op": "15",
    "jp": "簡単についていっちまう\nその非理性的な判断こそが、",
-   "en": "",
+   "en": "and tagging along so easily, that irrational judgment...",
    "box": "17x3",
    "face": 1
   },
@@ -201,7 +201,7 @@
    "id": "s422:011a2",
    "op": "15",
    "jp": "こいつが救世主である\n証ってことに・・・\nなるんだろうな！",
-   "en": "",
+   "en": "would be the proof this one's the Savior... Wouldn't it, now!",
    "box": "17x3",
    "face": 1
   },
@@ -209,7 +209,7 @@
    "id": "s422:01206",
    "op": "15",
    "jp": "素晴らしい！！",
-   "en": "",
+   "en": "Magnificent!!",
    "box": "17x3",
    "face": 121
   },
@@ -217,7 +217,7 @@
    "id": "s422:01226",
    "op": "15",
    "jp": "私が作りだした幻覚や、\nΨ弁にもΘされない、\nその理性的な判断能力こそ、まさに",
-   "en": "",
+   "en": "Undeceived by the illusions and sophistry I devised... that very rational judgment",
    "box": "17x3",
    "face": 121
   },
@@ -225,7 +225,7 @@
    "id": "s422:01286",
    "op": "15",
    "jp": "この世界の大善神\nハ・サタン様の使徒たる\n救世主の証！！",
-   "en": "",
+   "en": "is the mark of the Savior, apostle of this world's Great Good God, Ha-Satan-sama!!",
    "box": "17x3",
    "face": 121
   },
@@ -241,7 +241,7 @@
    "id": "s422:012fa",
    "op": "15",
    "jp": "ご同行ください。",
-   "en": "",
+   "en": "Please come with me.",
    "box": "17x3",
    "face": 121
   },
@@ -249,7 +249,7 @@
    "id": "s422:0131e",
    "op": "15",
    "jp": "この身、その知識の全てを\nアナタ方に捧げましょう。",
-   "en": "",
+   "en": "This body, and all its knowledge, I offer to you.",
    "box": "17x3",
    "face": 121
   },
@@ -265,7 +265,7 @@
    "id": "s422:0138e",
    "op": "15",
    "jp": "隷属の地・ノアへ！！",
-   "en": "",
+   "en": "To the Land of Bondage, Noah!!",
    "box": "17x3",
    "face": 121
   },
@@ -297,7 +297,7 @@
    "id": "s422:01532",
    "op": "15",
    "jp": "お前さんの言いたい事は\nなんとなく分かるぜ・・・",
-   "en": "",
+   "en": "I sort of get what you're trying to say...",
    "box": "17x3",
    "face": 1
   },
@@ -305,7 +305,7 @@
    "id": "s422:01576",
    "op": "15",
    "jp": "だが、あの爺さんの言い分に\nよればだ・・・",
-   "en": "",
+   "en": "But going by the old man's argument...",
    "box": "17x3",
    "face": 1
   },
@@ -313,7 +313,7 @@
    "id": "s422:015b2",
    "op": "15",
    "jp": "たしかに俺達の手は、\nすでにどす黒い血に\nまみれきっている・・・",
-   "en": "",
+   "en": "Sure, our hands are already soaked in foul black blood...",
    "box": "17x3",
    "face": 1
   },
@@ -321,7 +321,7 @@
    "id": "s422:01606",
    "op": "15",
    "jp": "だからこそ、\nあの場にいた遺族の娘達が\n本物だったとしても、",
-   "en": "",
+   "en": "So even if those bereaved girls back there were the real thing,",
    "box": "17x3",
    "face": 1
   },
@@ -329,7 +329,7 @@
    "id": "s422:01656",
    "op": "15",
    "jp": "あえて殺しちまえるような\n冷静な判断を\n下せるようじゃなきゃ・・・",
-   "en": "",
+   "en": "unless you can coolly make the call to kill them anyway...",
    "box": "17x3",
    "face": 1
   },
@@ -337,7 +337,7 @@
    "id": "s422:016aa",
    "op": "15",
    "jp": "こいつが救世主である\n証ってことには\nならないんだろうな！",
-   "en": "",
+   "en": "this one wouldn't be proven the Savior, would he!",
    "box": "17x3",
    "face": 1
   },

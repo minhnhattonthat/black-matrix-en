@@ -9,7 +9,7 @@
    "id": "s415:00dda",
    "op": "15",
    "jp": "見事です。\n大邪神の鎧の力を論理的かつ、",
-   "en": "",
+   "en": "Splendid. To use the power of the Great Evil God's armor so logically and",
    "box": "17x3",
    "face": 121
   },
@@ -17,7 +17,7 @@
    "id": "s415:00e16",
    "op": "15",
    "jp": "効率的に使いこなすとは・・・\nそれでは、次の設問です。",
-   "en": "",
+   "en": "efficiently... Now then, the next question.",
    "box": "17x3",
    "face": 121
   },
@@ -25,7 +25,7 @@
    "id": "s415:01576",
    "op": "15",
    "jp": "ちょ・・ちょっと待て！\nこっ・・こいつら！？",
-   "en": "",
+   "en": "H-hold it! Th-these guys!?",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s415:017be",
    "op": "15",
    "jp": "どうかしましたか？",
-   "en": "",
+   "en": "Is something the matter?",
    "box": "17x3",
    "face": 121
   },
@@ -41,7 +41,7 @@
    "id": "s415:017e2",
    "op": "15",
    "jp": "彼らは、先ほど戦った\n黒き羽の傭兵と同じく、",
-   "en": "",
+   "en": "Just like the Black Wing mercenaries you fought a moment ago,",
    "box": "17x3",
    "face": 121
   },
@@ -49,7 +49,7 @@
    "id": "s415:01822",
    "op": "15",
    "jp": "幾ばくかの報酬を目的として\nアナタ方に明確な殺意を\n持っているのです。",
-   "en": "",
+   "en": "they bear you clear intent to kill, for the sake of some small reward.",
    "box": "17x3",
    "face": 121
   },
@@ -57,7 +57,7 @@
    "id": "s415:0187a",
    "op": "15",
    "jp": "それともアナタ方も\n羽の色で人間を差別し、",
-   "en": "",
+   "en": "Or do you too discriminate by wing color,",
    "box": "17x3",
    "face": 121
   },
@@ -65,7 +65,7 @@
    "id": "s415:018b6",
    "op": "15",
    "jp": "黒き羽の兵隊なら殺せても\n白き羽の兵隊は殺せない\nと言うのですか！？",
-   "en": "",
+   "en": "able to kill Black Wing soldiers, but not White Wing soldiers!?",
    "box": "17x3",
    "face": 121
   },
@@ -81,7 +81,7 @@
    "id": "s415:0193a",
    "op": "15",
    "jp": "くっ・・・",
-   "en": "",
+   "en": "Ngh...",
    "box": "17x3",
    "face": 1
   },
@@ -89,7 +89,7 @@
    "id": "s415:01966",
    "op": "15",
    "jp": "何かを成す為には強じんな肉体と\nそれに見合った意志の力が\n不可欠なのです。",
-   "en": "",
+   "en": "To achieve anything, one must have a strong body and a will to match it.",
    "box": "17x3",
    "face": 121
   },
@@ -97,7 +97,7 @@
    "id": "s415:01a4e",
    "op": "15",
    "jp": "おい、どうする！？",
-   "en": "",
+   "en": "Hey, what do we do!?",
    "box": "17x3",
    "face": 1
   },
@@ -105,28 +105,28 @@
    "id": "s415:01a82",
    "op": "1d",
    "jp": "このまま戦う！！",
-   "en": "",
+   "en": "Keep fighting!!",
    "max": 15
   },
   {
    "id": "s415:01a9c",
    "op": "1d",
    "jp": "逃げるように努力する",
-   "en": "",
+   "en": "Try to get away",
    "max": 15
   },
   {
    "id": "s415:01ab8",
    "op": "1d",
    "jp": "彼らに殺される！",
-   "en": "",
+   "en": "Let them kill us!",
    "max": 15
   },
   {
    "id": "s415:01b0e",
    "op": "15",
    "jp": "それもやむを得ないか。",
-   "en": "",
+   "en": "Guess that can't be helped.",
    "box": "17x3",
    "face": 1
   },
@@ -134,7 +134,7 @@
    "id": "s415:01b7e",
    "op": "15",
    "jp": "確かに、それも\n一つの真理ですからね・・・",
-   "en": "",
+   "en": "True, that too is one truth...",
    "box": "17x3",
    "face": 4
   },
@@ -142,7 +142,7 @@
    "id": "s415:01bf6",
    "op": "15",
    "jp": "それもやむを得ないか。",
-   "en": "",
+   "en": "Guess that can't be helped.",
    "box": "17x3",
    "face": 1
   },
@@ -150,7 +150,7 @@
    "id": "s415:01c66",
    "op": "15",
    "jp": "確かに、それも\n一つの真理ですからね・・・",
-   "en": "",
+   "en": "True, that too is one truth...",
    "box": "17x3",
    "face": 4
   },
@@ -158,7 +158,7 @@
    "id": "s415:01d2e",
    "op": "15",
    "jp": "確かに、奴が言う事を\nそのまま信用するのは\n危険すぎる。",
-   "en": "",
+   "en": "Indeed, trusting what he says at face value is far too dangerous.",
    "box": "17x3",
    "face": 5
   },
@@ -166,7 +166,7 @@
    "id": "s415:01e9e",
    "op": "15",
    "jp": "とにかく全員で、\nここを突破するんじゃ！",
-   "en": "",
+   "en": "At any rate, all of us together, we break through here!",
    "box": "17x3",
    "face": 5
   },
@@ -174,7 +174,7 @@
    "id": "s415:01eda",
    "op": "15",
    "jp": "だが最悪、\n戦うこともあり得ると、\n覚悟しておくのじゃぞ！？",
-   "en": "",
+   "en": "But at worst, we may have to fight, so be prepared, my boy!?",
    "box": "17x3",
    "face": 5
   },
@@ -182,7 +182,7 @@
    "id": "s415:01f66",
    "op": "15",
    "jp": "それもやむを得ないか。",
-   "en": "",
+   "en": "Guess that can't be helped.",
    "box": "17x3",
    "face": 1
   },
@@ -190,7 +190,7 @@
    "id": "s415:01fd6",
    "op": "15",
    "jp": "確かに、それも\n一つの真理ですからね・・・",
-   "en": "",
+   "en": "True, that too is one truth...",
    "box": "17x3",
    "face": 4
   },
@@ -198,7 +198,7 @@
    "id": "s415:0207e",
    "op": "15",
    "jp": "俺達、このまま本当に・・・\n反撃もしないで死んじまうのか？",
-   "en": "",
+   "en": "We're really just gonna... die here without fightin' back?",
    "box": "17x3",
    "face": 2
   }

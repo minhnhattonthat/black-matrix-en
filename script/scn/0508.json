@@ -9,7 +9,7 @@
    "id": "s508:008b6",
    "op": "15",
    "jp": "なっ、なんだ！\n今の馬鹿でかい音は！？",
-   "en": "",
+   "en": "Wh-what the hell!! What was that huge noise!?",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s508:008fe",
    "op": "15",
    "jp": "今まさに、\nこの世界全体を支える、",
-   "en": "",
+   "en": "At this very moment,",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s508:00932",
    "op": "15",
    "jp": "６本目の封印の鎖が、\n解き放たれました！！",
-   "en": "",
+   "en": "the sixth sealing chain, one of those that uphold this entire world, has been loosed!!",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s508:00b22",
    "op": "15",
    "jp": "だれだ、この声は？",
-   "en": "",
+   "en": "Who's that voice?",
    "box": "17x3",
    "face": 1
   },
@@ -41,7 +41,7 @@
    "id": "s508:00b66",
    "op": "15",
    "jp": "私はこの世界で唯一",
-   "en": "",
+   "en": "I am the only one in this world",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s508:00b8a",
    "op": "15",
    "jp": "神と呼ばれる者の御言葉を、\n伝える事が出来る、",
-   "en": "",
+   "en": "able to convey the words of the one called God:",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s508:00bca",
    "op": "15",
    "jp": "アンゲルス教の教皇にして、\n黒き聖母と呼ばれる者！！",
-   "en": "",
+   "en": "Pope of the Angelus faith, she who is called the Black Madonna!!",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s508:00c3e",
    "op": "15",
    "jp": "アナタ方は、\nそれほどまでに",
-   "en": "",
+   "en": "Do you so wish",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s508:00c6e",
    "op": "15",
    "jp": "この世界を破滅させたいの\nですか！？",
-   "en": "",
+   "en": "to bring this world to ruin!?",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s508:00cc2",
    "op": "15",
    "jp": "天界の玉座にある７つの封印が\n解かれない限り・・・",
-   "en": "",
+   "en": "So long as the seven seals on the heavenly throne remain unbroken...",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s508:00d06",
    "op": "15",
    "jp": "世界は悪しき状態のままに\n継続するが・・・",
-   "en": "",
+   "en": "the world goes on in its evil state, but...",
    "box": "17x3",
    "face": 104
   },
@@ -105,7 +105,7 @@
    "id": "s508:00d42",
    "op": "15",
    "jp": "神の子羊が順次その封印を\n解いたとき・・・",
-   "en": "",
+   "en": "when the Lamb of God breaks those seals one by one...",
    "box": "17x3",
    "face": 104
   },
@@ -113,7 +113,7 @@
    "id": "s508:00d7e",
    "op": "15",
    "jp": "様々な災いや死、\n闘争などが\n世界中へと広がり・・・",
-   "en": "",
+   "en": "calamity, death, strife and more spread worldwide...",
    "box": "17x3",
    "face": 104
   },
@@ -121,7 +121,7 @@
    "id": "s508:00dc6",
    "op": "15",
    "jp": "地上は未曾有の混乱と災厄に\n見舞われる・・・",
-   "en": "",
+   "en": "and the earth is struck by chaos and disaster unknown...",
    "box": "17x3",
    "face": 104
   },
@@ -129,7 +129,7 @@
    "id": "s508:00e06",
    "op": "15",
    "jp": "人類の終末を予言する・・・\nハルマゲドンと呼ばれる、\n有名な予言書の一節です・・・",
-   "en": "",
+   "en": "So runs a passage of the famed book of prophecy called Armageddon, foretelling humanity's end...",
    "box": "17x3",
    "face": 104
   },
@@ -145,7 +145,7 @@
    "id": "s508:00e9a",
    "op": "15",
    "jp": "その窓から地上をよく\n見てご覧なさい！！",
-   "en": "",
+   "en": "Look well upon the earth from that window!!",
    "box": "17x3",
    "face": 104
   },
@@ -153,7 +153,7 @@
    "id": "s508:00ed6",
    "op": "15",
    "jp": "アナタ方が、鎧の封印を解き\nはじめて以来・・・",
-   "en": "",
+   "en": "Ever since you began unsealing the armors...",
    "box": "17x3",
    "face": 104
   },
@@ -161,7 +161,7 @@
    "id": "s508:00f16",
    "op": "15",
    "jp": "地上には干ばつ・冷害・大地震\n噴火や津波といった、\nありとあらゆる災害が広がり・・・",
-   "en": "",
+   "en": "drought, cold, great earthquakes, eruptions and tidal waves, every kind of disaster, have spread across the earth...",
    "box": "17x3",
    "face": 104
   },
@@ -169,7 +169,7 @@
    "id": "s508:0102e",
    "op": "15",
    "jp": "さらには、この非常時につけ込んだ、革命組織とやらが暴動を起こし・・・",
-   "en": "",
+   "en": "And what is more, your so-called revolutionary group has seized upon this crisis to riot...",
    "box": "17x3",
    "face": 104
   },
@@ -177,7 +177,7 @@
    "id": "s508:01092",
    "op": "15",
    "jp": "今や地上では白と黒の羽を\n２分する大戦争にまで・・・",
-   "en": "",
+   "en": "Now, upon the earth, a great war splitting White Wing and Black Wing in two...",
    "box": "17x3",
    "face": 104
   },
@@ -185,7 +185,7 @@
    "id": "s508:010e6",
    "op": "15",
    "jp": "事態は発展しています！！",
-   "en": "",
+   "en": "that is what this has grown into!!",
    "box": "17x3",
    "face": 104
   },
@@ -201,7 +201,7 @@
    "id": "s508:01162",
    "op": "15",
    "jp": "おおっ！我らが\n大神・サタン様の御言葉を、\n教皇様が告げておられるぞ！！",
-   "en": "",
+   "en": "Ooh! Pope-sama is delivering the words of our great god, Satan-sama!!",
    "box": "17x3",
    "face": 14
   },
@@ -209,7 +209,7 @@
    "id": "s508:011ca",
    "op": "15",
    "jp": "なんとお懐かしい・・・",
-   "en": "",
+   "en": "Oh, how very nostalgic...",
    "box": "17x3",
    "face": 17
   },
@@ -217,7 +217,7 @@
    "id": "s508:01202",
    "op": "15",
    "jp": "おおっ！！\nこの神々しいお声を聞いて、",
-   "en": "",
+   "en": "Ohh!! Upon hearing this divine voice,",
    "box": "17x3",
    "face": 16
   },
@@ -225,7 +225,7 @@
    "id": "s508:0123a",
    "op": "15",
    "jp": "我々は、かつての大天使だった頃の\n記憶を取り戻せたのだ！！",
-   "en": "",
+   "en": "we regained our memories of the days when we were archangels!!",
    "box": "17x3",
    "face": 16
   },
@@ -233,7 +233,7 @@
    "id": "s508:01296",
    "op": "15",
    "jp": "そうだ！！",
-   "en": "",
+   "en": "Yes!!",
    "box": "17x3",
    "face": 33
   },
@@ -241,7 +241,7 @@
    "id": "s508:012b2",
    "op": "15",
    "jp": "我らは、たとえそのご尊顔を\n拝謁することが出来なくとも",
-   "en": "",
+   "en": "Even if we may never behold that august face,",
    "box": "17x3",
    "face": 33
   },
@@ -249,7 +249,7 @@
    "id": "s508:0130a",
    "op": "15",
    "jp": "アタシ達には、いつでも",
-   "en": "",
+   "en": "we always have, darling,",
    "box": "17x3",
    "face": 13
   },
@@ -257,7 +257,7 @@
    "id": "s508:01332",
    "op": "15",
    "jp": "大神サタン様の\nご加護が付いているのよ！！",
-   "en": "",
+   "en": "the protection of the great god Satan-sama!!",
    "box": "17x3",
    "face": 13
   },
@@ -265,7 +265,7 @@
    "id": "s508:0159a",
    "op": "15",
    "jp": "ぐ、\nぐあぁぁぁぁぁぁっ！！",
-   "en": "",
+   "en": "Gh... gwaaaaaaah!!",
    "box": "17x3",
    "face": 104
   },
@@ -273,7 +273,7 @@
    "id": "s508:015e6",
    "op": "15",
    "jp": "グフッ・・・",
-   "en": "",
+   "en": "Guhh...",
    "box": "17x3",
    "face": 13
   },
@@ -281,7 +281,7 @@
    "id": "s508:01606",
    "op": "15",
    "jp": "たまたま勝ったからって・・・\n安心しないでほしいわねぇ・・・",
-   "en": "",
+   "en": "Just because you happened to win... don't go resting easy, darling...",
    "box": "17x3",
    "face": 13
   },
@@ -289,7 +289,7 @@
    "id": "s508:01656",
    "op": "15",
    "jp": "アタシ達に・・・\nこの大天使の鎧があるかぎり・・・",
-   "en": "",
+   "en": "So long as we... have this Archangel armor...",
    "box": "17x3",
    "face": 13
   },
@@ -297,7 +297,7 @@
    "id": "s508:0169a",
    "op": "15",
    "jp": "また、何度でも・・・\n復活・・してみせるわ！！",
-   "en": "",
+   "en": "again, as many times as it takes... we'll come... back!!",
    "box": "17x3",
    "face": 13
   },
@@ -305,7 +305,7 @@
    "id": "s508:01a52",
    "op": "15",
    "jp": "それはわしらとて、\n同じ事じゃ・・・",
-   "en": "",
+   "en": "The same goes for us, my boy...",
    "box": "17x3",
    "face": 5
   },
@@ -313,7 +313,7 @@
    "id": "s508:01a8a",
    "op": "15",
    "jp": "わしの中で今も生きる、\nルピルピと同じようにな・・・",
-   "en": "",
+   "en": "Just as Rupirupi lives on within me, even now, eh...",
    "box": "17x3",
    "face": 5
   }

@@ -9,7 +9,7 @@
    "id": "s390:00bee",
    "op": "15",
    "jp": "ど、どうしましょうか？",
-   "en": "",
+   "en": "Wh-what should we do?",
    "box": "17x3",
    "face": 4
   },
@@ -17,7 +17,7 @@
    "id": "s390:00c7a",
    "op": "15",
    "jp": "決まってんだろう！！",
-   "en": "",
+   "en": "Ain't it obvious!!",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s390:00ca2",
    "op": "15",
    "jp": "ゴモラの街のやり方を\n変えるんだよなぁ！？",
-   "en": "",
+   "en": "We change how Gomorrah does things, right!?",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s390:00d22",
    "op": "15",
    "jp": "そう感情的に物を考えてはいかん！",
-   "en": "",
+   "en": "You mustn't let your feelings do your thinking!",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s390:00d9e",
    "op": "15",
    "jp": "少なくとも、\nベルフェ殿の考え方も\nあながち間違ってはおらんぞ。",
-   "en": "",
+   "en": "At the very least, Belphe-dono's way of thinking isn't wholly wrong, my boy.",
    "box": "17x3",
    "face": 5
   },
@@ -49,7 +49,7 @@
    "id": "s390:00e22",
    "op": "15",
    "jp": "それより、俺はソドムのやつらが\nスラム街にいる人間のことを\n隠していたのが気になるが・・・",
-   "en": "",
+   "en": "More than that, what bugs me is Sodom hiding the people in its slums...",
    "box": "17x3",
    "face": 1
   },
@@ -57,7 +57,7 @@
    "id": "s390:00f0a",
    "op": "15",
    "jp": "働けなくなった人達を\n差別しているんだろうか！？",
-   "en": "",
+   "en": "D-do they discriminate against people who can't work anymore!?",
    "box": "17x3",
    "face": 3
   },
@@ -73,7 +73,7 @@
    "id": "s390:00f6a",
    "op": "15",
    "jp": "どのようなやり方をしても、",
-   "en": "",
+   "en": "However one goes about it,",
    "box": "17x3",
    "face": 5
   },
@@ -81,7 +81,7 @@
    "id": "s390:00f96",
    "op": "15",
    "jp": "全く歪みのない社会を\n作るのは、不可能に近い！！",
-   "en": "",
+   "en": "a society with no distortions at all is next to impossible to build, my boy!!",
    "box": "17x3",
    "face": 5
   },
@@ -89,7 +89,7 @@
    "id": "s390:01052",
    "op": "15",
    "jp": "じゃあ、いったい\nどうするつもりなんですか？",
-   "en": "",
+   "en": "Then what do you intend to do?",
    "box": "17x3",
    "face": 4
   },
@@ -97,7 +97,7 @@
    "id": "s390:010c2",
    "op": "15",
    "jp": "わしはこの問いを、\nお主に託したいと思うておる。",
-   "en": "",
+   "en": "I wish to entrust this question to you, my boy.",
    "box": "17x3",
    "face": 5
   },
@@ -113,7 +113,7 @@
    "id": "s390:01156",
    "op": "15",
    "jp": "人々に活気があって\n産業も発展しやすく、",
-   "en": "",
+   "en": "People full of vigor, and industry quick to grow,",
    "box": "17x3",
    "face": 5
   },
@@ -121,7 +121,7 @@
    "id": "s390:01192",
    "op": "15",
    "jp": "住民の一人一人に\n自由があるかわりに\n貧富の差が生じ、",
-   "en": "",
+   "en": "each resident free, but with a gap between rich and poor,",
    "box": "17x3",
    "face": 5
   },
@@ -129,7 +129,7 @@
    "id": "s390:011da",
    "op": "15",
    "jp": "ともすると、\n金儲けが全てに優先して\n自然環境を",
-   "en": "",
+   "en": "moneymaking at times put before all else, until nature itself",
    "box": "17x3",
    "face": 5
   },
@@ -137,7 +137,7 @@
    "id": "s390:0121e",
    "op": "15",
    "jp": "絶滅させかねない\nソドムの街のやり方と！",
-   "en": "",
+   "en": "could be wiped out: that is the way of Sodom!",
    "box": "17x3",
    "face": 5
   },
@@ -145,7 +145,7 @@
    "id": "s390:0125a",
    "op": "15",
    "jp": "かたや人々の\n自由や言論が抑圧され\nその活力を奪う代わりに・・・",
-   "en": "",
+   "en": "Then, people's freedom and speech suppressed, their vigor stolen, and in exchange...",
    "box": "17x3",
    "face": 5
   },
@@ -153,7 +153,7 @@
    "id": "s390:012ae",
    "op": "15",
    "jp": "ある意味では全員が平等、\n病気や失業・老人になっても\n生活の心配はないが、",
-   "en": "",
+   "en": "in a sense all are equal, with no fear for their living through sickness, joblessness or age,",
    "box": "17x3",
    "face": 5
   },
@@ -161,7 +161,7 @@
    "id": "s390:0130a",
    "op": "15",
    "jp": "その長期計画自体の失策が、\n街全体を壊滅に追いやりかねない\nゴモラの街のやり方！！",
-   "en": "",
+   "en": "but one failure of its long-term plan could drive the whole town to ruin: the way of Gomorrah!!",
    "box": "17x3",
    "face": 5
   },
@@ -169,7 +169,7 @@
    "id": "s390:0136e",
    "op": "15",
    "jp": "どちらがより\n望ましい未来の姿なのか・・・",
-   "en": "",
+   "en": "Which is the more desirable shape of the future...",
    "box": "17x3",
    "face": 5
   },
@@ -177,7 +177,7 @@
    "id": "s390:01486",
    "op": "15",
    "jp": "お主はどう思うのじゃ？",
-   "en": "",
+   "en": "What do you think, my boy?",
    "box": "17x3",
    "face": 5
   },
@@ -185,7 +185,7 @@
    "id": "s390:014e2",
    "op": "15",
    "jp": "そうだな、\n俺もお前に聞いてみたいぜ！",
-   "en": "",
+   "en": "Yeah, I wanna hear it from you too!",
    "box": "17x3",
    "face": 2
   },
@@ -193,7 +193,7 @@
    "id": "s390:0152a",
    "op": "15",
    "jp": "責任を押しつけるようだけど、\n君に決めてほしいんだ！！",
-   "en": "",
+   "en": "I-I know it's like pushing the blame on you, but I want you to decide!!",
    "box": "17x3",
    "face": 3
   },
@@ -201,28 +201,28 @@
    "id": "s390:01582",
    "op": "1d",
    "jp": "ソドムの方がいい",
-   "en": "",
+   "en": "Sodom is better",
    "max": 15
   },
   {
    "id": "s390:0159c",
    "op": "1d",
    "jp": "ゴモラの方がいい",
-   "en": "",
+   "en": "Gomorrah is better",
    "max": 15
   },
   {
    "id": "s390:015b4",
    "op": "1d",
    "jp": "どちらとも言えない",
-   "en": "",
+   "en": "I can't say either way",
    "max": 15
   },
   {
    "id": "s390:01662",
    "op": "15",
    "jp": "そうだよなぁ！\nどうもベルフェの\nやり方は気にくわねぇ！",
-   "en": "",
+   "en": "Damn right! I just can't stand how Belphe does things!",
    "box": "17x3",
    "face": 2
   },
@@ -230,7 +230,7 @@
    "id": "s390:0171a",
    "op": "15",
    "jp": "支配することでしか実現できない\n平等なんて、間違いだぜ！",
-   "en": "",
+   "en": "Equality you only get by ruling people? That's wrong, dammit!",
    "box": "17x3",
    "face": 2
   },
@@ -238,7 +238,7 @@
    "id": "s390:017ba",
    "op": "15",
    "jp": "一概にはそうとも言えんのじゃが、\nともかくゴモラの軍隊を\n説得するとしよう。",
-   "en": "",
+   "en": "One can't say so flatly, my boy, but at any rate, let us persuade Gomorrah's army.",
    "box": "17x3",
    "face": 5
   },
@@ -262,7 +262,7 @@
    "id": "s390:01916",
    "op": "15",
    "jp": "ボクも働けなくなった人のことまで\n考えてあげている、\nゴモラの街の方が好きだよ！",
-   "en": "",
+   "en": "I, um, I like Gomorrah better too, since it even thinks about people who can't work anymore!",
    "box": "17x3",
    "face": 3
   },
@@ -270,7 +270,7 @@
    "id": "s390:01a16",
    "op": "15",
    "jp": "好き嫌いで判断できるほど、\n簡単な問題では無いが、",
-   "en": "",
+   "en": "This is no problem so simple you can judge it by likes and dislikes, my boy, but",
    "box": "17x3",
    "face": 5
   },
@@ -278,7 +278,7 @@
    "id": "s390:01a5a",
    "op": "15",
    "jp": "ともかくソドムの軍を・・\n説得することにしよう。",
-   "en": "",
+   "en": "at any rate, let us persuade Sodom's army.",
    "box": "17x3",
    "face": 5
   },
@@ -286,7 +286,7 @@
    "id": "s390:01b06",
    "op": "15",
    "jp": "う～む！しかしどちらとも\n言えないと言うのは、",
-   "en": "",
+   "en": "Hmm! But to say you can't say either way...",
    "box": "17x3",
    "face": 5
   },
@@ -294,7 +294,7 @@
    "id": "s390:01b46",
    "op": "15",
    "jp": "どちらにも反対なのか？\nどちらにも賛成なのか？",
-   "en": "",
+   "en": "Do you oppose both, eh? Or do you favor both?",
    "box": "17x3",
    "face": 5
   },
@@ -302,21 +302,21 @@
    "id": "s390:01b96",
    "op": "1d",
    "jp": "どちらにも反対！！",
-   "en": "",
+   "en": "Against both!!",
    "max": 15
   },
   {
    "id": "s390:01bb0",
    "op": "1d",
    "jp": "どちらにも賛成！！",
-   "en": "",
+   "en": "For both!!",
    "max": 15
   },
   {
    "id": "s390:01c5e",
    "op": "15",
    "jp": "うむ、\nどちらの街のやり方にも\n問題があるので、",
-   "en": "",
+   "en": "Mm, both towns' ways have their problems,",
    "box": "17x3",
    "face": 5
   },
@@ -324,7 +324,7 @@
    "id": "s390:01ca2",
    "op": "15",
    "jp": "どちらの街も許すことは\n出来んと言う事か！！",
-   "en": "",
+   "en": "so neither town can be forgiven, is that it!!",
    "box": "17x3",
    "face": 5
   },
@@ -332,7 +332,7 @@
    "id": "s390:01d72",
    "op": "15",
    "jp": "それも良かろう。",
-   "en": "",
+   "en": "That is well enough too, I daresay.",
    "box": "17x3",
    "face": 5
   }

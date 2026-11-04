@@ -9,7 +9,7 @@
    "id": "s466:00566",
    "op": "14",
    "jp": "おい！",
-   "en": "",
+   "en": "Hey!",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s466:005a2",
    "op": "14",
    "jp": "オイ！みんな！\nこのまま戦うのかよ！！",
-   "en": "",
+   "en": "Hey! Everybody! We just gonna keep fightin' like this!!",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s466:0061e",
    "op": "14",
    "jp": "うるせぇ！！まずは\n目の前の敵を倒すのが先だ！！",
-   "en": "",
+   "en": "Shut up!! First we take down the enemies in front of us!!",
    "box": "17x3",
    "face": 1
   },
@@ -57,7 +57,7 @@
    "id": "s466:00656",
    "op": "14",
    "jp": "生き残んなきゃ、\n話もできねぇ！！",
-   "en": "",
+   "en": "Stay alive, or there's no talking at all!!",
    "box": "17x3",
    "face": 1
   },
@@ -65,7 +65,7 @@
    "id": "s466:0068e",
    "op": "14",
    "jp": "そうだろ？・・・ルピルピ",
-   "en": "",
+   "en": "Right?... Rupirupi.",
    "box": "17x3",
    "face": 1
   },

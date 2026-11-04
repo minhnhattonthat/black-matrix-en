@@ -9,7 +9,7 @@
    "id": "s446:00cea",
    "op": "15",
    "jp": "なっ、なんなんだここは！？",
-   "en": "",
+   "en": "Wh-what the hell is this place!?",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s446:00d16",
    "op": "15",
    "jp": "て・・・天井に・・・\n大地がへばりついてやがるぜ！？",
-   "en": "",
+   "en": "Th-the ceiling... there's ground stuck to the damn ceiling!?",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s446:00fde",
    "op": "15",
    "jp": "この地球の内側は、巨大な\n空洞になっておる・・・",
-   "en": "",
+   "en": "The inside of this earth is one giant hollow...",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s446:0104e",
    "op": "15",
    "jp": "ココこそが、創世記戦争で\nメフィスト達に敗れ・・・",
-   "en": "",
+   "en": "This, my boy, is where those defeated by Mephisto's side in the Genesis War...",
    "box": "17x3",
    "face": 5
   },
@@ -49,7 +49,7 @@
    "id": "s446:01092",
    "op": "15",
    "jp": "その結果、この大地の底に\n幽閉された、\n白き羽の天使達の牢獄！",
-   "en": "",
+   "en": "were locked away in the depths of the earth: the prison of the White Wing angels!",
    "box": "17x3",
    "face": 5
   },
@@ -57,7 +57,7 @@
    "id": "s446:010f2",
    "op": "15",
    "jp": "もっとも今では、すっかり\n理性を失い、\n野性化してしまった・・・",
-   "en": "",
+   "en": "Though by now, having wholly lost their reason and gone feral...",
    "box": "17x3",
    "face": 5
   },
@@ -65,7 +65,7 @@
    "id": "s446:01146",
    "op": "15",
    "jp": "堕天使達の地獄と化しておる！！",
-   "en": "",
+   "en": "it has become a hell of fallen angels!!",
    "box": "17x3",
    "face": 5
   },
@@ -73,7 +73,7 @@
    "id": "s446:01216",
    "op": "15",
    "jp": "おっ、おい！",
-   "en": "",
+   "en": "H-hey!",
    "box": "17x3",
    "face": 2
   },
@@ -81,7 +81,7 @@
    "id": "s446:01236",
    "op": "15",
    "jp": "奴等仲間の肉を\n喰ってやがるぜ！？",
-   "en": "",
+   "en": "Those bastards are eatin' their own friends' flesh!?",
    "box": "17x3",
    "face": 2
   },
@@ -97,7 +97,7 @@
    "id": "s446:0161e",
    "op": "15",
    "jp": "ココには、\n他に食い物など無い！",
-   "en": "",
+   "en": "There is nothing else to eat here!",
    "box": "17x3",
    "face": 5
   },
@@ -105,7 +105,7 @@
    "id": "s446:01652",
    "op": "15",
    "jp": "しかも元々が天使\nであった彼らは\n容易に死ぬことも叶わず、",
-   "en": "",
+   "en": "What's more, having once been angels, they cannot readily die,",
    "box": "17x3",
    "face": 5
   },
@@ -113,7 +113,7 @@
    "id": "s446:0169e",
    "op": "15",
    "jp": "戦いに勝った者は、ワザと\n死なない程度に相手を喰っては、\n再び戦闘を繰り返す。",
-   "en": "",
+   "en": "so the winners deliberately eat their foes just short of death, and then fight all over again.",
    "box": "17x3",
    "face": 5
   },
@@ -121,7 +121,7 @@
    "id": "s446:016fe",
    "op": "15",
    "jp": "先ほどの喰われた奴も、\n気がついた頃には体が再生し、",
-   "en": "",
+   "en": "That one we saw eaten will have a regrown body by the time he wakes,",
    "box": "17x3",
    "face": 5
   },
@@ -129,7 +129,7 @@
    "id": "s446:01746",
    "op": "15",
    "jp": "他の者を食料として狙うという\n無限地獄を延々と\n繰り返しておるのじゃ！！",
-   "en": "",
+   "en": "and hunt others for food: an endless hell, repeated on and on, my boy!!",
    "box": "17x3",
    "face": 5
   },
@@ -137,7 +137,7 @@
    "id": "s446:017be",
    "op": "15",
    "jp": "そんな・・酷い・・・",
-   "en": "",
+   "en": "No... how horrible...",
    "box": "17x3",
    "face": 4
   },
@@ -145,7 +145,7 @@
    "id": "s446:0182a",
    "op": "15",
    "jp": "皆さん！もうやめて下さい！！",
-   "en": "",
+   "en": "Everyone! Please stop this!!",
    "box": "17x3",
    "face": 4
   },
@@ -153,7 +153,7 @@
    "id": "s446:01a72",
    "op": "15",
    "jp": "キシャアアァアァアア！！\nフーーーーーーーッ！！",
-   "en": "",
+   "en": "Kishaaaaaaaaaah!! Fsssssssssh!!",
    "box": "17x3",
    "face": 94
   },
@@ -161,7 +161,7 @@
    "id": "s446:01b32",
    "op": "15",
    "jp": "無駄じゃよマルコ！",
-   "en": "",
+   "en": "It's useless, Marco!",
    "box": "17x3",
    "face": 5
   },
@@ -169,7 +169,7 @@
    "id": "s446:01b56",
    "op": "15",
    "jp": "すでに彼らは、\nまともな感情など\n持ち合わせてはおらん・・・",
-   "en": "",
+   "en": "They no longer have any decent feelings left...",
    "box": "17x3",
    "face": 5
   },
@@ -177,7 +177,7 @@
    "id": "s446:01ba6",
    "op": "15",
    "jp": "いや、今の彼らの反応こそ、\n全ての天使達の\n本来あるべき姿なのかもしれん！",
-   "en": "",
+   "en": "No, perhaps this reaction of theirs is what all angels were truly meant to be!",
    "box": "17x3",
    "face": 5
   },
@@ -193,7 +193,7 @@
    "id": "s446:01c32",
    "op": "15",
    "jp": "これ以上、話しかければ\n間違いなく、戦闘になるぞ！！",
-   "en": "",
+   "en": "Speak to them further and it will surely come to a fight, mark me!!",
    "box": "17x3",
    "face": 5
   },
@@ -209,7 +209,7 @@
    "id": "s446:01caa",
    "op": "15",
    "jp": "わし等の目的は、この先にある\n天国の門じゃ！！",
-   "en": "",
+   "en": "Our goal is the Gate of Heaven up ahead!!",
    "box": "17x3",
    "face": 5
   },
@@ -217,7 +217,7 @@
    "id": "s446:01cea",
    "op": "15",
    "jp": "こんな所に長居は無用、\nすぐにあちらに向かうぞ！！",
-   "en": "",
+   "en": "No reason to linger in such a place. We go there at once, eh!!",
    "box": "17x3",
    "face": 5
   },

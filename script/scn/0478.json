@@ -9,7 +9,7 @@
    "id": "s478:01396",
    "op": "15",
    "jp": "この長いバベルの塔を\nはい上がって来るとは・・・",
-   "en": "",
+   "en": "To crawl up this long Tower of Babel...",
    "box": "17x3",
    "face": 18
   },
@@ -17,7 +17,7 @@
    "id": "s478:013da",
    "op": "15",
    "jp": "確かにたいしたもんやわ！",
-   "en": "",
+   "en": "I'll give you that, that's somethin'!",
    "box": "17x3",
    "face": 18
   },
@@ -25,7 +25,7 @@
    "id": "s478:01436",
    "op": "15",
    "jp": "けっ、ちぃと時間が\nかかっちまったがな。",
-   "en": "",
+   "en": "Heh, took us a damn while, though.",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s478:014e6",
    "op": "15",
    "jp": "せやなあ！来るんが、ちぃ～っと\n遅すぎたのかもしれへんなぁ～！",
-   "en": "",
+   "en": "That it did! Maybe you folks came just a lii~ttle too late, darlin'!",
    "box": "17x3",
    "face": 18
   },
@@ -49,7 +49,7 @@
    "id": "s478:01566",
    "op": "15",
    "jp": "なにせうちらは、\n６人の大天使の鎧を\nきっちりとそろえ終わり・・・",
-   "en": "",
+   "en": "See, we've gathered the armors of six archangels, neat as you please...",
    "box": "17x3",
    "face": 18
   },
@@ -57,7 +57,7 @@
    "id": "s478:015ba",
    "op": "15",
    "jp": "すでに本格的な覚醒を始める\n準備も終わらせてしもうたんよ！",
-   "en": "",
+   "en": "and got all ready to start our true awakenin'!",
    "box": "17x3",
    "face": 18
   },
@@ -97,7 +97,7 @@
    "id": "s478:016f6",
    "op": "15",
    "jp": "せやけど、全国各地に散らばった\n大神官達を集めて、誰が誰かを\n判別するのんは・・・",
-   "en": "",
+   "en": "Though, gatherin' up High Priests scattered all over, and workin' out who was who...",
    "box": "17x3",
    "face": 18
   },
@@ -105,7 +105,7 @@
    "id": "s478:0175a",
    "op": "15",
    "jp": "えらい大変やったんぇ～！？",
-   "en": "",
+   "en": "was a mighty big chore, darlin'~!?",
    "box": "17x3",
    "face": 18
   },
@@ -113,7 +113,7 @@
    "id": "s478:01786",
    "op": "15",
    "jp": "なにせ、いっぺん転生した\n大天使は、自らの鎧を再び\n手に入れるまで・・・",
-   "en": "",
+   "en": "See, once an archangel's been reborn, until he gets his own armor back...",
    "box": "17x3",
    "face": 18
   },
@@ -121,7 +121,7 @@
    "id": "s478:017e2",
    "op": "15",
    "jp": "記憶を無くした、ただの大神官に\n成り下がってしまう\nさかいになぁ・・・",
-   "en": "",
+   "en": "he falls to bein' a plain High Priest with his memory lost, you see...",
    "box": "17x3",
    "face": 18
   },
@@ -137,7 +137,7 @@
    "id": "s478:0186a",
    "op": "15",
    "jp": "すでに、ご自分でも気がついて\nおられるのでしょう？",
-   "en": "",
+   "en": "You must have noticed for yourself by now, have you not?",
    "box": "17x3",
    "face": 18
   },
@@ -145,7 +145,7 @@
    "id": "s478:018ae",
    "op": "15",
    "jp": "この世界に七人しかいない\n大神官達の中で・・・",
-   "en": "",
+   "en": "Among the High Priests, of whom this world has but seven...",
    "box": "17x3",
    "face": 18
   },
@@ -153,7 +153,7 @@
    "id": "s478:018ee",
    "op": "15",
    "jp": "残された大神官は\n唯一・・・ただ一人・・・",
-   "en": "",
+   "en": "only one remains... just one...",
    "box": "17x3",
    "face": 18
   },
@@ -161,7 +161,7 @@
    "id": "s478:0192a",
    "op": "15",
    "jp": "ヨハネ殿・・・\nアナタこそがメフィスト様の\n真の生まれ変わりなのです！！",
-   "en": "",
+   "en": "Johannes-dono... you are the true reincarnation of Mephisto-sama!!",
    "box": "17x3",
    "face": 18
   },
@@ -169,7 +169,7 @@
    "id": "s478:01b12",
    "op": "15",
    "jp": "教皇様より直々に、\n大邪神の鎧をお預かりに\nなられていた事こそ、",
-   "en": "",
+   "en": "That the Pope herself entrusted the Great Evil God's armor to you",
    "box": "17x3",
    "face": 18
   },
@@ -177,7 +177,7 @@
    "id": "s478:01b66",
    "op": "15",
    "jp": "その何よりの証し！！",
-   "en": "",
+   "en": "is the greatest proof of that!!",
    "box": "17x3",
    "face": 18
   },
@@ -185,7 +185,7 @@
    "id": "s478:01b8e",
    "op": "15",
    "jp": "今回の一連の行動も全ては・・・",
-   "en": "",
+   "en": "All your recent actions, too, were...",
    "box": "17x3",
    "face": 18
   },
@@ -193,7 +193,7 @@
    "id": "s478:01bbe",
    "op": "15",
    "jp": "大邪神達を復活させかねないような\n忌まわしき危険人物共を\n一ヶ所に集め・・・",
-   "en": "",
+   "en": "to gather in one place those loathsome menaces who could revive the Great Evil Gods...",
    "box": "17x3",
    "face": 18
   },
@@ -201,7 +201,7 @@
    "id": "s478:01c1e",
    "op": "15",
    "jp": "彼らが真の覚醒をおこさぬ前に\n速やかに叩きつぶそうという、\n素晴らしき御計画・・・",
-   "en": "",
+   "en": "and crush them swiftly before their true awakening: a magnificent plan...",
    "box": "17x3",
    "face": 18
   },
@@ -209,7 +209,7 @@
    "id": "s478:01c82",
    "op": "15",
    "jp": "さあ、こちらに来られて・・・",
-   "en": "",
+   "en": "Now, come over to us...",
    "box": "17x3",
    "face": 18
   },
@@ -217,7 +217,7 @@
    "id": "s478:01cb2",
    "op": "15",
    "jp": "ご一緒にそのメタトロンの鎧を\n取り返しましょうぞ！！",
-   "en": "",
+   "en": "and let us take back that Metatron armor together!!",
    "box": "17x3",
    "face": 18
   },
@@ -225,7 +225,7 @@
    "id": "s478:01d6e",
    "op": "15",
    "jp": "くっくっくっ、\nハッハッハッハッハッ・・・",
-   "en": "",
+   "en": "Heh heh heh, Hahahahaha...",
    "box": "17x3",
    "face": 5
   },
@@ -233,7 +233,7 @@
    "id": "s478:01dd2",
    "op": "15",
    "jp": "かつて、特に大天使と言う名で\n呼ばれて恐れられていた・・・",
-   "en": "",
+   "en": "Once, feared and called by the special name of archangel...",
    "box": "17x3",
    "face": 5
   },
@@ -241,7 +241,7 @@
    "id": "s478:01e1e",
    "op": "15",
    "jp": "強大な魔力を持った\n天使達が存在した・・・・！！",
-   "en": "",
+   "en": "there were angels of mighty magic....!!",
    "box": "17x3",
    "face": 5
   },
@@ -249,7 +249,7 @@
    "id": "s478:01e62",
    "op": "15",
    "jp": "いまや、黒き羽の守護神となった\n自信とごう慢を司る大天使\nメフィストを筆頭に・・・",
-   "en": "",
+   "en": "Led by Mephisto, archangel of confidence and pride, now guardian god of the Black Wing...",
    "box": "17x3",
    "face": 5
   },
@@ -257,7 +257,7 @@
    "id": "s478:01ec6",
    "op": "15",
    "jp": "かつてのアダムの最初の妻で、\n娯楽と怠惰を司る\n黒き羽の大天使・リリス！！",
-   "en": "",
+   "en": "Lilith, once Adam's first wife, the Black Wing archangel of amusement and sloth!!",
    "box": "17x3",
    "face": 5
   },
@@ -273,7 +273,7 @@
    "id": "s478:0204a",
    "op": "15",
    "jp": "全ての空飛ぶ生き物の頂点に立つ\n向上心と嫉妬を司る\n大天使・ベルゼブブ！！",
-   "en": "",
+   "en": "At the peak of all things that fly, archangel of ambition and envy, Beelzebub!!",
    "box": "17x3",
    "face": 5
   },
@@ -289,7 +289,7 @@
    "id": "s478:021d2",
    "op": "15",
    "jp": "メフィストの海軍を率いる\n希望と強欲を司る\n大天使・ベヒーモス！！",
-   "en": "",
+   "en": "Leader of Mephisto's navy, archangel of hope and greed, Behemoth!!",
    "box": "17x3",
    "face": 5
   },
@@ -305,7 +305,7 @@
    "id": "s478:0234e",
    "op": "15",
    "jp": "生けにえを要求する収穫神で\n成長と暴食を司る\n大天使・モーロック！！",
-   "en": "",
+   "en": "A harvest god who demands sacrifices, archangel of growth and gluttony, Moloch!!",
    "box": "17x3",
    "face": 5
   },
@@ -321,7 +321,7 @@
    "id": "s478:024d6",
    "op": "15",
    "jp": "元々は美の女神で、\n恋心と欲情を司る\n大天使・ベルフェゴール！！",
-   "en": "",
+   "en": "Once a goddess of beauty, archangel of romance and lust, Belphegor!!",
    "box": "17x3",
    "face": 5
   },
@@ -337,7 +337,7 @@
    "id": "s478:02656",
    "op": "15",
    "jp": "あっ、・・・・\nアナタは・・・・！？",
-   "en": "",
+   "en": "Ah,.... y-you...!?",
    "box": "17x3",
    "face": 3
   },
@@ -345,7 +345,7 @@
    "id": "s478:0268e",
    "op": "15",
    "jp": "欲情の街・ベギルドの\nアスタルテさん・・？",
-   "en": "",
+   "en": "Astarte-san... from Begild, the city of lust...?",
    "box": "17x3",
    "face": 3
   },
@@ -353,7 +353,7 @@
    "id": "s478:026da",
    "op": "15",
    "jp": "天変地異を巻き起こす、荒ぶる神で\n集中力と怨念を司る\n大天使・アラストル！！",
-   "en": "",
+   "en": "A raging god who stirs up cataclysm, archangel of focus and rancor, Alastor!!",
    "box": "17x3",
    "face": 5
   },
@@ -369,7 +369,7 @@
    "id": "s478:02892",
    "op": "15",
    "jp": "そっ、そんな！？",
-   "en": "",
+   "en": "N-no way!?",
    "box": "17x3",
    "face": 4
   },
@@ -377,7 +377,7 @@
    "id": "s478:028c2",
    "op": "15",
    "jp": "あっ、ありゃあ秘密地下組織の\nケルビムの親爺じゃねえか！？",
-   "en": "",
+   "en": "Wh-why, that's old man Cherubim from the secret underground, ain't it!?",
    "box": "17x3",
    "face": 2
   },
@@ -385,7 +385,7 @@
    "id": "s478:0291e",
    "op": "15",
    "jp": "かつてのサタンの使徒が、\nこれで揃ったというわけか！！\nウハハハハハッハッハッ・・・",
-   "en": "",
+   "en": "So Satan's apostles of old are all gathered at last, eh!! Wahahahahahaha...",
    "box": "17x3",
    "face": 5
   },
@@ -393,7 +393,7 @@
    "id": "s478:02baa",
    "op": "15",
    "jp": "ヨ、ヨハネさん！？",
-   "en": "",
+   "en": "Jo-Johannes-san!?",
    "box": "17x3",
    "face": 4
   },
@@ -401,7 +401,7 @@
    "id": "s478:02c02",
    "op": "15",
    "jp": "だがしかし・・・",
-   "en": "",
+   "en": "But even so...",
    "box": "17x3",
    "face": 5
   },
@@ -409,7 +409,7 @@
    "id": "s478:02c26",
    "op": "15",
    "jp": "わしが誰かも知らんとは\nお主達、よっぽど教皇に\n信用が無いようじゃのう！？",
-   "en": "",
+   "en": "Not even knowing who I am... the Pope can't trust you lot much, can she, eh!?",
    "box": "17x3",
    "face": 5
   },
@@ -417,7 +417,7 @@
    "id": "s478:02c92",
    "op": "15",
    "jp": "な、何やて？！",
-   "en": "",
+   "en": "Wh-what'd you say!?",
    "box": "17x3",
    "face": 18
   },
@@ -425,7 +425,7 @@
    "id": "s478:02cc2",
    "op": "15",
    "jp": "わしこそは、この目で\n創世記戦争を見届けた\n唯一残されし者！",
-   "en": "",
+   "en": "I alone remain of those who saw the Genesis War with their own eyes!",
    "box": "17x3",
    "face": 5
   },
@@ -433,7 +433,7 @@
    "id": "s478:02d12",
    "op": "15",
    "jp": "わしは、転生など\n一度もしては、おらん！！",
-   "en": "",
+   "en": "I have never once been reborn, my boy!!",
    "box": "17x3",
    "face": 5
   },
@@ -441,7 +441,7 @@
    "id": "s478:02f82",
    "op": "15",
    "jp": "そもそも、お主達は未だに\n大邪神などと呼んでおるが・・・",
-   "en": "",
+   "en": "Indeed, you still call them Great Evil Gods, but...",
    "box": "17x3",
    "face": 5
   },
@@ -449,7 +449,7 @@
    "id": "s478:02fce",
    "op": "15",
    "jp": "あの大戦に敗れ大邪神などと\n呼ばれるようになってしまった、",
-   "en": "",
+   "en": "those who lost that great war and came to be called Great Evil Gods:",
    "box": "17x3",
    "face": 5
   },
@@ -457,7 +457,7 @@
    "id": "s478:0301a",
    "op": "15",
    "jp": "正義を司る大天使\nミカエル",
-   "en": "",
+   "en": "Michael, archangel of justice",
    "box": "17x3",
    "face": 5
   },
@@ -473,7 +473,7 @@
    "id": "s478:03076",
    "op": "15",
    "jp": "自由を司る大天使\nウリエル",
-   "en": "",
+   "en": "Uriel, archangel of freedom",
    "box": "17x3",
    "face": 5
   },
@@ -489,7 +489,7 @@
    "id": "s478:030d2",
    "op": "15",
    "jp": "勇気を司る大天使\nサリエル",
-   "en": "",
+   "en": "Sariel, archangel of courage",
    "box": "17x3",
    "face": 5
   },
@@ -505,7 +505,7 @@
    "id": "s478:0312e",
    "op": "15",
    "jp": "友情を司る大天使\nラグエル",
-   "en": "",
+   "en": "Raguel, archangel of friendship",
    "box": "17x3",
    "face": 5
   },
@@ -521,7 +521,7 @@
    "id": "s478:0318a",
    "op": "15",
    "jp": "人権を司る大天使\nラファエル",
-   "en": "",
+   "en": "Raphael, archangel of human rights",
    "box": "17x3",
    "face": 5
   },
@@ -537,7 +537,7 @@
    "id": "s478:031e6",
    "op": "15",
    "jp": "愛情を司る大天使\nガブリエル",
-   "en": "",
+   "en": "Gabriel, archangel of love",
    "box": "17x3",
    "face": 5
   },
@@ -593,7 +593,7 @@
    "id": "s478:03372",
    "op": "15",
    "jp": "そして、数ある大天使達の中でも\n最も謎めいた大天使・・・",
-   "en": "",
+   "en": "And, most enigmatic of all the many archangels...",
    "box": "17x3",
    "face": 5
   },
@@ -601,7 +601,7 @@
    "id": "s478:033be",
    "op": "15",
    "jp": "平等を司る大天使\nメタトロン！！",
-   "en": "",
+   "en": "Metatron, archangel of equality!!",
    "box": "17x3",
    "face": 5
   },
@@ -617,7 +617,7 @@
    "id": "s478:0341e",
    "op": "15",
    "jp": "元をただせば、彼らも全て・・・",
-   "en": "",
+   "en": "At root, they too were all...",
    "box": "17x3",
    "face": 5
   },
@@ -625,7 +625,7 @@
    "id": "s478:0344e",
    "op": "15",
    "jp": "同じ神に仕える\n大天使だったはずじゃ！！",
-   "en": "",
+   "en": "archangels serving the same god, surely!!",
    "box": "17x3",
    "face": 5
   },
@@ -641,7 +641,7 @@
    "id": "s478:034b6",
    "op": "15",
    "jp": "だいいち、その様子では\nお主達はまだメフィストの正体とて\nつかめてはおるまい・・・！？",
-   "en": "",
+   "en": "Besides, by the looks of it, you have yet to grasp Mephisto's true identity...!?",
    "box": "17x3",
    "face": 5
   },
@@ -649,7 +649,7 @@
    "id": "s478:0351e",
    "op": "15",
    "jp": "このルピルピの助力を\n得ながらも・・・",
-   "en": "",
+   "en": "Even with this Rupirupi's help...",
    "box": "17x3",
    "face": 5
   },
@@ -657,7 +657,7 @@
    "id": "s478:03556",
    "op": "15",
    "jp": "結局はメタトロンの鎧に宿る\nその魂すら復活させることが\n出来なかったこのわしが・・・",
-   "en": "",
+   "en": "I could not so much as revive the soul dwelling in the Metatron armor, in the end. That I...",
    "box": "17x3",
    "face": 5
   },
@@ -665,7 +665,7 @@
    "id": "s478:035be",
    "op": "15",
    "jp": "メフィスト・フェレスの\n生まれ変わりだなどとは\n片腹痛いわ！！",
-   "en": "",
+   "en": "should be the reincarnation of Mephistopheles? Laughable, I daresay!!",
    "box": "17x3",
    "face": 5
   },
@@ -673,7 +673,7 @@
    "id": "s478:03632",
    "op": "15",
    "jp": "お師匠さま！！",
-   "en": "",
+   "en": "Master!!",
    "box": "17x3",
    "face": 6
   },
@@ -681,7 +681,7 @@
    "id": "s478:03662",
    "op": "15",
    "jp": "グッ・・・",
-   "en": "",
+   "en": "Ngh...",
    "box": "17x3",
    "face": 18
   },
@@ -689,7 +689,7 @@
    "id": "s478:0367e",
    "op": "15",
    "jp": "（ということはヨハネではなく、\n　あいつが・・・！？）",
-   "en": "",
+   "en": "(So it ain't Johannes, which means... that one...!?)",
    "box": "17x3",
    "face": 18
   },
@@ -697,7 +697,7 @@
    "id": "s478:036c6",
    "op": "15",
    "jp": "（うっ・・・この感覚は・・・\n　これは覚醒を促すために\n　食べた先ほどの・・・）",
-   "en": "",
+   "en": "(Ugh... this feelin'... it's from what I ate just now to bring on the awakenin'...)",
    "box": "17x3",
    "face": 18
   },
@@ -705,7 +705,7 @@
    "id": "s478:0372a",
    "op": "15",
    "jp": "（知恵の実の影響！？）",
-   "en": "",
+   "en": "(the fruit of knowledge!?)",
    "box": "17x3",
    "face": 18
   },
@@ -713,7 +713,7 @@
    "id": "s478:03752",
    "op": "15",
    "jp": "（また・・遠い昔の\n　リリスの記憶が・・・）",
-   "en": "",
+   "en": "(Lilith's memories from long ago... again...)",
    "box": "17x3",
    "face": 18
   },
@@ -721,7 +721,7 @@
    "id": "s478:03792",
    "op": "15",
    "jp": "（あかん、認められへん！\n　だってそれは７つの・・・）",
-   "en": "",
+   "en": "(No! I can't allow it! 'Cause that's the seven...)",
    "box": "17x3",
    "face": 18
   },
@@ -729,7 +729,7 @@
    "id": "s478:03a62",
    "op": "15",
    "jp": "ふん！\nまぁ、よろしおすわ。",
-   "en": "",
+   "en": "Hmph! Well, never mind.",
    "box": "17x3",
    "face": 18
   },
@@ -737,7 +737,7 @@
    "id": "s478:03a92",
    "op": "15",
    "jp": "あんはんがメフィスト様の\n生まれ変わりと違うても、",
-   "en": "",
+   "en": "Even if you ain't Mephisto-sama reborn,",
    "box": "17x3",
    "face": 18
   },
@@ -745,7 +745,7 @@
    "id": "s478:03ad6",
    "op": "15",
    "jp": "メタトロンの鎧さえ手に入れれば\n同じこと・・・",
-   "en": "",
+   "en": "all I need's the Metatron armor, and it's all the same...",
    "box": "17x3",
    "face": 18
   },
@@ -753,7 +753,7 @@
    "id": "s478:03b26",
    "op": "15",
    "jp": "ルカ様、ここは教団最強の\n邪道騎士を以て当たるのが、\nよろしいかと。",
-   "en": "",
+   "en": "Luca-sama, I suggest we meet them with the Order's strongest Heretic Knight.",
    "box": "17x3",
    "face": 17
   },
@@ -761,7 +761,7 @@
    "id": "s478:03b8a",
    "op": "15",
    "jp": "ヨハネが仲間でないと分かった以上\nアレの始末を優先しなければ。",
-   "en": "",
+   "en": "Now that Johannes is known to be no ally, we must see to the disposal of that thing first.",
    "box": "17x3",
    "face": 16
   },
@@ -777,7 +777,7 @@
    "id": "s478:03c02",
    "op": "15",
    "jp": "ケルビムさん！！",
-   "en": "",
+   "en": "Cherubim-san!!",
    "box": "17x3",
    "face": 4
   },
@@ -785,7 +785,7 @@
    "id": "s478:03c32",
    "op": "15",
    "jp": "フフフフ・・・",
-   "en": "",
+   "en": "Fufufufu...",
    "box": "17x3",
    "face": 16
   },
@@ -793,7 +793,7 @@
    "id": "s478:03c52",
    "op": "15",
    "jp": "メフィスト様が居ない今・・・",
-   "en": "",
+   "en": "With Mephisto-sama gone...",
    "box": "17x3",
    "face": 16
   },
@@ -801,7 +801,7 @@
    "id": "s478:03c82",
    "op": "15",
    "jp": "悪いがここで創世記戦争を\n繰り返すわけにはいかんのでね！",
-   "en": "",
+   "en": "I regret we cannot have the Genesis War repeated here!",
    "box": "17x3",
    "face": 16
   },
@@ -809,7 +809,7 @@
    "id": "s478:03e56",
    "op": "15",
    "jp": "（あのケルビムさんが\n　どうして！？）",
-   "en": "",
+   "en": "(How could Cherubim-san...!?)",
    "box": "17x3",
    "face": 4
   }

@@ -9,7 +9,7 @@
    "id": "s399:00ce6",
    "op": "15",
    "jp": "ベルフェのやり方が、\n完全に正しかったとは\n思いませんが・・",
-   "en": "",
+   "en": "I don't think Belphe's way was entirely right, but...",
    "box": "17x3",
    "face": 51
   },
@@ -17,7 +17,7 @@
    "id": "s399:00d36",
    "op": "15",
    "jp": "きっとこの街も変わるでしょう、\n良くも、悪くも・・・",
-   "en": "",
+   "en": "this town will surely change too, for better or for worse...",
    "box": "17x3",
    "face": 51
   },
@@ -25,7 +25,7 @@
    "id": "s399:00de2",
    "op": "15",
    "jp": "ありがとうございます。\nアナタが私を助けるように\n言ってくださったんですね！",
-   "en": "",
+   "en": "Thank you. It was you who told them to rescue me, wasn't it!",
    "box": "17x3",
    "face": 26
   },
@@ -33,7 +33,7 @@
    "id": "s399:00ea2",
    "op": "15",
    "jp": "いや、もとはと言えば\nあんたは俺達のせいで\n捕まったようなもんだし・・・",
-   "en": "",
+   "en": "Nah, I mean, it's more or less our fault you got nabbed in the first place...",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s399:00f4e",
    "op": "15",
    "jp": "でも、もう私には、\n住む家もありませんし・・・",
-   "en": "",
+   "en": "But I have no home left to live in...",
    "box": "17x3",
    "face": 26
   },
@@ -49,7 +49,7 @@
    "id": "s399:00fe2",
    "op": "15",
    "jp": "私を、騎士様の奴隷として\n連れていって下さいませんか！？",
-   "en": "",
+   "en": "Won't you take me with you, Sir Knight, as your slave!?",
    "box": "17x3",
    "face": 26
   },
@@ -57,7 +57,7 @@
    "id": "s399:010be",
    "op": "15",
    "jp": "えっ、だ、だめだ！！\n俺達と行動すると危険なんだ！",
-   "en": "",
+   "en": "Wh-what, n-no way!! Travelin' with us is dangerous!",
    "box": "17x3",
    "face": 2
   },
@@ -65,7 +65,7 @@
    "id": "s399:01186",
    "op": "15",
    "jp": "グスッ・・グスッ・・・",
-   "en": "",
+   "en": "Sniff... sniff...",
    "box": "17x3",
    "face": 26
   },
@@ -73,7 +73,7 @@
    "id": "s399:01212",
    "op": "15",
    "jp": "わーっ、泣くなよ・・・\n・・・ど、どうしよう・・",
-   "en": "",
+   "en": "Waah, don't cry... Wh-what do I do...",
    "box": "17x3",
    "face": 2
   },
@@ -81,7 +81,7 @@
    "id": "s399:01262",
    "op": "15",
    "jp": "お前がその馬鹿力で\n守ってやればいいだろ！",
-   "en": "",
+   "en": "Just protect her with that brute strength of yours.",
    "box": "17x3",
    "face": 1
   },
@@ -89,7 +89,7 @@
    "id": "s399:012d2",
    "op": "15",
    "jp": "しょうがねぇ、\nま、奴隷じゃなく、\n仲間としてだったらいいぜ。",
-   "en": "",
+   "en": "Can't be helped. Well, not as a slave, but as a comrade, that'd be fine.",
    "box": "17x3",
    "face": 2
   },
@@ -113,7 +113,7 @@
    "id": "s399:01416",
    "op": "15",
    "jp": "はい！！",
-   "en": "",
+   "en": "Yes!!",
    "box": "17x3",
    "face": 26
   },
@@ -121,7 +121,7 @@
    "id": "s399:01440",
    "op": "14",
    "jp": "リンが仲間になった！！",
-   "en": "",
+   "en": "Rin joined the party!!",
    "box": "17x3",
    "face": 104
   }

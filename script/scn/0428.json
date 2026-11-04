@@ -9,7 +9,7 @@
    "id": "s428:005d6",
    "op": "14",
    "jp": "なぁ、アンタ・・・",
-   "en": "",
+   "en": "Say, you...",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s428:005f0",
    "op": "14",
    "jp": "本当に神様ってのが\nいるんだとして・・・",
-   "en": "",
+   "en": "Supposing there really is such a thing as a god...",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s428:00620",
    "op": "14",
    "jp": "この世界でこんなに\nやりたい放題な生き方を\nしている我々の願いを・・・",
-   "en": "",
+   "en": "the prayers of us, living however we damn well please in this world...",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s428:0066e",
    "op": "14",
    "jp": "何でかなえてもらえると\n思うんだい・・・？",
-   "en": "",
+   "en": "why do you think they'd ever be granted...?",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s428:006da",
    "op": "14",
    "jp": "罰の目的が悪の\n防止であるとしても・・・",
-   "en": "",
+   "en": "Even if the aim of punishment is the prevention of evil...",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s428:0070a",
    "op": "14",
    "jp": "それが善への\n拍車になるとは、",
-   "en": "",
+   "en": "that it spurs anyone toward good",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s428:00730",
    "op": "14",
    "jp": "決して限らない・・・",
-   "en": "",
+   "en": "is by no means certain...",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s428:00786",
    "op": "14",
    "jp": "誰も神など見た事がない・・・",
-   "en": "",
+   "en": "No one has ever seen a god...",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s428:007aa",
    "op": "14",
    "jp": "なのになぜ人は神の存在を\n信じるんだろうか・・・",
-   "en": "",
+   "en": "So why do people believe gods exist...",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s428:0081e",
    "op": "14",
    "jp": "おおおおおおおおぉ・・・・",
-   "en": "",
+   "en": "Ooooooooooh....",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s428:0087a",
    "op": "14",
    "jp": "ごほっ・・ごほっ・・・",
-   "en": "",
+   "en": "Koff.. koff...",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s428:008d2",
    "op": "14",
    "jp": "がたがた・・がたっ・・・",
-   "en": "",
+   "en": "Rattle rattle.. rattle...",
    "box": "17x3",
    "face": 104
   },
@@ -121,21 +121,21 @@
    "id": "s428:00a72",
    "op": "1d",
    "jp": "は　い",
-   "en": "",
+   "en": "Yes",
    "max": 15
   },
   {
    "id": "s428:00a80",
    "op": "1d",
    "jp": "いいえ",
-   "en": "",
+   "en": "No",
    "max": 15
   },
   {
    "id": "s428:00a90",
    "op": "20",
    "jp": "街を出ますか？",
-   "en": ""
+   "en": "Leave town?"
   }
  ]
 }

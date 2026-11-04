@@ -9,7 +9,7 @@
    "id": "s484:007c2",
    "op": "15",
    "jp": "あなたなら・・・\n何かこの世界について\n知っているのでしょう！？",
-   "en": "",
+   "en": "You, of all people... You must know something about this world, surely!?",
    "box": "17x3",
    "face": 4
   },
@@ -17,7 +17,7 @@
    "id": "s484:008d2",
    "op": "15",
    "jp": "・・・・\n太陽とこの世界について\n語るべき事など知らぬ・・・",
-   "en": "",
+   "en": "... Of the sun and this world, I know nothing worth the telling...",
    "box": "17x3",
    "face": 128
   },
@@ -25,7 +25,7 @@
    "id": "s484:00922",
    "op": "15",
    "jp": "お前達が自ら苦しんでいる事を\n知っているだけだ・・・",
-   "en": "",
+   "en": "I know only that you bring this suffering on yourselves...",
    "box": "17x3",
    "face": 128
   },
@@ -33,7 +33,7 @@
    "id": "s484:0096a",
    "op": "15",
    "jp": "もっとも・・・\nこれも・奴の・・\n受け売りだがな・・・",
-   "en": "",
+   "en": "Though... even that... is only... what he told me...",
    "box": "17x3",
    "face": 128
   },
@@ -41,7 +41,7 @@
    "id": "s484:01fb2",
    "op": "15",
    "jp": "これがアンゲルス教団の\n総本山、教皇庁！？",
-   "en": "",
+   "en": "So this is the Holy See of the Angelus Order, the Papal Court!?",
    "box": "17x3",
    "face": 6
   },
@@ -49,7 +49,7 @@
    "id": "s484:01ffe",
    "op": "15",
    "jp": "ここに、\nこの世界の真実が！",
-   "en": "",
+   "en": "Here, in this place, the truth of this world!",
    "box": "17x3",
    "face": 1
   },
@@ -57,7 +57,7 @@
    "id": "s484:0203a",
    "op": "15",
    "jp": "ユダやバアルの野郎も\nこの先にいるに違ぇねぇ！！",
-   "en": "",
+   "en": "That bastard Judas and Baal gotta be up ahead too, dammit!!",
    "box": "17x3",
    "face": 2
   },
@@ -65,7 +65,7 @@
    "id": "s484:0208a",
    "op": "15",
    "jp": "そう！\nケルビムさんにどうしても会って、\n真偽を確かめなきゃ！！",
-   "en": "",
+   "en": "Yes! I simply must see Cherubim-san and find out whether it's true!!",
    "box": "17x3",
    "face": 4
   },
@@ -73,7 +73,7 @@
    "id": "s484:0215a",
    "op": "15",
    "jp": "お主はルカ、あ、いや\nあのリリスを追うのじゃ！！",
-   "en": "",
+   "en": "You go after Luca -- ah, no, that Lilith, my boy!!",
    "box": "17x3",
    "face": 5
   },
@@ -81,7 +81,7 @@
    "id": "s484:0219e",
    "op": "15",
    "jp": "あ奴の行く先に、\nお主の探す御主人様のいる\n可能性が高い！",
-   "en": "",
+   "en": "Wherever she's headed, there's a good chance the master you seek is there, eh!",
    "box": "17x3",
    "face": 5
   },
@@ -89,7 +89,7 @@
    "id": "s484:021fa",
    "op": "15",
    "jp": "それに上手くすれば・・・\nあの女が教皇の所まで・・・\n連れてってくれるぜ！！",
-   "en": "",
+   "en": "And with any luck... that woman will lead us... straight to the Pope!!",
    "box": "17x3",
    "face": 1
   },
@@ -105,7 +105,7 @@
    "id": "s484:024a2",
    "op": "15",
    "jp": "アタシもお供します！！",
-   "en": "",
+   "en": "I'll come with you too!!",
    "box": "17x3",
    "face": 20
   },
@@ -113,7 +113,7 @@
    "id": "s484:024ca",
    "op": "15",
    "jp": "少しでも、ご主人様に・・・\nご恩をお返ししたいんです！",
-   "en": "",
+   "en": "I want to repay your kindness, master... even just a little...!",
    "box": "17x3",
    "face": 20
   },
@@ -121,7 +121,7 @@
    "id": "s484:025e6",
    "op": "15",
    "jp": "あたしも連れていって下さい・・・\nお金を拾うことぐらいしかお役に\n立てないかも知れませんけど",
-   "en": "",
+   "en": "Please take me with you too... I may be no use for anything but picking up money, but...",
    "box": "17x3",
    "face": 21
   },
@@ -129,7 +129,7 @@
    "id": "s484:0272a",
    "op": "15",
    "jp": "ご主人様！！",
-   "en": "",
+   "en": "Master!!",
    "box": "17x3",
    "face": 109
   },
@@ -137,7 +137,7 @@
    "id": "s484:0274a",
    "op": "15",
    "jp": "私の力を・・・、\nこの際ぜひお役立て下さい！",
-   "en": "",
+   "en": "My power... please, put it to good use now!",
    "box": "17x3",
    "face": 109
   },
@@ -145,7 +145,7 @@
    "id": "s484:0285e",
    "op": "15",
    "jp": "なぁ～ご主人様～！！\nおらもついて行かせておくれよ！",
-   "en": "",
+   "en": "Aw, master, sir~!! Lemme come along too, I reckon!",
    "box": "17x3",
    "face": 110
   },
@@ -153,7 +153,7 @@
    "id": "s484:0297a",
    "op": "15",
    "jp": "私も・・・\nぜひ旅の道づれにお加え下さい！！",
-   "en": "",
+   "en": "I, too... please, let me join you on your journey!!",
    "box": "17x3",
    "face": 111
   },
@@ -161,7 +161,7 @@
    "id": "s484:02a8e",
    "op": "15",
    "jp": "この老いぼれにも・・・\nまだこの世界のために、\nやれる事があるはずじゃ！！",
-   "en": "",
+   "en": "Even this old wreck... must still have something to do for this world, heh heh!!",
    "box": "17x3",
    "face": 112
   },
@@ -169,7 +169,7 @@
    "id": "s484:02bbe",
    "op": "15",
    "jp": "なんだか・・・！\n金になりそうな匂いがするぜ！",
-   "en": "",
+   "en": "I dunno what, but...! I smell money in this, big bro!",
    "box": "17x3",
    "face": 108
   },
@@ -177,7 +177,7 @@
    "id": "s484:02cd2",
    "op": "15",
    "jp": "ご主人様ぁ～あたしも～\nつれてってくださ～い～！",
-   "en": "",
+   "en": "Masterrr~ take me alooong tooo~ pleeease~!",
    "box": "17x3",
    "face": 22
   },
@@ -185,7 +185,7 @@
    "id": "s484:02dea",
    "op": "15",
    "jp": "ネェネェ～いいよねぇ～\nついてっいっても・・・",
-   "en": "",
+   "en": "Hey, heeey~ it's okay, right~ if I tag along...",
    "box": "17x3",
    "face": 23
   },
@@ -193,7 +193,7 @@
    "id": "s484:02efe",
    "op": "15",
    "jp": "アナタをお役に・・・\nたたせて差し上げるのが\n私の仕事です・・・",
-   "en": "",
+   "en": "Making you of use... is my job...",
    "box": "17x3",
    "face": 24
   },
@@ -201,7 +201,7 @@
    "id": "s484:03026",
    "op": "15",
    "jp": "あたし？\nあたしは勝手についてきま～す！！",
-   "en": "",
+   "en": "Me? I'm just gonna follow you on my owwwn!!",
    "box": "17x3",
    "face": 25
   },
@@ -209,7 +209,7 @@
    "id": "s484:03136",
    "op": "15",
    "jp": "私もご一緒させて下さい・・・",
-   "en": "",
+   "en": "Please let me go with you too...",
    "box": "17x3",
    "face": 26
   },
@@ -217,7 +217,7 @@
    "id": "s484:03166",
    "op": "15",
    "jp": "ごめんなさいレブロブス様・・・",
-   "en": "",
+   "en": "Forgive me, Leburobus-sama...",
    "box": "17x3",
    "face": 26
   },
@@ -225,7 +225,7 @@
    "id": "s484:0326a",
    "op": "15",
    "jp": "ねぇねえご主人様～！！\nいいでしょ！？ついてっても・・・",
-   "en": "",
+   "en": "Hey, hey, master~!! It's okay, right!? If I tag along...",
    "box": "17x3",
    "face": 27
   },
@@ -233,7 +233,7 @@
    "id": "s484:0338a",
    "op": "15",
    "jp": "今こそ、ご恩を・・・\nお返しさせていただきます！！",
-   "en": "",
+   "en": "Now is the time... to repay what I owe you!!",
    "box": "17x3",
    "face": 28
   },
@@ -241,7 +241,7 @@
    "id": "s484:033f2",
    "op": "15",
    "jp": "私は・・・・\n古の盟約に従うだけだ・・・",
-   "en": "",
+   "en": "I... merely obey the ancient pact...",
    "box": "17x3",
    "face": 104
   },
@@ -249,7 +249,7 @@
    "id": "s484:0352a",
    "op": "15",
    "jp": "ようしわかった！！",
-   "en": "",
+   "en": "Very well, I understand!!",
    "box": "17x3",
    "face": 5
   },
@@ -257,7 +257,7 @@
    "id": "s484:0354e",
    "op": "15",
    "jp": "急げ、奴らの行動が気になる！",
-   "en": "",
+   "en": "Hurry, what they're up to worries me, eh!",
    "box": "17x3",
    "face": 5
   }

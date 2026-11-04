@@ -9,7 +9,7 @@
    "id": "s384:00636",
    "op": "14",
    "jp": "ここは学校です。",
-   "en": "",
+   "en": "This is a school.",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s384:0064e",
    "op": "14",
    "jp": "ここでは羽の色に関係なく、\nタダで同じ教育を\n受けられるようにしてるんです！",
-   "en": "",
+   "en": "Here, regardless of wing color, anyone can get the same education for free!",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s384:006a2",
    "op": "14",
    "jp": "子供の教育こそ、\n豊かな社会の基本ですからね！",
-   "en": "",
+   "en": "After all, the education of children is the foundation of a rich society!",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s384:00712",
    "op": "14",
    "jp": "我が街では病院や学校といった\nみんなが使う施設は、\n全て無料になっています！",
-   "en": "",
+   "en": "In our town, facilities everyone uses, like hospitals and schools, are all free!",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s384:00766",
    "op": "14",
    "jp": "あのいまいましいソドムの街では、\n金持ちだけが十分な医療を\n受けられ、",
-   "en": "",
+   "en": "In that accursed Sodom, only the rich can get proper medical care,",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s384:007b4",
    "op": "14",
    "jp": "貧乏人は、大した医療も\n受けられずに死んでいくと\n聞きます・・・",
-   "en": "",
+   "en": "and the poor die with hardly any treatment, I hear...",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s384:007fc",
    "op": "14",
    "jp": "そんなやり方が、はたして\n平等と言えるでしょうか！？",
-   "en": "",
+   "en": "Can such a way truly be called equality!?",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s384:00872",
    "op": "14",
    "jp": "この街の運営は、\nこの街を創るのに尽力した\n素晴らしい人格者達が話し合い",
-   "en": "",
+   "en": "This town is run by discussion among the fine, virtuous people who strove to build it,",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s384:008c2",
    "op": "14",
    "jp": "みんなが生きていきやすい\n街作りを長期的な計画で\n進めています。",
-   "en": "",
+   "en": "pressing on with a long-term plan to make a town that's easy for everyone to live in.",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s384:0090a",
    "op": "14",
    "jp": "ソドムの街のように、\n行き当たりばったりで\n街の指導者が代わってしまっては、",
-   "en": "",
+   "en": "With leaders changing on a whim, as in Sodom,",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s384:0095e",
    "op": "14",
    "jp": "長期的な街の運営など\n出来るわけがありません！",
-   "en": "",
+   "en": "long-term town management could never be done!",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s384:00994",
    "op": "14",
    "jp": "この備蓄倉庫の中には、\nたとえ今後１０年間\n大飢Ωが続いたとしても、",
-   "en": "",
+   "en": "Inside this storehouse, even if a great famine lasted the next 10 years,",
    "box": "17x3",
    "face": 104
   },
@@ -105,7 +105,7 @@
    "id": "s384:009e0",
    "op": "14",
    "jp": "全ての住人が食べていけるだけの\n食料の蓄えがあります。",
-   "en": "",
+   "en": "there's enough food in store to feed every resident.",
    "box": "17x3",
    "face": 104
   },
@@ -113,7 +113,7 @@
    "id": "s384:00a1e",
    "op": "14",
    "jp": "長期的な生産計画を立て、",
-   "en": "",
+   "en": "With long-term production plans,",
    "box": "17x3",
    "face": 104
   },
@@ -121,7 +121,7 @@
    "id": "s384:00a3e",
    "op": "14",
    "jp": "全ての労働者が協力して\n初めてこれだけの生産性を\nあげる事が出来るのです。",
-   "en": "",
+   "en": "and the cooperation of all workers, we can at last reach productivity like this.",
    "box": "17x3",
    "face": 104
   },
@@ -129,7 +129,7 @@
    "id": "s384:00aca",
    "op": "14",
    "jp": "全ての人達が平等に\n街の為に働き、その集めた\nお金を公平に分配する。",
-   "en": "",
+   "en": "All work equally for the town, and the money gathered is shared out fairly.",
    "box": "17x3",
    "face": 104
   },
@@ -137,7 +137,7 @@
    "id": "s384:00b16",
    "op": "14",
    "jp": "全ての労働には何の差別も無く、",
-   "en": "",
+   "en": "There is no discrimination in any labor,",
    "box": "17x3",
    "face": 104
   },
@@ -145,7 +145,7 @@
    "id": "s384:00b3c",
    "op": "14",
    "jp": "好ましいとか\n格好悪い職業など\nといった間違った感覚など",
-   "en": "",
+   "en": "and such mistaken notions as respectable or uncool jobs",
    "box": "17x3",
    "face": 104
   },
@@ -153,7 +153,7 @@
    "id": "s384:00b7c",
    "op": "14",
    "jp": "この街には一切ありません。",
-   "en": "",
+   "en": "do not exist in this town at all.",
    "box": "17x3",
    "face": 104
   },
@@ -161,7 +161,7 @@
    "id": "s384:00b9e",
    "op": "14",
    "jp": "全ての労働者の汗は、\nみな同じように美しいのです！！",
-   "en": "",
+   "en": "The sweat of all workers is equally beautiful!!",
    "box": "17x3",
    "face": 104
   },
@@ -169,7 +169,7 @@
    "id": "s384:00c16",
    "op": "14",
    "jp": "ここは平和の街ゴモラです！",
-   "en": "",
+   "en": "This is Gomorrah, the town of peace!",
    "box": "17x3",
    "face": 104
   },
@@ -177,7 +177,7 @@
    "id": "s384:00c38",
    "op": "14",
    "jp": "ここを怠惰の街なんて\n呼ぶ奴もおりますが・・・",
-   "en": "",
+   "en": "Some folks call it the town of sloth, but...",
    "box": "17x3",
    "face": 104
   },
@@ -185,7 +185,7 @@
    "id": "s384:00c6e",
    "op": "14",
    "jp": "この街は、大変いい所です！",
-   "en": "",
+   "en": "This town is a very good place!",
    "box": "17x3",
    "face": 104
   },
@@ -193,7 +193,7 @@
    "id": "s384:00c90",
    "op": "14",
    "jp": "みんなが本当に\n平等に暮らしています！！",
-   "en": "",
+   "en": "Everyone truly lives equally!!",
    "box": "17x3",
    "face": 104
   },
@@ -201,7 +201,7 @@
    "id": "s384:00cfa",
    "op": "14",
    "jp": "ここではパン屋さん、\n掃除のおばさんから、",
-   "en": "",
+   "en": "Here, from bakers and cleaning ladies",
    "box": "17x3",
    "face": 104
   },
@@ -209,7 +209,7 @@
    "id": "s384:00d2c",
    "op": "14",
    "jp": "学校の先生や\nお医者さんまで、",
-   "en": "",
+   "en": "to schoolteachers and doctors,",
    "box": "17x3",
    "face": 104
   },
@@ -217,7 +217,7 @@
    "id": "s384:00d52",
    "op": "14",
    "jp": "同じ街の公務員として、\n同じ給料が貰えるんです。",
-   "en": "",
+   "en": "we're all civil servants of the same town, and get the same wage.",
    "box": "17x3",
    "face": 104
   },
@@ -225,7 +225,7 @@
    "id": "s384:00d8a",
    "op": "14",
    "jp": "これってすごく\n平等だと思いませんか！？",
-   "en": "",
+   "en": "Don't you think that's amazingly equal!?",
    "box": "17x3",
    "face": 104
   },
@@ -241,7 +241,7 @@
    "id": "s384:00e42",
    "op": "14",
    "jp": "見つけたぞ！",
-   "en": "",
+   "en": "Found you!",
    "box": "17x3",
    "face": 104
   },
@@ -249,7 +249,7 @@
    "id": "s384:00e56",
    "op": "14",
    "jp": "こんな所に紛れ込んで\nやがったのか！！",
-   "en": "",
+   "en": "So you slipped in here, did ya!!",
    "box": "17x3",
    "face": 104
   },
@@ -257,7 +257,7 @@
    "id": "s384:00ede",
    "op": "14",
    "jp": "なぜ働かないのかって？\n今日のノルマはこなしたよ！",
-   "en": "",
+   "en": "Why am I not working? I finished today's quota!",
    "box": "17x3",
    "face": 104
   },
@@ -265,7 +265,7 @@
    "id": "s384:00f18",
    "op": "14",
    "jp": "働こうがさぼろうが、結局は\n同じ程度の生活が出来るんだ。",
-   "en": "",
+   "en": "Work or slack off, you end up living about the same.",
    "box": "17x3",
    "face": 104
   },
@@ -273,7 +273,7 @@
    "id": "s384:00f58",
    "op": "14",
    "jp": "一生懸命働くなんて\nバカみたいじゃないか！！",
-   "en": "",
+   "en": "Working your tail off is just plain stupid, isn't it!!",
    "box": "17x3",
    "face": 104
   },
@@ -281,7 +281,7 @@
    "id": "s384:00f8c",
    "op": "14",
    "jp": "もういけよ、\nサボってるのがバレちゃうだろ！",
-   "en": "",
+   "en": "Now get lost, you'll get me caught slacking!",
    "box": "17x3",
    "face": 104
   },
@@ -289,21 +289,21 @@
    "id": "s384:0106e",
    "op": "1d",
    "jp": "は　い",
-   "en": "",
+   "en": "Yes",
    "max": 15
   },
   {
    "id": "s384:0107c",
    "op": "1d",
    "jp": "いいえ",
-   "en": "",
+   "en": "No",
    "max": 15
   },
   {
    "id": "s384:0108c",
    "op": "20",
    "jp": "街を出ますか？",
-   "en": ""
+   "en": "Leave town?"
   }
  ]
 }

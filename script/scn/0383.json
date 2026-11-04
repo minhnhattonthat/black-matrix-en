@@ -9,7 +9,7 @@
    "id": "s383:0086a",
    "op": "15",
    "jp": "ほう、\nこの街の街並は・・・",
-   "en": "",
+   "en": "Oho, the streets of this town...",
    "box": "17x3",
    "face": 5
   },
@@ -17,7 +17,7 @@
    "id": "s383:00906",
    "op": "15",
    "jp": "実に無理なく自然と調和して\n作られておるのう！！",
-   "en": "",
+   "en": "they're built in such easy harmony with nature, eh!!",
    "box": "17x3",
    "face": 5
   },
@@ -25,7 +25,7 @@
    "id": "s383:0097a",
    "op": "15",
    "jp": "ええ、機能的で\n実に無駄がないですね。",
-   "en": "",
+   "en": "Yes, functional, and truly without waste.",
    "box": "17x3",
    "face": 6
   },
@@ -33,7 +33,7 @@
    "id": "s383:009e6",
    "op": "15",
    "jp": "しかしその分、\n冷たい印象がありますね！",
-   "en": "",
+   "en": "But for that very reason, they do feel cold!",
    "box": "17x3",
    "face": 4
   },
@@ -41,7 +41,7 @@
    "id": "s383:00aae",
    "op": "15",
    "jp": "おい、あっちにいるのは\n街の連中じゃねぇか？",
-   "en": "",
+   "en": "Hey, ain't those the townsfolk over there?",
    "box": "17x3",
    "face": 1
   },
@@ -49,7 +49,7 @@
    "id": "s383:0111a",
    "op": "15",
    "jp": "ようこそ、\n我らがゴモラの街へ！",
-   "en": "",
+   "en": "Welcome to our town of Gomorrah!",
    "box": "17x3",
    "face": 48
   },
@@ -57,7 +57,7 @@
    "id": "s383:0114e",
    "op": "15",
    "jp": "親愛なる同志、\n救世主御一行！！",
-   "en": "",
+   "en": "Dear comrades, Savior and company!!",
    "box": "17x3",
    "face": 48
   },
@@ -65,7 +65,7 @@
    "id": "s383:01182",
    "op": "15",
    "jp": "私がこの街の代表、\nベルフェと申します！！",
-   "en": "",
+   "en": "I am Belphe, this town's representative!!",
    "box": "17x3",
    "face": 48
   },
@@ -73,7 +73,7 @@
    "id": "s383:01216",
    "op": "15",
    "jp": "ケルビム殿から連絡を受け、\n皆様が来るのを\n心待ちにしておりました！！",
-   "en": "",
+   "en": "We received word from Cherubim-dono, and we've been eagerly awaiting you all!!",
    "box": "17x3",
    "face": 48
   },
@@ -81,7 +81,7 @@
    "id": "s383:01296",
    "op": "15",
    "jp": "どうです？\nゴモラの街はすばらしいでしょう？",
-   "en": "",
+   "en": "Well? Isn't Gomorrah splendid?",
    "box": "17x3",
    "face": 48
   },
@@ -89,7 +89,7 @@
    "id": "s383:012d6",
    "op": "15",
    "jp": "この街では全ての人が\n街のために働いているから、",
-   "en": "",
+   "en": "In this town, everyone works for the town,",
    "box": "17x3",
    "face": 48
   },
@@ -97,7 +97,7 @@
    "id": "s383:0133e",
    "op": "15",
    "jp": "このような調和のとれた\n街並みになるのです！",
-   "en": "",
+   "en": "and that is what gives the streets such harmony!",
    "box": "17x3",
    "face": 48
   },
@@ -105,7 +105,7 @@
    "id": "s383:0137e",
    "op": "15",
    "jp": "当然、羽の色に関係なく\n学校や病院といった施設が、\n全て無料になっています！",
-   "en": "",
+   "en": "Naturally, schools, hospitals and such are all free, regardless of wing color!",
    "box": "17x3",
    "face": 48
   },
@@ -113,7 +113,7 @@
    "id": "s383:013de",
    "op": "15",
    "jp": "ささっ！どうぞこちらへ\n街をご案内いたしましょう！！",
-   "en": "",
+   "en": "Come, come, this way! Allow me to show you the town!!",
    "box": "17x3",
    "face": 48
   }

@@ -9,7 +9,7 @@
    "id": "s444:00b0e",
    "op": "15",
    "jp": "この穴はいったい？",
-   "en": "",
+   "en": "What the hell's with this hole?",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s444:00b42",
    "op": "15",
    "jp": "地の底へと通ずる穴じゃ・・・",
-   "en": "",
+   "en": "A hole that leads to the bottom of the earth...",
    "box": "17x3",
    "face": 5
   },
@@ -25,7 +25,7 @@
    "id": "s444:00b7e",
    "op": "15",
    "jp": "あーっ、底の方は\n真っ暗で何も見えないよ。",
-   "en": "",
+   "en": "Aah, it's, um, pitch black at the bottom. I can't see anything.",
    "box": "17x3",
    "face": 3
   },
@@ -33,7 +33,7 @@
    "id": "s444:00bca",
    "op": "15",
    "jp": "いったい、どこまで\n続いているというの？",
-   "en": "",
+   "en": "Just how far down does it go?",
    "box": "17x3",
    "face": 6
   },
@@ -41,7 +41,7 @@
    "id": "s444:00c12",
    "op": "15",
    "jp": "こんな事が出来るなんて、\n教皇って恐ろしい人なんですね！",
-   "en": "",
+   "en": "To be able to do this... the Pope must be a terrifying person!",
    "box": "17x3",
    "face": 4
   },
@@ -49,7 +49,7 @@
    "id": "s444:00c6a",
    "op": "15",
    "jp": "これは教皇の力ではなく、",
-   "en": "",
+   "en": "This is no work of the Pope, my boy,",
    "box": "17x3",
    "face": 5
   },
@@ -57,7 +57,7 @@
    "id": "s444:00ce6",
    "op": "15",
    "jp": "あくまでも\n自然が作り出したものじゃ。",
-   "en": "",
+   "en": "but something nature itself has made.",
    "box": "17x3",
    "face": 5
   },
@@ -65,7 +65,7 @@
    "id": "s444:00d1e",
    "op": "15",
    "jp": "わし等は世界の裏側へと\n出ようとしておるのだ。",
-   "en": "",
+   "en": "We are about to come out on the far side of the world, eh.",
    "box": "17x3",
    "face": 5
   },
@@ -73,7 +73,7 @@
    "id": "s444:00e1e",
    "op": "15",
    "jp": "世界の裏側だと！？",
-   "en": "",
+   "en": "The far side of the world, you say!?",
    "box": "17x3",
    "face": 1
   },
@@ -81,7 +81,7 @@
    "id": "s444:00e52",
    "op": "15",
    "jp": "そうじゃ。",
-   "en": "",
+   "en": "Just so.",
    "box": "17x3",
    "face": 5
   },
@@ -89,7 +89,7 @@
    "id": "s444:00e6e",
    "op": "15",
    "jp": "この夜の闇より暗き地の底に\n我らの進むべき道がある。",
-   "en": "",
+   "en": "In these depths, darker than the night, lies the road we must walk.",
    "box": "17x3",
    "face": 5
   },
@@ -97,7 +97,7 @@
    "id": "s444:00f1e",
    "op": "15",
    "jp": "（まさか生きて再び、この地へ\n　足を踏み込む事になろうとは）",
-   "en": "",
+   "en": "(Never did I think I would set foot in this land again, alive)",
    "box": "17x3",
    "face": 5
   },
@@ -105,7 +105,7 @@
    "id": "s444:00f8a",
    "op": "15",
    "jp": "はっきり言うがここから先は、",
-   "en": "",
+   "en": "Let me speak plainly: from here on,",
    "box": "17x3",
    "face": 5
   },
@@ -113,7 +113,7 @@
    "id": "s444:00fba",
    "op": "15",
    "jp": "進むほど険しく、\n苦しくなっていく・・・",
-   "en": "",
+   "en": "the farther we go, the harsher and more painful it will become...",
    "box": "17x3",
    "face": 5
   },
@@ -121,7 +121,7 @@
    "id": "s444:01056",
    "op": "15",
    "jp": "どのみち引き返すことは\n出来ねぇんだ\n行くしかねぇだろ。",
-   "en": "",
+   "en": "We can't turn back anyhow. Ain't nothin' to do but go.",
    "box": "17x3",
    "face": 2
   },

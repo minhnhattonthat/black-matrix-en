@@ -9,7 +9,7 @@
    "id": "s395:00dfe",
    "op": "15",
    "jp": "やれやれ、戦いにくかったぜ！",
-   "en": "",
+   "en": "Whew, that was one tough fight to have, dammit!",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s395:00ea2",
    "op": "15",
    "jp": "申し訳ありません・・・\n志願兵達が血気にはやりまして、",
-   "en": "",
+   "en": "I'm terribly sorry... the volunteers' blood was running hot,",
    "box": "17x3",
    "face": 47
   },
@@ -25,7 +25,7 @@
    "id": "s395:00f12",
    "op": "15",
    "jp": "そっ・・それで、\n我々はどうすればいいのです！？",
-   "en": "",
+   "en": "Th-then what should we do!?",
    "box": "17x3",
    "face": 47
   },
@@ -33,7 +33,7 @@
    "id": "s395:00f62",
    "op": "15",
    "jp": "ゴモラの者達は、\nいまの所、自ら異端審問会に\n何か言う気はないそうじゃ！",
-   "en": "",
+   "en": "The people of Gomorrah say that for now they don't mean to tell the Inquisition anything!",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s395:00fbe",
    "op": "15",
    "jp": "それどころか、\nこの街のあまりにも派手な\n動きやその黒煙が、",
-   "en": "",
+   "en": "In fact, this town's far too flashy doings and that black smoke",
    "box": "17x3",
    "face": 5
   },
@@ -49,7 +49,7 @@
    "id": "s395:0100e",
    "op": "15",
    "jp": "異端審問会に\n知られるのではと\n心配すらしている様子。",
-   "en": "",
+   "en": "may reach the Inquisition, and they even seem worried about that.",
    "box": "17x3",
    "face": 5
   },
@@ -65,7 +65,7 @@
    "id": "s395:010da",
    "op": "15",
    "jp": "街を大きくする事だけを\n考えるのではなく、",
-   "en": "",
+   "en": "Don't think only of growing your town.",
    "box": "17x3",
    "face": 5
   },
@@ -73,7 +73,7 @@
    "id": "s395:01116",
    "op": "15",
    "jp": "周りや自然との調和も考えて、\n今後は自重する事じゃな！！",
-   "en": "",
+   "en": "Consider harmony with your neighbors and nature, and restrain yourselves from now on, eh!!",
    "box": "17x3",
    "face": 5
   },
@@ -81,7 +81,7 @@
    "id": "s395:0116e",
    "op": "15",
    "jp": "働けなくなった人達のことも、\n考えてあげて欲しいんだ。",
-   "en": "",
+   "en": "Please think about the people who can't work anymore too.",
    "box": "17x3",
    "face": 3
   },
@@ -89,7 +89,7 @@
    "id": "s395:011ea",
    "op": "15",
    "jp": "そう言われれば、\n確かに我々は、少し焦りすぎて\nいたのかも知れません。",
-   "en": "",
+   "en": "Now that you say so, we may indeed have been a little too hasty.",
    "box": "17x3",
    "face": 47
   },
@@ -97,7 +97,7 @@
    "id": "s395:0126a",
    "op": "15",
    "jp": "街のみんなと、\nもう一度考え直してみます。",
-   "en": "",
+   "en": "I will think it over again with everyone in town.",
    "box": "17x3",
    "face": 47
   }

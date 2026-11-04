@@ -9,7 +9,7 @@
    "id": "s389:0058a",
    "op": "15",
    "jp": "おおぉ、救世主様！！\nご無事でしたかぁ～～っ！",
-   "en": "",
+   "en": "Ohhh, Savior-sama!! You're safe~~!",
    "box": "17x3",
    "face": 47
   },
@@ -17,7 +17,7 @@
    "id": "s389:005ca",
    "op": "15",
    "jp": "ゴモラの街の奴等、",
-   "en": "",
+   "en": "Those Gomorrah people,",
    "box": "17x3",
    "face": 47
   },
@@ -25,7 +25,7 @@
    "id": "s389:005ee",
    "op": "15",
    "jp": "卑怯にも\n救世主様達の留守を狙って、",
-   "en": "",
+   "en": "the cowards, waited until you were away,",
    "box": "17x3",
    "face": 47
   },
@@ -33,7 +33,7 @@
    "id": "s389:00626",
    "op": "15",
    "jp": "我が街に奇襲を\n仕掛けてきたんです！！",
-   "en": "",
+   "en": "and launched a surprise attack on our town!!",
    "box": "17x3",
    "face": 47
   },
@@ -41,7 +41,7 @@
    "id": "s389:00702",
    "op": "15",
    "jp": "どうか我々を信じて、\n共に戦って下さい！！",
-   "en": "",
+   "en": "Please, trust us, and fight at our side!!",
    "box": "17x3",
    "face": 47
   },
@@ -49,7 +49,7 @@
    "id": "s389:007f6",
    "op": "15",
    "jp": "嘘だ～～っ！！",
-   "en": "",
+   "en": "Liiies~~!!",
    "box": "17x3",
    "face": 48
   },
@@ -57,7 +57,7 @@
    "id": "s389:00816",
    "op": "15",
    "jp": "奴等の口車などに乗せられず、",
-   "en": "",
+   "en": "Don't be taken in by their smooth talk.",
    "box": "17x3",
    "face": 48
   },
@@ -65,7 +65,7 @@
    "id": "s389:0089a",
    "op": "15",
    "jp": "どうか我々を信じて、\n共に戦って下さい！！",
-   "en": "",
+   "en": "Please, trust us, and fight at our side!!",
    "box": "17x3",
    "face": 48
   },
@@ -81,7 +81,7 @@
    "id": "s389:00956",
    "op": "15",
    "jp": "彼らにとっては、\nかなり難解な問題のはず！",
-   "en": "",
+   "en": "For them, this must be quite a difficult problem!",
    "box": "17x3",
    "face": 121
   },
@@ -89,7 +89,7 @@
    "id": "s389:00992",
    "op": "15",
    "jp": "はたして、どんな定理を\n証明するのでしょう？",
-   "en": "",
+   "en": "What theorem will they prove, I wonder?",
    "box": "17x3",
    "face": 121
   },
@@ -97,7 +97,7 @@
    "id": "s389:009d2",
    "op": "15",
    "jp": "ともかくこれで彼らが・・・",
-   "en": "",
+   "en": "At any rate, this should establish...",
    "box": "17x3",
    "face": 121
   },
@@ -105,7 +105,7 @@
    "id": "s389:009fe",
    "op": "15",
    "jp": "真にさまよえる民であるかが、\n立証されるはず！！",
-   "en": "",
+   "en": "whether they are truly the wandering people!!",
    "box": "17x3",
    "face": 121
   }

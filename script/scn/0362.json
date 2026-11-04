@@ -9,7 +9,7 @@
    "id": "s362:01106",
    "op": "15",
    "jp": "あ～ら貴方達\nちょっとお待ちになって！",
-   "en": "",
+   "en": "Oh my, you there! Do wait a moment!",
    "box": "17x3",
    "face": 17
   },
@@ -17,7 +17,7 @@
    "id": "s362:0113e",
    "op": "15",
    "jp": "貴方達、あのグザファンを\n倒した人達でしょ？",
-   "en": "",
+   "en": "You are the ones who defeated that Xaphan, are you not?",
    "box": "17x3",
    "face": 17
   },
@@ -25,7 +25,7 @@
    "id": "s362:0118a",
    "op": "15",
    "jp": "なんだあ？",
-   "en": "",
+   "en": "What's this now?",
    "box": "17x3",
    "face": 1
   },
@@ -33,7 +33,7 @@
    "id": "s362:011b6",
    "op": "15",
    "jp": "お主、どこでそれを？",
-   "en": "",
+   "en": "And where did you hear that, eh?",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s362:011ea",
    "op": "15",
    "jp": "領主のこの私に、この街で\n知らない事なんてありませんわ！",
-   "en": "",
+   "en": "I am lord here. There is nothing in this town I do not know!",
    "box": "17x3",
    "face": 17
   },
@@ -49,7 +49,7 @@
    "id": "s362:01242",
    "op": "15",
    "jp": "それで、その色ボケ領主様が\n一体何の用だい？",
-   "en": "",
+   "en": "So what's a lust-addled lord like you want with us, huh?",
    "box": "17x3",
    "face": 2
   },
@@ -57,7 +57,7 @@
    "id": "s362:0128e",
    "op": "15",
    "jp": "まぁ、\n素敵な誉め言葉！",
-   "en": "",
+   "en": "My, what a lovely compliment!",
    "box": "17x3",
    "face": 17
   },
@@ -65,7 +65,7 @@
    "id": "s362:012ba",
    "op": "15",
    "jp": "実はグザファンの事なのですが、\n彼は私設軍隊を利用し・・・",
-   "en": "",
+   "en": "In truth, it concerns Xaphan. Using his private army...",
    "box": "17x3",
    "face": 17
   },
@@ -73,7 +73,7 @@
    "id": "s362:01306",
    "op": "15",
    "jp": "この街を自分だけのものにしようと\n男達を次々と殺していったのです。",
-   "en": "",
+   "en": "he sought to make this town his alone, killing off the men one after another.",
    "box": "17x3",
    "face": 17
   },
@@ -89,7 +89,7 @@
    "id": "s362:0138a",
    "op": "15",
    "jp": "貴方達のおかげで\n彼の脅威も無くなりました。",
-   "en": "",
+   "en": "Thanks to you, his threat is no more.",
    "box": "17x3",
    "face": 17
   },
@@ -97,7 +97,7 @@
    "id": "s362:013ca",
    "op": "15",
    "jp": "お礼に貴方達には、\nこの街に永久的に住む権利を\n差し上げましょう・・・",
-   "en": "",
+   "en": "In gratitude, I shall grant you the right to live in this town forever...",
    "box": "17x3",
    "face": 17
   },
@@ -105,7 +105,7 @@
    "id": "s362:01422",
    "op": "15",
    "jp": "つまり、この街すべての女性から",
-   "en": "",
+   "en": "That is, from every woman in this town,",
    "box": "17x3",
    "face": 17
   },
@@ -113,7 +113,7 @@
    "id": "s362:01452",
    "op": "15",
    "jp": "溢れるばかりの情欲を捧げられて\n暮らせるのです・・・",
-   "en": "",
+   "en": "you would live showered with overflowing devotion...",
    "box": "17x3",
    "face": 17
   },
@@ -129,7 +129,7 @@
    "id": "s362:014da",
    "op": "15",
    "jp": "毎日違う女性と、禁断の愛を\n語ってもよろしいんですよ！",
-   "en": "",
+   "en": "You could speak of forbidden love with someone new every day, you know!",
    "box": "17x3",
    "face": 17
   },
@@ -137,7 +137,7 @@
    "id": "s362:01532",
    "op": "15",
    "jp": "そ・・そんなの愛じゃないわ！",
-   "en": "",
+   "en": "Th-that's not love at all!",
    "box": "17x3",
    "face": 6
   },
@@ -169,7 +169,7 @@
    "id": "s362:015fe",
    "op": "15",
    "jp": "禁断だの何だのって、\nあなた達は愛って言葉で\n遊んでいるだけよ！",
-   "en": "",
+   "en": "Forbidden this, forbidden that... All you people do is play with the word love!",
    "box": "17x3",
    "face": 6
   },
@@ -177,7 +177,7 @@
    "id": "s362:01652",
    "op": "15",
    "jp": "ここにいるこの人はねぇ・・・",
-   "en": "",
+   "en": "This man here, you know...",
    "box": "17x3",
    "face": 6
   },
@@ -185,7 +185,7 @@
    "id": "s362:01682",
    "op": "15",
    "jp": "その愛を語ったばかりに\n最愛の人を無くしてしまったの・・・",
-   "en": "",
+   "en": "just for speaking of that love, he lost the one he loved most...",
    "box": "17x3",
    "face": 6
   },
@@ -193,7 +193,7 @@
    "id": "s362:016ce",
    "op": "15",
    "jp": "彼は傷つき牢獄に入れられ、",
-   "en": "",
+   "en": "Wounded, thrown into prison,",
    "box": "17x3",
    "face": 6
   },
@@ -201,7 +201,7 @@
    "id": "s362:016fa",
    "op": "15",
    "jp": "自らの羽を失っても\nその愛を貫こうとしている・・・",
-   "en": "",
+   "en": "even with his own wings gone, he's still trying to stay true to that love...",
    "box": "17x3",
    "face": 6
   },
@@ -209,7 +209,7 @@
    "id": "s362:01766",
    "op": "15",
    "jp": "アナタ達に・・・\n同じ真似が出来る！？",
-   "en": "",
+   "en": "Could you people... do the same!?",
    "box": "17x3",
    "face": 6
   },
@@ -241,7 +241,7 @@
    "id": "s362:01856",
    "op": "15",
    "jp": "貴方も・・\n誰かを愛しているんですね。",
-   "en": "",
+   "en": "You too... love someone, don't you.",
    "box": "17x3",
    "face": 17
   },
@@ -257,7 +257,7 @@
    "id": "s362:01926",
    "op": "15",
    "jp": "解っていました。",
-   "en": "",
+   "en": "I knew it all along.",
    "box": "17x3",
    "face": 17
   },
@@ -265,7 +265,7 @@
    "id": "s362:0194a",
    "op": "15",
    "jp": "私たちの愛が\n大邪神の伝説で語られる・・・",
-   "en": "",
+   "en": "That our love, set beside the legends of the Great Evil Gods...",
    "box": "17x3",
    "face": 17
   },
@@ -273,7 +273,7 @@
    "id": "s362:01986",
    "op": "15",
    "jp": "本当の愛ではないってことを。",
-   "en": "",
+   "en": "was not true love at all.",
    "box": "17x3",
    "face": 17
   },
@@ -281,7 +281,7 @@
    "id": "s362:019b6",
    "op": "15",
    "jp": "でも仕方がなかったんです。",
-   "en": "",
+   "en": "But we had no other choice.",
    "box": "17x3",
    "face": 17
   },
@@ -289,7 +289,7 @@
    "id": "s362:019e2",
    "op": "15",
    "jp": "この街を守る為には、外の世界に\n出ていく男達を引き留める、\n繋がりが必要だったんです・・・",
-   "en": "",
+   "en": "To protect this town, we needed a bond to hold back men who would leave for the outside...",
    "box": "17x3",
    "face": 17
   },
@@ -297,7 +297,7 @@
    "id": "s362:01a4e",
    "op": "15",
    "jp": "貴方達を引き留めるため、\n罪を承知で愛という言葉を\n使いました。",
-   "en": "",
+   "en": "To keep you here, I used the word love, knowing full well the sin.",
    "box": "17x3",
    "face": 17
   },
@@ -313,7 +313,7 @@
    "id": "s362:01ae6",
    "op": "15",
    "jp": "ふむ、愛を語ることが罪と承知で、\n尚それを行うとは、",
-   "en": "",
+   "en": "Hm, to speak of love knowing full well it's a sin, and do it all the same, eh...",
    "box": "17x3",
    "face": 5
   },
@@ -321,7 +321,7 @@
    "id": "s362:01b2e",
    "op": "15",
    "jp": "それだけ欲と情が深いという事か。",
-   "en": "",
+   "en": "So your greed and passion run just that deep, I daresay.",
    "box": "17x3",
    "face": 5
   },
@@ -329,7 +329,7 @@
    "id": "s362:01b6e",
    "op": "15",
    "jp": "せめてお礼として、",
-   "en": "",
+   "en": "At the very least, as thanks,",
    "box": "17x3",
    "face": 17
   },
@@ -337,7 +337,7 @@
    "id": "s362:01b92",
    "op": "15",
    "jp": "あなた方が捜しているものの\n手がかりを贈らせて下さい・・・",
-   "en": "",
+   "en": "allow me to give you a clue to what you seek...",
    "box": "17x3",
    "face": 17
   },
@@ -345,7 +345,7 @@
    "id": "s362:01bee",
    "op": "15",
    "jp": "何、\nそれはまさか？",
-   "en": "",
+   "en": "What? Surely you don't mean...?",
    "box": "17x3",
    "face": 5
   },
@@ -353,7 +353,7 @@
    "id": "s362:01c22",
    "op": "15",
    "jp": "アンゲルス教団の総本山、\nそれは・・・",
-   "en": "",
+   "en": "The Holy See of the Angelus Order, it is...",
    "box": "17x3",
    "face": 17
   },
@@ -361,7 +361,7 @@
    "id": "s362:01c5a",
    "op": "15",
    "jp": "ソドムとゴモラの街の向こう、\n悪魔の海峡辺りだと\n伝えられています・・・",
-   "en": "",
+   "en": "beyond the towns of Sodom and Gomorrah, near the Devil's Strait, or so it is told...",
    "box": "17x3",
    "face": 17
   },
@@ -369,7 +369,7 @@
    "id": "s362:01d32",
    "op": "15",
    "jp": "みんな、まさかまたこんな話を\n鵜呑みにするんじゃねぇだろうな。",
-   "en": "",
+   "en": "Hey, you lot ain't gonna swallow a story like this whole again, are you?",
    "box": "17x3",
    "face": 1
   },
@@ -393,28 +393,28 @@
    "id": "s362:01dca",
    "op": "1d",
    "jp": "ご主人様の居場所！",
-   "en": "",
+   "en": "Where's my master!",
    "max": 15
   },
   {
    "id": "s362:01de4",
    "op": "1d",
    "jp": "最後の鎧の場所！！",
-   "en": "",
+   "en": "Where's the last armor!!",
    "max": 15
   },
   {
    "id": "s362:01e00",
    "op": "1d",
    "jp": "仲間が欲しい！！！",
-   "en": "",
+   "en": "I want a companion!!!",
    "max": 15
   },
   {
    "id": "s362:01eaa",
    "op": "15",
    "jp": "そんなお方は・・\n私、知りませんわ！",
-   "en": "",
+   "en": "I know of no such person, I'm afraid!",
    "box": "17x3",
    "face": 17
   },
@@ -422,7 +422,7 @@
    "id": "s362:01f66",
    "op": "15",
    "jp": "鎧は鎧を呼ぶという\n言い伝え通りなら、",
-   "en": "",
+   "en": "If the old saying holds, that armor calls to armor,",
    "box": "17x3",
    "face": 17
   },
@@ -430,7 +430,7 @@
    "id": "s362:01f9e",
    "op": "15",
    "jp": "いずれ、\nあなた方の元にあらわれるでしょう。",
-   "en": "",
+   "en": "it will come to you in time.",
    "box": "17x3",
    "face": 17
   },
@@ -438,7 +438,7 @@
    "id": "s362:02086",
    "op": "15",
    "jp": "そうですねタルシス、\nどうですか・・・",
-   "en": "",
+   "en": "Let me see... Tarsis, what do you say...",
    "box": "17x3",
    "face": 17
   },
@@ -446,7 +446,7 @@
    "id": "s362:020ce",
    "op": "15",
    "jp": "はい、\nわたくしでよろしければ・・・",
-   "en": "",
+   "en": "Yes, if I would be of use...",
    "box": "17x3",
    "face": 24
   },
@@ -454,7 +454,7 @@
    "id": "s362:02138",
    "op": "14",
    "jp": "タルシスが仲間になった！！",
-   "en": "",
+   "en": "Tarsis joined the party!!",
    "box": "17x3",
    "face": 104
   },
@@ -462,7 +462,7 @@
    "id": "s362:02192",
    "op": "15",
    "jp": "じゃあな、\nすべてが終わったらこの街に\nやってくるかもしれないぜ！",
-   "en": "",
+   "en": "Later, then. Once this is all over, maybe I'll drop by this town!",
    "box": "17x3",
    "face": 1
   },
@@ -470,7 +470,7 @@
    "id": "s362:021f6",
    "op": "15",
    "jp": "ボクも、また\n来てもいい・・・！？",
-   "en": "",
+   "en": "C-can I come back too...!?",
    "box": "17x3",
    "face": 3
   },
@@ -478,7 +478,7 @@
    "id": "s362:0223a",
    "op": "15",
    "jp": "喜んでお待ちしますわ！",
-   "en": "",
+   "en": "I shall gladly await you!",
    "box": "17x3",
    "face": 17
   },
@@ -486,7 +486,7 @@
    "id": "s362:02272",
    "op": "15",
    "jp": "どっかで強そうな奴らがいたら、\nここの事を紹介しといてやるよ。",
-   "en": "",
+   "en": "If I run into any tough-lookin' guys, I'll tell 'em about this place.",
    "box": "17x3",
    "face": 2
   },
@@ -494,7 +494,7 @@
    "id": "s362:022d2",
    "op": "15",
    "jp": "ええ、\n有り難う御座います。",
-   "en": "",
+   "en": "Yes, you have my thanks.",
    "box": "17x3",
    "face": 17
   },
@@ -502,7 +502,7 @@
    "id": "s362:02482",
    "op": "15",
    "jp": "ところでお嬢さん、",
-   "en": "",
+   "en": "By the way, young lady,",
    "box": "17x3",
    "face": 17
   },
@@ -510,7 +510,7 @@
    "id": "s362:024a6",
    "op": "15",
    "jp": "貴方本当に、その相手に対して\n欲情しているだけじゃないって\n言い切れる・・・？クスッ。",
-   "en": "",
+   "en": "can you truly swear that what you feel for that person is more than mere infatuation...? Tee hee.",
    "box": "17x3",
    "face": 17
   },
@@ -518,7 +518,7 @@
    "id": "s362:02532",
    "op": "15",
    "jp": "では、\nいくかのうルピルピ。",
-   "en": "",
+   "en": "Well then, shall we be off, Rupirupi, eh?",
    "box": "17x3",
    "face": 5
   },
@@ -526,7 +526,7 @@
    "id": "s362:025ca",
    "op": "15",
    "jp": "あ、は・はい！！",
-   "en": "",
+   "en": "Oh, y-yes!!",
    "box": "17x3",
    "face": 6
   },
@@ -534,7 +534,7 @@
    "id": "s362:02606",
    "op": "15",
    "jp": "そんなこと言われたって・・・ねぇ！",
-   "en": "",
+   "en": "Saying a thing like that to me... I mean, really!",
    "box": "17x3",
    "face": 6
   }

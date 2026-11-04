@@ -9,7 +9,7 @@
    "id": "s467:00c72",
    "op": "15",
    "jp": "どうやらここに居る限り、\n奴らとの戦いは避けられねぇ\nみてぇだな。",
-   "en": "",
+   "en": "Looks like as long as we're here, we can't dodge fightin' those bastards.",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s467:00cc6",
    "op": "15",
    "jp": "早いとこ、\nこの塔の上まで登って、\nここから出るしか無さそうだぜ！",
-   "en": "",
+   "en": "Only way out's climbin' to the top of this tower quick and gettin' outta here, dammit!",
    "box": "17x3",
    "face": 2
   },
@@ -41,7 +41,7 @@
    "id": "s467:00dd2",
    "op": "15",
    "jp": "どう考えてもワナの臭いが\nぷんぷんするぜ！",
-   "en": "",
+   "en": "Any way you slice it, this reeks of a trap!",
    "box": "17x3",
    "face": 1
   },
@@ -49,7 +49,7 @@
    "id": "s467:00e82",
    "op": "15",
    "jp": "爺さん、あんたこの先\nオレ達をどうするつもりだ！？",
-   "en": "",
+   "en": "Old man, what do you plan to do with us from here!?",
    "box": "17x3",
    "face": 1
   },
@@ -65,7 +65,7 @@
    "id": "s467:00ef6",
    "op": "15",
    "jp": "みんなはまだ、この黒い羽の\n爺さんの道案内を\n信用する気でいるのか？",
-   "en": "",
+   "en": "Is everyone still planning to trust this black-winged old man's guidance?",
    "box": "17x3",
    "face": 1
   },
@@ -89,7 +89,7 @@
    "id": "s467:00f9e",
    "op": "15",
    "jp": "だけど、さっきのバカ女が\n言ってた話を、本当に鵜呑みに\nしちまってもいいのか！？",
-   "en": "",
+   "en": "But can we really swallow what that stupid broad said whole!?",
    "box": "17x3",
    "face": 2
   },
@@ -105,7 +105,7 @@
    "id": "s467:0119a",
    "op": "15",
    "jp": "だけどそれじゃあ、\n誰の言う事を信じれば\n良いのかな？",
-   "en": "",
+   "en": "But then, um, whose word should we believe?",
    "box": "17x3",
    "face": 3
   },
@@ -121,7 +121,7 @@
    "id": "s467:01212",
    "op": "15",
    "jp": "結局、信じられるのは、\n己自身の判断力のみって事だな。",
-   "en": "",
+   "en": "In the end, all you can trust is your own judgment.",
    "box": "17x3",
    "face": 1
   },
@@ -129,7 +129,7 @@
    "id": "s467:0126a",
    "op": "15",
    "jp": "僕は、僕はこの世界の真実を\nこの目で確かめ、",
-   "en": "",
+   "en": "I... I want to confirm the truth of this world with my own eyes,",
    "box": "17x3",
    "face": 4
   },
@@ -137,7 +137,7 @@
    "id": "s467:012aa",
    "op": "15",
    "jp": "虐げられた人々を救う道を\n模索する事！！",
-   "en": "",
+   "en": "and seek a way to save the oppressed!!",
    "box": "17x3",
    "face": 4
   },
@@ -145,7 +145,7 @@
    "id": "s467:01342",
    "op": "15",
    "jp": "それこそが\nこの旅の目的なんです！！",
-   "en": "",
+   "en": "That is the purpose of this journey!!",
    "box": "17x3",
    "face": 4
   },
@@ -161,7 +161,7 @@
    "id": "s467:01432",
    "op": "15",
    "jp": "弱虫のボクは・・・\nもし、みんなと逢えなかったら",
-   "en": "",
+   "en": "Weakling me... if I hadn't met everyone...",
    "box": "17x3",
    "face": 3
   },
@@ -169,7 +169,7 @@
    "id": "s467:01476",
    "op": "15",
    "jp": "きっと今でもあの薄暗い牢屋で\n何も出来ずにずっと震えてたよ・・・",
-   "en": "",
+   "en": "I'd surely still be shaking in that dim cell, unable to do anything...",
    "box": "17x3",
    "face": 3
   },
@@ -177,7 +177,7 @@
    "id": "s467:014fa",
    "op": "15",
    "jp": "ボクはあんまり頭が良くないから\n難しいことはよく分かんないけど、",
-   "en": "",
+   "en": "I'm not very smart, so I don't really get hard stuff, but,",
    "box": "17x3",
    "face": 3
   },
@@ -185,7 +185,7 @@
    "id": "s467:0157e",
    "op": "15",
    "jp": "愛って、愛って言うものが\nどんなものなのか、ずっと・・・\nずっとそれが知りたかったんだ！！",
-   "en": "",
+   "en": "love... what love is... all this time... all this time I've wanted to know!!",
    "box": "17x3",
    "face": 3
   },
@@ -201,7 +201,7 @@
    "id": "s467:0162a",
    "op": "15",
    "jp": "だけど、それって結局・・・\n教団のやってる事と、\nいっしょじゃないのかしら！？",
-   "en": "",
+   "en": "But in the end, isn't that... the same thing the Order does!?",
    "box": "17x3",
    "face": 6
   },
@@ -209,7 +209,7 @@
    "id": "s467:017fa",
    "op": "15",
    "jp": "愛を求めて、\n自由を求めて、",
-   "en": "",
+   "en": "Seeking love, seeking freedom,",
    "box": "17x3",
    "face": 6
   },
@@ -217,7 +217,7 @@
    "id": "s467:018d6",
    "op": "15",
    "jp": "一見、教団の教えに\n背いてはいるけど、\nその目的のために何をしたのよ！？",
-   "en": "",
+   "en": "on the surface you're defying the Order's teachings, but what did you do for those goals!?",
    "box": "17x3",
    "face": 6
   },
@@ -225,7 +225,7 @@
    "id": "s467:0193e",
    "op": "15",
    "jp": "自分の欲しいものの為に闘う\nなんて、",
-   "en": "",
+   "en": "Fighting for the things you want...",
    "box": "17x3",
    "face": 6
   },
@@ -233,7 +233,7 @@
    "id": "s467:01976",
    "op": "15",
    "jp": "アイツ等のやり方と\n何も変わらないじゃない！！",
-   "en": "",
+   "en": "that's no different from how those people do things!!",
    "box": "17x3",
    "face": 6
   },
@@ -249,7 +249,7 @@
    "id": "s467:019e2",
    "op": "15",
    "jp": "その目的の為に・・・\n私達は人だって殺したのよ！？",
-   "en": "",
+   "en": "For those goals... we've even killed people, you know!?",
    "box": "17x3",
    "face": 6
   },
@@ -257,7 +257,7 @@
    "id": "s467:01a5a",
    "op": "15",
    "jp": "それなのに・・・",
-   "en": "",
+   "en": "And yet...",
    "box": "17x3",
    "face": 6
   },
@@ -265,7 +265,7 @@
    "id": "s467:01a7e",
    "op": "15",
    "jp": "私はただお師匠さまの役に\n立ちたかっただけ！！",
-   "en": "",
+   "en": "All I wanted was to be of use to you, Master!!",
    "box": "17x3",
    "face": 6
   },
@@ -273,7 +273,7 @@
    "id": "s467:01af2",
    "op": "15",
    "jp": "それ以外はどうでも良かったのよ！",
-   "en": "",
+   "en": "Nothing else mattered to me!",
    "box": "17x3",
    "face": 6
   },
@@ -281,7 +281,7 @@
    "id": "s467:01b26",
    "op": "15",
    "jp": "真理なんて本当は\nもうどうでもいいの！！",
-   "en": "",
+   "en": "The truth... really doesn't matter to me anymore!!",
    "box": "17x3",
    "face": 6
   },
@@ -289,7 +289,7 @@
    "id": "s467:01d8a",
    "op": "15",
    "jp": "あっ！！",
-   "en": "",
+   "en": "Ah!!",
    "box": "17x3",
    "face": 6
   },
@@ -297,7 +297,7 @@
    "id": "s467:01db2",
    "op": "15",
    "jp": "それは違うぞ・・・\nルピルピ！！",
-   "en": "",
+   "en": "That is wrong... Rupirupi!!",
    "box": "17x3",
    "face": 5
   },
@@ -305,7 +305,7 @@
    "id": "s467:01df2",
    "op": "15",
    "jp": "何故なら、\n彼らは本能に忠実なのでは無く・・・",
-   "en": "",
+   "en": "For they are not loyal to their instincts...",
    "box": "17x3",
    "face": 5
   },
@@ -313,7 +313,7 @@
    "id": "s467:01e32",
    "op": "15",
    "jp": "あくまでも、\n自分の信ずる信念に\n忠実なのじゃから・・・",
-   "en": "",
+   "en": "but ever to the convictions they themselves believe in, you see...",
    "box": "17x3",
    "face": 5
   },
@@ -321,7 +321,7 @@
    "id": "s467:01e7e",
    "op": "15",
    "jp": "人を救う事が罪になる\nこの世界で・・・",
-   "en": "",
+   "en": "In this world, where saving people is a sin...",
    "box": "17x3",
    "face": 5
   },
@@ -329,7 +329,7 @@
    "id": "s467:01eb6",
    "op": "15",
    "jp": "自分の力のみが\n頼りのこの世界で・・・",
-   "en": "",
+   "en": "In this world, where one can rely only on one's own strength...",
    "box": "17x3",
    "face": 5
   },
@@ -337,7 +337,7 @@
    "id": "s467:01eee",
    "op": "15",
    "jp": "人が、自分の信念を\n追求しようとしたとして、\n何を恥じらうことがあろう！？",
-   "en": "",
+   "en": "if a person seeks to pursue his own convictions, what is there to be ashamed of, eh!?",
    "box": "17x3",
    "face": 5
   },
@@ -353,7 +353,7 @@
    "id": "s467:0205e",
    "op": "15",
    "jp": "フッ、考えてみりゃ・・・",
-   "en": "",
+   "en": "Heh, come to think of it...",
    "box": "17x3",
    "face": 2
   },
@@ -361,7 +361,7 @@
    "id": "s467:0208a",
    "op": "15",
    "jp": "俺達は\nこんなことも話さないまま、\nここまで旅してきたんだなぁ・・・",
-   "en": "",
+   "en": "We came all this way without ever talkin' about this stuff, huh...",
    "box": "17x3",
    "face": 2
   },
@@ -369,7 +369,7 @@
    "id": "s467:02136",
    "op": "15",
    "jp": "だけどよ爺さん、\nオレは少なくともアンタのことを\nまだ信用出来たわけじゃねえんだ。",
-   "en": "",
+   "en": "But y'know, old man, I at least still can't say I trust you.",
    "box": "17x3",
    "face": 2
   },
@@ -377,7 +377,7 @@
    "id": "s467:021c2",
    "op": "15",
    "jp": "結局オレだってテメェらの事を\n利用してただけに過ぎないんだぜ。",
-   "en": "",
+   "en": "In the end, I was just usin' all you bastards too, dammit.",
    "box": "17x3",
    "face": 2
   },
@@ -385,7 +385,7 @@
    "id": "s467:02212",
    "op": "15",
    "jp": "そんなのが、\n仲間だなんて言えるのかよ。",
-   "en": "",
+   "en": "You call that bein' comrades?",
    "box": "17x3",
    "face": 2
   },
@@ -393,7 +393,7 @@
    "id": "s467:0225a",
    "op": "15",
    "jp": "俺も、同感だな。",
-   "en": "",
+   "en": "I'm with him.",
    "box": "17x3",
    "face": 1
   },
@@ -401,7 +401,7 @@
    "id": "s467:0229a",
    "op": "15",
    "jp": "ガイさんまで、何を言うんです！",
-   "en": "",
+   "en": "Gai-san, you too? What are you saying!",
    "box": "17x3",
    "face": 4
   },
@@ -409,7 +409,7 @@
    "id": "s467:022da",
    "op": "15",
    "jp": "甘いなお坊ちゃん！",
-   "en": "",
+   "en": "Naive, young master!",
    "box": "17x3",
    "face": 1
   },
@@ -417,7 +417,7 @@
    "id": "s467:022fe",
    "op": "15",
    "jp": "ここにいるみんなは、\n助け合って生きているとでも\n思ったか？",
-   "en": "",
+   "en": "You thought everyone here was living by helping each other out?",
    "box": "17x3",
    "face": 1
   },
@@ -425,7 +425,7 @@
    "id": "s467:0235a",
    "op": "15",
    "jp": "もちろんです！！",
-   "en": "",
+   "en": "Of course I did!!",
    "box": "17x3",
    "face": 4
   },
@@ -433,7 +433,7 @@
    "id": "s467:0238a",
    "op": "15",
    "jp": "違うな！\n俺達が行動を共にする理由は何だ？",
-   "en": "",
+   "en": "Wrong! Why do we stick together, anyway?",
    "box": "17x3",
    "face": 1
   },
@@ -441,7 +441,7 @@
    "id": "s467:023c6",
    "op": "15",
    "jp": "そう、生き延びるためだよ！\nお前だってみんなを利用してきたに\n過ぎないんじゃないのか？",
-   "en": "",
+   "en": "Right, to stay alive! Aren't you just using everyone too?",
    "box": "17x3",
    "face": 1
   },
@@ -457,7 +457,7 @@
    "id": "s467:02472",
    "op": "15",
    "jp": "ガイとレブロブスの\n言うとおりじゃなぁ・・",
-   "en": "",
+   "en": "Gai and Leburobus have it right, eh...",
    "box": "17x3",
    "face": 5
   },
@@ -465,7 +465,7 @@
    "id": "s467:024ee",
    "op": "15",
    "jp": "ヨハネさん！？",
-   "en": "",
+   "en": "Johannes-san!?",
    "box": "17x3",
    "face": 4
   },
@@ -473,7 +473,7 @@
    "id": "s467:025c6",
    "op": "15",
    "jp": "じゃが、わしはお主等にひとつ\n聞きたいことがある。",
-   "en": "",
+   "en": "Still, there is one thing I would ask you all.",
    "box": "17x3",
    "face": 5
   },
@@ -481,7 +481,7 @@
    "id": "s467:0260a",
    "op": "15",
    "jp": "結局みな、それぞれ自分は\nどうしたいのじゃ。",
-   "en": "",
+   "en": "In the end, what does each of you want to do, eh.",
    "box": "17x3",
    "face": 5
   },
@@ -497,7 +497,7 @@
    "id": "s467:0266e",
    "op": "15",
    "jp": "わしがどうであろうと、\n皆一人一人求めるものが\nあるのじゃろう・・・",
-   "en": "",
+   "en": "Whatever I may be, each and every one of you seeks something, I daresay...",
    "box": "17x3",
    "face": 5
   },
@@ -505,7 +505,7 @@
    "id": "s467:026c6",
    "op": "15",
    "jp": "それとも何か・・・？",
-   "en": "",
+   "en": "Or what...?",
    "box": "17x3",
    "face": 5
   },
@@ -513,7 +513,7 @@
    "id": "s467:026ee",
    "op": "15",
    "jp": "この集まり自体が、\n自らの求めるものであれば良い\nなどと考えておったのか？",
-   "en": "",
+   "en": "Did you think this gathering itself would do for the thing you seek?",
    "box": "17x3",
    "face": 5
   },
@@ -529,7 +529,7 @@
    "id": "s467:02772",
    "op": "15",
    "jp": "生き抜きたいのであろう！",
-   "en": "",
+   "en": "You want to survive, don't you!",
    "box": "17x3",
    "face": 5
   },
@@ -537,7 +537,7 @@
    "id": "s467:0279e",
    "op": "15",
    "jp": "誰かを救いたいのであろう！",
-   "en": "",
+   "en": "You want to save someone, don't you!",
    "box": "17x3",
    "face": 5
   },
@@ -545,7 +545,7 @@
    "id": "s467:027ca",
    "op": "15",
    "jp": "それとも、これまでお主達が\nやってきたことは、お主達が\n自らを否定する様なものなのか？",
-   "en": "",
+   "en": "Or is all you've done so far a thing that denies your very selves?",
    "box": "17x3",
    "face": 5
   },
@@ -553,7 +553,7 @@
    "id": "s467:02832",
    "op": "15",
    "jp": "もう一度聞こう、\nお主達はどうしたいのじゃ？",
-   "en": "",
+   "en": "I ask you once more: what do you wish to do, eh?",
    "box": "17x3",
    "face": 5
   },
@@ -577,7 +577,7 @@
    "id": "s467:0293e",
    "op": "15",
    "jp": "はっ、そうだな！",
-   "en": "",
+   "en": "Heh, fair enough!",
    "box": "17x3",
    "face": 1
   },
@@ -585,7 +585,7 @@
    "id": "s467:02992",
    "op": "15",
    "jp": "俺達は、\n一人一人じゃどうしようもねぇ。",
-   "en": "",
+   "en": "Alone, none of us can do a damn thing.",
    "box": "17x3",
    "face": 1
   },
@@ -593,7 +593,7 @@
    "id": "s467:029ce",
    "op": "15",
    "jp": "結局、バラバラになっちまっちゃ\nやりたいこともままならねぇんだ。",
-   "en": "",
+   "en": "Fall apart, and we can't even do what we want.",
    "box": "17x3",
    "face": 1
   },
@@ -601,7 +601,7 @@
    "id": "s467:02a5e",
    "op": "15",
    "jp": "ちっ、やっぱそうなるのかよ！",
-   "en": "",
+   "en": "Tch, so that's how it goes after all!",
    "box": "17x3",
    "face": 2
   },
@@ -609,7 +609,7 @@
    "id": "s467:02a9a",
    "op": "15",
    "jp": "さすがはこの爺さん、\n長いこと大神官を務めていた\nだけのことはありやがる。",
-   "en": "",
+   "en": "Figures. This old man didn't serve as High Priest all that time for nothing.",
    "box": "17x3",
    "face": 1
   },
@@ -617,7 +617,7 @@
    "id": "s467:02b2a",
    "op": "15",
    "jp": "気をつけてねぇと、\nうまく煙にまかれそうだ！",
-   "en": "",
+   "en": "Let your guard down, and he'll have you lost in his smoke!",
    "box": "17x3",
    "face": 1
   },
@@ -625,7 +625,7 @@
    "id": "s467:02b86",
    "op": "15",
    "jp": "爺さん、\n今度はオレから質問するぜ。",
-   "en": "",
+   "en": "Old man, this time I've got a question.",
    "box": "17x3",
    "face": 1
   },
@@ -633,7 +633,7 @@
    "id": "s467:02bbe",
    "op": "15",
    "jp": "真実は、この上にあるんだな！！",
-   "en": "",
+   "en": "The truth's up there, right!!",
    "box": "17x3",
    "face": 1
   },
@@ -641,7 +641,7 @@
    "id": "s467:02bfe",
    "op": "15",
    "jp": "ああ！！",
-   "en": "",
+   "en": "Aye!!",
    "box": "17x3",
    "face": 5
   },
@@ -649,7 +649,7 @@
    "id": "s467:02c36",
    "op": "15",
    "jp": "決まりだ！！",
-   "en": "",
+   "en": "Then it's settled!!",
    "box": "17x3",
    "face": 1
   },
@@ -657,7 +657,7 @@
    "id": "s467:02c56",
    "op": "15",
    "jp": "ここに居ても始まらねぇ！\nこの世界そのものに、\n俺達の想いをぶつけてやる！！",
-   "en": "",
+   "en": "Staying here won't get us anywhere! We'll hurl what we feel right at this whole world!!",
    "box": "17x3",
    "face": 1
   },
@@ -721,7 +721,7 @@
    "id": "s467:03112",
    "op": "15",
    "jp": "ルピルピよ・・・・",
-   "en": "",
+   "en": "Rupirupi....",
    "box": "17x3",
    "face": 5
   },
@@ -729,7 +729,7 @@
    "id": "s467:03136",
    "op": "15",
    "jp": "わしは先刻ガイに、\n真実はこの上にあると言ったが・・・",
-   "en": "",
+   "en": "I told Gai a while ago that the truth lies up above, but...",
    "box": "17x3",
    "face": 5
   },
@@ -737,7 +737,7 @@
    "id": "s467:0317e",
    "op": "15",
    "jp": "だがしかし、それは少し\n間違っておるのかもしれん。",
-   "en": "",
+   "en": "yet perhaps that is a little wrong.",
    "box": "17x3",
    "face": 5
   },
@@ -745,7 +745,7 @@
    "id": "s467:031c2",
    "op": "15",
    "jp": "真実はすでに・・・\nもう、それぞれの心の中に\nあるのではないかな！？",
-   "en": "",
+   "en": "Mightn't the truth already... be in each person's own heart, eh!?",
    "box": "17x3",
    "face": 5
   },
@@ -761,7 +761,7 @@
    "id": "s467:03256",
    "op": "15",
    "jp": "さぁ、行くぞ！",
-   "en": "",
+   "en": "Come, let us go!",
    "box": "17x3",
    "face": 5
   },
@@ -769,7 +769,7 @@
    "id": "s467:03276",
    "op": "15",
    "jp": "わし等はまだ、\nこの世界の行き着く先を\n見届けてはおらんのだ！",
-   "en": "",
+   "en": "We have yet to see where this world ends up, you know!",
    "box": "17x3",
    "face": 5
   }

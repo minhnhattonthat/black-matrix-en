@@ -9,7 +9,7 @@
    "id": "s533:00032",
    "op": "15",
    "jp": "本当に・・・\nそれでいいのですね・・・？",
-   "en": "",
+   "en": "Are you truly... content with that...?",
    "box": "17x3",
    "face": 19
   },
@@ -17,7 +17,7 @@
    "id": "s533:0009e",
    "op": "15",
    "jp": "もう一度念を押しておきますが、\nその方法は・・・・",
-   "en": "",
+   "en": "Let me remind you once more, that way...",
    "box": "17x3",
    "face": 19
   },
@@ -25,7 +25,7 @@
    "id": "s533:000e2",
    "op": "15",
    "jp": "貴方が新しい神に\nなるという事なのですよ！？",
-   "en": "",
+   "en": "means that you become the new god, you understand!?",
    "box": "17x3",
    "face": 19
   },
@@ -41,7 +41,7 @@
    "id": "s533:00172",
    "op": "15",
    "jp": "それではかつての記憶を\n取り戻す為に・・・",
-   "en": "",
+   "en": "Then, to regain your former memories...",
    "box": "17x3",
    "face": 19
   },
@@ -49,7 +49,7 @@
    "id": "s533:00266",
    "op": "15",
    "jp": "この知恵の実をお食べ下さい！",
-   "en": "",
+   "en": "please eat this fruit of knowledge!",
    "box": "17x3",
    "face": 19
   },
@@ -113,7 +113,7 @@
    "id": "s533:00446",
    "op": "15",
    "jp": "貴方が、自らの手で決着をつける\nというのであれば・・・",
-   "en": "",
+   "en": "If you mean to settle this by your own hand...",
    "box": "17x3",
    "face": 19
   },
@@ -121,7 +121,7 @@
    "id": "s533:0048e",
    "op": "15",
    "jp": "それもいいでしょう・・・",
-   "en": "",
+   "en": "that too is well enough...",
    "box": "17x3",
    "face": 19
   },
@@ -129,7 +129,7 @@
    "id": "s533:00522",
    "op": "14",
    "jp": "ぐっ・・・",
-   "en": "",
+   "en": "Ngh...",
    "box": "17x3",
    "face": 0
   },
@@ -145,7 +145,7 @@
    "id": "s533:00622",
    "op": "15",
    "jp": "どうやら・・・\nなにか、思い出したようですね？",
-   "en": "",
+   "en": "It seems... you have remembered something?",
    "box": "17x3",
    "face": 19
   },
@@ -161,7 +161,7 @@
    "id": "s533:00678",
    "op": "14",
    "jp": "にい・さん・・？",
-   "en": "",
+   "en": "Bro... ther...?",
    "box": "17x3",
    "face": 0
   },
@@ -169,7 +169,7 @@
    "id": "s533:00690",
    "op": "14",
    "jp": "カ・イン・・にい・さん・・！？",
-   "en": "",
+   "en": "Ca... in... bro... ther...!?",
    "box": "17x3",
    "face": 0
   },
@@ -177,7 +177,7 @@
    "id": "s533:008d2",
    "op": "15",
    "jp": "おい・・・大丈夫なのか・・・！？",
-   "en": "",
+   "en": "Hey... you all right, pal...!?",
    "box": "17x3",
    "face": 2
   },
@@ -201,7 +201,7 @@
    "id": "s533:00982",
    "op": "15",
    "jp": "だ、大丈夫お兄ちゃん・・・！？",
-   "en": "",
+   "en": "A-are you okay, big brother...!?",
    "box": "17x3",
    "face": 8
   },
@@ -217,7 +217,7 @@
    "id": "s533:00a12",
    "op": "15",
    "jp": "ほ・・本当に大丈夫なんですか！？",
-   "en": "",
+   "en": "A-are you really all right!?",
    "box": "17x3",
    "face": 7
   },
@@ -225,7 +225,7 @@
    "id": "s533:00a82",
    "op": "15",
    "jp": "ぐっ・・・",
-   "en": "",
+   "en": "Ngh...",
    "box": "17x3",
    "face": 9
   },
@@ -233,7 +233,7 @@
    "id": "s533:00a9e",
    "op": "15",
    "jp": "ボ・ボクも今頃になって・・\n頭がっ・・・・！！",
-   "en": "",
+   "en": "M-me too, now of all times... my head...!!",
    "box": "17x3",
    "face": 9
   },
@@ -257,7 +257,7 @@
    "id": "s533:00b72",
    "op": "15",
    "jp": "やっぱり・・・・",
-   "en": "",
+   "en": "I knew it...",
    "box": "17x3",
    "face": 10
   },
@@ -265,7 +265,7 @@
    "id": "s533:00b96",
    "op": "15",
    "jp": "アンタがカイン君を殺したんだ！",
-   "en": "",
+   "en": "You DID kill Cain-kun!",
    "box": "17x3",
    "face": 10
   }

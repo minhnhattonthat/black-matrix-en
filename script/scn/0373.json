@@ -9,7 +9,7 @@
    "id": "s373:0052e",
    "op": "14",
    "jp": "ここはこの街の産業を支える、\n回転式製鉄炉のある工場です。",
-   "en": "",
+   "en": "This factory, with its rotary furnace, supports our town's industry.",
    "box": "17x3",
    "face": 104
   },
@@ -17,7 +17,7 @@
    "id": "s373:00570",
    "op": "14",
    "jp": "これができたおかげで、今までの\n何倍もの強度を誇る鉄を、\n大量に作ることに成功しました。",
-   "en": "",
+   "en": "With it, we've managed to mass-produce iron many times stronger than before.",
    "box": "17x3",
    "face": 104
   },
@@ -25,7 +25,7 @@
    "id": "s373:005d0",
    "op": "14",
    "jp": "そのおかげで、すごいでしょう。\n隣の最新式繊維工場を見て下さい！",
-   "en": "",
+   "en": "And thanks to that... amazing, isn't it? Look at the new textile mill next door!",
    "box": "17x3",
    "face": 104
   },
@@ -33,7 +33,7 @@
    "id": "s373:00618",
    "op": "14",
    "jp": "大地から吹き出す蒸気の力を\n利用して滑車を動かす、\n自動機械式なんですよ！",
-   "en": "",
+   "en": "It's fully automatic, its pulleys driven by steam jetting from the earth!",
    "box": "17x3",
    "face": 104
   },
@@ -41,7 +41,7 @@
    "id": "s373:006a6",
    "op": "14",
    "jp": "どうです、この建物の巨大なこと！",
-   "en": "",
+   "en": "How about it? Just look at the sheer size of this building!",
    "box": "17x3",
    "face": 104
   },
@@ -49,7 +49,7 @@
    "id": "s373:006ce",
    "op": "14",
    "jp": "これほどのモノを作る技術は、\nここ以外どの街にもありません。",
-   "en": "",
+   "en": "No town but this one has the skill to make something like this.",
    "box": "17x3",
    "face": 104
   },
@@ -57,7 +57,7 @@
    "id": "s373:00712",
    "op": "14",
    "jp": "ここには、宿屋を造るんです。\nみんな一生懸命働いてるでしょう？",
-   "en": "",
+   "en": "Right here, we're building an inn. Everyone's working so hard, aren't they?",
    "box": "17x3",
    "face": 104
   },
@@ -65,7 +65,7 @@
    "id": "s373:00758",
    "op": "14",
    "jp": "これも生まれや\n羽の色などにこだわらず、",
-   "en": "",
+   "en": "This too, regardless of birth or wing color,",
    "box": "17x3",
    "face": 104
   },
@@ -73,7 +73,7 @@
    "id": "s373:00788",
    "op": "14",
    "jp": "優秀な人材に重要な仕事を\nしてもらった\nおかげなんです！！",
-   "en": "",
+   "en": "we owe to giving important work to talented people!!",
    "box": "17x3",
    "face": 104
   },
@@ -81,7 +81,7 @@
    "id": "s373:00806",
    "op": "14",
    "jp": "この街は立派だろう、\n俺達が一生懸命働いた証しさ！",
-   "en": "",
+   "en": "Fine town, ain't it? It's proof of how hard we worked!",
    "box": "17x3",
    "face": 104
   },
@@ -89,7 +89,7 @@
    "id": "s373:00840",
    "op": "14",
    "jp": "俺達は、羽の色に関係なく\n一緒になって働いた方が、",
-   "en": "",
+   "en": "We figured out that when we all work together, whatever our wing color,",
    "box": "17x3",
    "face": 104
   },
@@ -97,7 +97,7 @@
    "id": "s373:0087a",
    "op": "14",
    "jp": "街がこんなに立派になる\nことに気づいたのさ！",
-   "en": "",
+   "en": "a town can get this magnificent!",
    "box": "17x3",
    "face": 104
   },
@@ -105,7 +105,7 @@
    "id": "s373:008ea",
    "op": "14",
    "jp": "ここじゃあ\n羽の色なんて関係ない！",
-   "en": "",
+   "en": "Wing color don't matter here!",
    "box": "17x3",
    "face": 104
   },
@@ -113,7 +113,7 @@
    "id": "s373:00914",
    "op": "14",
    "jp": "働きに応じた\n収入が約束されるんだ。",
-   "en": "",
+   "en": "You're promised pay to match your work.",
    "box": "17x3",
    "face": 104
   },
@@ -121,7 +121,7 @@
    "id": "s373:00940",
    "op": "14",
    "jp": "探そうと思えば、\nいくらでも仕事はあるのに、",
-   "en": "",
+   "en": "There's all the work you could want if you go lookin' for it,",
    "box": "17x3",
    "face": 104
   },
@@ -129,7 +129,7 @@
    "id": "s373:00974",
    "op": "14",
    "jp": "この街で働かないような奴等は、\nはっきり言ってクズだよ！！",
-   "en": "",
+   "en": "so anybody who won't work in this town is, frankly, trash!!",
    "box": "17x3",
    "face": 104
   },
@@ -137,7 +137,7 @@
    "id": "s373:009b6",
    "op": "14",
    "jp": "領主のスタンは、\nこの街一番の働き者だったんだ",
-   "en": "",
+   "en": "Our lord, Stan, was the hardest worker in town.",
    "box": "17x3",
    "face": 104
   },
@@ -145,7 +145,7 @@
    "id": "s373:009ec",
    "op": "14",
    "jp": "だからこそ、\n彼は領主に選ばれたんだよ！！",
-   "en": "",
+   "en": "That's exactly why he was chosen lord!!",
    "box": "17x3",
    "face": 104
   },
@@ -153,7 +153,7 @@
    "id": "s373:00a5a",
    "op": "14",
    "jp": "白い羽の私でも、この街では\n好きな職業に就けて、\n自由に働けるんです！",
-   "en": "",
+   "en": "Even a White Wing like me can take any job I like in this town, and work freely!",
    "box": "17x3",
    "face": 104
   },
@@ -161,7 +161,7 @@
    "id": "s373:00aa8",
    "op": "14",
    "jp": "私はこの街に来るまでは奴隷として\n扱われていました・・・",
-   "en": "",
+   "en": "Until I came to this town, I was treated as a slave...",
    "box": "17x3",
    "face": 104
   },
@@ -169,7 +169,7 @@
    "id": "s373:00ae8",
    "op": "14",
    "jp": "前の街では、どんなに働いても\n収入はみんなご主人様が\n持っていってしまっていたんです。",
-   "en": "",
+   "en": "In my last town, however hard I worked, my master took all of my earnings.",
    "box": "17x3",
    "face": 104
   },
@@ -177,7 +177,7 @@
    "id": "s373:00b46",
    "op": "14",
    "jp": "でも、このソドムの街では、\n働けば働いただけの努力が\n収入として約束され・・・",
-   "en": "",
+   "en": "But here in Sodom, all the effort you put in is promised back to you as income...",
    "box": "17x3",
    "face": 104
   },
@@ -185,7 +185,7 @@
    "id": "s373:00b9c",
    "op": "14",
    "jp": "白い羽だからと言うだけで\nいわれもなく自分の稼ぎを\n奪われることもありません。",
-   "en": "",
+   "en": "and no one takes your earnings without cause, just because you have white wings.",
    "box": "17x3",
    "face": 104
   },
@@ -193,7 +193,7 @@
    "id": "s373:00bf2",
    "op": "14",
    "jp": "まるで、夢のようですわ！！",
-   "en": "",
+   "en": "Why, it's like a dream!!",
    "box": "17x3",
    "face": 104
   },
@@ -209,7 +209,7 @@
    "id": "s373:00c9a",
    "op": "14",
    "jp": "キサマ等・・・",
-   "en": "",
+   "en": "You lot...",
    "box": "17x3",
    "face": 104
   },
@@ -217,7 +217,7 @@
    "id": "s373:00cb0",
    "op": "14",
    "jp": "さては、手配中の\n逃亡奴隷だな！？",
-   "en": "",
+   "en": "You must be those wanted runaway slaves!?",
    "box": "17x3",
    "face": 104
   },
@@ -225,27 +225,27 @@
    "id": "s373:00d62",
    "op": "1d",
    "jp": "は　い",
-   "en": "",
+   "en": "Yes",
    "max": 15
   },
   {
    "id": "s373:00d70",
    "op": "1d",
    "jp": "いいえ",
-   "en": "",
+   "en": "No",
    "max": 15
   },
   {
    "id": "s373:00d80",
    "op": "20",
    "jp": "街を出ますか？",
-   "en": ""
+   "en": "Leave town?"
   },
   {
    "id": "s373:00dba",
    "op": "15",
    "jp": "この街には住人の誇りでもある\n常設の投票所があるんです。",
-   "en": "",
+   "en": "This town has a permanent polling place, the pride of its people.",
    "box": "17x3",
    "face": 104
   },
@@ -253,7 +253,7 @@
    "id": "s373:00e06",
    "op": "15",
    "jp": "私もその投票で、\nこの街のみなさんから、\n公平に選ばれたんですよ！",
-   "en": "",
+   "en": "I too was chosen by that vote, fairly, by everyone in town!",
    "box": "17x3",
    "face": 104
   },
@@ -261,7 +261,7 @@
    "id": "s373:00e5a",
    "op": "15",
    "jp": "この街の領主は、何か不正な\nことをすればすぐに、新しい者に\nとって代わられるのです。",
-   "en": "",
+   "en": "If the lord of this town does anything dishonest, he is replaced at once by someone new.",
    "box": "17x3",
    "face": 104
   },
@@ -269,7 +269,7 @@
    "id": "s373:00ec2",
    "op": "15",
    "jp": "なんと公平で\n素晴らしいことなのでしょう！",
-   "en": "",
+   "en": "How fair and how wonderful that is!",
    "box": "17x3",
    "face": 104
   },
@@ -277,7 +277,7 @@
    "id": "s373:00efe",
    "op": "15",
    "jp": "おおっと、そうそう！",
-   "en": "",
+   "en": "Oh, yes, of course!",
    "box": "17x3",
    "face": 104
   },
@@ -285,7 +285,7 @@
    "id": "s373:00f26",
    "op": "15",
    "jp": "ここが領主の館です。\nまぁ、今の私の住まいですがね！",
-   "en": "",
+   "en": "This is the lord's mansion. Well, it's my home for now!",
    "box": "17x3",
    "face": 104
   },
@@ -293,7 +293,7 @@
    "id": "s373:00f6e",
    "op": "15",
    "jp": "さぁどうぞ\n中へお入りください。",
-   "en": "",
+   "en": "Please, do come inside.",
    "box": "17x3",
    "face": 104
   }

@@ -9,7 +9,7 @@
    "id": "s372:008ae",
    "op": "15",
    "jp": "あっ！",
-   "en": "",
+   "en": "Ah!",
    "box": "17x3",
    "face": 135
   },
@@ -17,7 +17,7 @@
    "id": "s372:008c6",
    "op": "15",
    "jp": "あなたは！？",
-   "en": "",
+   "en": "You're...!?",
    "box": "17x3",
    "face": 135
   },
@@ -25,7 +25,7 @@
    "id": "s372:008e6",
    "op": "15",
    "jp": "救世主様だ！！",
-   "en": "",
+   "en": "It's the Savior-sama!!",
    "box": "17x3",
    "face": 135
   },
@@ -33,7 +33,7 @@
    "id": "s372:00906",
    "op": "15",
    "jp": "救世主様達が\nお着きになられたぞ！！",
-   "en": "",
+   "en": "The Savior and company have arrived!!",
    "box": "17x3",
    "face": 135
   },
@@ -41,7 +41,7 @@
    "id": "s372:00eb2",
    "op": "15",
    "jp": "ようこそ、\n我がソドムの街へ！",
-   "en": "",
+   "en": "Welcome to our town of Sodom!",
    "box": "17x3",
    "face": 47
   },
@@ -49,7 +49,7 @@
    "id": "s372:00ee2",
    "op": "15",
    "jp": "私がこの街の代表の\nスタンと申します！！",
-   "en": "",
+   "en": "I am Stan, this town's representative!!",
    "box": "17x3",
    "face": 47
   },
@@ -57,7 +57,7 @@
    "id": "s372:00f72",
    "op": "15",
    "jp": "ケルビム殿から連絡を受け\n皆様が来るのを\n心待ちにしておりました！",
-   "en": "",
+   "en": "We received word from Cherubim-dono, and we've been eagerly awaiting you all!",
    "box": "17x3",
    "face": 47
   },
@@ -65,7 +65,7 @@
    "id": "s372:00fd6",
    "op": "15",
    "jp": "凄い・・・本当だわ！\n白い羽の人が領主をしている？！",
-   "en": "",
+   "en": "Amazing... It's true! A White Wing serving as lord!?",
    "box": "17x3",
    "face": 6
   },
@@ -89,7 +89,7 @@
    "id": "s372:0109a",
    "op": "15",
    "jp": "ここには常設の投票所があって、\n私も投票によって\n公平に選ばれたんですよ！！",
-   "en": "",
+   "en": "We have a permanent polling place here, and I too was fairly chosen by vote!!",
    "box": "17x3",
    "face": 47
   },
@@ -97,7 +97,7 @@
    "id": "s372:010fa",
    "op": "15",
    "jp": "それよりどうですか、\nこの建物！",
-   "en": "",
+   "en": "More to the point, what do you think of this building!",
    "box": "17x3",
    "face": 47
   },
@@ -105,7 +105,7 @@
    "id": "s372:0112e",
    "op": "15",
    "jp": "これほどの物を作る技術は、\nここソドムを除いては\nどこの街にもありません！",
-   "en": "",
+   "en": "No town but Sodom has the skill to make something like this!",
    "box": "17x3",
    "face": 47
   },
@@ -113,7 +113,7 @@
    "id": "s372:0118a",
    "op": "15",
    "jp": "羽の色などにこだわらず、\n優秀な人材に重要な仕事を\nしてもらったおかげなんです！",
-   "en": "",
+   "en": "We owe it all to giving important work to talented people, whatever their wing color!",
    "box": "17x3",
    "face": 47
   },
@@ -121,7 +121,7 @@
    "id": "s372:011ee",
    "op": "15",
    "jp": "さぁ、どうぞ\nこの街を見てやってください！",
-   "en": "",
+   "en": "Now then, please, take a look at this town!",
    "box": "17x3",
    "face": 47
   }

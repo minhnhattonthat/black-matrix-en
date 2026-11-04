@@ -9,7 +9,7 @@
    "id": "s418:00ee2",
    "op": "15",
    "jp": "なるほど！",
-   "en": "",
+   "en": "I see!",
    "box": "17x3",
    "face": 121
   },
@@ -17,7 +17,7 @@
    "id": "s418:00efe",
    "op": "15",
    "jp": "それでは、\nこれが最後の設問です。",
-   "en": "",
+   "en": "Then this is the final question.",
    "box": "17x3",
    "face": 121
   },
@@ -33,7 +33,7 @@
    "id": "s418:00f7e",
    "op": "15",
    "jp": "お、お父ちゃんの、\nお父ちゃんの仇ぃいぃ！！",
-   "en": "",
+   "en": "Y-you killed my pa, you killed my paaa!!",
    "box": "17x3",
    "face": 54
   },
@@ -41,7 +41,7 @@
    "id": "s418:0114a",
    "op": "15",
    "jp": "お、おい！ちょっと待て！！\nお前ら一体！？",
-   "en": "",
+   "en": "H-hey! Wait a sec!! What the hell are you people!?",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s418:01196",
    "op": "15",
    "jp": "彼女達は、今までアナタ方が\n無造作に殺してきた、",
-   "en": "",
+   "en": "They are the ones left behind by those you have so carelessly slain,",
    "box": "17x3",
    "face": 121
   },
@@ -57,7 +57,7 @@
    "id": "s418:011da",
    "op": "15",
    "jp": "名も無き兵士達の、\n遺族です！！",
-   "en": "",
+   "en": "the families of nameless soldiers!!",
    "box": "17x3",
    "face": 121
   },
@@ -73,7 +73,7 @@
    "id": "s418:01246",
    "op": "15",
    "jp": "兵士として殺された\n彼ら自身の善悪はともかく、",
-   "en": "",
+   "en": "Whatever the good or evil of those slain as soldiers,",
    "box": "17x3",
    "face": 121
   },
@@ -81,7 +81,7 @@
    "id": "s418:01286",
    "op": "15",
    "jp": "彼らにも当然家族があり、",
-   "en": "",
+   "en": "they naturally had families,",
    "box": "17x3",
    "face": 121
   },
@@ -89,7 +89,7 @@
    "id": "s418:012b2",
    "op": "15",
    "jp": "誰かを殺せば、\n必ず誰かの怨みを買う。",
-   "en": "",
+   "en": "and kill someone, and you always earn someone's hatred.",
    "box": "17x3",
    "face": 121
   },
@@ -97,7 +97,7 @@
    "id": "s418:012ea",
    "op": "15",
    "jp": "彼女達の復讐心は、これまでの\nアナタ方の行動が招いた、\n至極当然の結果です！！",
-   "en": "",
+   "en": "Their thirst for revenge is the entirely natural result of your own actions!!",
    "box": "17x3",
    "face": 121
   },
@@ -105,7 +105,7 @@
    "id": "s418:0135a",
    "op": "15",
    "jp": "くっ！",
-   "en": "",
+   "en": "Ngh!",
    "box": "17x3",
    "face": 1
   },
@@ -113,7 +113,7 @@
    "id": "s418:01382",
    "op": "15",
    "jp": "残された彼女達の存在を\n戦闘中に、一度でも\n考えた事が有りますか？",
-   "en": "",
+   "en": "Have you ever once, in battle, spared a thought for those left behind?",
    "box": "17x3",
    "face": 121
   },
@@ -121,7 +121,7 @@
    "id": "s418:013e6",
    "op": "15",
    "jp": "きっ、キサマ！！",
-   "en": "",
+   "en": "Y-you bastard!!",
    "box": "17x3",
    "face": 1
   },
@@ -129,7 +129,7 @@
    "id": "s418:0140a",
    "op": "15",
    "jp": "最初から、このワナに\n俺達をはめるつもりで！",
-   "en": "",
+   "en": "You meant to spring this trap on us from the start!",
    "box": "17x3",
    "face": 1
   },
@@ -137,7 +137,7 @@
    "id": "s418:01456",
    "op": "15",
    "jp": "参考までに言っておきますが、\n彼女らはどこまでもアナタ方を\n追い続けることでしょう・・・",
-   "en": "",
+   "en": "For your reference, they will go on pursuing you, wherever you go...",
    "box": "17x3",
    "face": 121
   },
@@ -145,7 +145,7 @@
    "id": "s418:014c2",
    "op": "15",
    "jp": "例え逃げたり誤魔化そうとしても、\n決着はつきませんよ。",
-   "en": "",
+   "en": "Flee or dodge as you may, it will never be settled.",
    "box": "17x3",
    "face": 121
   },
@@ -153,7 +153,7 @@
    "id": "s418:0151a",
    "op": "15",
    "jp": "おい、いったいどうするんだ！？",
-   "en": "",
+   "en": "Hey, what the hell are we gonna do!?",
    "box": "17x3",
    "face": 2
   },
@@ -161,28 +161,28 @@
    "id": "s418:0155a",
    "op": "1d",
    "jp": "このまま戦う！！",
-   "en": "",
+   "en": "Keep fighting!!",
    "max": 15
   },
   {
    "id": "s418:01574",
    "op": "1d",
    "jp": "逃げるように努力する",
-   "en": "",
+   "en": "Try to get away",
    "max": 15
   },
   {
    "id": "s418:01590",
    "op": "1d",
    "jp": "彼女らに殺される？",
-   "en": "",
+   "en": "Let them kill us?",
    "max": 15
   },
   {
    "id": "s418:015de",
    "op": "15",
    "jp": "それもやむを得ないか。",
-   "en": "",
+   "en": "Guess that can't be helped.",
    "box": "17x3",
    "face": 1
   },
@@ -190,7 +190,7 @@
    "id": "s418:01616",
    "op": "15",
    "jp": "確かに、それも\n一つの真理ですからね・・・",
-   "en": "",
+   "en": "True, that too is one truth...",
    "box": "17x3",
    "face": 4
   },
@@ -198,7 +198,7 @@
    "id": "s418:01682",
    "op": "15",
    "jp": "それもやむを得ないか。",
-   "en": "",
+   "en": "Guess that can't be helped.",
    "box": "17x3",
    "face": 1
   },
@@ -206,7 +206,7 @@
    "id": "s418:016ba",
    "op": "15",
    "jp": "確かに、それも\n一つの真理ですからね・・・",
-   "en": "",
+   "en": "True, that too is one truth...",
    "box": "17x3",
    "face": 4
   },
@@ -214,7 +214,7 @@
    "id": "s418:01706",
    "op": "15",
    "jp": "確かに、奴が言う事を\nそのまま信用するのは\n危険すぎる。",
-   "en": "",
+   "en": "Indeed, trusting what he says at face value is far too dangerous.",
    "box": "17x3",
    "face": 5
   },
@@ -222,7 +222,7 @@
    "id": "s418:01752",
    "op": "15",
    "jp": "とにかく全員で、\nここを突破するんじゃ！",
-   "en": "",
+   "en": "In any case, we break through here, all of us together!",
    "box": "17x3",
    "face": 5
   },
@@ -230,7 +230,7 @@
    "id": "s418:0178e",
    "op": "15",
    "jp": "だが最悪、\n戦うこともあり得ると、\n覚悟しておくのじゃぞ！？",
-   "en": "",
+   "en": "But at worst, it may come to a fight. Be ready for that, eh!?",
    "box": "17x3",
    "face": 5
   },
@@ -238,7 +238,7 @@
    "id": "s418:0180e",
    "op": "15",
    "jp": "それもやむを得ないか。",
-   "en": "",
+   "en": "Can't be helped, I suppose.",
    "box": "17x3",
    "face": 1
   },
@@ -246,7 +246,7 @@
    "id": "s418:01846",
    "op": "15",
    "jp": "確かに、それも\n一つの真理ですからね・・・",
-   "en": "",
+   "en": "True, that is one truth as well, after all...",
    "box": "17x3",
    "face": 4
   }

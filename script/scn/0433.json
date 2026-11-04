@@ -9,7 +9,7 @@
    "id": "s433:00b86",
    "op": "15",
    "jp": "どうやら、この方の発作は\nおさまったようですね。",
-   "en": "",
+   "en": "It seems her attack has subsided.",
    "box": "17x3",
    "face": 53
   },
@@ -17,7 +17,7 @@
    "id": "s433:00bd6",
    "op": "15",
    "jp": "すまぬ、面倒をかけたようじゃ。",
-   "en": "",
+   "en": "Forgive me. We seem to have troubled you, eh.",
    "box": "17x3",
    "face": 5
   },
@@ -25,7 +25,7 @@
    "id": "s433:00c16",
    "op": "15",
    "jp": "単刀直入に聞きたいんだが、",
-   "en": "",
+   "en": "I'll get right to the point.",
    "box": "17x3",
    "face": 1
   },
@@ -33,7 +33,7 @@
    "id": "s433:00c42",
    "op": "15",
    "jp": "教団の総本山とやらは、\nいったい何処にあるんだ？",
-   "en": "",
+   "en": "Just where is this Holy See of the Order?",
    "box": "17x3",
    "face": 1
   },
@@ -41,7 +41,7 @@
    "id": "s433:00c92",
    "op": "15",
    "jp": "バベルの塔のはるか上空、",
-   "en": "",
+   "en": "High above the Tower of Babel,",
    "box": "17x3",
    "face": 53
   },
@@ -49,7 +49,7 @@
    "id": "s433:00cbe",
    "op": "15",
    "jp": "厚い雲の上を浮遊する\n約束の地、ディアボロスに\n総本山は存在します。",
-   "en": "",
+   "en": "in the Promised Land, Diabolos, floating above the thick clouds, stands the Holy See.",
    "box": "17x3",
    "face": 53
   },
@@ -57,7 +57,7 @@
    "id": "s433:00d4a",
    "op": "15",
    "jp": "何だってぇ！？",
-   "en": "",
+   "en": "What did you say!?",
    "box": "17x3",
    "face": 2
   },
@@ -73,7 +73,7 @@
    "id": "s433:00de6",
    "op": "15",
    "jp": "どおりで、誰も\n詳しい事を知らないはずだぜ。",
-   "en": "",
+   "en": "No wonder nobody knows the details, dammit.",
    "box": "17x3",
    "face": 2
   },
@@ -81,7 +81,7 @@
    "id": "s433:00e32",
    "op": "15",
    "jp": "あの場所へは、教皇の許しが\n無ければ、何人たりとも\n立ち入る事は出来ません。",
-   "en": "",
+   "en": "Without the Pope's leave, no one whosoever may set foot there.",
    "box": "17x3",
    "face": 53
   },
@@ -89,7 +89,7 @@
    "id": "s433:00e92",
    "op": "15",
    "jp": "そう、たった一つの\n例外を除いては・・・",
-   "en": "",
+   "en": "Yes, but for one single exception...",
    "box": "17x3",
    "face": 53
   },
@@ -105,7 +105,7 @@
    "id": "s433:00efa",
    "op": "15",
    "jp": "アナタ方に、ぜひ\nお見せしたい物があります。",
-   "en": "",
+   "en": "There is something I would very much like to show you.",
    "box": "17x3",
    "face": 53
   },
@@ -113,7 +113,7 @@
    "id": "s433:0112e",
    "op": "15",
    "jp": "世界の中心にあるバベルの塔、",
-   "en": "",
+   "en": "The Tower of Babel, at the center of the world,",
    "box": "17x3",
    "face": 53
   },
@@ -121,7 +121,7 @@
    "id": "s433:0115e",
    "op": "15",
    "jp": "そして天空へと連なる\n七つの鎖。",
-   "en": "",
+   "en": "and the seven chains stretching into the sky.",
    "box": "17x3",
    "face": 53
   },
@@ -129,7 +129,7 @@
    "id": "s433:01192",
    "op": "15",
    "jp": "この世界は、バベルの塔に\n捧げられた生Γと、",
-   "en": "",
+   "en": "This world, it is said, is upheld by the sacrifices offered to the Tower of Babel,",
    "box": "17x3",
    "face": 53
   },
@@ -137,7 +137,7 @@
    "id": "s433:011d2",
    "op": "15",
    "jp": "大邪神を封じた\n七つの鎖によって支えられる\nと言われています。",
-   "en": "",
+   "en": "and by the seven chains that seal the Great Evil Gods.",
    "box": "17x3",
    "face": 53
   },
@@ -145,7 +145,7 @@
    "id": "s433:01532",
    "op": "15",
    "jp": "だ、だけどオイ！",
-   "en": "",
+   "en": "B-but hey!",
    "box": "17x3",
    "face": 2
   },
@@ -153,7 +153,7 @@
    "id": "s433:01556",
    "op": "15",
    "jp": "その肝心の鎖ってやつは\nすでに５本も\n切れちまってるじゃねぇか！？",
-   "en": "",
+   "en": "Five of those all-important chains are already snapped, ain't they!?",
    "box": "17x3",
    "face": 2
   },
@@ -161,7 +161,7 @@
    "id": "s433:015ba",
    "op": "15",
    "jp": "天界の玉座にある七つの封印が\n解かれない限り、",
-   "en": "",
+   "en": "So long as the seven seals on the throne of Heaven remain unbroken,",
    "box": "17x3",
    "face": 53
   },
@@ -169,7 +169,7 @@
    "id": "s433:015fa",
    "op": "15",
    "jp": "世界は悪しき状態の\nままに継続するが・・・",
-   "en": "",
+   "en": "the world continues on in its evil state...",
    "box": "17x3",
    "face": 53
   },
@@ -177,7 +177,7 @@
    "id": "s433:01636",
    "op": "15",
    "jp": "神の子羊が順次その\n封印を解いたとき、",
-   "en": "",
+   "en": "But when the Lamb of God breaks those seals in turn,",
    "box": "17x3",
    "face": 53
   },
@@ -185,7 +185,7 @@
    "id": "s433:0166e",
    "op": "15",
    "jp": "さまざまな災いや死、\n闘争などが\n世界中へと広がる・・・",
-   "en": "",
+   "en": "calamity, death, strife and more spread across the world...",
    "box": "17x3",
    "face": 53
   },
@@ -193,7 +193,7 @@
    "id": "s433:016ba",
    "op": "15",
    "jp": "ハルマゲドンと呼ばれる\nアンゲルス教の聖典によれば\nこの鎖の封印が解かれるとき、",
-   "en": "",
+   "en": "According to the Angelus scripture called Armageddon, when the seals of these chains are broken,",
    "box": "17x3",
    "face": 53
   },
@@ -201,7 +201,7 @@
    "id": "s433:0171e",
    "op": "15",
    "jp": "未曾有の大災害がこの世界を\n襲うと伝えられています",
-   "en": "",
+   "en": "a disaster without precedent will strike this world, it is told.",
    "box": "17x3",
    "face": 53
   },
@@ -217,7 +217,7 @@
    "id": "s433:017a2",
    "op": "15",
    "jp": "そして私が調べた限りでは、\nアナタ方が・・・",
-   "en": "",
+   "en": "And as far as my research goes, you...",
    "box": "17x3",
    "face": 53
   },
@@ -225,7 +225,7 @@
    "id": "s433:017e2",
    "op": "15",
    "jp": "その大邪神の鎧を解放したと\nほぼ同時期にあの鎖が切れ、",
-   "en": "",
+   "en": "At nearly the same time you freed that Great Evil God's armor, that chain snapped,",
    "box": "17x3",
    "face": 53
   },
@@ -233,7 +233,7 @@
    "id": "s433:0182a",
    "op": "15",
    "jp": "それ以来、大規模な洪水や\n干ばつ、大地震などが\n世界を襲い始めたのです！！",
-   "en": "",
+   "en": "and ever since, great floods, droughts and earthquakes have begun to strike the world!!",
    "box": "17x3",
    "face": 53
   },
@@ -249,7 +249,7 @@
    "id": "s433:018c2",
    "op": "15",
    "jp": "それじゃあ、これまでに\n起こった大地震も・・・",
-   "en": "",
+   "en": "Then the big quakes so far...",
    "box": "17x3",
    "face": 2
   },
@@ -257,7 +257,7 @@
    "id": "s433:0192a",
    "op": "15",
    "jp": "俺達が鎧の封印を\n解いちまったせいだってぇのか！？",
-   "en": "",
+   "en": "Those happened 'cause we broke the armors' seals!?",
    "box": "17x3",
    "face": 2
   },
@@ -321,7 +321,7 @@
    "id": "s433:01bd6",
    "op": "15",
    "jp": "この事実こそ、アナタ方が\nアンゲルス教の聖典にある",
-   "en": "",
+   "en": "This fact is the proof that you are, as the Angelus scripture says,",
    "box": "17x3",
    "face": 53
   },
@@ -329,7 +329,7 @@
    "id": "s433:01c1a",
    "op": "15",
    "jp": "破壊と創造をもたらす\nさまよえる民である証！！",
-   "en": "",
+   "en": "the Wandering People who bring destruction and creation!!",
    "box": "17x3",
    "face": 53
   },
@@ -345,7 +345,7 @@
    "id": "s433:01d1a",
    "op": "15",
    "jp": "アナタ方が伝説の\nさまよえる民である以上、",
-   "en": "",
+   "en": "As you are the Wandering People of legend,",
    "box": "17x3",
    "face": 53
   },
@@ -353,7 +353,7 @@
    "id": "s433:01d56",
    "op": "15",
    "jp": "この石板にかかれた\n古の盟約に従って、",
-   "en": "",
+   "en": "then according to the ancient covenant written on this stone tablet,",
    "box": "17x3",
    "face": 53
   },
@@ -361,7 +361,7 @@
    "id": "s433:01d8e",
    "op": "15",
    "jp": "私が、この命に代えようとも\n必ずや、約束の地へ\nお連れします。",
-   "en": "",
+   "en": "I shall, though it cost my life, surely bring you to the Promised Land.",
    "box": "17x3",
    "face": 53
   },
@@ -369,7 +369,7 @@
    "id": "s433:01e22",
    "op": "15",
    "jp": "アタシも・・是が非でも・・\n連れていって貰いますわよ・・・",
-   "en": "",
+   "en": "I... no matter what... you are taking me too, you know...",
    "box": "17x3",
    "face": 6
   },
@@ -377,7 +377,7 @@
    "id": "s433:01f5e",
    "op": "15",
    "jp": "ルピルピ！",
-   "en": "",
+   "en": "Rupirupi!",
    "box": "17x3",
    "face": 5
   },
@@ -385,7 +385,7 @@
    "id": "s433:01f8a",
    "op": "15",
    "jp": "そうじゃなきゃ、ア、アタシの\n日記に、みんなの名前を\n書きこんじゃうから。",
-   "en": "",
+   "en": "If you don't, I-I'll write everyone's names in my diary.",
    "box": "17x3",
    "face": 6
   }

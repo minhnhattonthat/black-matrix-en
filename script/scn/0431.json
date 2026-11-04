@@ -9,7 +9,7 @@
    "id": "s431:00c0e",
    "op": "15",
    "jp": "この船は、今でこそ逃亡した\n奴隷や弱者達の巣窟に\nなっていますが、",
-   "en": "",
+   "en": "These days this ship is a den of runaway slaves and the weak, but",
    "box": "17x3",
    "face": 121
   },
@@ -17,7 +17,7 @@
    "id": "s431:00ce2",
    "op": "15",
    "jp": "古い伝承によると、",
-   "en": "",
+   "en": "according to old lore,",
    "box": "17x3",
    "face": 121
   },
@@ -25,7 +25,7 @@
    "id": "s431:00d06",
    "op": "15",
    "jp": "この箱船こそが\n全ての動物の祖先達を、\nこの地へと運んだ、",
-   "en": "",
+   "en": "this very Ark carried the ancestors of all animals to this land,",
    "box": "17x3",
    "face": 121
   },
@@ -33,7 +33,7 @@
    "id": "s431:00d52",
    "op": "15",
    "jp": "ゆりかごであったと\n伝えられています。",
-   "en": "",
+   "en": "their cradle, so it is told.",
    "box": "17x3",
    "face": 121
   },
@@ -49,7 +49,7 @@
    "id": "s431:00eaa",
    "op": "15",
    "jp": "ごほっ・・ごほっごほっ・・・！",
-   "en": "",
+   "en": "Koff.. koff koff...!",
    "box": "17x3",
    "face": 6
   },
@@ -57,7 +57,7 @@
    "id": "s431:00f46",
    "op": "15",
    "jp": "大丈夫かルピルピ！？",
-   "en": "",
+   "en": "Are you all right, Rupirupi!?",
    "box": "17x3",
    "face": 5
   },
@@ -65,7 +65,7 @@
    "id": "s431:01386",
    "op": "15",
    "jp": "とりあえず、\n私の部屋までお連れ下さい。",
-   "en": "",
+   "en": "For now, please bring her to my room.",
    "box": "17x3",
    "face": 121
   },
@@ -73,7 +73,7 @@
    "id": "s431:013c2",
    "op": "15",
    "jp": "（悪魔の鎧を着た者には\n　不可避の運命・・・）",
-   "en": "",
+   "en": "(The inescapable fate of those who wear devil armor...)",
    "box": "17x3",
    "face": 121
   },
@@ -81,7 +81,7 @@
    "id": "s431:01402",
    "op": "15",
    "jp": "（私と同じように、この方の\n　命の灯火もすでに\n　長くはないようですね・・・）",
-   "en": "",
+   "en": "(Like mine, the flame of this one's life has not long to burn, it seems...)",
    "box": "17x3",
    "face": 121
   },

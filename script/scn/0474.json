@@ -9,7 +9,7 @@
    "id": "s474:001de",
    "op": "15",
    "jp": "ここは！？",
-   "en": "",
+   "en": "Where's this!?",
    "box": "17x3",
    "face": 1
   },
@@ -17,7 +17,7 @@
    "id": "s474:0020a",
    "op": "15",
    "jp": "こここそが、全ての始まりの場所、\n約束の地ディアボロスじゃ！",
-   "en": "",
+   "en": "This is the place where all began, the Promised Land, Diabolos, my boy!",
    "box": "17x3",
    "face": 5
   },
@@ -25,7 +25,7 @@
    "id": "s474:00266",
    "op": "15",
    "jp": "ここが！？",
-   "en": "",
+   "en": "This is it!?",
    "box": "17x3",
    "face": 4
   },
@@ -33,7 +33,7 @@
    "id": "s474:00282",
    "op": "15",
    "jp": "（神話の中にしか存在しない\n　伝説の場所だと\n　思っていたのに！？）",
-   "en": "",
+   "en": "(I thought it was a legendary place, existing only in myth!?)",
    "box": "17x3",
    "face": 4
   },
@@ -41,7 +41,7 @@
    "id": "s474:002e6",
    "op": "15",
    "jp": "ひ、人が居るけど\n何か変なカンジだな。",
-   "en": "",
+   "en": "Th-there are people, but, um, something feels weird.",
    "box": "17x3",
    "face": 3
   },
@@ -49,7 +49,7 @@
    "id": "s474:0032e",
    "op": "15",
    "jp": "確かに変だな、\nあいつらからは精気が全く\n感じられねぇ！？",
-   "en": "",
+   "en": "Yeah, it's weird. There's no life in those guys at all!?",
    "box": "17x3",
    "face": 1
   },
@@ -57,7 +57,7 @@
    "id": "s474:0038a",
    "op": "15",
    "jp": "ひょっとして\nあれは昔の人達の魂！？",
-   "en": "",
+   "en": "Could those be the souls of people from long ago!?",
    "box": "17x3",
    "face": 6
   },
@@ -65,7 +65,7 @@
    "id": "s474:003ce",
    "op": "15",
    "jp": "そのようじゃ・・・",
-   "en": "",
+   "en": "So it seems...",
    "box": "17x3",
    "face": 5
   },
@@ -73,7 +73,7 @@
    "id": "s474:003f2",
    "op": "15",
    "jp": "彼らは死しても、\nその魂の行き処が\nどこにもないのじゃ・・・",
-   "en": "",
+   "en": "Even in death, their souls have nowhere at all to go, you see...",
    "box": "17x3",
    "face": 5
   },
@@ -81,7 +81,7 @@
    "id": "s474:00442",
    "op": "15",
    "jp": "（悠久の時を経ても\n　ここはあの時のままなのか・・・）",
-   "en": "",
+   "en": "(Even after ages upon ages, this place is just as it was then...)",
    "box": "17x3",
    "face": 5
   }

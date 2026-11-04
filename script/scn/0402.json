@@ -9,7 +9,7 @@
    "id": "s402:00d3a",
    "op": "15",
    "jp": "何だぁ！？この大海原の何処に\n総本山があるってんだ！",
-   "en": "",
+   "en": "What the hell!? Where in this whole damn ocean is the Holy See supposed to be!",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s402:00d9e",
    "op": "15",
    "jp": "組織の人たちが調べた地図に\nよると、確かにこの辺で\nいいはずなんですが！？",
-   "en": "",
+   "en": "By the map our organization's people made, it should be right around here, though!?",
    "box": "17x3",
    "face": 4
   },
@@ -25,7 +25,7 @@
    "id": "s402:00e1a",
    "op": "15",
    "jp": "えーっ！ここまで来て\nどうしようもないなんて・・・",
-   "en": "",
+   "en": "Whaaat! To come all this way, and now nothing to be done...",
    "box": "17x3",
    "face": 6
   },
@@ -33,7 +33,7 @@
    "id": "s402:00fce",
    "op": "15",
    "jp": "ななな・・ななな・・な・な、\nな・・・・何が揺れてるの！？",
-   "en": "",
+   "en": "Wh-wh-wh... wh-wh-wh... wh... wh... wh-what's shaking!?",
    "box": "17x3",
    "face": 3
   },
@@ -41,7 +41,7 @@
    "id": "s402:0102a",
    "op": "15",
    "jp": "気を付けろ、\n落ちたら終わりだぞ！",
-   "en": "",
+   "en": "Watch it, fall and you're finished!",
    "box": "17x3",
    "face": 1
   },
@@ -49,7 +49,7 @@
    "id": "s402:010a6",
    "op": "15",
    "jp": "ふぅ、すげえ揺れだったな。\nあんなでかい地震初めてだぜ",
-   "en": "",
+   "en": "Phew, that was some shakin'. Never felt a quake that big, dammit.",
    "box": "17x3",
    "face": 2
   },
@@ -57,7 +57,7 @@
    "id": "s402:0129a",
    "op": "15",
    "jp": "み、見て下さい！！",
-   "en": "",
+   "en": "L-look, please!!",
    "box": "17x3",
    "face": 4
   },
@@ -65,7 +65,7 @@
    "id": "s402:012de",
    "op": "15",
    "jp": "ソドムとゴモラの街を、\n業火が覆い尽くしています！！",
-   "en": "",
+   "en": "Hellfire is engulfing the towns of Sodom and Gomorrah!!",
    "box": "17x3",
    "face": 4
   },
@@ -73,7 +73,7 @@
    "id": "s402:0136a",
    "op": "15",
    "jp": "こっちもだ！！",
-   "en": "",
+   "en": "Here too!!",
    "box": "17x3",
    "face": 1
   },
@@ -81,7 +81,7 @@
    "id": "s402:013aa",
    "op": "15",
    "jp": "俺達がたどった街にまで、\n無数の火の手が上がってるぜ！",
-   "en": "",
+   "en": "Countless fires are going up even in the towns we passed through!",
    "box": "17x3",
    "face": 1
   },
@@ -89,7 +89,7 @@
    "id": "s402:01412",
    "op": "15",
    "jp": "地震なんて滅多に起こらないのに、\n日記に書いておかなきゃ！",
-   "en": "",
+   "en": "Earthquakes so rarely happen! I'd better write this in my diary!",
    "box": "17x3",
    "face": 6
   },
@@ -97,7 +97,7 @@
    "id": "s402:01492",
    "op": "15",
    "jp": "確かに、この規模の地震は、\nこれまでに例のないものじゃ！",
-   "en": "",
+   "en": "Indeed, a quake of this scale has no precedent, my boy!",
    "box": "17x3",
    "face": 5
   },
@@ -113,7 +113,7 @@
    "id": "s402:01542",
    "op": "15",
    "jp": "貴様なに者だ！？",
-   "en": "",
+   "en": "Who the hell are you!?",
    "box": "17x3",
    "face": 1
   },
@@ -121,7 +121,7 @@
    "id": "s402:018f6",
    "op": "15",
    "jp": "この大地震こそ、\nまさに破滅への序曲！！",
-   "en": "",
+   "en": "This great earthquake is the very prelude to ruin!!",
    "box": "17x3",
    "face": 121
   },
@@ -129,7 +129,7 @@
    "id": "s402:01932",
    "op": "15",
    "jp": "今まさに！\n万物が流転しようとしているのだ！！",
-   "en": "",
+   "en": "Even now! All things are on the verge of flux!!",
    "box": "17x3",
    "face": 121
   }

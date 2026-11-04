@@ -9,7 +9,7 @@
    "id": "s502:00a3e",
    "op": "15",
    "jp": "どっ、どうしたってんだよ！？",
-   "en": "",
+   "en": "Wh-what the hell's goin' on!?",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s502:00a6e",
    "op": "15",
    "jp": "マモンやそこの\n色ぼけ姉ちゃんはともかく、",
-   "en": "",
+   "en": "Mammon and that man-crazy broad over there, sure,",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s502:00aaa",
    "op": "15",
    "jp": "な、なんでアンタまでが！？",
-   "en": "",
+   "en": "b-but why you too!?",
    "box": "17x3",
    "face": 2
   },
@@ -33,7 +33,7 @@
    "id": "s502:00af6",
    "op": "15",
    "jp": "フッフッフッフッ・・・",
-   "en": "",
+   "en": "Heh heh heh heh...",
    "box": "17x3",
    "face": 16
   },
@@ -41,7 +41,7 @@
    "id": "s502:00b1e",
    "op": "15",
    "jp": "汚らしい白き羽の奴隷の分際で\nわし等に軽々しく\n口を利くんじゃねぇ！！",
-   "en": "",
+   "en": "Filthy White Wing slave trash like you don't get to talk to the likes of us so lightly!!",
    "box": "17x3",
    "face": 16
   },
@@ -57,7 +57,7 @@
    "id": "s502:00ba2",
    "op": "15",
    "jp": "お前達は知らんだろうが、",
-   "en": "",
+   "en": "You wouldn't know this, but",
    "box": "17x3",
    "face": 16
   },
@@ -65,7 +65,7 @@
    "id": "s502:00bce",
    "op": "15",
    "jp": "今や地上では、\n白き羽の地下組織の連中が",
-   "en": "",
+   "en": "right now, up on the surface, the White Wing underground",
    "box": "17x3",
    "face": 16
   },
@@ -73,7 +73,7 @@
    "id": "s502:00c0a",
    "op": "15",
    "jp": "無謀にも黒き羽の軍隊に対して\n大規模な革命運動を\n起こしているはずだ！！",
-   "en": "",
+   "en": "should be recklessly raising a large-scale revolution against the Black Wing army!!",
    "box": "17x3",
    "face": 16
   },
@@ -81,7 +81,7 @@
    "id": "s502:00c82",
    "op": "15",
    "jp": "くっくっくっ・・・・",
-   "en": "",
+   "en": "Kuh kuh kuh...",
    "box": "17x3",
    "face": 16
   },
@@ -89,7 +89,7 @@
    "id": "s502:00caa",
    "op": "15",
    "jp": "そのすべての戦闘計画が、\nすでに教団にばれているとも\n知らずにな！",
-   "en": "",
+   "en": "Never knowing all their battle plans have already reached the Order!",
    "box": "17x3",
    "face": 16
   },
@@ -97,7 +97,7 @@
    "id": "s502:00d0e",
    "op": "15",
    "jp": "そんな！？",
-   "en": "",
+   "en": "No!?",
    "box": "17x3",
    "face": 4
   },
@@ -105,7 +105,7 @@
    "id": "s502:00d3a",
    "op": "15",
    "jp": "待ち伏せにあった奴等は\n今頃、一網打尽にされているはずだ！",
-   "en": "",
+   "en": "They'll have run into an ambush, and been wiped out in one stroke by now!",
    "box": "17x3",
    "face": 16
   },
@@ -113,7 +113,7 @@
    "id": "s502:00d96",
    "op": "15",
    "jp": "なっ、何故なんですか？",
-   "en": "",
+   "en": "Wh-why are you doing this?",
    "box": "17x3",
    "face": 4
   },
@@ -121,7 +121,7 @@
    "id": "s502:00dbe",
    "op": "15",
    "jp": "あんなに、",
-   "en": "",
+   "en": "You were so...",
    "box": "17x3",
    "face": 4
   },
@@ -129,7 +129,7 @@
    "id": "s502:00dda",
    "op": "15",
    "jp": "あんなに優しかった、\nケルビムさんが？！",
-   "en": "",
+   "en": "You were so kind, Cherubim-san!?",
    "box": "17x3",
    "face": 4
   },
@@ -137,7 +137,7 @@
    "id": "s502:00e32",
    "op": "15",
    "jp": "その汚らしい口で、\n私の名を呼ぶな！！",
-   "en": "",
+   "en": "Don't speak my name with that filthy mouth!!",
    "box": "17x3",
    "face": 16
   },
@@ -145,7 +145,7 @@
    "id": "s502:00e6a",
    "op": "15",
    "jp": "キサマが・・・",
-   "en": "",
+   "en": "You...",
    "box": "17x3",
    "face": 16
   },
@@ -153,7 +153,7 @@
    "id": "s502:00eaa",
    "op": "15",
    "jp": "キサマ達、汚らわしい\n白き羽の奴隷どもが・・・",
-   "en": "",
+   "en": "You and your kind, you filthy White Wing slaves...",
    "box": "17x3",
    "face": 16
   },
@@ -161,7 +161,7 @@
    "id": "s502:00eea",
    "op": "15",
    "jp": "息子と我が家を\n破滅に追い込んだのだ！！",
-   "en": "",
+   "en": "drove my son and my house to ruin!!",
    "box": "17x3",
    "face": 16
   },
@@ -177,7 +177,7 @@
    "id": "s502:00f52",
    "op": "15",
    "jp": "私は息子のセラフィムが\n死んで以来、",
-   "en": "",
+   "en": "Ever since my son Seraphim died,",
    "box": "17x3",
    "face": 16
   },
@@ -185,7 +185,7 @@
    "id": "s502:00f8a",
    "op": "15",
    "jp": "長い間この怨みを\nはらす機会を待ち望み・・・",
-   "en": "",
+   "en": "I have waited long for the chance to settle this grudge...",
    "box": "17x3",
    "face": 16
   },
@@ -193,7 +193,7 @@
    "id": "s502:00fca",
    "op": "15",
    "jp": "そのためにワザワザ、\nあの秘密地下組織を再建して\nきたのだ！！",
-   "en": "",
+   "en": "That is why I went to all the trouble of rebuilding that secret underground!!",
    "box": "17x3",
    "face": 16
   },
@@ -201,7 +201,7 @@
    "id": "s502:0103a",
    "op": "15",
    "jp": "なっ、なんで、\nそんなまわりくどい事を！？",
-   "en": "",
+   "en": "Wh-why go about it so damn roundabout!?",
    "box": "17x3",
    "face": 2
   },
@@ -209,7 +209,7 @@
    "id": "s502:01076",
    "op": "15",
    "jp": "だったら最初っから、\n俺達白き羽の者達を\n皆殺しにすりゃいいじゃねえか！？",
-   "en": "",
+   "en": "If that's it, why not just slaughter all us White Wings from the start, dammit!?",
    "box": "17x3",
    "face": 2
   },
@@ -217,7 +217,7 @@
    "id": "s502:011aa",
    "op": "15",
    "jp": "ウフフフフフ・・・\nそれじゃあ困るんですよ！",
-   "en": "",
+   "en": "Ufufufufu... But that would be a problem for us!",
    "box": "17x3",
    "face": 17
   },
@@ -225,7 +225,7 @@
    "id": "s502:011ea",
    "op": "15",
    "jp": "いつの時代にも、\nつねに世の中というものは、",
-   "en": "",
+   "en": "In every age, you see, the world itself",
    "box": "17x3",
    "face": 17
   },
@@ -233,7 +233,7 @@
    "id": "s502:0122a",
    "op": "15",
    "jp": "少数の権力者の手によって、\n大多数の弱者達が搾取される\n構造になっているのです。",
-   "en": "",
+   "en": "is built so that the great weak majority are exploited at the hands of a powerful few.",
    "box": "17x3",
    "face": 17
   },
@@ -241,7 +241,7 @@
    "id": "s502:0128e",
    "op": "15",
    "jp": "つまり、搾取される人々に\nいなくなられては、",
-   "en": "",
+   "en": "In other words, should the exploited ones disappear,",
    "box": "17x3",
    "face": 17
   },
@@ -249,7 +249,7 @@
    "id": "s502:012ce",
    "op": "15",
    "jp": "私達、搾取する側も\n困るのですよ！！",
-   "en": "",
+   "en": "we, the exploiters, would be in quite a fix!!",
    "box": "17x3",
    "face": 17
   },
@@ -265,7 +265,7 @@
    "id": "s502:01332",
    "op": "15",
    "jp": "生かさず殺さず\nまあ仲良く行きましょうや！",
-   "en": "",
+   "en": "Not alive, not dead, just squeezed -- so let's all get along, eh!",
    "box": "17x3",
    "face": 14
   },
@@ -273,7 +273,7 @@
    "id": "s502:0136e",
    "op": "15",
    "jp": "あくまで、\n白き羽の奴隷あっての、\n黒き羽の世の中なんだから！！",
-   "en": "",
+   "en": "After all, it's only thanks to White Wing slaves that there's a Black Wing world at all!!",
    "box": "17x3",
    "face": 14
   },
@@ -281,7 +281,7 @@
    "id": "s502:013ce",
    "op": "15",
    "jp": "い、言いたいことは、\nそれだけかぁっつ！！",
-   "en": "",
+   "en": "Y-you got anything else to say, dammit!!",
    "box": "17x3",
    "face": 2
   },
@@ -289,7 +289,7 @@
    "id": "s502:0141a",
    "op": "15",
    "jp": "あらあら、いきり立っちゃって、\n聞いてるわよ！",
-   "en": "",
+   "en": "Oh my, getting all worked up, are we? I've heard about you!",
    "box": "17x3",
    "face": 17
   },
@@ -297,7 +297,7 @@
    "id": "s502:0145a",
    "op": "15",
    "jp": "ホントはたいして\n強くもないくせに！",
-   "en": "",
+   "en": "You're not really all that strong at all!",
    "box": "17x3",
    "face": 17
   },
@@ -313,7 +313,7 @@
    "id": "s502:0161a",
    "op": "15",
    "jp": "ケガは有りませんか\nお師匠様・・・？",
-   "en": "",
+   "en": "You aren't hurt, are you, Master...?",
    "box": "17x3",
    "face": 6
   },
@@ -321,7 +321,7 @@
    "id": "s502:0165e",
    "op": "15",
    "jp": "ゲホッゲホッゴホッ・・",
-   "en": "",
+   "en": "Koff, koff, kaff...",
    "box": "17x3",
    "face": 6
   },
@@ -329,7 +329,7 @@
    "id": "s502:01696",
    "op": "15",
    "jp": "大丈夫だ、\nそれよりお前こそ！！",
-   "en": "",
+   "en": "I'm all right. More to the point, what about you!!",
    "box": "17x3",
    "face": 5
   },
@@ -337,7 +337,7 @@
    "id": "s502:016d6",
    "op": "15",
    "jp": "私は・・・",
-   "en": "",
+   "en": "I'm...",
    "box": "17x3",
    "face": 6
   },
@@ -345,7 +345,7 @@
    "id": "s502:016f2",
    "op": "15",
    "jp": "死んでも絶対に、お師匠様と\n離れたりなんかしません！！",
-   "en": "",
+   "en": "Even if I die, I will never, ever leave your side, Master!!",
    "box": "17x3",
    "face": 6
   },
@@ -353,7 +353,7 @@
    "id": "s502:0175a",
    "op": "15",
    "jp": "きぃいいぃ～～っつ！！",
-   "en": "",
+   "en": "Kiiiiiiieeeee!!",
    "box": "17x3",
    "face": 13
   },
@@ -361,7 +361,7 @@
    "id": "s502:01782",
    "op": "15",
    "jp": "相変わらずイチャイチャと\n臭い芝居を見せつけて\nくれるじゃない！！",
-   "en": "",
+   "en": "Still lovey-dovey as ever, flaunting that stinking little act of yours at us!!",
    "box": "17x3",
    "face": 13
   },
@@ -369,7 +369,7 @@
    "id": "s502:017d6",
    "op": "15",
    "jp": "だけど・・・\nその女も所詮、言葉を喋る\nオサル達の子孫なのよ！",
-   "en": "",
+   "en": "But in the end, darling, that woman's just a descendant of those little talking apes!",
    "box": "17x3",
    "face": 13
   },
@@ -385,7 +385,7 @@
    "id": "s502:0184e",
    "op": "15",
    "jp": "だからなんだというんじゃ・・・？！",
-   "en": "",
+   "en": "And what of it, eh...!?",
    "box": "17x3",
    "face": 5
   },
@@ -393,7 +393,7 @@
    "id": "s502:01882",
    "op": "15",
    "jp": "寿命の長さと魔力の差以外に・・・",
-   "en": "",
+   "en": "Apart from length of life and magic power...",
    "box": "17x3",
    "face": 5
   },
@@ -401,7 +401,7 @@
    "id": "s502:018c2",
    "op": "15",
    "jp": "わしら大天使と彼らに、\nなんの違いがあるというんじゃ！？",
-   "en": "",
+   "en": "what difference is there between us archangels and them, my boy!?",
    "box": "17x3",
    "face": 5
   },
@@ -409,7 +409,7 @@
    "id": "s502:0190e",
    "op": "15",
    "jp": "だいいち、\n大本までたどってゆけば・・・",
-   "en": "",
+   "en": "For that matter, trace it all back to the root...",
    "box": "17x3",
    "face": 5
   },
@@ -417,7 +417,7 @@
    "id": "s502:0194a",
    "op": "15",
    "jp": "どちらも創造主が創り出した、\n神の子で有る事に違いは有るまい！？",
-   "en": "",
+   "en": "and both are children of God, made by the Creator, make no mistake, eh!?",
    "box": "17x3",
    "face": 5
   },
@@ -425,7 +425,7 @@
    "id": "s502:019aa",
    "op": "15",
    "jp": "おやおや・・・",
-   "en": "",
+   "en": "My, my...",
    "box": "17x3",
    "face": 13
   },
@@ -433,7 +433,7 @@
    "id": "s502:019ca",
    "op": "15",
    "jp": "それだけ違えば、\n十分じゃないですか～～！？",
-   "en": "",
+   "en": "Surely that much difference is plenty, darling~!?",
    "box": "17x3",
    "face": 13
   },
@@ -441,7 +441,7 @@
    "id": "s502:01a0a",
    "op": "15",
    "jp": "しかしアナタもずいぶん、\n邪教の教えに染まってしまったん\nですねぇ・・・",
-   "en": "",
+   "en": "But my, how steeped you've become in that heathen cult's teachings...",
    "box": "17x3",
    "face": 13
   },
@@ -449,7 +449,7 @@
    "id": "s502:01a66",
    "op": "15",
    "jp": "こちら側につくのなら、\n命ぐらいは助けてあげようと\n思っていたのにぃ・・・！？",
-   "en": "",
+   "en": "And here I was, thinking I might at least spare your life if you came over to our side~!?",
    "box": "17x3",
    "face": 13
   },
@@ -457,7 +457,7 @@
    "id": "s502:01be6",
    "op": "15",
    "jp": "座興もここまでね！",
-   "en": "",
+   "en": "Playtime is over, darling!",
    "box": "17x3",
    "face": 13
   },
@@ -465,7 +465,7 @@
    "id": "s502:01c0a",
    "op": "15",
    "jp": "大邪神の使徒達よ、\n創世記戦争の時と同じように、\nこの結界に押しつぶされて・・・",
-   "en": "",
+   "en": "Apostles of the Great Evil Gods, just as in the Genesis War, be crushed by this barrier...",
    "box": "17x3",
    "face": 13
   },
@@ -473,7 +473,7 @@
    "id": "s502:01c6e",
    "op": "15",
    "jp": "この天界から滅び去るがいい！！",
-   "en": "",
+   "en": "and perish from this heavenly realm!!",
    "box": "17x3",
    "face": 13
   },
@@ -481,7 +481,7 @@
    "id": "s502:01dae",
    "op": "15",
    "jp": "きゃぁぁぁぁぁぁぁぁ！！",
-   "en": "",
+   "en": "Kyaaaaaaaaah!!",
    "box": "17x3",
    "face": 6
   },
@@ -489,7 +489,7 @@
    "id": "s502:01de6",
    "op": "15",
    "jp": "ぐ、ぐおぉぉぉぉぉぉぉぉ！！",
-   "en": "",
+   "en": "Gh-gwoooooooh!!",
    "box": "17x3",
    "face": 5
   },
@@ -497,7 +497,7 @@
    "id": "s502:02016",
    "op": "15",
    "jp": "くそっ、\nバアルめ！！",
-   "en": "",
+   "en": "Dammit, Baal!!",
    "box": "17x3",
    "face": 1
   },
@@ -505,7 +505,7 @@
    "id": "s502:0204e",
    "op": "15",
    "jp": "ぐわあぁぁぁぁぁぁぁぁ！！",
-   "en": "",
+   "en": "Gwaaaaaaaaah!!",
    "box": "17x3",
    "face": 1
   },
@@ -513,7 +513,7 @@
    "id": "s502:023b2",
    "op": "15",
    "jp": "うわああぁぁぁぁぁぁ！！",
-   "en": "",
+   "en": "Waaaaaaaaah!!",
    "box": "17x3",
    "face": 4
   },
@@ -521,7 +521,7 @@
    "id": "s502:023de",
    "op": "15",
    "jp": "も、もう\nうわあぁぁぁぁぁ！！",
-   "en": "",
+   "en": "I-I can't-- Waaaaaaah!!",
    "box": "17x3",
    "face": 4
   },
@@ -529,7 +529,7 @@
    "id": "s502:0241e",
    "op": "15",
    "jp": "ぐおぉぉ、\nた、耐えられそうも\nぐあぁぁぁぁぁ！！",
-   "en": "",
+   "en": "Gwooh, c-can't hold... Gwaaaaah!!",
    "box": "17x3",
    "face": 2
   },
@@ -537,7 +537,7 @@
    "id": "s502:026aa",
    "op": "15",
    "jp": "このままじゃ、ダメ！！",
-   "en": "",
+   "en": "At this rate, it's no good!!",
    "box": "17x3",
    "face": 6
   },
@@ -545,7 +545,7 @@
    "id": "s502:026d2",
    "op": "15",
    "jp": "みんなが、\nみんなが死んじゃう・・・！",
-   "en": "",
+   "en": "Everyone... everyone's going to die...!",
    "box": "17x3",
    "face": 6
   },
@@ -553,7 +553,7 @@
    "id": "s502:0271a",
    "op": "15",
    "jp": "なんとか、\nみんなを助けなきゃ！！",
-   "en": "",
+   "en": "Somehow, I have to save them all!!",
    "box": "17x3",
    "face": 6
   },
@@ -561,7 +561,7 @@
    "id": "s502:0277a",
    "op": "15",
    "jp": "鎧よお願い！！",
-   "en": "",
+   "en": "Please, armor!!",
    "box": "17x3",
    "face": 6
   },
@@ -569,7 +569,7 @@
    "id": "s502:0279a",
    "op": "15",
    "jp": "私の命を・・・\n全部あげる！！",
-   "en": "",
+   "en": "My life... I give you all of it!!",
    "box": "17x3",
    "face": 6
   },
@@ -577,7 +577,7 @@
    "id": "s502:028c6",
    "op": "15",
    "jp": "なっ・・・！？\n何をするんじゃルピルピ！！",
-   "en": "",
+   "en": "Wh...!? What are you doing, Rupirupi, my girl!!",
    "box": "17x3",
    "face": 5
   },
@@ -585,7 +585,7 @@
    "id": "s502:02a0e",
    "op": "15",
    "jp": "ル、ルピルピ！！",
-   "en": "",
+   "en": "R-Rupirupi!!",
    "box": "17x3",
    "face": 1
   },
@@ -593,7 +593,7 @@
    "id": "s502:02a32",
    "op": "15",
    "jp": "やめろーーーーっ！！",
-   "en": "",
+   "en": "STOOOOOOP!!",
    "box": "17x3",
    "face": 1
   },
@@ -601,7 +601,7 @@
    "id": "s502:02b26",
    "op": "15",
    "jp": "私の知識は・・・",
-   "en": "",
+   "en": "My knowledge...",
    "box": "17x3",
    "face": 6
   },
@@ -609,7 +609,7 @@
    "id": "s502:02b4a",
    "op": "15",
    "jp": "いつでもお師匠様と\nと・も・に・・・",
-   "en": "",
+   "en": "is always with you, Master... to... ge... ther...",
    "box": "17x3",
    "face": 6
   },
@@ -617,7 +617,7 @@
    "id": "s502:0316e",
    "op": "15",
    "jp": "ごめんなさい、\nお師匠さま。",
-   "en": "",
+   "en": "I'm sorry, Master.",
    "box": "17x3",
    "face": 6
   },
@@ -625,7 +625,7 @@
    "id": "s502:031aa",
    "op": "15",
    "jp": "もういい、\nもういいんじゃよ、ルピルピ！",
-   "en": "",
+   "en": "Enough, that's enough now, Rupirupi, my girl!",
    "box": "17x3",
    "face": 5
   },
@@ -633,7 +633,7 @@
    "id": "s502:031e6",
    "op": "15",
    "jp": "わしがメタトロンの鎧に眠る\nアヤツの魂の封印を解こうと、\nあせったバッカリに・・・",
-   "en": "",
+   "en": "It's all because I rushed to unseal that fellow's soul, asleep in Metatron's armor...",
    "box": "17x3",
    "face": 5
   },
@@ -641,7 +641,7 @@
    "id": "s502:0325a",
    "op": "15",
    "jp": "ねぇ\nお師匠さま知ってました？",
-   "en": "",
+   "en": "Hey, Master, did you know?",
    "box": "17x3",
    "face": 6
   },
@@ -649,7 +649,7 @@
    "id": "s502:0328a",
    "op": "15",
    "jp": "私、お師匠さまのことを\n愛していたんですよ。",
-   "en": "",
+   "en": "I was in love with you, Master.",
    "box": "17x3",
    "face": 6
   },
@@ -657,7 +657,7 @@
    "id": "s502:032d6",
    "op": "15",
    "jp": "き・・・気付いておったよ。",
-   "en": "",
+   "en": "I... I knew, my girl.",
    "box": "17x3",
    "face": 5
   },
@@ -665,7 +665,7 @@
    "id": "s502:03302",
    "op": "15",
    "jp": "だがわしは、\nこんな年寄りじゃし・・・",
-   "en": "",
+   "en": "But I'm such an old man, you see...",
    "box": "17x3",
    "face": 5
   },
@@ -673,7 +673,7 @@
    "id": "s502:0333a",
    "op": "15",
    "jp": "なによりこの体では、\nお前を幸せには出来んのじゃよ。",
-   "en": "",
+   "en": "and above all, in this body, I could never make you happy.",
    "box": "17x3",
    "face": 5
   },
@@ -681,7 +681,7 @@
    "id": "s502:0338e",
    "op": "15",
    "jp": "そんな事、関係ありませんよ！",
-   "en": "",
+   "en": "None of that matters at all!",
    "box": "17x3",
    "face": 6
   },
@@ -689,7 +689,7 @@
    "id": "s502:033be",
    "op": "15",
    "jp": "でも良かった、\nちゃんと解っていてくれたんだ！",
-   "en": "",
+   "en": "But I'm so glad. You did understand, after all!",
    "box": "17x3",
    "face": 6
   },
@@ -697,7 +697,7 @@
    "id": "s502:0340e",
    "op": "15",
    "jp": "ワシもお前のことを・・・",
-   "en": "",
+   "en": "And I, too, you...",
    "box": "17x3",
    "face": 5
   },
@@ -713,7 +713,7 @@
    "id": "s502:0345a",
    "op": "15",
    "jp": "悲しまないでください。",
-   "en": "",
+   "en": "Please don't be sad.",
    "box": "17x3",
    "face": 6
   },
@@ -721,7 +721,7 @@
    "id": "s502:03482",
    "op": "15",
    "jp": "これからは、\nずっと、ずっと一緒だから・・・",
-   "en": "",
+   "en": "From now on, we'll be together, always, always...",
    "box": "17x3",
    "face": 6
   },
@@ -737,7 +737,7 @@
    "id": "s502:03706",
    "op": "15",
    "jp": "爺さんルピルピは・・・・・",
-   "en": "",
+   "en": "Old man, Rupirupi's...",
    "box": "17x3",
    "face": 2
   },
@@ -745,7 +745,7 @@
    "id": "s502:03742",
    "op": "15",
    "jp": "ルピルピはおるよ・・・\nいつまでもわしと一緒じゃ・・・",
-   "en": "",
+   "en": "Rupirupi is here, my boy... with me, forever...",
    "box": "17x3",
    "face": 5
   },
@@ -753,7 +753,7 @@
    "id": "s502:0379a",
    "op": "15",
    "jp": "皆の者！！",
-   "en": "",
+   "en": "All of you!!",
    "box": "17x3",
    "face": 5
   },
@@ -761,7 +761,7 @@
    "id": "s502:037b6",
    "op": "15",
    "jp": "奴等はおそらくこの上の\n大広間におる・・・",
-   "en": "",
+   "en": "They're most likely in the great hall above us...",
    "box": "17x3",
    "face": 5
   },
@@ -769,7 +769,7 @@
    "id": "s502:037f2",
    "op": "15",
    "jp": "気をつけてかかれよ・・・！",
-   "en": "",
+   "en": "Mind yourselves when you go at them, eh...!",
    "box": "17x3",
    "face": 5
   },
@@ -793,7 +793,7 @@
    "id": "s502:0386e",
    "op": "15",
    "jp": "（許さん・・・\n　許さんぞ・・・）",
-   "en": "",
+   "en": "(I won't forgive it... I won't forgive it...)",
    "box": "17x3",
    "face": 5
   }

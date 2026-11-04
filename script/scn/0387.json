@@ -9,7 +9,7 @@
    "id": "s387:00f02",
    "op": "15",
    "jp": "この街の連中の話し方は、\nなんか煮えきらねえなぁ！",
-   "en": "",
+   "en": "Folks in this town sure talk wishy-washy, dammit!",
    "box": "17x3",
    "face": 2
   },
@@ -17,7 +17,7 @@
    "id": "s387:00f56",
    "op": "15",
    "jp": "確かにここの住人には、\n生きていると言う\n活力が感じられませんわ！",
-   "en": "",
+   "en": "Indeed, the people here have no vigor, no sense of being alive!",
    "box": "17x3",
    "face": 6
   },
@@ -25,7 +25,7 @@
    "id": "s387:00fde",
    "op": "15",
    "jp": "そんなことないよ！",
-   "en": "",
+   "en": "Th-that's not true!",
    "box": "17x3",
    "face": 3
   },
@@ -33,7 +33,7 @@
    "id": "s387:01002",
    "op": "15",
    "jp": "サボってるアイツ等が悪いだけで、\nこの街はいい街だよ！",
-   "en": "",
+   "en": "It's only those slackers who are bad, um. This is a good town!",
    "box": "17x3",
    "face": 3
   },
@@ -41,7 +41,7 @@
    "id": "s387:010be",
    "op": "15",
    "jp": "（おっ・・・！なんてキレイな\n　ねーちゃんなんだ！）",
-   "en": "",
+   "en": "(Whoa...! What a beautiful gal!)",
    "box": "17x3",
    "face": 2
   },
@@ -49,7 +49,7 @@
    "id": "s387:016b6",
    "op": "15",
    "jp": "どうしたんです、お嬢さん。\n何を・・泣いているんですか？",
-   "en": "",
+   "en": "What's the matter, miss? Why... are you crying?",
    "box": "17x3",
    "face": 2
   },
@@ -57,7 +57,7 @@
    "id": "s387:0175a",
    "op": "15",
    "jp": "旅の方・・・ですか？\nいえ、何でも・・ないんです。",
-   "en": "",
+   "en": "Are you... a traveler? No, it's... it's nothing.",
    "box": "17x3",
    "face": 26
   },
@@ -65,7 +65,7 @@
    "id": "s387:01812",
    "op": "15",
    "jp": "笑顔に涙は似合いませんよ！",
-   "en": "",
+   "en": "Tears do not suit a smile!",
    "box": "17x3",
    "face": 2
   },
@@ -89,7 +89,7 @@
    "id": "s387:01ab2",
    "op": "15",
    "jp": "笑顔に涙が似合うわけ\nねぇだろ。バァ～カ！！",
-   "en": "",
+   "en": "Tears suit a smile? Like hell they do. You iiidiot!!",
    "box": "17x3",
    "face": 1
   },
@@ -97,7 +97,7 @@
    "id": "s387:01b16",
    "op": "15",
    "jp": "やぁ～い！頭の虫が\n耳から飛び出てるぅ～！",
-   "en": "",
+   "en": "Nyah nyah! The bug in his head's poppin' out his ear~!",
    "box": "17x3",
    "face": 8
   },
@@ -105,7 +105,7 @@
    "id": "s387:01b7a",
    "op": "15",
    "jp": "アンタ・・・\nそれ本当に正気で言ってるの！？",
-   "en": "",
+   "en": "You... are you actually sane, saying that!?",
    "box": "17x3",
    "face": 11
   },
@@ -121,7 +121,7 @@
    "id": "s387:01cbe",
    "op": "15",
    "jp": "いえ、\n本当に大したことは・・・",
-   "en": "",
+   "en": "No, it's truly nothing much...",
    "box": "17x3",
    "face": 26
   },
@@ -129,7 +129,7 @@
    "id": "s387:01d0e",
    "op": "15",
    "jp": "ただ、住んでた家が公園を\n造るために、壊されてしまって・・・",
-   "en": "",
+   "en": "It's only that the house I lived in was torn down to build a park...",
    "box": "17x3",
    "face": 26
   },
@@ -137,7 +137,7 @@
    "id": "s387:01da2",
    "op": "15",
    "jp": "大したことだよ、それは！！",
-   "en": "",
+   "en": "That IS something, dammit!!",
    "box": "17x3",
    "face": 2
   },
@@ -145,7 +145,7 @@
    "id": "s387:01dde",
    "op": "15",
    "jp": "白き羽だからなのですか？！",
-   "en": "",
+   "en": "Is it because you're a White Wing!?",
    "box": "17x3",
    "face": 4
   },
@@ -153,7 +153,7 @@
    "id": "s387:01e0a",
    "op": "15",
    "jp": "酷い話ですね。",
-   "en": "",
+   "en": "How terrible.",
    "box": "17x3",
    "face": 4
   },
@@ -161,7 +161,7 @@
    "id": "s387:01e7e",
    "op": "15",
    "jp": "羽の色は関係ありません、\n街で決まった事なんです。",
-   "en": "",
+   "en": "Wing color has nothing to do with it. The town decided it.",
    "box": "17x3",
    "face": 26
   },
@@ -169,7 +169,7 @@
    "id": "s387:01ed2",
    "op": "15",
    "jp": "街って\n誰の事を言っているの？",
-   "en": "",
+   "en": "The t-town? Who do you mean by the town?",
    "box": "17x3",
    "face": 3
   },
@@ -177,7 +177,7 @@
    "id": "s387:01f1e",
    "op": "15",
    "jp": "街・・・つまり・・・",
-   "en": "",
+   "en": "The town... that is...",
    "box": "17x3",
    "face": 26
   },
@@ -185,7 +185,7 @@
    "id": "s387:01f8e",
    "op": "15",
    "jp": "あなたには可哀想ですが、\nその発言は感心できませんね。",
-   "en": "",
+   "en": "I do pity you, but that remark is hardly commendable.",
    "box": "17x3",
    "face": 48
   },
@@ -193,7 +193,7 @@
    "id": "s387:020de",
    "op": "15",
    "jp": "えっ！？ああっ！\n領主のベルフェ様！！",
-   "en": "",
+   "en": "Huh!? Oh! Our lord, Belphe-sama!!",
    "box": "17x3",
    "face": 26
   },
@@ -201,7 +201,7 @@
    "id": "s387:02572",
    "op": "15",
    "jp": "あなた一人が我慢するだけで、\n街の人々が快適な空間を\n共有することができるのです！",
-   "en": "",
+   "en": "With you alone enduring a little, the people of this town can share a pleasant space!",
    "box": "17x3",
    "face": 48
   },
@@ -209,7 +209,7 @@
    "id": "s387:025d6",
    "op": "15",
    "jp": "それにあなたには、\n均等な間取りの共同住居が\n一室与えられているはずです。",
-   "en": "",
+   "en": "Besides, you should have been given a room of standard layout in the communal housing.",
    "box": "17x3",
    "face": 48
   },
@@ -217,7 +217,7 @@
    "id": "s387:02686",
    "op": "15",
    "jp": "でも、ここには\n死んだ母さんのお墓や\nたくさんの思い出が・・・！",
-   "en": "",
+   "en": "But my dead mother's grave is here, and so many memories...!",
    "box": "17x3",
    "face": 26
   },
@@ -225,7 +225,7 @@
    "id": "s387:02716",
    "op": "15",
    "jp": "今のあなたの発言内容には、\n街に対するあきらかな\n不平の意志が見受けられます！",
-   "en": "",
+   "en": "What you have just said shows a clear intent to complain against the town!",
    "box": "17x3",
    "face": 49
   },
@@ -233,7 +233,7 @@
    "id": "s387:02776",
    "op": "15",
    "jp": "街の戒律に従い、\n我ら不平監察官に\nご同行願いましょう！",
-   "en": "",
+   "en": "Under the town's precepts, you will come with us, the Dissent Inspectors!",
    "box": "17x3",
    "face": 49
   },
@@ -241,7 +241,7 @@
    "id": "s387:02822",
    "op": "15",
    "jp": "おいおい、\nどういうことだよ！？",
-   "en": "",
+   "en": "Whoa, whoa, what the hell's goin' on!?",
    "box": "17x3",
    "face": 2
   },
@@ -249,7 +249,7 @@
    "id": "s387:02862",
    "op": "15",
    "jp": "とりあえず、この街の\n領主公邸にお越しください。",
-   "en": "",
+   "en": "For now, please come to this town's official lord's residence.",
    "box": "17x3",
    "face": 48
   },
@@ -257,7 +257,7 @@
    "id": "s387:028a6",
    "op": "15",
    "jp": "お話はそこで・・・",
-   "en": "",
+   "en": "We can talk there...",
    "box": "17x3",
    "face": 48
   }

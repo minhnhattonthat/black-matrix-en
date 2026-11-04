@@ -9,7 +9,7 @@
    "id": "s436:0255e",
    "op": "15",
    "jp": "こっ、\nこりゃ・・すげぇ！！",
-   "en": "",
+   "en": "Wh-whoa... this is... incredible!!",
    "box": "17x3",
    "face": 2
   },
@@ -25,7 +25,7 @@
    "id": "s436:028f2",
    "op": "15",
    "jp": "モーゼ殿、お主！！",
-   "en": "",
+   "en": "Moses-dono, you...!!",
    "box": "17x3",
    "face": 5
   },
@@ -33,7 +33,7 @@
    "id": "s436:02916",
    "op": "15",
    "jp": "皆の者、先を急ぐぞ！",
-   "en": "",
+   "en": "Everyone, let us hurry on, eh!",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s436:0294a",
    "op": "15",
    "jp": "なんで？\nボクはもう少し見ていたいな。",
-   "en": "",
+   "en": "Why? Um, I'd like to watch a little longer.",
    "box": "17x3",
    "face": 3
   },
@@ -49,7 +49,7 @@
    "id": "s436:02992",
    "op": "15",
    "jp": "この術はそれを唱える者から\n大量の生き血を・・・",
-   "en": "",
+   "en": "This art takes a great quantity of living blood from the one who casts it...",
    "box": "17x3",
    "face": 5
   },
@@ -57,7 +57,7 @@
    "id": "s436:029f2",
    "op": "15",
    "jp": "ヨハネ殿",
-   "en": "",
+   "en": "Johannes-dono.",
    "box": "17x3",
    "face": 53
   },
@@ -65,7 +65,7 @@
    "id": "s436:02a0e",
    "op": "15",
    "jp": "お心遣いは嬉しいが、\nこの段となりてはそのような\nお心遣いはもはや無用に願います。",
-   "en": "",
+   "en": "Your concern is welcome, but at this stage, I beg you, such concern is no longer needed.",
    "box": "17x3",
    "face": 53
   },
@@ -81,7 +81,7 @@
    "id": "s436:02aa2",
    "op": "15",
    "jp": "それよりみなさんは不審に思って\nいらっしゃるのでしょう。",
-   "en": "",
+   "en": "More to the point, all of you must find it suspicious:",
    "box": "17x3",
    "face": 53
   },
@@ -89,7 +89,7 @@
    "id": "s436:02aee",
    "op": "15",
    "jp": "私が何故、このような\n知識を有しているのか。",
-   "en": "",
+   "en": "why I possess such knowledge.",
    "box": "17x3",
    "face": 53
   },
@@ -105,7 +105,7 @@
    "id": "s436:02b5a",
    "op": "15",
    "jp": "私は、黒き羽の神官の\n子として産まれながら、",
-   "en": "",
+   "en": "I was born the child of a Black Wing priest,",
    "box": "17x3",
    "face": 53
   },
@@ -113,7 +113,7 @@
    "id": "s436:02b9a",
    "op": "15",
    "jp": "白きコウモリの羽を持って\nこの世に生を受けました・・・",
-   "en": "",
+   "en": "yet came into this world with white bat wings...",
    "box": "17x3",
    "face": 53
   },
@@ -121,7 +121,7 @@
    "id": "s436:02bf2",
    "op": "15",
    "jp": "黒き羽の血をひく？",
-   "en": "",
+   "en": "Of Black Wing blood?",
    "box": "17x3",
    "face": 4
   },
@@ -129,7 +129,7 @@
    "id": "s436:02c26",
    "op": "15",
    "jp": "白きコウモリの羽？",
-   "en": "",
+   "en": "White bat wings?",
    "box": "17x3",
    "face": 3
   },
@@ -137,7 +137,7 @@
    "id": "s436:02c5a",
    "op": "15",
    "jp": "そう、普通なら殺されて\nしかるべき所なのですが\n父はその権力を利用して、",
-   "en": "",
+   "en": "Yes. By rights I ought to have been killed, but my father used his power,",
    "box": "17x3",
    "face": 53
   },
@@ -145,7 +145,7 @@
    "id": "s436:02cb6",
    "op": "15",
    "jp": "私の羽を黒く染めて\n自分の後継者に仕立て上げたのです。",
-   "en": "",
+   "en": "dyed my wings black and groomed me as his successor.",
    "box": "17x3",
    "face": 53
   },
@@ -161,7 +161,7 @@
    "id": "s436:02d2e",
    "op": "15",
    "jp": "その結果、私は教団でも、\nかなり上の地位に\n就く事ができました。",
-   "en": "",
+   "en": "As a result, I was able to reach quite a high rank, even in the Order.",
    "box": "17x3",
    "face": 53
   },
@@ -169,7 +169,7 @@
    "id": "s436:02d82",
    "op": "15",
    "jp": "そして、そこで手に入れた\nこの邪道騎士の鎧こそ、",
-   "en": "",
+   "en": "And this Heretic Knight's armor I obtained there",
    "box": "17x3",
    "face": 53
   },
@@ -177,7 +177,7 @@
    "id": "s436:02dc6",
    "op": "15",
    "jp": "天界で起こった全ての記憶を留める\n悪魔ルーイソスの遺品！",
-   "en": "",
+   "en": "is the relic of the devil Luisos, which holds all memory of what came to pass in Heaven!",
    "box": "17x3",
    "face": 53
   },
@@ -193,7 +193,7 @@
    "id": "s436:02ea6",
    "op": "15",
    "jp": "じゃあ、あんたは\n教皇のことも知ってるのか？",
-   "en": "",
+   "en": "So you know about the Pope too?",
    "box": "17x3",
    "face": 1
   },
@@ -201,7 +201,7 @@
    "id": "s436:02ef2",
    "op": "15",
    "jp": "ですが、\n今お教えできるのは、",
-   "en": "",
+   "en": "However, all I can tell you now",
    "box": "17x3",
    "face": 53
   },
@@ -209,7 +209,7 @@
    "id": "s436:02f22",
    "op": "15",
    "jp": "教皇が黒き羽と白き羽の\n心を持ちあわせた・・・",
-   "en": "",
+   "en": "is that the Pope, possessing the hearts of both Black Wing and White Wing...",
    "box": "17x3",
    "face": 53
   },
@@ -217,7 +217,7 @@
    "id": "s436:02f62",
    "op": "15",
    "jp": "若い女性だという事だけです。",
-   "en": "",
+   "en": "is a young woman. That alone.",
    "box": "17x3",
    "face": 53
   },
@@ -225,7 +225,7 @@
    "id": "s436:02fbe",
    "op": "15",
    "jp": "教皇が・・若い女・・・？",
-   "en": "",
+   "en": "The Pope... a young woman...?",
    "box": "17x3",
    "face": 2
   },
@@ -233,7 +233,7 @@
    "id": "s436:02ff6",
    "op": "15",
    "jp": "教皇が・・・",
-   "en": "",
+   "en": "The Pope...",
    "box": "17x3",
    "face": 1
   },

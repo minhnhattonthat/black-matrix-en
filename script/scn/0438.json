@@ -9,7 +9,7 @@
    "id": "s438:00c5e",
    "op": "15",
    "jp": "なっ、なんだ、\nこの巨大な遺跡都市は！？",
-   "en": "",
+   "en": "Wh-what is this giant ruined city!?",
    "box": "17x3",
    "face": 1
   },
@@ -17,7 +17,7 @@
    "id": "s438:00d42",
    "op": "15",
    "jp": "ここはかつて・・・",
-   "en": "",
+   "en": "This place was once...",
    "box": "17x3",
    "face": 53
   },
@@ -25,7 +25,7 @@
    "id": "s438:00eb6",
    "op": "15",
    "jp": "全ての者が神と崇めた\nゴッドによって創られし、",
-   "en": "",
+   "en": "created by God, whom all once worshipped as their god,",
    "box": "17x3",
    "face": 53
   },
@@ -33,7 +33,7 @@
    "id": "s438:00ef6",
    "op": "15",
    "jp": "エデンの園と呼ばれる\n大陸のなれの果て！",
-   "en": "",
+   "en": "and these are the remains of the continent called the Garden of Eden!",
    "box": "17x3",
    "face": 53
   },
@@ -49,7 +49,7 @@
    "id": "s438:00f8e",
    "op": "15",
    "jp": "我々が先ほどまでいた\n場所以外には陸地が\n存在しないこの世界にも、",
-   "en": "",
+   "en": "In this world, where no land exists save the place where we just stood,",
    "box": "17x3",
    "face": 53
   },
@@ -57,7 +57,7 @@
    "id": "s438:00fe2",
    "op": "15",
    "jp": "かつては数多くの\n大陸や動物達が存在し・・・",
-   "en": "",
+   "en": "there were once many continents and animals...",
    "box": "17x3",
    "face": 53
   },
@@ -65,7 +65,7 @@
    "id": "s438:01022",
    "op": "15",
    "jp": "アダムとイブと呼ばれる\nサルの子孫達が暮らしていたと、\n伝えられています！！",
-   "en": "",
+   "en": "and there lived the descendants of the apes called Adam and Eve, it is told!!",
    "box": "17x3",
    "face": 53
   },
@@ -81,7 +81,7 @@
    "id": "s438:010ae",
    "op": "15",
    "jp": "当時白き天と黒き地に\n別れ住んでいた\n多くの大天使様達が・・・",
-   "en": "",
+   "en": "In those days, many archangels, living apart in white heaven and black earth...",
    "box": "17x3",
    "face": 53
   },
@@ -89,7 +89,7 @@
    "id": "s438:010fe",
    "op": "15",
    "jp": "このサル達の成長を\n暖かい目で見守って\nおられました・・・",
-   "en": "",
+   "en": "watched over the growth of these apes with warm eyes...",
    "box": "17x3",
    "face": 53
   },
@@ -97,7 +97,7 @@
    "id": "s438:0114a",
    "op": "15",
    "jp": "中でも我々が救世主と仰ぐ\n慈悲深き大天使\nメフィスト様は・・・",
-   "en": "",
+   "en": "Above all, the merciful archangel Mephisto-sama, whom we revere as our Savior...",
    "box": "17x3",
    "face": 53
   },
@@ -105,7 +105,7 @@
    "id": "s438:0119a",
    "op": "15",
    "jp": "このサル達を大変に\nお気にいりになられ・・・",
-   "en": "",
+   "en": "took a great liking to these apes...",
    "box": "17x3",
    "face": 53
   },
@@ -113,7 +113,7 @@
    "id": "s438:011e6",
    "op": "15",
    "jp": "かつてゴッドが、",
-   "en": "",
+   "en": "Once, God",
    "box": "17x3",
    "face": 53
   },
@@ -121,7 +121,7 @@
    "id": "s438:0120a",
    "op": "15",
    "jp": "アダムの最初の妻として\n創り出して棄てた、\n可哀想なメスザルを・・・",
-   "en": "",
+   "en": "created a poor female ape as Adam's first wife and cast her aside...",
    "box": "17x3",
    "face": 53
   },
@@ -129,7 +129,7 @@
    "id": "s438:01262",
    "op": "15",
    "jp": "自分の妻の一人に、\n迎えられたほどだと\n聞いております・・・",
-   "en": "",
+   "en": "and Mephisto-sama, I am told, went so far as to take her as one of his own wives...",
    "box": "17x3",
    "face": 53
   },
@@ -153,7 +153,7 @@
    "id": "s438:0132e",
    "op": "15",
    "jp": "そしてメフィスト様は、",
-   "en": "",
+   "en": "And Mephisto-sama,",
    "box": "17x3",
    "face": 53
   },
@@ -161,7 +161,7 @@
    "id": "s438:01356",
    "op": "15",
    "jp": "いつも裸で歩き、\n羽すら生えていない\nサル達を哀れんで・・・",
-   "en": "",
+   "en": "pitying the apes, who walked ever naked and had not even wings...",
    "box": "17x3",
    "face": 53
   },
@@ -169,7 +169,7 @@
    "id": "s438:013b2",
    "op": "15",
    "jp": "天界にある知恵の実を\n与えてしまわれたのです！！",
-   "en": "",
+   "en": "gave them the fruit of knowledge from Heaven!!",
    "box": "17x3",
    "face": 53
   },
@@ -193,7 +193,7 @@
    "id": "s438:01472",
    "op": "15",
    "jp": "「神は自らの姿に似せられて、\n　このサル達を創ったと\n　聞いている・・・」",
-   "en": "",
+   "en": "\"God is said to have made these apes in his own image...\"",
    "box": "17x3",
    "face": 104
   },
@@ -201,7 +201,7 @@
    "id": "s438:014ce",
    "op": "15",
    "jp": "「にも関わらず、なぜ神は\n　彼らに知恵を与えては\n　いけないというのか！？」",
-   "en": "",
+   "en": "\"Why then does God say they must not be given knowledge!?\"",
    "box": "17x3",
    "face": 104
   },
@@ -209,7 +209,7 @@
    "id": "s438:0152e",
    "op": "15",
    "jp": "「・・・・我思う、」",
-   "en": "",
+   "en": "\"....I think,\"",
    "box": "17x3",
    "face": 104
   },
@@ -217,7 +217,7 @@
    "id": "s438:01556",
    "op": "15",
    "jp": "「故に我有り・・・」",
-   "en": "",
+   "en": "\"therefore I am...\"",
    "box": "17x3",
    "face": 104
   },
@@ -225,7 +225,7 @@
    "id": "s438:0157e",
    "op": "15",
    "jp": "「されば自らを認識する為に\n　必要な知恵こそが、」",
-   "en": "",
+   "en": "\"Then the knowledge one needs to recognize oneself,\"",
    "box": "17x3",
    "face": 104
   },
@@ -233,7 +233,7 @@
    "id": "s438:015c2",
    "op": "15",
    "jp": "「我らを我らたらしめんと\n　している本質では\n　あるまいか・・・！？」",
-   "en": "",
+   "en": "\"is that not the very essence that makes us what we are...!?\"",
    "box": "17x3",
    "face": 104
   },
@@ -241,7 +241,7 @@
    "id": "s438:0162a",
    "op": "15",
    "jp": "この事を大神ゴッドは\n烈火のごとく怒りました！！",
-   "en": "",
+   "en": "At this, the great god God raged like a blazing fire!!",
    "box": "17x3",
    "face": 53
   },
@@ -249,7 +249,7 @@
    "id": "s438:0167a",
    "op": "15",
    "jp": "そして事もあろうに、\nこのエデンの園を壮絶なる\n大雨と大洪水で襲い・・・",
-   "en": "",
+   "en": "And of all things, he assailed this Garden of Eden with terrible rains and the Great Flood...",
    "box": "17x3",
    "face": 53
   },
@@ -257,7 +257,7 @@
    "id": "s438:016d6",
    "op": "15",
    "jp": "全てをこの海の底へと\n覆い隠してしまったと\n伝えられています・・・",
-   "en": "",
+   "en": "and buried everything beneath this sea, it is told...",
    "box": "17x3",
    "face": 53
   },
@@ -273,7 +273,7 @@
    "id": "s438:0175a",
    "op": "15",
    "jp": "にわかには、\n信じがたい話ですが",
-   "en": "",
+   "en": "It is a hard tale to believe at once, but",
    "box": "17x3",
    "face": 53
   },
@@ -281,7 +281,7 @@
    "id": "s438:0178e",
    "op": "15",
    "jp": "隷属の地ノアにあった\nあの巨大な箱船も、",
-   "en": "",
+   "en": "that giant Ark in the Land of Bondage, Noah...",
    "box": "17x3",
    "face": 53
   },
@@ -289,7 +289,7 @@
    "id": "s438:017ca",
    "op": "15",
    "jp": "この異変に、いち早く気づいた、\n大天使ラファエル様が、",
-   "en": "",
+   "en": "The archangel Raphael-sama, quick to sense this calamity,",
    "box": "17x3",
    "face": 53
   },
@@ -297,7 +297,7 @@
    "id": "s438:01812",
    "op": "15",
    "jp": "地上にいた動物達を\n避難させる為に、",
-   "en": "",
+   "en": "in order to shelter the animals of the earth,",
    "box": "17x3",
    "face": 53
   },
@@ -305,7 +305,7 @@
    "id": "s438:0184a",
    "op": "15",
    "jp": "ノアと言う名のサルに命じて\n作らせた船だと言われています！",
-   "en": "",
+   "en": "ordered an ape named Noah to build that ship, it is said!",
    "box": "17x3",
    "face": 53
   },
@@ -321,7 +321,7 @@
    "id": "s438:019b2",
    "op": "15",
    "jp": "そっ、そんな馬鹿な！？",
-   "en": "",
+   "en": "Th-that's crazy!?",
    "box": "17x3",
    "face": 2
   },
@@ -329,7 +329,7 @@
    "id": "s438:019da",
    "op": "15",
    "jp": "だいいちどうして\nサルなんかに船が\n作れるんだよ・・・！？",
-   "en": "",
+   "en": "And how the hell could apes build a ship anyway...!?",
    "box": "17x3",
    "face": 2
   },
@@ -345,7 +345,7 @@
    "id": "s438:01b62",
    "op": "15",
    "jp": "だから言ったはずです！",
-   "en": "",
+   "en": "As I told you!",
    "box": "17x3",
    "face": 53
   },
@@ -353,7 +353,7 @@
    "id": "s438:01b8a",
    "op": "15",
    "jp": "そのサル達は、\n知恵を与えられた\nサル達なのだと・・・",
-   "en": "",
+   "en": "Those apes were apes who had been given knowledge...",
    "box": "17x3",
    "face": 53
   },
@@ -369,7 +369,7 @@
    "id": "s438:01c02",
    "op": "15",
    "jp": "そもそも天界を二分する\n創世記戦争が始まったのも、",
-   "en": "",
+   "en": "Indeed, the Genesis War that split Heaven in two began",
    "box": "17x3",
    "face": 53
   },
@@ -377,7 +377,7 @@
    "id": "s438:01c46",
    "op": "15",
    "jp": "このゴッドのあまりの\n仕打ちにお怒りになられた\nメフィスト様が・・・",
-   "en": "",
+   "en": "when Mephisto-sama, enraged at God's excessive cruelty...",
    "box": "17x3",
    "face": 53
   },
@@ -385,7 +385,7 @@
    "id": "s438:01c9e",
    "op": "15",
    "jp": "志を同じくする大天使様達と\n始められたのだと、\n伝えられています・・・",
-   "en": "",
+   "en": "started it with like-minded archangels, it is told...",
    "box": "17x3",
    "face": 53
   },
@@ -401,7 +401,7 @@
    "id": "s438:01d26",
    "op": "15",
    "jp": "それが証拠に、この石板や\n隠し通路も、かの遺跡より\n発掘されたものなのです。",
-   "en": "",
+   "en": "In proof of this, this tablet and the hidden passage were unearthed from those very ruins.",
    "box": "17x3",
    "face": 53
   },
@@ -409,7 +409,7 @@
    "id": "s438:01e0e",
    "op": "15",
    "jp": "ゲフッ・・ゴボッ！！",
-   "en": "",
+   "en": "Gefh.. gboh!!",
    "box": "17x3",
    "face": 53
   },
@@ -417,7 +417,7 @@
    "id": "s438:01e42",
    "op": "15",
    "jp": "モーゼ殿！！",
-   "en": "",
+   "en": "Moses-dono!!",
    "box": "17x3",
    "face": 5
   },
@@ -425,7 +425,7 @@
    "id": "s438:01e6e",
    "op": "15",
    "jp": "どうやら、\n私がお供できるのも・・・",
-   "en": "",
+   "en": "It seems my service to you...",
    "box": "17x3",
    "face": 53
   },
@@ -433,7 +433,7 @@
    "id": "s438:01ea6",
    "op": "15",
    "jp": "これまでのようですね。",
-   "en": "",
+   "en": "ends here.",
    "box": "17x3",
    "face": 53
   },
@@ -441,7 +441,7 @@
    "id": "s438:01f0e",
    "op": "15",
    "jp": "アンタ、その体は！？",
-   "en": "",
+   "en": "You... your body!?",
    "box": "17x3",
    "face": 1
   },
@@ -457,7 +457,7 @@
    "id": "s438:01f7a",
    "op": "15",
    "jp": "我らが、大善神と崇める\nいまのハ・サタン様は、",
-   "en": "",
+   "en": "Ha-Satan-sama as he is now, whom we revere as Great Good God,",
    "box": "17x3",
    "face": 53
   },
@@ -465,7 +465,7 @@
    "id": "s438:01fba",
    "op": "15",
    "jp": "ことのほか血の生Γを\n好まれるようでね。\nゲボッ・・！",
-   "en": "",
+   "en": "is uncommonly fond of blood sacrifice, it seems. Geboh..!",
    "box": "17x3",
    "face": 53
   },
@@ -473,7 +473,7 @@
    "id": "s438:02096",
    "op": "15",
    "jp": "この先の冥界の門を通る為には、\n教皇と同じ、黒と白の羽、\n二つの心を持つ者、",
-   "en": "",
+   "en": "To pass the Gate of the Underworld, one must, like the Pope, have black and white wings, two hearts...",
    "box": "17x3",
    "face": 53
   },
@@ -481,7 +481,7 @@
    "id": "s438:020f6",
    "op": "15",
    "jp": "すなわち\n神と邪神の力を\nその体内に併せ持った者だけが、",
-   "en": "",
+   "en": "that is, only one who holds within his body the powers of both a god and an evil god",
    "box": "17x3",
    "face": 53
   },
@@ -489,7 +489,7 @@
    "id": "s438:02142",
    "op": "15",
    "jp": "約束の地へ誘う封印の扉を\n開く事が出来ると言われています。",
-   "en": "",
+   "en": "can open the sealed door leading to the Promised Land, it is said.",
    "box": "17x3",
    "face": 53
   },
@@ -497,7 +497,7 @@
    "id": "s438:02212",
    "op": "15",
    "jp": "そんな力、\n誰が持ってるってんだ！？",
-   "en": "",
+   "en": "And who's got that kinda power!?",
    "box": "17x3",
    "face": 2
   },
@@ -513,7 +513,7 @@
    "id": "s438:0235e",
    "op": "15",
    "jp": "お主じゃ！！",
-   "en": "",
+   "en": "You, my boy!!",
    "box": "17x3",
    "face": 5
   },
@@ -521,7 +521,7 @@
    "id": "s438:0237e",
    "op": "15",
    "jp": "お主の着る大邪神の鎧は\n破壊と創造の、\n二つの力を併せ持つもの、",
-   "en": "",
+   "en": "The Great Evil God's armor you wear holds both powers, destruction and creation.",
    "box": "17x3",
    "face": 5
   },
@@ -529,7 +529,7 @@
    "id": "s438:023d2",
    "op": "15",
    "jp": "さすれば、お主こそ\nその力があってしかるべきじゃ！",
-   "en": "",
+   "en": "So you, of all people, ought to have that power, eh!",
    "box": "17x3",
    "face": 5
   },
@@ -537,7 +537,7 @@
    "id": "s438:02426",
    "op": "15",
    "jp": "私もそう思います。",
-   "en": "",
+   "en": "I believe so as well.",
    "box": "17x3",
    "face": 53
   },
@@ -545,7 +545,7 @@
    "id": "s438:0245a",
    "op": "15",
    "jp": "さあ、門の前で\nこの石板を掲げて下さい。",
-   "en": "",
+   "en": "Now, raise this tablet before the gate, please.",
    "box": "17x3",
    "face": 53
   },
@@ -553,7 +553,7 @@
    "id": "s438:02562",
    "op": "15",
    "jp": "どのみち、後戻りはできねぇんだ。\n他に選択肢なんかねぇんだろう！？",
-   "en": "",
+   "en": "We can't turn back anyway. There ain't any other choice, is there!?",
    "box": "17x3",
    "face": 2
   },
@@ -561,7 +561,7 @@
    "id": "s438:0265e",
    "op": "15",
    "jp": "物は試しだ、\nやってみて損はねぇ！",
-   "en": "",
+   "en": "No harm in trying, as they say. Give it a shot!",
    "box": "17x3",
    "face": 1
   },
@@ -569,7 +569,7 @@
    "id": "s438:0275e",
    "op": "15",
    "jp": "なんかドキドキするな！！",
-   "en": "",
+   "en": "Um, this is kinda making my heart pound!!",
    "box": "17x3",
    "face": 3
   },
@@ -577,7 +577,7 @@
    "id": "s438:02796",
    "op": "15",
    "jp": "あの石板を扱えるのは、\nもはやお主だけじゃ！！",
-   "en": "",
+   "en": "You alone can wield that tablet now, my boy!!",
    "box": "17x3",
    "face": 5
   },
@@ -585,7 +585,7 @@
    "id": "s438:027e6",
    "op": "15",
    "jp": "がんばってください！！",
-   "en": "",
+   "en": "Please do your best!!",
    "box": "17x3",
    "face": 4
   },
@@ -593,7 +593,7 @@
    "id": "s438:0281e",
    "op": "15",
    "jp": "今日の事は、一字一句忘れずに\n日記に書いておきますからね。",
-   "en": "",
+   "en": "I'll write today down in my diary, not forgetting one single word.",
    "box": "17x3",
    "face": 6
   },
@@ -601,7 +601,7 @@
    "id": "s438:0296a",
    "op": "15",
    "jp": "私はこの石板を託せる日を\n待ち望んでいました。",
-   "en": "",
+   "en": "I have long awaited the day I could entrust this tablet.",
    "box": "17x3",
    "face": 53
   },
@@ -609,7 +609,7 @@
    "id": "s438:02c5a",
    "op": "15",
    "jp": "我が名はモーゼ、\n石板を守護する者なり。",
-   "en": "",
+   "en": "My name is Moses, guardian of the tablet.",
    "box": "17x3",
    "face": 53
   },
@@ -617,7 +617,7 @@
    "id": "s438:02cea",
    "op": "15",
    "jp": "この世界を新たなる戒律へと\n導く者に、この力を託さん！！",
-   "en": "",
+   "en": "To the one who will lead this world to new commandments, I entrust this power!!",
    "box": "17x3",
    "face": 53
   },
@@ -625,7 +625,7 @@
    "id": "s438:02d36",
    "op": "15",
    "jp": "我は、真に等しき世界を\n望む者なり！！！",
-   "en": "",
+   "en": "I am one who desires a truly equal world!!!",
    "box": "17x3",
    "face": 53
   },
@@ -633,7 +633,7 @@
    "id": "s438:02dfe",
    "op": "15",
    "jp": "ハ・サタン様の真の御意志を\n継ぎし者が現れ・・・",
-   "en": "",
+   "en": "One has come who inherits the true will of Ha-Satan-sama...",
    "box": "17x3",
    "face": 53
   },
@@ -641,7 +641,7 @@
    "id": "s438:02e42",
    "op": "15",
    "jp": "世界が・・・\n変革するときが来た。",
-   "en": "",
+   "en": "The time has come... for the world to change.",
    "box": "17x3",
    "face": 53
   },
@@ -649,7 +649,7 @@
    "id": "s438:02e76",
    "op": "15",
    "jp": "私もやっと・・・\n役目を果たし終えたか。",
-   "en": "",
+   "en": "At last... I have fulfilled my role.",
    "box": "17x3",
    "face": 53
   },
@@ -657,7 +657,7 @@
    "id": "s438:02f0a",
    "op": "15",
    "jp": "モーゼ殿！",
-   "en": "",
+   "en": "Moses-dono!",
    "box": "17x3",
    "face": 5
   },
@@ -665,7 +665,7 @@
    "id": "s438:02f96",
    "op": "15",
    "jp": "どうやら、\nすでに引き返す道のない旅に\n追い込まれちまったみてぇだな！",
-   "en": "",
+   "en": "Looks like we've been backed into a trip with no way back!",
    "box": "17x3",
    "face": 1
   },
@@ -721,7 +721,7 @@
    "id": "s438:0314e",
    "op": "15",
    "jp": "ぐずぐずはしておれん！！",
-   "en": "",
+   "en": "No time to dawdle, eh!!",
    "box": "17x3",
    "face": 5
   },
@@ -729,7 +729,7 @@
    "id": "s438:0317a",
    "op": "15",
    "jp": "これだけ派手な事をしたんじゃ、\n門の向こうで、\nわんさか敵が待っておるぞ！",
-   "en": "",
+   "en": "After this much show, a swarm of enemies will be waiting beyond the gate, mark me!",
    "box": "17x3",
    "face": 5
   },
@@ -737,7 +737,7 @@
    "id": "s438:0321e",
    "op": "15",
    "jp": "ありがちだが、",
-   "en": "",
+   "en": "It's a tired old line, but",
    "box": "17x3",
    "face": 1
   },
@@ -745,7 +745,7 @@
    "id": "s438:0323e",
    "op": "15",
    "jp": "「虎穴に入らずんば虎児を得ず」\nって事か？",
-   "en": "",
+   "en": "\"No entering the tiger's den, no tiger cub,\" huh?",
    "box": "17x3",
    "face": 1
   }

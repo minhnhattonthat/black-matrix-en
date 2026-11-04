@@ -9,7 +9,7 @@
    "id": "s376:00cca",
    "op": "15",
    "jp": "改めてお礼を\n言わせていただきます。",
-   "en": "",
+   "en": "Allow me to thank you once more.",
    "box": "17x3",
    "face": 47
   },
@@ -17,7 +17,7 @@
    "id": "s376:00d02",
    "op": "15",
    "jp": "救世主様の御来訪に\n街の者全てが喜んでいます！",
-   "en": "",
+   "en": "Everyone in town rejoices at the Savior's visit!",
    "box": "17x3",
    "face": 47
   },
@@ -25,7 +25,7 @@
    "id": "s376:00d9a",
    "op": "15",
    "jp": "これからは、異端審問官達の\n襲撃を恐れなくてもすむなんて！",
-   "en": "",
+   "en": "To think that from now on we need no longer fear Inquisitor raids!",
    "box": "17x3",
    "face": 47
   },
@@ -33,7 +33,7 @@
    "id": "s376:00df6",
    "op": "15",
    "jp": "どういう意味じゃな、それは？",
-   "en": "",
+   "en": "And what would you mean by that, eh?",
    "box": "17x3",
    "face": 5
   },
@@ -41,7 +41,7 @@
    "id": "s376:00eb6",
    "op": "15",
    "jp": "はぁ！？マルコ様から\n聞いてはおりませんか！？",
-   "en": "",
+   "en": "Huh!? Has Marco-sama not told you!?",
    "box": "17x3",
    "face": 47
   },
@@ -49,7 +49,7 @@
    "id": "s376:00f06",
    "op": "15",
    "jp": "ちょ、ちょっと待ってください！",
-   "en": "",
+   "en": "W-wait a moment, please!",
    "box": "17x3",
    "face": 4
   },
@@ -57,7 +57,7 @@
    "id": "s376:00f5e",
    "op": "15",
    "jp": "僕はただ、この街が\n平等と人権を重視した、",
-   "en": "",
+   "en": "All I heard was that this town values equality and human rights,",
    "box": "17x3",
    "face": 4
   },
@@ -65,7 +65,7 @@
    "id": "s376:00f9a",
    "op": "15",
    "jp": "素晴らしい街だと言うことしか\n聞いていませんが？",
-   "en": "",
+   "en": "that it's a wonderful town, nothing more?",
    "box": "17x3",
    "face": 4
   },
@@ -73,7 +73,7 @@
    "id": "s376:0100e",
    "op": "15",
    "jp": "それが問題なのです。",
-   "en": "",
+   "en": "That is the problem.",
    "box": "17x3",
    "face": 47
   },
@@ -81,7 +81,7 @@
    "id": "s376:01036",
    "op": "15",
    "jp": "平等と人権は、\n当然この世界の\n七つの大罪に抵触します！！",
-   "en": "",
+   "en": "Equality and human rights naturally run afoul of this world's Seven Deadly Sins!!",
    "box": "17x3",
    "face": 47
   },
@@ -89,7 +89,7 @@
    "id": "s376:01082",
    "op": "15",
    "jp": "むろん我が街でも、来たるべき\n異端審問官達の来襲に備え、",
-   "en": "",
+   "en": "Of course, our town too, in readiness for the coming Inquisitor assault,",
    "box": "17x3",
    "face": 47
   },
@@ -97,7 +97,7 @@
    "id": "s376:010ce",
    "op": "15",
    "jp": "有志を募って\n自警団を組織したり、",
-   "en": "",
+   "en": "has called for volunteers and organized a militia,",
    "box": "17x3",
    "face": 47
   },
@@ -105,7 +105,7 @@
    "id": "s376:01102",
    "op": "15",
    "jp": "火薬を使った\n新兵器を開発してはいます。",
-   "en": "",
+   "en": "and is developing new gunpowder weapons.",
    "box": "17x3",
    "face": 47
   },
@@ -121,7 +121,7 @@
    "id": "s376:0116a",
    "op": "15",
    "jp": "しかし、所詮我々は\n戦闘のプロではありません。",
-   "en": "",
+   "en": "But in the end, we are no combat professionals.",
    "box": "17x3",
    "face": 47
   },
@@ -129,7 +129,7 @@
    "id": "s376:011aa",
    "op": "15",
    "jp": "しかも隣街のゴモラの奴らが、\nその事を異端審問会に・・・",
-   "en": "",
+   "en": "What's more, those Gomorrah people next door may go to the Inquisition about it...",
    "box": "17x3",
    "face": 47
   },
@@ -137,7 +137,7 @@
    "id": "s376:011f6",
    "op": "15",
    "jp": "密告するかもしれないんです！！",
-   "en": "",
+   "en": "They may inform on us!!",
    "box": "17x3",
    "face": 47
   },
@@ -169,7 +169,7 @@
    "id": "s376:012c6",
    "op": "15",
    "jp": "ケルビムさんからは、\nゴモラも平等な街だと\n聞いていますが？",
-   "en": "",
+   "en": "Cherubim-san told me Gomorrah is an equal town too, though?",
    "box": "17x3",
    "face": 4
   },
@@ -177,7 +177,7 @@
    "id": "s376:01346",
    "op": "15",
    "jp": "あの街はダメです！！",
-   "en": "",
+   "en": "That town is no good!!",
    "box": "17x3",
    "face": 47
   },
@@ -185,7 +185,7 @@
    "id": "s376:0136e",
    "op": "15",
    "jp": "平等も所詮は形だけで、\n住人達には自由がありません。",
-   "en": "",
+   "en": "Its equality is mere form, and its people have no freedom.",
    "box": "17x3",
    "face": 47
   },
@@ -193,7 +193,7 @@
    "id": "s376:013b6",
    "op": "15",
    "jp": "さらに住民もまた、\n上からの命令どおりにしか\n動こうとはしない！",
-   "en": "",
+   "en": "What's more, they refuse to move except as ordered from above!",
    "box": "17x3",
    "face": 47
   },
@@ -201,7 +201,7 @@
    "id": "s376:0140a",
    "op": "15",
    "jp": "あの街はそんな\n怠け者の住人を育て上げる、\n腐ったシステムの街なのです！！",
-   "en": "",
+   "en": "That town is a rotten system that breeds such lazy residents!!",
    "box": "17x3",
    "face": 47
   },
@@ -233,7 +233,7 @@
    "id": "s376:01502",
    "op": "15",
    "jp": "その上、奴等は住民達を強制的に\n兵隊に仕立て上げる、徴兵制\nという制度を使って軍備を増強し、",
-   "en": "",
+   "en": "Worse, they build up arms with a system called conscription, forcing residents into uniform,",
    "box": "17x3",
    "face": 47
   },
@@ -241,7 +241,7 @@
    "id": "s376:01572",
    "op": "15",
    "jp": "奴等の政策に従わない\n我々の街を、攻め滅ぼそうと\n企んでいるのです！！",
-   "en": "",
+   "en": "and they scheme to attack and destroy our town, which won't follow their policies!!",
    "box": "17x3",
    "face": 47
   },
@@ -257,7 +257,7 @@
    "id": "s376:015fa",
    "op": "15",
    "jp": "救世主様御一行には・・・",
-   "en": "",
+   "en": "Savior-sama and company...",
    "box": "17x3",
    "face": 47
   },
@@ -265,7 +265,7 @@
    "id": "s376:01626",
    "op": "15",
    "jp": "どうか、この街に留まって、\n我々を守って頂きたいのです。",
-   "en": "",
+   "en": "I beg you, stay in this town and protect us.",
    "box": "17x3",
    "face": 47
   },
@@ -273,7 +273,7 @@
    "id": "s376:016d2",
    "op": "15",
    "jp": "それが本当なら、\n許しちゃおけねえな！",
-   "en": "",
+   "en": "If that's true, I ain't lettin' it slide!",
    "box": "17x3",
    "face": 2
   },
@@ -281,7 +281,7 @@
    "id": "s376:0171a",
    "op": "15",
    "jp": "そうは言っても、\n我々も先を急ぐんじゃが！",
-   "en": "",
+   "en": "Even so, we are in something of a hurry, my boy!",
    "box": "17x3",
    "face": 5
   },
@@ -289,7 +289,7 @@
    "id": "s376:01766",
    "op": "15",
    "jp": "では、せめてゴモラに行って\nよけいな事をさせないように、\n進言しては頂けませんか？",
-   "en": "",
+   "en": "Then at the very least, could you go to Gomorrah and advise them not to do anything rash?",
    "box": "17x3",
    "face": 47
   },
@@ -297,7 +297,7 @@
    "id": "s376:017f2",
    "op": "15",
    "jp": "彼らも救世主様の言う事なら、\n多分・・・\n聞いてくれることでしょう。",
-   "en": "",
+   "en": "If it comes from the Savior, they will... probably... listen.",
    "box": "17x3",
    "face": 47
   },
@@ -305,7 +305,7 @@
    "id": "s376:0189e",
    "op": "15",
    "jp": "私は・・・\nそう信じたい・・・",
-   "en": "",
+   "en": "I... I want to believe that...",
    "box": "17x3",
    "face": 47
   },
@@ -321,7 +321,7 @@
    "id": "s376:018fe",
    "op": "15",
    "jp": "実際に行って\nご覧になれば解ります！",
-   "en": "",
+   "en": "Go and see for yourselves, and you'll understand!",
    "box": "17x3",
    "face": 47
   },
@@ -329,7 +329,7 @@
    "id": "s376:0195a",
    "op": "15",
    "jp": "その上で我々の願いに\nついてご一考ください！！",
-   "en": "",
+   "en": "Then please give some thought to our request!!",
    "box": "17x3",
    "face": 47
   },
@@ -337,7 +337,7 @@
    "id": "s376:019ce",
    "op": "15",
    "jp": "行ってみるしか・・\nないじゃろうなぁ・・・",
-   "en": "",
+   "en": "We've no choice but to go... I daresay...",
    "box": "17x3",
    "face": 5
   },
@@ -345,7 +345,7 @@
    "id": "s376:01a0a",
    "op": "15",
    "jp": "ゴモラの街へ！",
-   "en": "",
+   "en": "To Gomorrah!",
    "box": "17x3",
    "face": 5
   },
@@ -353,7 +353,7 @@
    "id": "s376:01b6e",
    "op": "15",
    "jp": "さぁて、救世主様御一行とやらは\nどんな判断を\n下すのでしょうか？",
-   "en": "",
+   "en": "Now then, what judgment will the Savior and company hand down?",
    "box": "17x3",
    "face": 121
   }
