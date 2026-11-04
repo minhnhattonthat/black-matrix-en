@@ -1,0 +1,148 @@
+# Sprite-sheet labels. Columns: sheet leaf, x, y, w, h, text ("|" = next line, empty = clear), style, records.
+# Style (comma-separated): cN fixed colour index, oN outline index, fNAME font from fonts/, from=x+y+w+h take colours from another rect,
+#   pack = find a new rect wide enough (x y w h are the old one, records must re-point), strip=x+y;x+y.. text across 16-px cells drawn on a 14-px pitch.
+# Records: TABLE:INDEX or TABLE:x,y (the record now at that rect), comma-free list by ";"-less single entries: point them at this row's rect.
+# SYSTEM/4.1 config (rects from SYSTEM/4.0.1)
+SYSTEM/4.1	72	16	136	16	Help Display Settings
+SYSTEM/4.1	56	32	48	16	Shop
+SYSTEM/4.1	104	32	40	16	Status
+SYSTEM/4.1	144	32	48	16	Items
+SYSTEM/4.1	192	32	40	16	Rite
+SYSTEM/4.1	24	48	40	16	Leave
+SYSTEM/4.1	64	48	40	16	Sortie
+SYSTEM/4.1	104	48	40	16	Units
+SYSTEM/4.1	144	48	56	16	BP Allot
+SYSTEM/4.1	72	64	56	16	Deploy
+SYSTEM/4.1	128	64	40	16	Move
+SYSTEM/4.1	168	64	40	16	Attack
+SYSTEM/4.1	40	80	40	16	Magic
+SYSTEM/4.1	80	80	40	16	Items
+SYSTEM/4.1	120	80	40	16	Refill
+SYSTEM/4.1	160	80	40	16	Stance
+SYSTEM/4.1	40	96	40	16	Summon
+SYSTEM/4.1	80	96	56	16	Victory
+SYSTEM/4.1	136	96	72	16	Level Up
+SYSTEM/4.1	0	112	48	16	Show
+SYSTEM/4.1	48	112	56	16	Hide
+SYSTEM/4.1	104	112	56	16	Manual
+SYSTEM/4.1	160	112	56	16	Default
+# SYSTEM/5.5 equipment and camp labels: re-packed, the table in its tail re-pointed, so no label has to fit its kanji's width.
+SYSTEM/5.5	0	0	56	16	Level Up	pack,f6x13B	SYSTEM/5.5:6
+SYSTEM/5.5	56	0	40	16	MAX	pack,f6x13B	SYSTEM/5.5:7
+SYSTEM/5.5	96	0	32	16	Latent	pack,f6x13B	SYSTEM/5.5:8
+SYSTEM/5.5	0	16	32	16	Buy	pack,f6x13B	SYSTEM/5.5:9
+SYSTEM/5.5	32	16	32	16	Sell	pack,f6x13B	SYSTEM/5.5:10
+SYSTEM/5.5	64	16	32	16	Status	pack,f6x13B	SYSTEM/5.5:11
+SYSTEM/5.5	96	16	32	16	Storage	pack,f6x13B	SYSTEM/5.5:12
+SYSTEM/5.5	0	32	32	16	Equip	pack,f6x13B	SYSTEM/5.5:13
+SYSTEM/5.5	32	32	16	16	Armor	pack,f6x13B	SYSTEM/5.5:14
+SYSTEM/5.5	48	32	56	16	Accessory	pack,f6x13B	SYSTEM/5.5:15
+SYSTEM/5.5	88	80	32	16	Weapon	pack,f6x13B	SYSTEM/5.5:16
+SYSTEM/5.5	0	48	56	16	Equip Weapon	pack,f6x13B	SYSTEM/5.5:17
+SYSTEM/5.5	56	48	40	16	Remove	pack,f6x13B	SYSTEM/5.5:18
+SYSTEM/5.5	56	64	40	16	Discard	pack,f6x13B	SYSTEM/5.5:19
+SYSTEM/5.5	56	80	32	16	Back	pack,f6x13B	SYSTEM/5.5:20
+SYSTEM/5.5	56	96	32	16	OK	pack,f6x13B	SYSTEM/5.5:21
+SYSTEM/5.5	88	96	32	16	End	pack,f6x13B	SYSTEM/5.5:22
+SYSTEM/5.5	0	112	32	16	Magic	pack,f6x13B	SYSTEM/5.5:23
+SYSTEM/5.5	32	112	32	16	Sword-Blood	pack,f6x13B	SYSTEM/5.5:24
+SYSTEM/5.5	96	112	32	16	Clot	pack,f6x13B	SYSTEM/5.5:25
+SYSTEM/5.5	64	112	32	16	Join	pack,f6x13B	SYSTEM/5.5:26
+SYSTEM/5.5	0	128	48	16	Don't Join	pack,f6x13B	SYSTEM/5.5:27
+SYSTEM/5.5	48	128	40	16	Consumable	pack,f6x13B	SYSTEM/5.5:28
+SYSTEM/5.5	0	144	56	16	Reset	pack,f6x13B	SYSTEM/5.5:29
+SYSTEM/5.5	0	64	56	16	Auto	pack,f6x13B	SYSTEM/5.5:30
+SYSTEM/5.5	0	80	56	16	Manual	pack,f6x13B	SYSTEM/5.5:31
+SYSTEM/5.5	0	96	56	16	By Number	pack,f6x13B	SYSTEM/5.5:32
+SYSTEM/5.5	56	144	56	16	Unit List	pack,f6x13B	SYSTEM/5.5:33
+SYSTEM/5.5	88	128	32	16	Select	pack,f6x13B	SYSTEM/5.5:34
+# SYSTEM/15.1 battle report (rects from SYSTEM/15.2, 15.3)
+SYSTEM/15.1	24	96	72	16	Command Time:
+SYSTEM/15.1	24	112	56	16	Turns:
+SYSTEM/15.1	24	200	56	16	Carried:
+# SYSTEM/29.1 disc swap (rects from SYSTEM/29.2)
+SYSTEM/29.1	0	0	128	40	Please insert|Disc 1.
+SYSTEM/29.1	0	40	128	40	Please insert|Disc 2.
+SYSTEM/29.1	0	80	144	40	Checking the|disc...
+SYSTEM/29.1	0	120	168	16	Wrong disc!
+# SYSTEM/3.1 save screen (rects from SYSTEM/3.0.1). The game shows `Data` or `Room` + `missing` from two sprites, so the second half is empty.
+SYSTEM/3.1	96	0	24	16	Mem.
+SYSTEM/3.1	96	16	24	16	Card
+SYSTEM/3.1	0	104	40	16	Slot
+SYSTEM/3.1	0	120	16	16	Ch.
+SYSTEM/3.1	16	120	24	16	Last
+SYSTEM/3.1	64	168	56	16	No Data
+SYSTEM/3.1	8	184	64	16	New File
+SYSTEM/3.1	88	184	24	16	Empty
+SYSTEM/3.1	8	200	80	32	File is|corrupted.
+SYSTEM/3.1	0	232	40	16	No Room
+SYSTEM/3.1	40	232	64	16
+# BATTLE/0.1 battle UI (rects from BATTLE/0.7.2, 0.7.3)
+BATTLE/0.1	176	0	24	16	Miss!	c8,o1
+BATTLE/0.1	200	0	24	16	Stone	c8,o1
+BATTLE/0.1	176	16	28	16	Poison	c8,o1	BATTLE/0.7.2:3
+BATTLE/0.1	204	16	20	16	Stun	c8,o1	BATTLE/0.7.2:4
+BATTLE/0.1	176	32	48	16	Status	c8,o1
+BATTLE/0.1	96	48	32	16	Guard	c8,o1
+BATTLE/0.1	128	48	32	16	Sleep	c8,o1
+BATTLE/0.1	160	48	32	16	Up	c8,o1
+BATTLE/0.1	192	48	32	16	Down	c8,o1
+BATTLE/0.1	112	64	32	16	Normal	c8,o1
+BATTLE/0.1	144	64	32	16	Latent	c8,o1
+BATTLE/0.1	176	64	40	16	Special	c8,o1
+BATTLE/0.1	144	80	40	16	Thinking	c8,o1
+BATTLE/0.1	184	80	16	16	Change Deployment	c8,o1,f6x13B,strip=184+80;200+80;144+96;160+96;144+112;160+112;176+112;192+112;208+112
+BATTLE/0.1	176	96	16	16	Stance	c8,o1,f6x10,strip=176+96;192+96;208+96
+BATTLE/0.1	0	224	32	16	Normal	c8,o1
+BATTLE/0.1	0	240	32	16	Latent	c8,o1
+BATTLE/0.1	176	192	16	16	Normal	c8,o1,f5x8,strip=176+192;176+224
+BATTLE/0.1	176	208	16	16	Latent	c8,o1,f5x8,strip=176+208;176+240
+BATTLE/0.1	192	208	32	16	Move	c8,o1
+BATTLE/0.1	192	224	32	16	Attack	c8,o1
+BATTLE/0.1	192	240	32	16	Magic	c8,o1
+# SYSTEM/0.2 weapon type cells: one letter-cell each, so three-letter flags (flagged in docs/decisions.md D15)
+SYSTEM/0.2	16	88	16	16	Ver	f5x8
+SYSTEM/0.2	32	88	16	16	Hor	f5x8
+SYSTEM/0.2	48	88	16	16	Thr	f5x8
+SYSTEM/0.2	64	88	16	16	Hit	f5x8
+SYSTEM/0.2	80	88	16	16	Swp	f5x8
+SYSTEM/0.2	96	88	16	16	Bow	f5x8
+# SYSTEM/17.1 sound test (rects from SYSTEM/17.2)
+SYSTEM/17.1	0	64	120	16	Closed Ward Melancholy
+SYSTEM/17.1	120	64	80	16	Touching Hearts
+SYSTEM/17.1	0	96	96	16	Middle Iron
+SYSTEM/17.1	96	96	80	16	Mini-Game
+SYSTEM/17.1	0	112	96	16	Zombie Spray
+SYSTEM/17.1	0	128	32	16
+SYSTEM/17.1	32	128	56	16	Class Closed
+SYSTEM/17.1	96	128	56	16	Checkpoint	from=0+128+32+16	SYSTEM/17.2:0,128
+SYSTEM/17.1	0	144	118	16	Coastal Amoeba 1
+SYSTEM/17.1	0	160	80	16	Cockroach
+SYSTEM/17.1	80	160	32	16
+SYSTEM/17.1	112	160	120	16	Coastal Amoeba 2
+SYSTEM/17.1	168	176	48	16	Old Face	from=80+160+32+16	SYSTEM/17.2:80,160
+SYSTEM/17.1	136	192	56	16	Samson
+SYSTEM/17.1	0	208	152	16	Angelus Order Theme
+SYSTEM/17.1	0	224	72	16	Strange World
+SYSTEM/17.1	0	240	176	16	BlackMatrix: True Love Theme
+SYSTEM/17.1	176	240	48	16	Sorrow
+# EVENT/0.1 home activity menu (rects from EVENT/0.4)
+EVENT/0.1	0	0	40	24	Fish
+EVENT/0.1	40	0	40	24	Hunt
+EVENT/0.1	0	24	64	24	Chop Wood
+EVENT/0.1	0	48	64	24	Farming
+EVENT/0.1	0	72	48	24	Cook
+EVENT/0.1	0	96	40	24	Wash
+EVENT/0.1	40	96	40	24	Clean
+EVENT/0.1	0	120	40	24	Eat
+EVENT/0.1	40	120	40	24	Talk
+EVENT/0.1	0	144	40	24	Inside
+EVENT/0.1	40	144	40	24	Outside
+EVENT/0.1	0	168	40	24	Sleep
+EVENT/0.1	40	168	40	24	Read
+EVENT/0.1	0	192	40	24	Town
+EVENT/0.1	40	192	40	24	Walk
+# EVENT/0.0 small menu label; mini-game labels
+EVENT/0.0	88	48	48	16	:Menu
+EVENT/65.3	40	152	56	16	:Choose
+EVENT/65.3	40	168	56	16	:Enter

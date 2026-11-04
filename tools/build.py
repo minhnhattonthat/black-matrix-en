@@ -12,6 +12,7 @@ from pathlib import Path
 import check_rom
 import engine
 import extract
+import gfx
 import marker
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -82,7 +83,7 @@ def documents(marked=False, qa=()):
 def disc_files(disc, docs):
     """Every file a disc's text changes, with the EXE's hooks in."""
     long = engine.Long()
-    files = extract.text_files(disc, 'out', engine.encode, docs, long)
+    files = extract.text_files(disc, 'out', engine.encode, docs, long, gfx.replacements(disc))
     exe = extract.EXE[disc]
     files[exe] = engine.apply(files[exe])
     return files

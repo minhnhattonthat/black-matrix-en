@@ -13,6 +13,7 @@ import dat
 import engine
 import extract
 import fit
+import gfx
 import lint
 import psi
 import romdiff
@@ -86,12 +87,15 @@ def test_exe_and_overlays_change_only_text_slots_and_hooks(docs, built, n):
 @pytest.mark.parametrize('n', build.DISCS)
 def test_dat_leaves_change_only_where_text_lives(docs, built, n):
     owner = {c[3:]: rel for rel, d in docs.items() for c in d['copies'] if c.startswith(f'd{n}:')}
+    pictures = gfx.replacements(n)
     for name, leaves in extract.dat_leaves(n).items():
         new = dict(dat.walk(built[n][f'{name}.DAT'], name))
         assert new.keys() == leaves.keys(), name
         for p, x in leaves.items():
             rel = owner.get(p)
-            if p == 'SYSTEM/0.0':  # the font's tail takes the long strings
+            if p in pictures.get(name, {}):  # gfx.py's own tests hold what a redraw may change
+                assert new[p] == pictures[name][p], p
+            elif p == 'SYSTEM/0.0':  # the font's tail takes the long strings
                 lo = engine.LONG_RAM - engine.FONT_RAM
                 assert new[p][:lo] == x[:lo] and len(new[p]) == len(x)
             elif rel is None:

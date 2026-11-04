@@ -254,8 +254,9 @@ def load():
     return {p.relative_to(OUT).as_posix(): json.loads(p.read_text(encoding='utf-8')) for p in sorted(OUT.rglob('*.json'))}
 
 
-def text_files(disc, field='jp', enc=psi.encode, docs=None, long=None):
-    """Disc files rebuilt from script/ with `field` as the text: {file name: bytes}. Field 'jp' gives the original."""
+def text_files(disc, field='jp', enc=psi.encode, docs=None, long=None, pictures=None):
+    """Disc files rebuilt from script/ with `field` as the text: {file name: bytes}. Field 'jp' gives the original.
+    pictures: {DAT name: {leaf path: new bytes}}, redrawn pictures to put in as well."""
     docs = docs or load()
     pre = f'd{disc}:'
     leaves = dat_leaves(disc)
@@ -278,6 +279,7 @@ def text_files(disc, field='jp', enc=psi.encode, docs=None, long=None):
     if long and long.items:
         repl['SYSTEM']['SYSTEM/0.0'] = long.into_font(leaves['SYSTEM']['SYSTEM/0.0'])
     for n in DATS:
+        repl[n].update((pictures or {}).get(n, {}))
         files[f'{n}.DAT'] = dat.rebuild((ORIG / f'd{disc}/{n}.DAT').read_bytes(), n, repl[n])
     return files
 

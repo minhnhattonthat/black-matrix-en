@@ -1,0 +1,51 @@
+# Battle cards: leaf path, top line, title, label, win line. Readings in docs/re/graphics-review.txt.
+BATTLE/11.0	Chapter 2-1	Escape	Victory Condition	Defeat All Enemies
+BATTLE/12.0	Chapter 2-2	Purgatory, Purgatory, More Purgatory	Victory Condition	Defeat All Guards
+BATTLE/13.0	Chapter 3-1	Infiltration	Victory Condition	Defeat All Enemies
+BATTLE/14.0	Chapter 3-2	Who Is This Fight For?	Victory Condition	Defeat the Heretic Knight
+BATTLE/15.0	Chapter 3-3	The Angelus Order	Victory Condition	Defeat All Enemies
+BATTLE/16.0	Free Battle	In the Town of Ribeira	Victory Condition	Defeat the Enemy Leader
+BATTLE/17.0	Chapter 3-4	Rondo of Lovers	Victory Condition	Defeat Judas
+BATTLE/18.0	Chapter 3-5	The Great Evil God's Armor	Victory Condition	Defeat Judas
+BATTLE/20.0	Chapter 4-1	Nostalgia Attacks	Victory Condition	Defeat the Bandit Boss
+BATTLE/21.0	Free Battle	At the Arena	Victory Condition	Defeat the Enemy Leader
+BATTLE/22.0	Chapter 4-2	Tournament Round One	Victory Condition	Defeat All Enemies
+BATTLE/23.0	Chapter 4-3	Tournament Round Two	Victory Condition	Defeat All Enemies
+BATTLE/24.0	Chapter 4-4	Blood Battle!	Victory Condition	Defeat the Enemy Leader
+BATTLE/25.0	Chapter 4-1	The Old Priest	Victory Condition	Defeat Mastema
+BATTLE/26.0	Free Battle	In the Village of Kederon	Victory Condition	Defeat the Enemy Leader
+BATTLE/27.0	Chapter 4-2	Bonds	Victory Condition	Defeat All Enemies
+BATTLE/28.0	Chapter 5-1	Pandemonium Delusion	Victory Condition	Defeat All Enemies
+BATTLE/29.0	Chapter 5-2	A Life Sold, a Power Bought	Victory Condition	Defeat All Enemies
+BATTLE/30.0	Chapter 5-3	Reunion	Victory Condition	Defeat All Enemies
+BATTLE/31.0	Chapter 5-4	Power	Victory Condition	Defeat Mammon
+BATTLE/32.0	Chapter 5-5	Assault!! The Inquisitor	Victory Condition	Defeat All Enemies
+BATTLE/33.0	Free Battle	In the City of Pandemonium	Victory Condition	Defeat the Enemy Leader
+BATTLE/35.0	Chapter 6-1	Material	Victory Condition	Defeat All Enemies
+BATTLE/36.0	Chapter 6-2	A Table Set Around Lies	Victory Condition	Defeat All Enemies
+BATTLE/37.0	Chapter 6-3	What Lurks	Victory Condition	Defeat All Enemies
+BATTLE/39.0	Chapter 6-4	Justice, Hypocrisy, and the Great Evil God's Armor	Victory Condition	Defeat Baal
+BATTLE/40.0	Free Battle	In the Town of Gazan	Victory Condition	Defeat the Enemy Leader
+BATTLE/42.0	Chapter 7-1	The Re-Killing Squad	Victory Condition	Defeat All Enemies
+BATTLE/43.0	Chapter 7-2	Miracle Boy Marco Joins In	Victory Condition	Defeat All Enemies
+BATTLE/44.0	Chapter 7-3	The Shape of What's Called Friendship	Victory Condition	Defeat All Enemies
+BATTLE/45.0	Free Battle	In the Town of Begild	Victory Condition	Defeat the Enemy Leader
+BATTLE/47.0	Chapter 8-1	Whose Fight Is This?	Victory Condition	Defeat All Enemies
+BATTLE/48.0	Chapter 8-2	Whose Fight Is This?	Victory Condition	Defeat Belphe
+BATTLE/49.0	Free Battle	In the City of Sodom	Victory Condition	Defeat the Enemy Leader
+BATTLE/50.0	Free Battle	In the City of Gomorrah	Victory Condition	Defeat the Enemy Leader
+BATTLE/51.0	Chapter 9-1	Your Own Enemy Is...	Victory Condition	Defeat All Enemies
+BATTLE/52.0	Chapter 9-2	White Wings	Victory Condition	Defeat All Enemies
+BATTLE/53.0	Chapter 9-3	A Cheap Image	Victory Condition	Defeat All Enemies
+BATTLE/54.0	Chapter 9-4	Souls With Nowhere to Go	Victory Condition	Defeat All Enemies
+BATTLE/55.0	Chapter 9-5	Heaven and Hell	Victory Condition	Defeat All Enemies
+BATTLE/56.0	Free Battle	On Noah's Ark	Victory Condition	Defeat the Enemy Leader
+BATTLE/57.0	Chapter 10-1	The Rift	Victory Condition	Defeat All Enemies
+BATTLE/58.0	Chapter 10-2	A World Where Hope Never Runs Out	Victory Condition	Defeat All Enemies
+BATTLE/59.0	Chapter 10-3	The Unseen Light	Victory Condition	Defeat All Enemies
+BATTLE/60.0	Chapter 10-4	The Battle of Diabolos	Victory Condition	Defeat All Enemies
+BATTLE/61.0	Free Battle	At Diabolos	Victory Condition	Defeat the Enemy Leader
+BATTLE/62.0	Chapter 11-1	The War of Genesis	Victory Condition	Defeat All Enemies
+BATTLE/63.0	Chapter 11-2	The End of Remembrance	Victory Condition	Defeat Luca
+BATTLE/64.0	Chapter 12-1		Victory Condition	Defeat All Enemies
+BATTLE/65.0	Final Battle	New Century
