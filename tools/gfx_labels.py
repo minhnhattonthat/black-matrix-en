@@ -21,6 +21,7 @@ class Bdf:
 
     def __init__(self, name):
         self.h, self.descent = 0, 0
+        self.name = name
         self.glyphs = {}
         code, bbx, rows = None, None, None
         for line in (FONTS / f'{name}.bdf').read_text(encoding='latin-1').splitlines():
@@ -47,6 +48,8 @@ class Bdf:
         return cls.cache[name]
 
     def glyph(self, ch):
+        if self.name == '6x13B' and ch == 'm':  # its m is a solid block in game ("Deploywert"); 7x13B's has the same size and baseline
+            return Bdf.get('7x13B').glyph(ch)
         (w, h, bx, by), rows = self.glyphs[ord(ch)]
         a = np.zeros((self.h, w + bx), bool)
         top = self.h - self.descent - by - h

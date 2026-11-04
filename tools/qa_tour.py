@@ -20,8 +20,10 @@ def main():
     for line in (ROOT / 'tools/debug/scenes.tsv').read_text(encoding='utf-8').splitlines()[1:]:
         name = line.split('\t')[0]
         shots = ROOT / 'work/qa/warp' / name
-        if name and not name.startswith('#') and any(shots.glob('f*.png')):
-            subprocess.run([sys.executable, '-X', 'utf8', sheet, str(shots), '--div', '1', '--changed', '0.02', '--max', '6', '--cols', '3',
+        # a scene shorter than warp.lua's shot interval has only its final.png
+        src = shots if any(shots.glob('f[0-9]*.png')) else shots / 'final.png'
+        if name and not name.startswith('#') and src.exists():
+            subprocess.run([sys.executable, '-X', 'utf8', sheet, str(src), '--div', '1', '--changed', '0.02', '--max', '6', '--cols', '3',
                             '--out', str(TOUR / f'{name}.png')], check=True, stdout=subprocess.DEVNULL)
     subprocess.run([sys.executable, '-X', 'utf8', str(ROOT / 'tools/gfx_sheets.py')], check=True)
     for f in (ROOT / 'work/qa/gfx').glob('sheet_*.png'):
