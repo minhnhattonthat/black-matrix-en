@@ -129,7 +129,7 @@
    "id": "s209:00aaa",
    "op": "14",
    "jp": "アンタ随分ボロボロの身なりをして\nいるなぁ・・・",
-   "en": "You're lookin' awful ragged there, friend...",
+   "en": "Your clothes look like crap, friend...",
    "box": "17x3",
    "face": 104
   },
@@ -137,7 +137,7 @@
    "id": "s209:00ae2",
    "op": "14",
    "jp": "だからってボロをボロボロ\nこぼしたりはしないでくれよ・・・",
-   "en": "Just don't go shedding your shreds all over the place...",
+   "en": "Just don't go droppin' crap all over the place...",
    "box": "17x3",
    "face": 104
   },

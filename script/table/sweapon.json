@@ -43,7 +43,7 @@
   {
    "id": "sweapon:1.effect",
    "jp": "カージ系小攻撃追加\nバイオリズム影響、変化無し",
-   "en": "Adds a small Kaji attack.\nNo biorhythm effect or change.",
+   "en": "Adds a small Kaji attack.\nBiorhythm effect and change: No",
    "max": 38,
    "cell": 19
   },
@@ -63,7 +63,7 @@
   {
    "id": "sweapon:2.effect",
    "jp": "フィキス系小攻撃追加\nバイオリズム影響、変化無し",
-   "en": "Adds a small Fikis attack.\nNo biorhythm effect or change.",
+   "en": "Adds a small Fikis attack.\nBiorhythm effect and change: No",
    "max": 38,
    "cell": 19
   },
@@ -83,7 +83,7 @@
   {
    "id": "sweapon:3.effect",
    "jp": "ミュタ系小攻撃追加\nバイオリズム影響、変化無し",
-   "en": "Adds a small Myuta attack.\nNo biorhythm effect or change.",
+   "en": "Adds a small Myuta attack.\nBiorhythm effect and change: No",
    "max": 38,
    "cell": 19
   },
@@ -103,7 +103,7 @@
   {
    "id": "sweapon:4.effect",
    "jp": "カージ系大攻撃追加\nバイオリズム影響、変化有り",
-   "en": "Adds a big Kaji attack.\nHas biorhythm effect and change.",
+   "en": "Adds a big Kaji attack.\nBiorhythm effect and change: Yes",
    "max": 38,
    "cell": 19
   },
@@ -123,7 +123,7 @@
   {
    "id": "sweapon:5.effect",
    "jp": "フィキス系大攻撃追加\nバイオリズム影響、変化有り",
-   "en": "Adds a big Fikis attack.\nHas biorhythm effect and change.",
+   "en": "Adds a big Fikis attack.\nBiorhythm effect and change: Yes",
    "max": 38,
    "cell": 19
   },
@@ -143,7 +143,7 @@
   {
    "id": "sweapon:6.effect",
    "jp": "ミュタ系大攻撃追加\nバイオリズム影響、変化有り",
-   "en": "Adds a big Myuta attack.\nHas biorhythm effect and change.",
+   "en": "Adds a big Myuta attack.\nBiorhythm effect and change: Yes",
    "max": 38,
    "cell": 19
   },
@@ -356,7 +356,7 @@
   {
    "id": "sweapon:17.desc",
    "jp": "堅固な信念を貫く事ができる",
-   "en": "Can pierce with unshakable conviction.",
+   "en": "Can stand firm in your convictions.",
    "max": 19,
    "cell": 19
   },

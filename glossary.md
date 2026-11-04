@@ -191,4 +191,5 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - `神様` where it can't mean the evil God: "some god", not "God".
 - Purica, Michette and Kurreshes get no sexual content, in anyone's mouth (translator brief, Style). Purica is a child; the other two have no stated age.
 - Summons and weapon sets: as in `work/tl/b008.out.tsv`, `b007.out.tsv`. Armor names are `X Armor` in the item table (`Metatron Armor`), "Metatron's armor" in prose.
+- 潜在一覧 is `Latents` in the 8-letter camp menu (3rd:8011b694, 4th:800fd564), `Latent List` elsewhere: phase 7 widens the menu if it can.
 - Enemy names shortened by the 12-letter field, candidates for engine room in phase 7: Heretic (Heretic Knight), Red Heretic, Inquisitor (Chief Inquisitor), Inspector (Dissent Inspector), Crusade Lord.
