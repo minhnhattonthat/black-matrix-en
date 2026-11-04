@@ -52,7 +52,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | メフィスト / メフィスト・フェレス | Mephisto / Mephistopheles | | | |
 | ハ・サタン / サタン / ゴッド | Ha-Satan / Satan / God | | | |
 | ミカエル / ガブリエル / ラファエル / ウリエル / サリエル / ラグエル / メタトロン | Michael / Gabriel / Raphael / Uriel / Sariel / Raguel / Metatron | | the Seven Great Evil Gods; their armors | |
-| リリス / ベルゼブブ / ベヒーモス / モーロック / ベルフェゴール / アラストル | Lilith / Beelzebub / Behemoth / Moloch / Belphegor / Alastor | | great angels | |
+| リリス / ベルゼブブ / ベヒーモス / モーロック / ベルフェゴール / アラストル | Lilith / Beelzebub / Behemoth / Moloch / Belphegor / Alastor | | archangels (大天使) | great angel |
 | アダム / イブ / ノア | Adam / Eve / Noah | | ノア is also the land Noah | |
 
 ## Places
@@ -134,6 +134,16 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 盗賊 / 大義賊 / 肉ドロボウ | bandit / great noble thief / meat thief | | | |
 | 領主 / 吸血鬼 / ヴァンパイヤメイド | lord / bloodsuckers / Vampire Maids | | | |
 | 奥義 / 秘技 | Ultimate Art / Secret Technique | | | |
+| 依り代 / 器 / 結界 | vessel / vessel / barrier | | | host |
+| 欲情の街 / 怠惰の街 / 平和の街 / 背徳の都 | the city of lust / the town of sloth / the town of peace / the Cities of Vice | | 背徳の都 is Sodom and Gomorrah | |
+| さまよえる民 / 流刑囚 / 石板 | the Wandering People / exiled convicts / stone tablet | | | |
+| 上級神官 / 検事総長 / お庭番 / 参謀 / 総本部 | high-ranking priest / Chief Prosecutor / secret agent / adviser / headquarters | | | |
+| 自警団 / 徴兵制 / 私設軍 | militia / conscription / private army | | | vigilantes |
+| 幻影のパリティ / 謀略のルビィ / 暴食のバアル | Parity the Phantom / Ruby of Intrigue / Baal the Gluttonous | | | |
+| サル / オサル / サル女 | apes / little apes / ape woman | | | monkey |
+| 救世主様 / 救世主様達 / 救世主様御一行 | Savior-sama / you Saviors / the Savior and company | | | |
+| 大神 / 天魔 / ベール / マーラーク | the great god / celestial demon / Bael / Malak | | | |
+| はん | -han | | Luca's Kansai -san | |
 | テラ銭 / 呪符 | house cut / talisman | | | |
 | 不発弾のゼファル / 退廃の剣闘士 | Zephar the Dud / the Gladiator of Decadence | | | |
 | 閃光のゼロ / 黒き皇帝 / 七冠人 | Flash Zero / the Black Emperor / the Seven-Crown Man | | | |
