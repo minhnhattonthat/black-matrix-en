@@ -12,4 +12,9 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 
 | File | Covers | State |
 |---|---|---|
-| <text.md> | <encoding, control codes, pointer tables> | <verified / partly guessed> |
+| [prior-work.md](prior-work.md) | Earlier patches and sources | Searches only, no patch found |
+| [disc-layout.md](disc-layout.md) | Discs, DAT and nested containers, RAM map, overlay loads, free-space candidates | Verified, free space not trap-tested |
+| [script-format.md](script-format.md) | PSI22.00 VM, operands, text ops, control words | Tokenizer verified on 524 of 524 |
+| [text.md](text.md) | Tables, EXE and overlay strings, pointer format, compression | Encoding and pointers verified, record layouts for phase 4 |
+| [font.md](font.md) | 14×14 font, index table, glyph cache | Verified from code |
+| [graphics.md](graphics.md) | Picture format, every Japanese picture and movie | Static sweep done, live checks open |
