@@ -18,9 +18,11 @@ Files: `2ND.BIN 3RD.BIN 4TH.BIN 5TH.BIN` (overlays), `BATTLE.DAT EVENT.DAT SCENA
 
 The EXE holds every file's name (`\SYSTEM.DAT;1`, `\MOVIE\0101.STR;1`, offsets 0xBDC-0xD00 and 0x177C-0x19D8) and finds
 files by name, so any file can grow and move. **verified** by `tools/debug/moved_check.py`, which grows `2ND.BIN` by 5
-sectors and compares CD reads (`tools/lua/cdlog.lua`) with the original: 11 scenes on both discs, no read left at an old LBA.
-Reads covered 2ND, 3RD, 4TH, all five DATs, PCMSE, PCM12, OPENING, PROLOGUE and 1207; the other files share the name
-tables. Boot reads the directory (LBA 16-22), then each DAT's header. No LBA of a DAT, XA or movie appears as a word in the EXE.
+sectors and compares CD reads (`tools/lua/cdlog.lua`) with the original: 12 scenes (8 on Disc 1, 4 on Disc 2), no read left at an old LBA.
+Reads covered 2ND, 3RD, 4TH, all five DATs, PCMSE, PCM12, OPENING, PROLOGUE and 1207. The other files are **not exercised**;
+they share the name tables. Boot reads the directory (LBA 16-22), then each DAT's header. No LBA of a DAT, XA or movie
+appears as a word in the EXE. The values 412 (4TH) and 455 (5TH) do, at 0x64C34 and 0x66268: 4TH was read at its moved LBA, so
+that hit is a coincidence; **guess** the same for 5TH, whose read isn't covered. Overlays weren't scanned.
 
 ## Rebuild (`tools/build.py`)
 
