@@ -301,7 +301,7 @@ def master_confirm(leaf):
                                     ((0, 96, 88, 32), ['No'], 24), ((0, 128, 168, 56), ['Left/Right: Select', 'O button: Confirm'], 15)):
         im = lettering((w, h), lines, SERIF, pt, (230, 230, 255), glow=(50, 30, 190), align='l')
         a = np.array(im)
-        ox, oy = x, y + (h - im.height) // 2
+        ox, oy = x + (w - im.width) // 2, y + (h - im.height) // 2  # the Japanese fills its rect; ink cropped smaller must stay on its centre
         rgba = a.reshape(-1, 4).astype(float)
         d = ((rgba[:, None, :3] - pal[None, 1:]) ** 2).sum(axis=2).argmin(axis=1) + 1
         d[rgba[:, 3] < 40] = 0
