@@ -15,7 +15,7 @@ from scipy import ndimage
 
 ROOT = Path(__file__).resolve().parents[1]
 JAR = ROOT / 'tools/jpsxdec/jpsxdec_v2.0/jpsxdec.jar'
-DISC = {'STAFF': 2, 'DEMO01': 2, 'DEMO02': 2, 'PROLOGUE': 1}
+DISC = {p.stem: d for d in (2, 1) for p in (ROOT / f'work/orig/d{d}/MOVIE').glob('*.STR')}  # 0101, OPENING: the same file on both discs
 
 
 def workdir(name):
@@ -189,6 +189,31 @@ def card(name, lo, hi, side, align, lines, out):
     return done
 
 
+def caption(w, h, lines, top=False):
+    """English along the bottom (or top) of a w x h frame and the dark halo behind it, both 0-1."""
+    font = ImageFont.truetype(str(ROOT / 'fonts/LiberationSerif-Bold.ttf'), 13)
+    im = Image.new('L', (w, h))
+    d = ImageDraw.Draw(im)
+    bottom = 15 * len(lines) if top else h - 4
+    for i, line in enumerate(reversed(lines)):
+        tw, _ = text_size(line, font)
+        assert tw <= w - 16, f'{line}: {tw} px'
+        d.text(((w - tw) // 2, bottom - i * 15), line, font=font, fill=255, anchor='ls')
+    en = np.array(im).astype(float) / 255
+    backing = np.clip(ndimage.gaussian_filter(ndimage.binary_dilation(en > .2, iterations=2).astype(float), 1.5) * 1.3, 0, 1)
+    return en, backing
+
+
+def voice(name, lo, hi, align, lines, out):
+    """A spoken line: English over the frames it is heard on. align T: at the top, clear of DEMO02's words in the bottom corners."""
+    h, w = load(name, lo).shape[:2]
+    en, backing = caption(w, h, lines, align == 'T')
+    for n in range(lo, hi + 1):
+        frame = load(name, n) * (1 - backing[..., None]) + en[..., None] * 235
+        Image.fromarray(np.clip(frame, 0, 255).astype(np.uint8)).save(out / f'{n:04d}.png')
+    return hi + 1 - lo
+
+
 def subtitle(name, lo, hi, lines, out):
     """A vertical subtitle over moving fire: paint it out stroke by stroke, then lay English along the bottom with the same fade."""
     frames = {n: load(name, n) for n in range(lo, hi + 1)}
@@ -203,17 +228,7 @@ def subtitle(name, lo, hi, lines, out):
     fill = ndimage.binary_dilation(mask, iterations=2)
 
     h, w = med.shape
-    pt = 13
-    font = ImageFont.truetype(str(ROOT / 'fonts/LiberationSerif-Bold.ttf'), pt)
-    im = Image.new('L', (w, h))
-    d = ImageDraw.Draw(im)
-    bottom = h - 4
-    for i, line in enumerate(reversed(lines)):
-        tw, _ = text_size(line, font)
-        assert tw <= w - 16, f'{line}: {tw} px'
-        d.text(((w - tw) // 2, bottom - i * 15), line, font=font, fill=255, anchor='ls')
-    en = np.array(im).astype(float) / 255
-    backing = np.clip(ndimage.gaussian_filter(ndimage.binary_dilation(en > .2, iterations=2).astype(float), 1.5) * 1.3, 0, 1)
+    en, backing = caption(w, h, lines)
 
     sigmas = [0, 1, 2, 3, 4, 6]
     fits = []
@@ -265,8 +280,8 @@ def typed(name, lo, hi, lines, out):
     return done
 
 
-def cache_key():
-    return hashlib.sha1((ROOT / 'gfx/movies.tsv').read_bytes() + Path(__file__).read_bytes()).hexdigest()
+def cache_key(name):
+    return hashlib.sha1(repr(table(name)).encode() + Path(__file__).read_bytes()).hexdigest()
 
 
 def encode(name):
@@ -282,12 +297,17 @@ def encode(name):
             done = subtitle(name, lo, hi, lines, out)
         elif box == 'T':
             done = typed(name, lo, hi, lines, out)
+        elif box == 'V':
+            done = voice(name, lo, hi, align, lines, out)
         else:
             done = card(name, lo, hi, box, align, lines, out)
         print(name, lo, hi, 'frames', done, flush=True)
     # whole frames: a partial replace keeps the frame's quantiser and lettering came out grey and blocky on busy frames
+    # spoken lines take the frame's whole sectors: a black frame's data is under 1 KB, too little for any text (jPSXdec dies at quantiser 63)
+    spoken = {n for _m, lo, hi, box, _a, _l in table(name) if box == 'V' for n in range(lo, hi + 1)}
     xml = ['<?xml version="1.0"?>', '<str-replace version="0.3">']
-    xml += [f'<replace frame="{int(f.stem)}" size-limit="original non-zero">new/{f.name}</replace>' for f in sorted(out.glob('*.png'))]
+    xml += [f'<replace frame="{int(f.stem)}"{"" if int(f.stem) in spoken else " size-limit=" + chr(34) + "original non-zero" + chr(34)}>new/{f.name}</replace>'
+            for f in sorted(out.glob('*.png'))]
     xml.append('</str-replace>')
     (d / 'replace.xml').write_text('\n'.join(xml) + '\n', encoding='utf-8')
     target = d / 'out.STR'
@@ -296,7 +316,7 @@ def encode(name):
     r = subprocess.run(['java', '-jar', str(JAR), '-x', 'out.idx', '-i', '0', '-replaceframes', 'replace.xml'],
                        cwd=d, check=True, capture_output=True, text=True, encoding='utf-8', errors='replace')
     (d / 'replace.log').write_text(r.stdout + r.stderr, encoding='utf-8')
-    (d / 'out.key').write_text(cache_key())
+    (d / 'out.key').write_text(cache_key(name))
     return target
 
 
@@ -304,10 +324,10 @@ def replaced(disc):
     """{file name: bytes} of this disc's re-encoded movies, for the build; jPSXdec runs only when the table or this script changed."""
     files = {}
     for name in sorted({row[0] for row in table()}):
-        if DISC[name] != disc:
+        if not (ROOT / f'work/orig/d{disc}/MOVIE/{name}.STR').exists():
             continue
         key = workdir(name) / 'out.key'
-        if not key.exists() or key.read_text() != cache_key():
+        if not key.exists() or key.read_text() != cache_key(name):
             encode(name)
         files[f'{name}.STR'] = (workdir(name) / 'out.STR').read_bytes()
     return files

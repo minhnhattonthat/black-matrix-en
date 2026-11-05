@@ -60,6 +60,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 |---|---|---|---|---|
 | ゴルゴダの牢獄 / ゴルゴダ | Golgotha Prison / Golgotha | | | |
 | リベイラ | Ribeira | | | |
+| 魔法都市リニア | Magic City of Rinia | | heard in movies `0101`, `DEMO01` only; may be a mishearing of Ribeira (D19) | |
 | 太陽の神殿 | Temple of the Sun | | | |
 | パンデモニウム | Pandemonium | | | |
 | ケデロン | Kederon | | | |

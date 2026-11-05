@@ -82,7 +82,7 @@ def test_redraws_change_only_pixels_map_and_rects():
 
 def test_movie_table_runs_do_not_overlap_and_rows_split():
     rows = gfx_movies.table()
-    assert {r[0] for r in rows} == set(gfx_movies.DISC)
+    assert {r[0] for r in rows} <= set(gfx_movies.DISC)
     for name in gfx_movies.DISC:
         spans = sorted((r[1], r[2]) for r in rows if r[0] == name)
         assert all(a[1] + gfx_movies.TAIL < b[0] for a, b in zip(spans, spans[1:]) if b[0] - a[1] > 2 * gfx_movies.TAIL)
@@ -92,6 +92,17 @@ def test_movie_table_runs_do_not_overlap_and_rows_split():
     ref[25:36, 5:40] = 200
     ref[45:55, 60:90] = 200
     assert [(y0, y1) for y0, y1, _, _ in gfx_movies.lettering_rows(ref)] == [(10, 24), (24, 36), (45, 55)]
+
+
+def test_spoken_subtitles_fit_and_take_turns():
+    spoken = [r for r in gfx_movies.table() if r[3] == 'V']
+    assert {r[0] for r in spoken} == {'0101', 'DEMO01', 'DEMO02'}
+    for r in spoken:
+        assert r[1] <= r[2] and r[4] in 'BT' and len(r[5]) <= 2
+        gfx_movies.caption(320, 176, r[5], r[4] == 'T')  # asserts the width
+    for name in {r[0] for r in spoken}:
+        spans = sorted((r[1], r[2]) for r in spoken if r[0] == name)
+        assert all(a[1] < b[0] for a, b in zip(spans, spans[1:]))
 
 
 def test_font_files_are_listed_with_a_licence():

@@ -15,7 +15,8 @@ helps most.
 |---|---|
 | Dialogue and narration, every route | Translated |
 | Menus, items, skills, help, system messages | Translated |
-| Chapter and battle cards, manuals, master select, opening movie subtitles | Translated |
+| Chapter and battle cards, manuals, master select | Translated |
+| Movies | Every spoken line subtitled in English (`PROLOGUE`, `0101`, `DEMO01`, `DEMO02`); the other movies have no speech |
 | Name entry | Translated: Latin page first, kana pages kept |
 | Staff roll | Translated; some readings are guesses, listed in `docs/decisions.md` D17 |
 | Voices and songs | Left in Japanese |

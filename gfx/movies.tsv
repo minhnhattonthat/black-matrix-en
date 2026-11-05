@@ -1,4 +1,4 @@
-# movie	first frame	last frame	box (L left half, R right half, F full frame, A ad panel, S subtitle, T typed on a white card)	align (L, R, C)	English, one entry per row of lettering ("|"; "red:" colours a row)	Japanese on screen
+# movie	first frame	last frame	box (L left half, R right half, F full frame, A ad panel, S subtitle, T typed on a white card, V spoken line: frames are seconds x 15)	align (L, R, C; for V: B bottom, T top)	English, one entry per row of lettering ("|"; "red:" colours a row)	Japanese on screen or heard (tools/fmv_asr.py, corrected from script/ where the line is there)
 PROLOGUE	5	194	T	C	What we call "evil"...|is called "good"|in a world where good and evil are reversed.	我々が『悪』と呼んでいる物が・・・ / 『善』と呼ばれる善悪が逆転した世界
 PROLOGUE	209	262	F	C	Published by|NEC Interchannel|Co., Ltd.	制作・販売 / NECインターチャネル / 株式会社
 PROLOGUE	289	344	F	C	Planning & Development|Flight-Plan|Co., Ltd.	企画・開発 / 株式会社 / フライト・プラン
@@ -36,3 +36,77 @@ STAFF	2472	2517	L	L	Development|Flight-Plan Co., Ltd.	開発 / 株式会社 フ�
 STAFF	2559	2604	F	R	Published by|NEC Interchannel, Ltd.	制作・販売 / NECインターチャネル株式会社
 DEMO01	3227	3332	A	C	PlayStation Software|Black/Matrix|red:Cross|On Sale Now!!	プレイステーション用ソフト / ブラック/マトリクス / クロス / 絶賛発売中!!
 DEMO02	1724	1829	A	C	PlayStation Software|Black/Matrix|red:Cross|On Sale Now!!	プレイステーション用ソフト / ブラック/マトリクス / クロス / 絶賛発売中!!
+0101	41	96	V	B	In the distant age of myth,	遥かなる神話の時代
+0101	102	280	V	B	the world was ruled by God, the Great Evil God,|a hypocrite who believed in the sham called love.	世界は愛などというまやかしを信じる偽善者の大悪神ゴッドによって支配されていました
+0101	293	325	V	B	But then, one day,	ところがあるとき
+0101	330	445	V	B	the Savior of the world,|the mighty archangel Mephisto-sama,	世界の救世主であらせられる偉大なる大天使メフィスト様が
+0101	450	590	V	B	rose in revolt against the White Wing evil gods,|the minions of God, the Great Evil God,	大悪神ゴッドの手先である白き羽の邪神どもに反旗を翻し
+0101	597	750	V	B	and under the banner of Satan-sama, the Great God|our Father, began a holy war for our sake.	父なる大神サタン様の旗のもと我々のために聖戦を始められたのです
+0101	755	782	V	B	That's wrong.	違う
+0101	788	910	V	B	The war that split Heaven in two|went on for 666 days,	天界を二分する戦争は666日間も続き
+0101	918	1008	V	B	and at last, Mephisto-sama and his followers	ついにメフィスト様たちは
+0101	1013	1140	V	B	succeeded in sealing the foolish evil gods in the hell|deep beneath this Magic City of Rinia,	愚かなる邪神どもをこの魔法都市リニアの地下深くの地獄に封じ込めることに成功し
+0101	1149	1265	V	B	and freed us from all the hypocrisy in this world.	この世のすべての偽善から我々を解放してくださったのです
+0101	1279	1315	V	B	Something's not right.	なんか変よ
+0101	1323	1368	V	B	In other words, Mephisto-sama himself	つまりはメフィスト様こそが
+0101	1374	1490	V	B	is, beyond all doubt, the all-knowing,|all-powerful archangel of this world.	この世界の紛うことなき全知全能の大天使
+0101	1505	1571	V	B	All of us noble ones who bear black wings	我々高貴なる黒き羽を持つ者たちは
+0101	1572	1700	V	B	are direct descendants of this Savior,|Mephistopheles-sama,	すべてこの救世主メフィストフェレス様の直系の子孫であり
+0101	1708	1835	V	B	and the color of these wings is the surest proof|that we descend from the chosen strong.	この羽の色こそが選ばれた強者の子孫である何よりの証
+0101	1845	1870	V	B	Definitely...	絶対
+0101	1875	2000	V	B	The lowly ones who bear white wings|are all descendants of the foolish evil gods.	下賤なる白き羽を持つ者はすべて愚かなる邪神の末裔なのです
+0101	2014	2116	V	B	That is why, for us to live in this city of Rinia,	だからこそ我々がこの都市リニアで生活するためには
+0101	2122	2186	V	B	and keep these evil gods sealed away,	この邪神たちを封印するために
+0101	2192	2297	V	B	we require the sacrifice of White Wings.	白き羽の生贄を必要としているのだ
+0101	2304	2358	V	B	Something is definitely not right.	絶対なんか変や
+DEMO01	161	216	V	B	In the distant age of myth,	遥かなる神話の時代
+DEMO01	222	400	V	B	the world was ruled by God, the Great Evil God,|a hypocrite who believed in the sham called love.	世界は愛などというまやかしを信じる偽善者の大悪神ゴッドによって支配されていました
+DEMO01	413	445	V	B	But then, one day,	ところがあるとき
+DEMO01	450	530	V	B	the Savior of the world,|the mighty archangel Mephisto-sama,	世界の救世主であらせられる偉大なる大天使メフィスト様が
+DEMO01	531	565	V	T	the Savior of the world,|the mighty archangel Mephisto-sama,	世界の救世主であらせられる偉大なる大天使メフィスト様が
+DEMO01	570	625	V	T	rose in revolt against the White Wing evil gods,|the minions of God, the Great Evil God,	大悪神ゴッドの手先である白き羽の邪神どもに反旗を翻し
+DEMO01	626	710	V	B	rose in revolt against the White Wing evil gods,|the minions of God, the Great Evil God,	大悪神ゴッドの手先である白き羽の邪神どもに反旗を翻し
+DEMO01	717	870	V	T	and under the banner of Satan-sama, the Great God|our Father, began a holy war for our sake.	父なる大神サタン様の旗のもと我々のために聖戦を始められたのです
+DEMO01	875	902	V	B	That's wrong.	違う
+DEMO01	908	1030	V	B	The war that split Heaven in two|went on for 666 days,	天界を二分する戦争は666日間も続き
+DEMO01	1038	1128	V	B	and at last, Mephisto-sama and his followers	ついにメフィスト様たちは
+DEMO01	1133	1260	V	B	succeeded in sealing the foolish evil gods in the hell|deep beneath this Magic City of Rinia,	愚かなる邪神どもをこの魔法都市リニアの地下深くの地獄に封じ込めることに成功し
+DEMO01	1269	1385	V	B	and freed us from all the hypocrisy in this world.	この世のすべての偽善から我々を解放してくださったのです
+DEMO01	1399	1435	V	B	Something's not right.	なんか変よ
+DEMO01	1443	1488	V	B	In other words, Mephisto-sama himself	つまりはメフィスト様こそが
+DEMO01	1494	1610	V	B	is, beyond all doubt, the all-knowing,|all-powerful archangel of this world.	この世界の紛うことなき全知全能の大天使
+DEMO01	1625	1691	V	B	All of us noble ones who bear black wings	我々高貴なる黒き羽を持つ者たちは
+DEMO01	1692	1820	V	B	are direct descendants of this Savior,|Mephistopheles-sama,	すべてこの救世主メフィストフェレス様の直系の子孫であり
+DEMO01	1828	1955	V	B	and the color of these wings is the surest proof|that we descend from the chosen strong.	この羽の色こそが選ばれた強者の子孫である何よりの証
+DEMO01	1965	1990	V	B	Definitely...	絶対
+DEMO01	1995	2120	V	B	The lowly ones who bear white wings|are all descendants of the foolish evil gods.	下賤なる白き羽を持つ者はすべて愚かなる邪神の末裔なのです
+DEMO01	2134	2236	V	B	That is why, for us to live in this city of Rinia,	だからこそ我々がこの都市リニアで生活するためには
+DEMO01	2242	2306	V	B	and keep these evil gods sealed away,	この邪神たちを封印するために
+DEMO01	2312	2417	V	B	we require the sacrifice of White Wings.	白き羽の生贄を必要としているのだ
+DEMO01	2424	2478	V	B	Something is definitely not right.	絶対なんか変や
+DEMO02	201	255	V	B	Does love really exist in this world!?	愛って本当に、この世にあるのかな
+DEMO02	256	285	V	B	Love, ya say~!	愛だとぉ～！
+DEMO02	290	336	V	T	Is it really... you, Master!?	本当に・・・お師匠様なのですか？！
+DEMO02	337	386	V	T	It is you after all, Rupirupi!!	やはりお主ルピルピではないか！！
+DEMO02	391	427	V	T	Justice...	正義こそが・・・ / 正義
+DEMO02	428	467	V	T	Are you... truly prepared for that?!	アナタにそれだけの・・・覚悟があるの？！
+DEMO02	468	529	V	B	You want to survive, don't you!	生き抜きたいのであろう！
+DEMO02	530	561	V	B	You want to save someone, don't you!	誰かを救いたいのであろう！
+DEMO02	562	615	V	B	So then what's this freedom I wanna know about!	だったら、俺の知りてェ自由ってのは何だ！
+DEMO02	616	640	V	B	Freedom...	自由
+DEMO02	647	693	V	B	So you've made it all the way here, have you.	とうとう、ここまで来てしもうたんやね。
+DEMO02	694	762	V	B	Of all people, for that one|to be chosen as the sacrifice...	よりによって、あいつが生贄に選ばれるなんて
+DEMO02	763	848	V	B	This world will without question|take the road to collapse, you understand!?	この世界は間違いなく崩壊への道をたどるのですよ！？
+DEMO02	865	907	V	T	With everyone here, we'll be safe for sure!!	みんながいれば、きっと安心だよ！！
+DEMO02	908	941	V	T	W-why is that!?	な、なぜなんですか
+DEMO02	942	973	V	T	What the hell is sinful freedom?!	罪深い自由って何だよ？！
+DEMO02	974	1034	V	T	Equality, my ass! Justice, my ass!	何が平等だ！何が正義だ！
+DEMO02	1035	1065	V	B	And on top of that, love, you say...!?	あげくに愛ですって・・・？！
+DEMO02	1066	1103	V	B	Everyone... everyone's going to die...!	みんなが、みんなが死んじゃう・・・！
+DEMO02	1104	1136	V	B	Stop!|At this rate, it's no good!!	やめろ / このままじゃ、ダメ！！
+DEMO02	1137	1170	V	B	Rupirupi!	ルピルピ！
+DEMO02	1289	1332	V	T	Everyone! Please stop this!!	皆さん！もうやめて下さい！！
+DEMO02	1333	1371	V	T	B-but why you too!?	な、なんでアンタまでが！？
+DEMO02	1372	1460	V	T	(No!? I'm the one who's holding back!!)	（違う！？本気で戦ってへんのはウチの方やわ！！）
+DEMO02	1508	1540	V	B	A strong power.	強い力を。
+DEMO02	1633	1675	V	B	You believe in love too, do you!?	アナタも愛を信じてるんですって！？
