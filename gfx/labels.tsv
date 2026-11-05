@@ -68,13 +68,13 @@ SYSTEM/29.1	0	120	168	16	Wrong disc!
 # SYSTEM/3.1 save screen (rects from SYSTEM/3.0.1). The game shows `Data` or `Room` + `missing` from two sprites, so the second half is empty.
 SYSTEM/3.1	96	0	24	16	Mem.
 SYSTEM/3.1	96	16	24	16	Card
-SYSTEM/3.1	0	104	40	16	Slot
+SYSTEM/3.1	0	104	40	16	Slot	f6x10
 SYSTEM/3.1	0	120	16	16	Ch.
 SYSTEM/3.1	16	120	24	16	Last
 SYSTEM/3.1	64	168	56	16	No Data
-SYSTEM/3.1	8	184	64	16	New File
+SYSTEM/3.1	8	184	53	16	New File	f6x13B
 SYSTEM/3.1	88	184	24	16	Empty
-SYSTEM/3.1	8	200	80	32	File is|corrupted.
+SYSTEM/3.1	8	200	79	32	File is|corrupted.
 SYSTEM/3.1	0	232	40	16	No Room
 SYSTEM/3.1	40	232	64	16
 # BATTLE/0.1 battle UI (rects from BATTLE/0.7.2, 0.7.3)
@@ -143,10 +143,10 @@ EVENT/0.1	40	168	40	24	Read
 EVENT/0.1	0	192	40	24	Town
 EVENT/0.1	40	192	40	24	Walk
 # EVENT/0.0 small menu label; mini-game labels
-EVENT/0.0	88	48	48	16	Menu
+EVENT/0.0	96	40	40	16	Menu	c7,o1,f6x13B
 EVENT/62.2	244	64	12	16
-EVENT/65.3	40	152	56	16	Choose
-EVENT/65.3	40	168	56	16	Enter
+EVENT/65.3	38	152	58	16	Choose
+EVENT/65.3	38	168	34	16	OK
 EVENT/66.2	64	64	96	16	Tough Stains
 EVENT/66.2	64	80	64	16	Oil Stains
 EVENT/66.2	64	96	64	16	Mud Stains

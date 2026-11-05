@@ -92,13 +92,31 @@ def fit(lines, w, h, ladder=LADDER, gap=1):
 
 
 def row_colours(px, x, y, w, h, skip=()):
-    """The most common non-zero index on each row of a rect; rows without ink take the nearest row's."""
+    """The fill colour per row of a rect: the most common fill ink; rows without ink take the nearest row's.
+    An ink that mostly touches transparency is the outline, whatever the CLUT makes of it (index brightness can't tell: sprites pick other CLUTs).
+    Thin art has no inside. Its main ink is a drop shadow if it mostly sits right of or below other inks (then those are the fill, in gradient rows);
+    otherwise it is the stroke, and the one colour: a per-row pick would stripe the text."""
+    a = px[y:y + h, x:x + w]
+    edge = ndimage.binary_dilation(a == 0, structure=np.ones((3, 3), bool), border_value=1)
+    counts = {int(i): int((a == i).sum()) for i in np.unique(a) if i and i not in skip}
+    fill = [i for i, n in counts.items() if ((a == i) & edge).sum() < 0.3 * n]
+    if sum(counts[i] for i in fill) < 0.2 * sum(counts.values()):
+        main = max(counts, key=counts.get) if counts else 15
+        m = a == main
+        other = (a != 0) & ~m
+        behind = m[:, 1:] & other[:, :-1], m[1:, :] & other[:-1, :]
+        shadowed = np.zeros_like(m)
+        shadowed[:, 1:] |= behind[0]
+        shadowed[1:, :] |= behind[1]
+        if len(counts) < 2 or shadowed.sum() <= 0.6 * m.sum():
+            return [main] * h
+        fill = [i for i in counts if i != main]
     out = [0] * h
     for r in range(h):
-        c = np.bincount(px[y + r, x:x + w].ravel(), minlength=256)
-        c[0] = 0
-        for s in skip:
-            c[s] = 0
+        c = np.bincount(a[r].ravel(), minlength=256)
+        keep = np.zeros(256, bool)
+        keep[fill] = True
+        c[~keep] = 0
         out[r] = int(c.argmax()) if c.any() else 0
     known = [i for i, v in enumerate(out) if v]
     if not known:

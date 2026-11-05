@@ -8,7 +8,9 @@ import pytest
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools/debug'))
 import gfx  # noqa: E402
+import label_audit  # noqa: E402
 import gfx_labels  # noqa: E402
 import gfx_movies  # noqa: E402
 
@@ -55,6 +57,27 @@ def test_label_rows_fit_their_sheets_and_their_rects(pics):
         for r in gfx_labels.packed(rows):
             assert r['x'] + r['w'] <= p.px.shape[1] and r['y'] + r['h'] <= p.px.shape[0], (path, r)
         gfx_labels.redraw_sheet(pics[(1, path)], rows)  # raises if a text doesn't fit
+
+
+def test_row_colours_take_the_fill_not_the_outline():
+    px = np.full((5, 5), 9, 'u1')  # a block of fill 5 ringed by outline 9: rows 0 and 4 are all outline
+    px[1:4, 1:4] = 5
+    px = np.pad(px, 1)
+    assert gfx_labels.row_colours(px, 0, 0, 7, 7) == [5] * 7
+
+
+def test_row_colours_give_thin_art_one_colour():
+    px = np.array([[3, 3, 3, 0], [0, 0, 0, 0], [7, 0, 3, 3]], 'u1')
+    assert gfx_labels.row_colours(px, 0, 0, 4, 3) == [3] * 3
+
+
+def test_row_colours_skip_a_drop_shadow_and_keep_the_gradient():
+    px = np.array([[0, 8, 3, 0, 8, 3], [0, 7, 3, 0, 7, 3]], 'u1')  # strokes 8 then 7, each with shadow 3 on its right
+    assert gfx_labels.row_colours(px, 0, 0, 6, 2) == [8, 7]
+
+
+def test_label_audit_finds_no_cut_art_or_clipped_text():
+    assert label_audit.audit()[0] == []
 
 
 def test_redraws_change_only_pixels_map_and_rects():

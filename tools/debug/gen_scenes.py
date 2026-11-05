@@ -53,15 +53,19 @@ add('title', route='2400 -', frames=2400, every=600, note='title screen, PUSH ST
 add('title_menu', route=TITLE, frames=2700, every=300, note='NEW GAME / LOAD GAME / CONFIG')
 add('title_load', route=TITLE + ';6 circle;400 -', frames=3200, every=200, note='LOAD GAME: card check and slots')
 add('title_config', route=TITLE + ';6 down;40 -;6 circle;300 -', frames=3200, every=200, note='CONFIG screen (SYSTEM/4)')
+add('config_help', route=TITLE + ';6 down;40 -;6 circle;300 -;' + ';'.join(['6 down;30 -'] * 5) + ';6 left;60 -;6 circle;300 -', frames=3600, every=60, note='CONFIG, HELP Manual: Help Display Settings list (SYSTEM/4.1)')
 add('title_newgame', route=TITLE + ';6 up;40 -;6 circle;200 -', frames=3200, every=100, note='NEW GAME: difficulty or next screen')
 add('title_config_d2', route=TITLE + ';6 down;40 -;6 circle;300 -', frames=3200, every=200, d=2, note='CONFIG on Disc 2')
 add('master_select', 5, 'bb6', master=0, frames=900, every=60, note='09/31: master select, SYSTEM/21 art')
 add('master_confirm', 5, 'bb6', master=0, route='500 -;6 circle;240 -', frames=900, every=60, note='09/31: master confirm, SYSTEM/20')
 add('rank_record', 5, 'd52', '08/35', frames=600, every=120, note='RANK RECORD (SYSTEM/16)')
 add('special_room', 5, 'd52', '08/3d', frames=600, every=120, note='SPECIAL ROOM and sound test (SYSTEM/17)')
+add('special_room_bgm', 5, 'd52', '08/3d', route='300 -;6 down;40 -;' + ';'.join(['6 right;54 -'] * 28), frames=2100, every=60, note='SPECIAL ROOM: every BGM title (SYSTEM/17.1)')
+add('title_load_slots', route=TITLE + ';6 circle;400 -;6 circle;500 -', frames=3800, every=100, note='LOAD GAME past the slot prompt: file list labels (SYSTEM/3.1)')
 add('disc_swap', 321, 'e8', frames=400, d=1, every=60, note='Disc 1 asks for Disc 2 (SYSTEM/29)')
 add('save_prompt', 144, frames=240, note='save prompt text choice')
 add('save_screen', 144, '7c', route='120 -', frames=1500, every=120, note='save screen (SYSTEM/3), card check')
+add('save_slots', 144, '7c', route='200 -;6 circle;500 -;6 circle;500 -;6 down;60 -;6 down;60 -', frames=1700, every=60, note='save screen past the slot prompt: file list labels (SYSTEM/3.1)')
 add('name_entry', 8, '872', vars='a18=1', frames=900, every=90, note='09/04: name entry, kana grid (0x8002BA00), first name')
 # Clear the default name with Back, type Zz on the Latin page, Start jumps to Done, confirm: the name as a dialogue line shows it
 add('name_typed', 8, '872', vars='a18=1', frames=2700, every=60, mash=0,
@@ -112,6 +116,7 @@ for s, _, _ in sites(r' 0b/01 '):
 add('battle_ui', 127, route='1100 -', mash=60, frames=3000, every=150, note='battle: dialogue, placement, command menu')
 add('game_over', 127, patch='1d8:8', frames=1500, every=120, note='0b/05 replaced by 0b/08: game over (BATTLE/1)')
 add('battle_report', 132, '213c', route='300 -;6 start;60 -;6 cross;60 -;6 triangle;60 -;6 square;60 -;6 select;60 -;6 l1;60 -;6 r1;60 -', frames=900, every=60, note='08/1b: battle report (SYSTEM/15, 5TH.BIN)')
+add('battle_report_stats', 132, '213c', route='300 -;' + ';'.join(['6 circle;120 -'] * 16), mash=0, frames=2400, every=60, note='battle report, confirmed through: Command Time, Turns, Carried (SYSTEM/15.1)')
 add('battle_sortie', 131, until='b6', route=SORTIE, frames=7800, every=300, expect='a17=132', note='camp menu, sortie, into the battle (132)')
 # Pre-battle camp menu (08/1c, 3RD.BIN). Items in order: status, rite, items, shop, skills list, system, sortie
 add('camp_menu', 160, until='be', route='60 -', frames=360, every=60, note='camp menu')
@@ -124,6 +129,7 @@ for i, name in enumerate(['status', 'rite', 'items', 'shop', 'skills', 'system']
 add('home_hub', 38, frames=1200, every=120, note='home map; EVENT/0-5')
 add('home_card_menu', 38, route='600 -;6 start;200 -;6 circle;400 -', frames=1400, every=100, note='home hub, Start then Save: memory-card slot prompt')
 add('home_sweep', 38, route='600 -;150 up+left;' + ';'.join(['120 right;12 down;120 left;12 down'] * 4), frames=1800, every=15, proof=585, note='home hub: cursor sweep; lower-left Japanese Menu/hotspot label (#739/#740)')
+add('home_hover', 38, route='600 -;150 up+left;' + ';'.join(['150 right;8 down;150 left;8 down'] * 8), frames=3200, every=10, note='home hub: fine cursor sweep over every hotspot label (EVENT/0.1)')
 add('home_confirm', 37, '106', HOME, vars='a272=33', frames=480, every=60, note='cooking confirmation: Japanese choice prompt on a black background')
 GAMES = [(76, 50, 'fishing'), (77, 53, 'hunting'), (78, 57, 'wood'), (93, 62, 'farm'), (79, 61, 'cooking'), (35, 65, 'cleaning'), (39, 66, 'laundry'), (36, 70, 'meal')]
 GAME_NOTES = {
@@ -139,6 +145,8 @@ GAME_NOTES = {
 for s, pic, name in GAMES:
     # fishing and wood have faded out by the last frame
     add(f'game_{name}', 37, 'edc', HOME, vars=f'a296={s},a301={pic}', frames=1200, every=120, proof=720 if name in ('fishing', 'wood') else '-', note=GAME_NOTES[name])
+add('game_cleaning_count', 37, 'edc', HOME, vars='a296=35,a301=65', frames=4800, every=60, note='rat count: played out to the Choose/OK prompt (EVENT/65.3)')
+add('game_laundry_all', 37, 'edc', HOME, vars='a296=39,a301=66', route='600 -;' + ';'.join([';'.join(['6 left;6 right'] * 25) + ';6 circle;60 -'] * 8), frames=3500, every=30, note='laundry washed through: each dirt label (EVENT/66.2)')
 for i in range(8):
     add(f'manual_{i}', 37, 'f8c', HOME, vars=f'a272={30 + i}', frames=480, every=120, note=f'manual EVENT/{71 + i}')
 # Chain through the home dispatcher so the event overlay and the correct background are initialized.
