@@ -27,7 +27,7 @@ CONTROLS
 
 WHAT IS TRANSLATED
   Dialogue and narration on every route, menus, items, skills, help text, name entry (Latin letters first; the kana
-  pages are kept), chapter and battle cards, manuals, staff roll, opening movie subtitles.
+  pages are kept), chapter and battle cards, manuals, staff roll, subtitles for every spoken line in the movies.
   Left in Japanese: spoken voices and songs; the kanji beside the English words in the bonus movie DEMO02.
 
 KNOWN LIMITS
