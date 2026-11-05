@@ -145,7 +145,7 @@ home_diary	1	27	10	09/17,09/01	-	1	a18=1,a230=1	-	-	-	30	600	120	-	-	diary entry
 home_book	1	37	edc	09/17,09/01	-	1	a18=1,a296=105,a301=12,a303=0	-	-	-	30	1200	120	480	-	library: Japanese book text over the bookshelf room
 movie_OPENING	1	5	d52	08/2c,08/2a(1)	-	1	a18=1	-	-	-	0	738	240	240	-	movie OPENING playing (not a menu/black frame), 618 frames, id 1
 movie_PROLOGUE	1	5	d52	08/2c,08/2a(2)	-	1	a18=1	-	-	-	0	1355	240	240	-	movie PROLOGUE playing (not a menu/black frame), 1235 frames, id 2
-movie_0101	1	5	d52	08/2c,08/2a(3)	-	1	a18=1	-	-	-	0	9700	240	1800	-	movie 0101 playing (not a menu/black frame), 2374 frames, id 3
+movie_0101	1	5	d52	08/2c,08/2a(3)	-	1	a18=1	-	-	-	0	9450	240	1800	-	movie 0101 playing (not a menu/black frame), 2374 frames, id 3
 movie_0102	1	5	d52	08/2c,08/2a(4)	-	1	a18=1	-	-	-	0	155	240	120	-	movie 0102 playing (not a menu/black frame), 35 frames, id 4
 movie_0103	1	5	d52	08/2c,08/2a(5)	-	1	a18=1	-	-	-	0	419	240	149	-	movie 0103 playing (not a menu/black frame), 299 frames, id 5
 movie_0104	1	5	d52	08/2c,08/2a(6)	-	1	a18=1	-	-	-	0	328	240	104	-	movie 0104 playing (not a menu/black frame), 208 frames, id 6

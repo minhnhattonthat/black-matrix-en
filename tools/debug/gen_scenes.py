@@ -157,7 +157,7 @@ add('home_book', 37, 'edc', HOME, vars='a296=105,a301=12,a303=0', mash=30, frame
 # Movies: 08/2a(id) from the EXE's table at 0x800759AC (id 1 = OPENING). Each on the disc that holds it.
 c, l = mips.load_exe()
 MOVIE_PROOF = {'0101': 1800, '0102': 120, 'STAFF': 1680, 'DEMO01': 1920, 'DEMO02': 720}  # frames past the fade-in and title text
-SPOKEN = {'0101': 9700, 'DEMO01': 13600, 'DEMO02': 7600}  # subtitled movies run to their end (60 emulator frames a second, 15 movie frames), so a tour sees every line
+SPOKEN = {'0101': 9450, 'DEMO01': 13600, 'DEMO02': 7600}  # subtitled movies run past their last line (60 emulator frames a second, 15 movie frames); 0101 stops short: the warp freezes once it ends, the Japanese disc too
 for i in range(30):
     name_ptr, frames = struct.unpack_from('<II', c, 0x800759AC - l + i * 8)
     d = c[name_ptr - l:name_ptr - l + 32].split(b'\0')[0].decode()
